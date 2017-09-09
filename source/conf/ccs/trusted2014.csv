@@ -1,0 +1,10 @@
+ccs/trusted2014,2014,Embedded Security Attacks and Countermeasures,Challenges in Remote Attestation of Low-End Embedded Devices.,Gene Tsudik;,http://doi.acm.org/10.1145/2666141.2668383
+ccs/trusted2014,2014,Embedded Security Attacks and Countermeasures,A Secure Algorithm for Task Scheduling against Side-channel Attacks.,Chongxi Bao;Ankur Srivastava;,http://doi.acm.org/10.1145/2666141.2666142
+ccs/trusted2014,2014,Embedded Security Attacks and Countermeasures,6LoWPAN Security: Avoiding Hidden Wormholes using Channel Reciprocity.,Konrad-Felix Krentz;Gerhard Wunder;,http://doi.acm.org/10.1145/2666141.2666143
+ccs/trusted2014,2014,System Security,Beasty Memories: The Quest for Practical Defense against Code Reuse Attacks.,Ahmad-Reza Sadeghi;Lucas Davi;,http://doi.acm.org/10.1145/2666141.2668386
+ccs/trusted2014,2014,System Security,Providing Root of Trust for ARM TrustZone using On-Chip SRAM.,Shijun Zhao;Qianying Zhang;Guangyao Hu;Yu Qin;Dengguo Feng;,http://doi.acm.org/10.1145/2666141.2666145
+ccs/trusted2014,2014,TPMs and Identity Management,Citizen Electronic Identities using TPM 2.0.,Thomas Nyman;Jan-Erik Ekberg;N. Asokan;,http://doi.acm.org/10.1145/2666141.2666146
+ccs/trusted2014,2014,TPMs and Identity Management,Challenges of Establishing Trust in Online Entities and Beyond.,Tiffany Hyun-Jin Kim;,http://doi.acm.org/10.1145/2666141.2668385
+ccs/trusted2014,2014,Efficient Implementations,Simple AEAD Hardware Interface (SÆHI) in a SoC: Implementing an On-Chip Keyak/WhirlBob Coprocessor.,Markku-Juhani Olavi Saarinen;,http://doi.acm.org/10.1145/2666141.2666144
+ccs/trusted2014,2014,Hardware and System Attacks,How to Build Hardware Trojans.,Christof Paar;,http://doi.acm.org/10.1145/2666141.2668384
+ccs/trusted2014,2014,Hardware and System Attacks,Embedded System Security in Smart Consumer Electronics.,Yier Jin;,http://doi.acm.org/10.1145/2666141.2673888

@@ -1,0 +1,71 @@
+srds/srds2012,2012,None,Detecting Anomalous User Behaviors in Workflow-Driven Web Applications.,Xiaowei Li;Yuan Xue;Bradley Malin;,https://doi.org/10.1109/SRDS.2012.19
+srds/srds2012,2012,None,Susceptibility Analysis of Structured P2P Systems to Localized Eclipse Attacks.,Daniel Germanus;Robert Langenberg;Abdelmajid Khelil;Neeraj Suri;,https://doi.org/10.1109/SRDS.2012.70
+srds/srds2012,2012,None,Benchmarking Dependability of MapReduce Systems.,Amit Sangroya;Damián Serrano;Sara Bouchenak;,https://doi.org/10.1109/SRDS.2012.12
+srds/srds2012,2012,None,Aggregating CVSS Base Scores for Semantics-Rich Network Security Metrics.,Pengsu Cheng;Lingyu Wang;Sushil Jajodia;Anoop Singhal;,https://doi.org/10.1109/SRDS.2012.4
+srds/srds2012,2012,None,First Step toward Cloud-Based Firewalling.,Amir R. Khakpour;Alex X. Liu;,https://doi.org/10.1109/SRDS.2012.31
+srds/srds2012,2012,None,Enabling Data Integrity Protection in Regenerating-Coding-Based Cloud Storage.,Henry C. H. Chen;Patrick P. C. Lee;,https://doi.org/10.1109/SRDS.2012.24
+srds/srds2012,2012,None,TailCon: Power-Minimizing Tail Percentile Control of Response Time in Server Clusters.,Xi Chen;Xue Liu;Shengquan Wang;Xiao-Wen Chang;,https://doi.org/10.1109/SRDS.2012.72
+srds/srds2012,2012,None,LogMaster: Mining Event Correlations in Logs of Large-Scale Cluster Systems.,Xiaoyu Fu;Rui Ren;Jianfeng Zhan;Wei Zhou;Zhen Jia;Gang Lu;,https://doi.org/10.1109/SRDS.2012.40
+srds/srds2012,2012,None,RAM-DUR: In-Memory Deferred Update Replication.,Daniele Sciascia;Fernando Pedone;,https://doi.org/10.1109/SRDS.2012.56
+srds/srds2012,2012,None,SPECULA: Speculative Replication of Software Transactional Memory.,Sebastiano Peluso;Joao Fernandes;Paolo Romano;Francesco Quaglia;Luís E. T. Rodrigues;,https://doi.org/10.1109/SRDS.2012.67
+srds/srds2012,2012,None,Model-Driven Comparison of State-Machine-Based and Deferred-Update Replication Schemes.,Pawel T. Wojciechowski;Tadeusz Kobus;Maciej Kokocinski;,https://doi.org/10.1109/SRDS.2012.44
+srds/srds2012,2012,None,S-Paxos: Offloading the Leader for High Throughput State Machine Replication.,Martin Biely;Zarko Milosevic;Nuno Santos;André Schiper;,https://doi.org/10.1109/SRDS.2012.66
+srds/srds2012,2012,None,FORTRESS: Adding Intrusion-Resilience to Primary-Backup Server Systems.,Dylan Clarke;Paul D. Ezhilchelvan;,https://doi.org/10.1109/SRDS.2012.32
+srds/srds2012,2012,None,From Backup to Hot Standby: High Availability for HDFS.,Andre Oriani;Islene C. Garcia;,https://doi.org/10.1109/SRDS.2012.33
+srds/srds2012,2012,None,Availability Modeling and Analysis for Data Backup and Restore Operations.,Xiaoyan Yin;Javier Alonso;Fumio Machida;Ermeson C. Andrade;Kishor S. Trivedi;,https://doi.org/10.1109/SRDS.2012.9
+srds/srds2012,2012,None,Availability-Based Methods for Distributed Storage Systems.,Anne-Marie Kermarrec;Erwan Le Merrer;Gilles Straub;Alexandre van Kempen;,https://doi.org/10.1109/SRDS.2012.10
+srds/srds2012,2012,None,Robust and Speculative Byzantine Randomized Consensus with Constant Time Complexity in Normal Conditions.,Bruno Vavala;Nuno Neves;,https://doi.org/10.1109/SRDS.2012.62
+srds/srds2012,2012,None,GRADE: Graceful Degradation in Byzantine Quorum Systems.,Jingqiang Lin;Bo Luo;Jiwu Jing;Xiaokun Zhang;,https://doi.org/10.1109/SRDS.2012.34
+srds/srds2012,2012,None,Scalable and Secure Polling in Dynamic Distributed Networks.,Sébastien Gambs;Rachid Guerraoui;Hamza Harkous;Florian Huc;Anne-Marie Kermarrec;,https://doi.org/10.1109/SRDS.2012.63
+srds/srds2012,2012,None,Distributed and Private Group Management.,Olivier Heen;Erwan Le Merrer;Christoph Neumann;Stéphane Onno;,https://doi.org/10.1109/SRDS.2012.20
+srds/srds2012,2012,None,Improving Security of Internet Services through Continuous and Transparent User Identity Verification.,Andrea Ceccarelli;Andrea Bondavalli;Francesco Brancati;Ernesto La Mattina;,https://doi.org/10.1109/SRDS.2012.38
+srds/srds2012,2012,None,Off the Wall: Lightweight Distributed Filtering to Mitigate Distributed Denial of Service Attacks.,Zhang Fu;Marina Papatriantafilou;,https://doi.org/10.1109/SRDS.2012.45
+srds/srds2012,2012,None,Broadcast Authentication for Resource Constrained Devices: A Major Pitfall and Some Solutions.,Roberto Di Pietro;Fabio Martinelli;Nino Vincenzo Verde;,https://doi.org/10.1109/SRDS.2012.13
+srds/srds2012,2012,None,Impact of Operational Reliability Re-assessment during Aircraft Missions.,Kossi Tiassou;Karama Kanoun;Mohamed Kaâniche;Christel Seguin;Chris Papadopoulos;,https://doi.org/10.1109/SRDS.2012.37
+srds/srds2012,2012,None,Automatic Generation of Graceful Programs.,Yiyan Lin;Sandeep S. Kulkarni;,https://doi.org/10.1109/SRDS.2012.8
+srds/srds2012,2012,None,RD2: Resilient Dynamic Desynchronization for TDMA over Lossy Networks.,Thomas Hinterhofer;Hans-Peter Schwefel;Slobodanka Tomic;,https://doi.org/10.1109/SRDS.2012.57
+srds/srds2012,2012,None,Providing Uniform Reliable Broadcast Delivery for Mobile Ad Hoc Networks with MANET Liveness Property.,Jerzy Brzezinski;Michal Kalewski;Jacek Kobusinski;,https://doi.org/10.1109/SRDS.2012.53
+srds/srds2012,2012,None,Fault Localization in MANET-Hosted Service-Based Systems.,Petr Novotný;Alexander L. Wolf;Bong-Jun Ko;,https://doi.org/10.1109/SRDS.2012.30
+srds/srds2012,2012,None,Fast Optimization Algorithms for Designing Cellular Networks with Guard Channel.,Kousaburo Hari;Tadashi Dohi;Kishor S. Trivedi;,https://doi.org/10.1109/SRDS.2012.29
+srds/srds2012,2012,None,A Quick and Reliable Routing for Infrastructure Surveillance with Wireless Sensor Networks.,Zhen Jiang;Jie Wu;Minyi Guo;Zhenping Zhao;Donghong Wu;,https://doi.org/10.1109/SRDS.2012.83
+srds/srds2012,2012,None,Causally Coordinated Snapshot Isolation for Geographically Replicated Data.,Vinit Padhye;Anand Tripathi;,https://doi.org/10.1109/SRDS.2012.15
+srds/srds2012,2012,None,GSFord: Towards a Reliable Geo-social Notification System.,Kyungbaek Kim;Ye Zhao;Nalini Venkatasubramanian;,https://doi.org/10.1109/SRDS.2012.35
+srds/srds2012,2012,None,Performance Issue Diagnosis for Online Service Systems.,Qiang Fu;Jian-Guang Lou;Qingwei Lin;Rui Ding;Dongmei Zhang;Zihao Ye;Tao Xie;,https://doi.org/10.1109/SRDS.2012.49
+srds/srds2012,2012,None,An End-to-End Security Auditing Approach for Service Oriented Architectures.,Mehdi Azarmi;Bharat K. Bhargava;Pelin Angin;Rohit Ranchal;Norman Ahmed;Asher Sinclair;Mark Linderman;Lotfi Ben Othmane;,https://doi.org/10.1109/SRDS.2012.5
+srds/srds2012,2012,None,RADAR: Adaptive Rate Allocation in Distributed Stream Processing Systems under Bursty Workloads.,Ioannis Boutsis;Vana Kalogeraki;,https://doi.org/10.1109/SRDS.2012.55
+srds/srds2012,2012,None,Efficient Asynchronous Low Power Listening for Wireless Sensor Networks.,Rajesh Krishna Panta;James A. Pelletier;Gregg T. Vesonder;,https://doi.org/10.1109/SRDS.2012.23
+srds/srds2012,2012,None,Energy-Efficient and Fault-Tolerant Structural Health Monitoring in Wireless Sensor Networks.,Md. Zakirul Alam Bhuiyan;Jiannong Cao;Guojun Wang;Xuefeng Liu;,https://doi.org/10.1109/SRDS.2012.26
+srds/srds2012,2012,None,Time-Sensitive Utility-Based Routing in Duty-Cycle Wireless Sensor Networks with Unreliable Links.,Mingjun Xiao;Jie Wu;Liusheng Huang;,https://doi.org/10.1109/SRDS.2012.75
+srds/srds2012,2012,None,Efficient and Reliable Multicast in Multi-radio Networks.,Roy Friedman;Alex Kogan;,https://doi.org/10.1109/SRDS.2012.22
+srds/srds2012,2012,None,Fair Comparison of Gossip Algorithms over Large-Scale Random Topologies.,Ruijing Hu;Julien Sopena;Luciana Arantes;Pierre Sens;Isabelle M. Demeure;,https://doi.org/10.1109/SRDS.2012.28
+srds/srds2012,2012,None,A Theory of Packet Flows Based on Law-of-Mass-Action Scheduling.,Thomas Meyer;Christian F. Tschudin;,https://doi.org/10.1109/SRDS.2012.2
+srds/srds2012,2012,None,HybCAST: Rich Content Dissemination in Hybrid Cellular and 802.11 Ad Hoc Networks.,Ngoc Minh Do;Cheng-Hsin Hsu;Nalini Venkatasubramanian;,https://doi.org/10.1109/SRDS.2012.36
+srds/srds2012,2012,None,Reliable Distributed Real-Time and Embedded Systems through Safe Middleware Adaptation.,Akshay Dabholkar;Abhishek Dubey;Aniruddha S. Gokhale;Gabor Karsai;Nagabhushan Mahadevan;,https://doi.org/10.1109/SRDS.2012.59
+srds/srds2012,2012,None,Approximation Techniques for Maintaining Real-Time Deployments Informed by User-Provided Dataflows within a Cloud.,James R. Edmondson;Aniruddha S. Gokhale;Douglas C. Schmidt;,https://doi.org/10.1109/SRDS.2012.7
+srds/srds2012,2012,None,Response Time Reliability in Cloud Environments: An Empirical Study of n-Tier Applications at High Resource Utilization.,Qingyang Wang;Yasuhiko Kanemasa;Jack Li;Deepal Jayasinghe;Motoyuki Kawaba;Calton Pu;,https://doi.org/10.1109/SRDS.2012.61
+srds/srds2012,2012,None,A Quantitative Comparison of Reactive and Proactive Replicated Storage Systems.,Rossana Motta;Joseph Pasquale;,https://doi.org/10.1109/SRDS.2012.1
+srds/srds2012,2012,None,PGV: A Storage Enforcing Remote Verification Scheme.,Mohammad Iftekhar Husain;Steve Uurtamo;Steven Y. Ko;Atri Rudra;Ramalingam Sridhar;,https://doi.org/10.1109/SRDS.2012.50
+srds/srds2012,2012,None,AAD: Adaptive Anomaly Detection System for Cloud Computing Infrastructures.,Husanbir S. Pannu;Jianguo Liu;Song Fu;,https://doi.org/10.1109/SRDS.2012.3
+srds/srds2012,2012,None,Distributed Monitoring of Temporal System Properties Using Petri Nets.,Olivier Baldellon;Jean-Charles Fabre;Matthieu Roy;,https://doi.org/10.1109/SRDS.2012.21
+srds/srds2012,2012,None,Improving the Reliability and Availability of Vehicular Communications Using Voronoi Diagram-Based Placement of Road Side Units.,Prithviraj Patil;Aniruddha S. Gokhale;,https://doi.org/10.1109/SRDS.2012.39
+srds/srds2012,2012,None,Secure Cloud Browser: Model and Architecture to Support Secure WEB Navigation.,Marta Palanques;Roberto Di Pietro;Carlos del Ojo;Marcel Malet;Miquel Marino;Toni Felguera;,https://doi.org/10.1109/SRDS.2012.64
+srds/srds2012,2012,None,Towards Identifying Root Causes of Faults in Service-Based Applications.,Christian Inzinger;Waldemar Hummer;Benjamin Satzger;Philipp Leitner;Schahram Dustdar;,https://doi.org/10.1109/SRDS.2012.78
+srds/srds2012,2012,None,Anonymous On-Demand Routing and Secure Checking of Traffic Forwarding for Mobile Ad Hoc Networks.,Rui Jiang;Yuan Xing;,https://doi.org/10.1109/SRDS.2012.6
+srds/srds2012,2012,None,Pairwise Key Generation Scheme for Cellular Mobile Communication.,Chetan Jaiswal;Vijay Kumar;,https://doi.org/10.1109/SRDS.2012.48
+srds/srds2012,2012,None,Data De-duplication and Event Processing for Security Applications on an Embedded Processor.,Harsha Nagarajaiah;Shambhu J. Upadhyaya;Vinodh Gopal;,https://doi.org/10.1109/SRDS.2012.18
+srds/srds2012,2012,None,Query Plan Execution in a Heterogeneous Stream Management System for Situational Awareness.,Indrakshi Ray;Sanjay Kumar Madria;Mark Linderman;,https://doi.org/10.1109/SRDS.2012.54
+srds/srds2012,2012,None,Private Anonymous Messaging.,Ruchith Fernando;Bharat K. Bhargava;Mark Linderman;,https://doi.org/10.1109/SRDS.2012.51
+srds/srds2012,2012,None,Regenerating Codes: A System Perspective.,Steve Jiekak;Anne-Marie Kermarrec;Nicolas Le Scouarnec;Gilles Straub;Alexandre van Kempen;,https://doi.org/10.1109/SRDS.2012.58
+srds/srds2012,2012,None,Banking on Decoupling: Budget-Driven Sustainability for HPC Applications on EC2 Spot Instances.,Moussa Taifi;,https://doi.org/10.1109/SRDS.2012.11
+srds/srds2012,2012,None,On the Feasibility of Byzantine Fault-Tolerant MapReduce in Clouds-of-Clouds.,Miguel Correia;Pedro Costa;Marcelo Pasin;Alysson Neves Bessani;Fernando M. V. Ramos;Paulo Veríssimo;,https://doi.org/10.1109/SRDS.2012.46
+srds/srds2012,2012,None,Byzantine Fault-Tolerant Publish/Subscribe: A Cloud Computing Infrastructure.,Tiancheng Chang;Hein Meling;,https://doi.org/10.1109/SRDS.2012.14
+srds/srds2012,2012,None,Energy Efficient Hadoop Using Mirrored Data Block Replication Policy.,Sara Arbab Yazd;Subbarayan Venkatesan;Neeraj Mittal;,https://doi.org/10.1109/SRDS.2012.25
+srds/srds2012,2012,None,Security Problems of Platform-as-a-Service (PaaS) Clouds and Practical Solutions to the Problems.,Mehmet Tahir Sandikkaya;Ali Emre Harmanci;,https://doi.org/10.1109/SRDS.2012.84
+srds/srds2012,2012,None,Versatile Key Management for Secure Cloud Storage.,Sebastian Graf;Patrick Lang;Stefan A. Hohenadel;Marcel Waldvogel;,https://doi.org/10.1109/SRDS.2012.80
+srds/srds2012,2012,None,Securing a Wireless Networked Control System Using Information Fusion.,Brijesh Kashyap Chejerla;Sanjay Madria;,https://doi.org/10.1109/SRDS.2012.65
+srds/srds2012,2012,None,Exploring Compile Time Caching of Explicit Queries in Programming Codes.,Venkata Krishna Suhas Nerella;Sanjay Madria;Thomas Weigert;,https://doi.org/10.1109/SRDS.2012.27
+srds/srds2012,2012,None,Three Point Encryption (3PE): Secure Communications in Delay Tolerant Networks.,Roy Cabaniss;Vimal Kumar;Sanjay Madria;,https://doi.org/10.1109/SRDS.2012.74
+srds/srds2012,2012,None,TAIRO: Trust-Aware Automatic Incremental Routing for Opportunistic Resource Utilization Networks.,Joseph W. Baird;,https://doi.org/10.1109/SRDS.2012.73
+srds/srds2012,2012,None,"Strategies for Reliable, Cloud-Based Distributed Real-Time and Embedded Systems.",Kyoungho An;,https://doi.org/10.1109/SRDS.2012.69
+srds/srds2012,2012,None,Towards Reliable Communication in Intelligent Transportation Systems.,Prithviraj Patil;,https://doi.org/10.1109/SRDS.2012.79
+srds/srds2012,2012,None,Reliable On-Chip Memory Design for CMPs.,Abbas BanaiyanMofrad;,https://doi.org/10.1109/SRDS.2012.60

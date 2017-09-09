@@ -1,0 +1,39 @@
+eurocrypt/eurocrypt2003,2003,Cryptanalysis,Cryptanalysis of the EMD Mode of Operation.,Antoine Joux;,https://doi.org/10.1007/3-540-39200-9_1
+eurocrypt/eurocrypt2003,2003,Cryptanalysis,"On the Optimality of Linear, Differential, and Sequential Distinguishers.",Pascal Junod;,https://doi.org/10.1007/3-540-39200-9_2
+eurocrypt/eurocrypt2003,2003,Cryptanalysis,A Toolbox for Cryptanalysis: Linear and Affine Equivalence Algorithms.,Alex Biryukov;Christophe De Cannière;An Braeken;Bart Preneel;,https://doi.org/10.1007/3-540-39200-9_3
+eurocrypt/eurocrypt2003,2003,Secure Multi-party Computation,Two-Threshold Broadcast and Detectable Multi-party Computation.,Matthias Fitzi;Martin Hirt;Thomas Holenstein;Jürg Wullschleger;,https://doi.org/10.1007/3-540-39200-9_4
+eurocrypt/eurocrypt2003,2003,Secure Multi-party Computation,On the Limitations of Universally Composable Two-Party Computation without Set-up Assumptions.,Ran Canetti;Eyal Kushilevitz;Yehuda Lindell;,https://doi.org/10.1007/3-540-39200-9_5
+eurocrypt/eurocrypt2003,2003,Secure Multi-party Computation,Fair Secure Two-Party Computation.,Benny Pinkas;,https://doi.org/10.1007/3-540-39200-9_6
+eurocrypt/eurocrypt2003,2003,Invited Talk,Facts and Myths of Enigma: Breaking Stereotypes.,Kris Gaj;Arkadiusz Orlowski;,https://doi.org/10.1007/3-540-39200-9_7
+eurocrypt/eurocrypt2003,2003,Zero-Knowledge Protocols,Resettable Zero-Knowledge in the Weak Public-Key Model.,Yunlei Zhao;Xiaotie Deng;Chan H. Lee;Hong Zhu;,https://doi.org/10.1007/3-540-39200-9_8
+eurocrypt/eurocrypt2003,2003,Zero-Knowledge Protocols,Simulatable Commitments and Efficient Concurrent Zero-Knowledge.,Daniele Micciancio;Erez Petrank;,https://doi.org/10.1007/3-540-39200-9_9
+eurocrypt/eurocrypt2003,2003,Zero-Knowledge Protocols,"Simulation in Quasi-Polynomial Time, and Its Application to Protocol Composition.",Rafael Pass;,https://doi.org/10.1007/3-540-39200-9_10
+eurocrypt/eurocrypt2003,2003,Zero-Knowledge Protocols,Strengthening Zero-Knowledge Protocols Using Signatures.,Juan A. Garay;Philip D. MacKenzie;Ke Yang;,https://doi.org/10.1007/3-540-39200-9_11
+eurocrypt/eurocrypt2003,2003,Foundations and Complexity Theoretic Security,Nearly One-Sided Tests and the Goldreich-Levin Predicate.,Gustav Hast;,https://doi.org/10.1007/3-540-39200-9_12
+eurocrypt/eurocrypt2003,2003,Foundations and Complexity Theoretic Security,Efficient and Non-malleable Proofs of Plaintext Knowledge and Applications.,Jonathan Katz;,https://doi.org/10.1007/3-540-39200-9_13
+eurocrypt/eurocrypt2003,2003,Public Key Encryption,A Public Key Encryption Scheme Based on the Polynomial Reconstruction Problem.,Daniel Augot;Matthieu Finiasz;,https://doi.org/10.1007/3-540-39200-9_14
+eurocrypt/eurocrypt2003,2003,Public Key Encryption,A Simpler Construction of CCA2-Secure Public-Key Encryption under General Assumptions.,Yehuda Lindell;,https://doi.org/10.1007/3-540-39200-9_15
+eurocrypt/eurocrypt2003,2003,Public Key Encryption,A Forward-Secure Public-Key Encryption Scheme.,Ran Canetti;Shai Halevi;Jonathan Katz;,https://doi.org/10.1007/3-540-39200-9_16
+eurocrypt/eurocrypt2003,2003,Public Key Encryption,Certificate-Based Encryption and the Certificate Revocation Problem.,Craig Gentry;,https://doi.org/10.1007/3-540-39200-9_17
+eurocrypt/eurocrypt2003,2003,New Primitives,CAPTCHA: Using Hard AI Problems for Security.,Luis von Ahn;Manuel Blum;Nicholas J. Hopper;John Langford;,https://doi.org/10.1007/3-540-39200-9_18
+eurocrypt/eurocrypt2003,2003,New Primitives,Concealment and Its Applications to Authenticated Encryption.,Yevgeniy Dodis;Jee Hea An;,https://doi.org/10.1007/3-540-39200-9_19
+eurocrypt/eurocrypt2003,2003,Cryptanalysis,Predicting the Shrinking Generator with Fixed Connections.,Patrik Ekdahl;Willi Meier;Thomas Johansson;,https://doi.org/10.1007/3-540-39200-9_20
+eurocrypt/eurocrypt2003,2003,Cryptanalysis,Algebraic Attacks on Stream Ciphers with Linear Feedback.,Nicolas Courtois;Willi Meier;,https://doi.org/10.1007/3-540-39200-9_21
+eurocrypt/eurocrypt2003,2003,Elliptic Curves Cryptography,Counting Points on Elliptic Curves over Finite Fields of Small Characteristic in Quasi Quadratic Time.,Reynald Lercier;David Lubicz;,https://doi.org/10.1007/3-540-39200-9_22
+eurocrypt/eurocrypt2003,2003,Elliptic Curves Cryptography,The GHS Attack Revisited.,Florian Hess;,https://doi.org/10.1007/3-540-39200-9_23
+eurocrypt/eurocrypt2003,2003,Elliptic Curves Cryptography,Improved Algorithms for Efficient Arithmetic on Elliptic Curves Using Fast Endomorphisms.,Mathieu Ciet;Tanja Lange;Francesco Sica;Jean-Jacques Quisquater;,https://doi.org/10.1007/3-540-39200-9_24
+eurocrypt/eurocrypt2003,2003,Digital Signatures,A Signature Scheme as Secure as the Diffie-Hellman Problem.,Eu-Jin Goh;Stanislaw Jarecki;,https://doi.org/10.1007/3-540-39200-9_25
+eurocrypt/eurocrypt2003,2003,Digital Signatures,Aggregate and Verifiably Encrypted Signatures from Bilinear Maps.,Dan Boneh;Craig Gentry;Ben Lynn;Hovav Shacham;,https://doi.org/10.1007/3-540-39200-9_26
+eurocrypt/eurocrypt2003,2003,Digital Signatures,Hypercubic Lattice Reduction and Analysis of GGH and NTRU Signatures.,Michael Szydlo;,https://doi.org/10.1007/3-540-39200-9_27
+eurocrypt/eurocrypt2003,2003,Invited Talk,Why Provable Security Matters?,Jacques Stern;,https://doi.org/10.1007/3-540-39200-9_28
+eurocrypt/eurocrypt2003,2003,Cryptanalysis,On the Security of RDSA.,Pierre-Alain Fouque;Guillaume Poupard;,https://doi.org/10.1007/3-540-39200-9_29
+eurocrypt/eurocrypt2003,2003,Cryptanalysis,Cryptanalysis of the Public-Key Encryption Based on Braid Groups.,Eonkyung Lee;Je Hong Park;,https://doi.org/10.1007/3-540-39200-9_30
+eurocrypt/eurocrypt2003,2003,Cryptanalysis,"A Theoretical Treatment of Related-Key Attacks: RKA-PRPs, RKA-PRFs, and Applications.",Mihir Bellare;Tadayoshi Kohno;,https://doi.org/10.1007/3-540-39200-9_31
+eurocrypt/eurocrypt2003,2003,Key Exchange,Provably Secure Threshold Password-Authenticated Key Exchange.,Mario Di Raimondo;Rosario Gennaro;,https://doi.org/10.1007/3-540-39200-9_32
+eurocrypt/eurocrypt2003,2003,Key Exchange,A Framework for Password-Based Authenticated Key Exchange.,Rosario Gennaro;Yehuda Lindell;,https://doi.org/10.1007/3-540-39200-9_33
+eurocrypt/eurocrypt2003,2003,Information Theoretic Cryptography,The Security of Many-Round Luby-Rackoff Pseudo-Random Permutations.,Ueli M. Maurer;Krzysztof Pietrzak;,https://doi.org/10.1007/3-540-39200-9_34
+eurocrypt/eurocrypt2003,2003,Information Theoretic Cryptography,New Bounds in Secret-Key Agreement: The Gap between Formation and Secrecy Extraction.,Renato Renner;Stefan Wolf;,https://doi.org/10.1007/3-540-39200-9_35
+eurocrypt/eurocrypt2003,2003,Secure Multi-party Computation,Round Efficiency of Multi-party Computation with a Dishonest Majority.,Jonathan Katz;Rafail Ostrovsky;Adam D. Smith;,https://doi.org/10.1007/3-540-39200-9_36
+eurocrypt/eurocrypt2003,2003,Secure Multi-party Computation,Efficient Multi-party Computation over Rings.,Ronald Cramer;Serge Fehr;Yuval Ishai;Eyal Kushilevitz;,https://doi.org/10.1007/3-540-39200-9_37
+eurocrypt/eurocrypt2003,2003,Group Signatures,"Foundations of Group Signatures: Formal Definitions, Simplified Requirements, and a Construction Based on General Assumptions.",Mihir Bellare;Daniele Micciancio;Bogdan Warinschi;,https://doi.org/10.1007/3-540-39200-9_38
+eurocrypt/eurocrypt2003,2003,Group Signatures,Extracting Group Signatures from Traitor Tracing Schemes.,Aggelos Kiayias;Moti Yung;,https://doi.org/10.1007/3-540-39200-9_39

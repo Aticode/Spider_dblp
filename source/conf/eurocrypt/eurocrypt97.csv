@@ -1,0 +1,34 @@
+eurocrypt/eurocrypt97,1997,Block Ciphers,Two Attacks on Reduced IDEA.,Johan Borst;Lars R. Knudsen;Vincent Rijmen;,https://doi.org/10.1007/3-540-69053-0_1
+eurocrypt/eurocrypt97,1997,Block Ciphers,Combinatorial Properties of Basic Encryption Operations (Extended Abstract).,Thilo Zieschang;,https://doi.org/10.1007/3-540-69053-0_2
+eurocrypt/eurocrypt97,1997,Public Key Systems,A New Public-Key Cryptosystem.,David Naccache;Jacques Stern;,https://doi.org/10.1007/3-540-69053-0_3
+eurocrypt/eurocrypt97,1997,Public Key Systems,On the Importance of Checking Cryptographic Protocols for Faults (Extended Abstract).,Dan Boneh;Richard A. DeMillo;Richard J. Lipton;,https://doi.org/10.1007/3-540-69053-0_4
+eurocrypt/eurocrypt97,1997,Public Key Systems,Lattice Attacks on NTRU.,Don Coppersmith;Adi Shamir;,https://doi.org/10.1007/3-540-69053-0_5
+eurocrypt/eurocrypt97,1997,Protocols,Kleptography: Using Cryptography Against Cryptography.,Adam L. Young;Moti Yung;,https://doi.org/10.1007/3-540-69053-0_6
+eurocrypt/eurocrypt97,1997,Protocols,Fast and Secure Immunization Against Adaptive Man-in-the-Middle Impersonation.,Ronald Cramer;Ivan Damgård;,https://doi.org/10.1007/3-540-69053-0_7
+eurocrypt/eurocrypt97,1997,Protocols,Anonymous Fingerprinting.,Birgit Pfitzmann;Michael Waidner;,https://doi.org/10.1007/3-540-69053-0_8
+eurocrypt/eurocrypt97,1997,Protocols,A Secure and Optimally Efficient Multi-Authority Election Scheme.,Ronald Cramer;Rosario Gennaro;Berry Schoenmakers;,https://doi.org/10.1007/3-540-69053-0_9
+eurocrypt/eurocrypt97,1997,Key Escrow,Binding ElGamal: A Fraud-Detectable Alternative to Key-Escrow Proposals.,Eric R. Verheul;Henk C. A. van Tilborg;,https://doi.org/10.1007/3-540-69053-0_10
+eurocrypt/eurocrypt97,1997,Key Escrow,The GCHQ Protocol and Its Problems.,Ross J. Anderson;Michael Roe;,https://doi.org/10.1007/3-540-69053-0_11
+eurocrypt/eurocrypt97,1997,Hash-Functions,Bucket Hashing with a Small Key Size.,Thomas Johansson;,https://doi.org/10.1007/3-540-69053-0_12
+eurocrypt/eurocrypt97,1997,Hash-Functions,A New Paradigm for Collision-Free Hashing: Incrementality at Reduced Cost.,Mihir Bellare;Daniele Micciancio;,https://doi.org/10.1007/3-540-69053-0_13
+eurocrypt/eurocrypt97,1997,Information Theory,Smooth Entropy and Rényi Entropy.,Christian Cachin;,https://doi.org/10.1007/3-540-69053-0_14
+eurocrypt/eurocrypt97,1997,Information Theory,Information-Theoretically Secure Secret-Key Agreement by NOT Authenticated Public Discussion.,Ueli M. Maurer;,https://doi.org/10.1007/3-540-69053-0_15
+eurocrypt/eurocrypt97,1997,Stream Ciphers,Linear Statistical Weakness of Alleged RC4 Keystream Generator.,Jovan Dj. Golic;,https://doi.org/10.1007/3-540-69053-0_16
+eurocrypt/eurocrypt97,1997,Stream Ciphers,Cryptanalysis of Alleged A5 Stream Cipher.,Jovan Dj. Golic;,https://doi.org/10.1007/3-540-69053-0_17
+eurocrypt/eurocrypt97,1997,Complexity Theory,Lower Bounds for Discrete Logarithms and Related Problems.,Victor Shoup;,https://doi.org/10.1007/3-540-69053-0_18
+eurocrypt/eurocrypt97,1997,Complexity Theory,Stronger Security Proofs for RSA and Rabin Bits.,Roger Fischlin;Claus-Peter Schnorr;,https://doi.org/10.1007/3-540-69053-0_19
+eurocrypt/eurocrypt97,1997,Complexity Theory,Round-Optimal Zero-Knowledge Arguments Based on any One-Way Function.,Mihir Bellare;Markus Jakobsson;Moti Yung;,https://doi.org/10.1007/3-540-69053-0_20
+eurocrypt/eurocrypt97,1997,Complexity Theory,Efficient Cryptographic Protocols Based on Noisy Channels.,Claude Crépeau;,https://doi.org/10.1007/3-540-69053-0_21
+eurocrypt/eurocrypt97,1997,Complexity Theory,Rapid Demonstration of Linear Relations Connected by Boolean Operators.,Stefan Brands;,https://doi.org/10.1007/3-540-69053-0_22
+eurocrypt/eurocrypt97,1997,Complexity Theory,Oblivious Transfers and Privacy Amplification.,Gilles Brassard;Claude Crépeau;,https://doi.org/10.1007/3-540-69053-0_23
+eurocrypt/eurocrypt97,1997,Implementation,SHA: A Design for Parallel Architectures?,Antoon Bosselaers;René Govaerts;Joos Vandewalle;,https://doi.org/10.1007/3-540-69053-0_24
+eurocrypt/eurocrypt97,1997,Implementation,Fast Arithmetic Architectures for Public-Key Algorithms over Galois Fields GF((2n)m).,Christof Paar;Pedro Soria-Rodriguez;,https://doi.org/10.1007/3-540-69053-0_25
+eurocrypt/eurocrypt97,1997,Implementation,Finding Good Random Elliptic Curves for Cryptosystems Defined over F2n.,Reynald Lercier;,https://doi.org/10.1007/3-540-69053-0_26
+eurocrypt/eurocrypt97,1997,Authentication,Incremental Cryptography and Memory Checkers.,Marc Fischlin;,https://doi.org/10.1007/3-540-69053-0_27
+eurocrypt/eurocrypt97,1997,Authentication,Almost k-wise Independent Sample Spaces and Their Cryptologic Applications.,Kaoru Kurosawa;Thomas Johansson;Douglas R. Stinson;,https://doi.org/10.1007/3-540-69053-0_28
+eurocrypt/eurocrypt97,1997,Boolean Functions,More Correlation-Immune and Resilient Functions over Galois Fields and Galois Rings.,Claude Carlet;,https://doi.org/10.1007/3-540-69053-0_29
+eurocrypt/eurocrypt97,1997,Boolean Functions,Design of SAC/PC(l) of Order k Boolean Functions and Three Other Cryptographic Criteria.,Kaoru Kurosawa;Takashi Satoh;,https://doi.org/10.1007/3-540-69053-0_30
+eurocrypt/eurocrypt97,1997,Signatures,"Distributed ""Magic Ink"" Signatures.",Markus Jakobsson;Moti Yung;,https://doi.org/10.1007/3-540-69053-0_31
+eurocrypt/eurocrypt97,1997,Signatures,Efficient and Generalized Group Signatures.,Jan Camenisch;,https://doi.org/10.1007/3-540-69053-0_32
+eurocrypt/eurocrypt97,1997,Signatures,Collision-Free Accumulators and Fail-Stop Signature Schemes Without Trees.,Niko Bari;Birgit Pfitzmann;,https://doi.org/10.1007/3-540-69053-0_33
+eurocrypt/eurocrypt97,1997,Signatures,Selective Forgery of RSA Signatures Using Redundancy.,Marc Girault;Jean-François Misarsky;,https://doi.org/10.1007/3-540-69053-0_34

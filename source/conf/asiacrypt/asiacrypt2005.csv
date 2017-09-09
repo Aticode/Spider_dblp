@@ -1,0 +1,37 @@
+asiacrypt/asiacrypt2005,2005,Algebra and Number Theory,Discrete-Log-Based Signatures May Not Be Equivalent to Discrete Log.,Pascal Paillier;Damien Vergnaud;,https://doi.org/10.1007/11593447_1
+asiacrypt/asiacrypt2005,2005,Algebra and Number Theory,Do All Elliptic Curves of the Same Order Have the Same Difficulty of Discrete Log?,David Jao;Stephen D. Miller;Ramarathnam Venkatesan;,https://doi.org/10.1007/11593447_2
+asiacrypt/asiacrypt2005,2005,Algebra and Number Theory,Adapting Density Attacks to Low-Weight Knapsacks.,Phong Q. Nguyen;Jacques Stern;,https://doi.org/10.1007/11593447_3
+asiacrypt/asiacrypt2005,2005,Algebra and Number Theory,Efficient and Secure Elliptic Curve Point Multiplication Using Double-Base Chains.,Vassil S. Dimitrov;Laurent Imbert;Pradeep Kumar Mishra;,https://doi.org/10.1007/11593447_4
+asiacrypt/asiacrypt2005,2005,Multiparty Computation,Upper Bounds on the Communication Complexity of Optimally Resilient Cryptographic Multiparty Computation.,Martin Hirt;Jesper Buus Nielsen;,https://doi.org/10.1007/11593447_5
+asiacrypt/asiacrypt2005,2005,Multiparty Computation,Graph-Decomposition-Based Frameworks for Subset-Cover Broadcast Encryption and Efficient Instantiations.,Nuttapong Attrapadung;Hideki Imai;,https://doi.org/10.1007/11593447_6
+asiacrypt/asiacrypt2005,2005,Multiparty Computation,Revealing Additional Information in Two-Party Computations.,Andreas Jakoby;Maciej Liskiewicz;,https://doi.org/10.1007/11593447_7
+asiacrypt/asiacrypt2005,2005,Zero Knowledge and Secret Sharing,Gate Evaluation Secret Sharing and Secure One-Round Two-Party Computation.,Vladimir Kolesnikov;,https://doi.org/10.1007/11593447_8
+asiacrypt/asiacrypt2005,2005,Zero Knowledge and Secret Sharing,Parallel Multi-party Computation from Linear Multi-secret Sharing Schemes.,Zhifang Zhang;Mulan Liu;Liangliang Xiao;,https://doi.org/10.1007/11593447_9
+asiacrypt/asiacrypt2005,2005,Zero Knowledge and Secret Sharing,Updatable Zero-Knowledge Databases.,Moses Liskov;,https://doi.org/10.1007/11593447_10
+asiacrypt/asiacrypt2005,2005,Information and Quantum Theory,Simple and Tight Bounds for Information Reconciliation and Privacy Amplification.,Renato Renner;Stefan Wolf;,https://doi.org/10.1007/11593447_11
+asiacrypt/asiacrypt2005,2005,Information and Quantum Theory,Quantum Anonymous Transmissions.,Matthias Christandl;Stephanie Wehner;,https://doi.org/10.1007/11593447_12
+asiacrypt/asiacrypt2005,2005,Privacy and Anonymity,Privacy-Preserving Graph Algorithms in the Semi-honest Model.,Justin Brickell;Vitaly Shmatikov;,https://doi.org/10.1007/11593447_13
+asiacrypt/asiacrypt2005,2005,Privacy and Anonymity,Spreading Alerts Quietly and the Subgroup Escape Problem.,James Aspnes;Zoë Diamadi;Kristian Gjøsteen;René Peralta;Aleksandr Yampolskiy;,https://doi.org/10.1007/11593447_14
+asiacrypt/asiacrypt2005,2005,Privacy and Anonymity,A Sender Verifiable Mix-Net and a New Proof of a Shuffle.,Douglas Wikström;,https://doi.org/10.1007/11593447_15
+asiacrypt/asiacrypt2005,2005,Privacy and Anonymity,Universally Anonymizable Public-Key Encryption.,Ryotaro Hayashi;Keisuke Tanaka;,https://doi.org/10.1007/11593447_16
+asiacrypt/asiacrypt2005,2005,Cryptanalytic Techniques,Fast Computation of Large Distributions and Its Cryptographic Applications.,Alexander Maximov;Thomas Johansson;,https://doi.org/10.1007/11593447_17
+asiacrypt/asiacrypt2005,2005,Cryptanalytic Techniques,An Analysis of the XSL Algorithm.,Carlos Cid;Gaëtan Leurent;,https://doi.org/10.1007/11593447_18
+asiacrypt/asiacrypt2005,2005,Stream Cipher Cryptanalysis,New Applications of Time Memory Data Tradeoffs.,Jin Hong;Palash Sarkar;,https://doi.org/10.1007/11593447_19
+asiacrypt/asiacrypt2005,2005,Stream Cipher Cryptanalysis,Linear Cryptanalysis of the TSC Family of Stream Ciphers.,Frédéric Muller;Thomas Peyrin;,https://doi.org/10.1007/11593447_20
+asiacrypt/asiacrypt2005,2005,Stream Cipher Cryptanalysis,A Practical Attack on the Fixed RC4 in the WEP Mode.,Itsik Mantin;,https://doi.org/10.1007/11593447_21
+asiacrypt/asiacrypt2005,2005,Stream Cipher Cryptanalysis,A Near-Practical Attack Against B Mode of HBB.,Joydip Mitra;,https://doi.org/10.1007/11593447_22
+asiacrypt/asiacrypt2005,2005,Block Ciphers and Hash Functions,New Improvements of Davies-Murphy Cryptanalysis.,Sébastien Kunz-Jacques;Frédéric Muller;,https://doi.org/10.1007/11593447_23
+asiacrypt/asiacrypt2005,2005,Block Ciphers and Hash Functions,A Related-Key Rectangle Attack on the Full KASUMI.,Eli Biham;Orr Dunkelman;Nathan Keller;,https://doi.org/10.1007/11593447_24
+asiacrypt/asiacrypt2005,2005,Block Ciphers and Hash Functions,Some Attacks Against a Double Length Hash Proposal.,Lars R. Knudsen;Frédéric Muller;,https://doi.org/10.1007/11593447_25
+asiacrypt/asiacrypt2005,2005,Block Ciphers and Hash Functions,A Failure-Friendly Design Principle for Hash Functions.,Stefan Lucks;,https://doi.org/10.1007/11593447_26
+asiacrypt/asiacrypt2005,2005,Bilinear Maps,Identity-Based Hierarchical Strongly Key-Insulated Encryption and Its Application.,Yumiko Hanaoka;Goichiro Hanaoka;Junji Shikata;Hideki Imai;,https://doi.org/10.1007/11593447_27
+asiacrypt/asiacrypt2005,2005,Bilinear Maps,Efficient and Provably-Secure Identity-Based Signatures and Signcryption from Bilinear Maps.,Paulo S. L. M. Barreto;Benoît Libert;Noel McCullagh;Jean-Jacques Quisquater;,https://doi.org/10.1007/11593447_28
+asiacrypt/asiacrypt2005,2005,Bilinear Maps,Verifier-Local Revocation Group Signature Schemes with Backward Unlinkability from Bilinear Maps.,Toru Nakanishi;Nobuo Funabiki;,https://doi.org/10.1007/11593447_29
+asiacrypt/asiacrypt2005,2005,Key Agreement,Modular Security Proofs for Key Agreement Protocols.,Caroline Kudla;Kenneth G. Paterson;,https://doi.org/10.1007/11593447_30
+asiacrypt/asiacrypt2005,2005,Key Agreement,A Simple Threshold Authenticated Key Exchange from Short Secrets.,Michel Abdalla;Olivier Chevassut;Pierre-Alain Fouque;David Pointcheval;,https://doi.org/10.1007/11593447_31
+asiacrypt/asiacrypt2005,2005,Key Agreement,Examining Indistinguishability-Based Proof Models for Key Establishment Protocols.,Kim-Kwang Raymond Choo;Colin Boyd;Yvonne Hitchcock;,https://doi.org/10.1007/11593447_32
+asiacrypt/asiacrypt2005,2005,Provable Security,Server-Aided Verification: Theory and Practice.,Marc Girault;David Lefranc;,https://doi.org/10.1007/11593447_33
+asiacrypt/asiacrypt2005,2005,Provable Security,Errors in Computational Complexity Proofs for Protocols.,Kim-Kwang Raymond Choo;Colin Boyd;Yvonne Hitchcock;,https://doi.org/10.1007/11593447_34
+asiacrypt/asiacrypt2005,2005,Signatures,Universal Designated Verifier Signature Proof (or How to Efficiently Prove Knowledge of a Signature).,Joonsang Baek;Reihaneh Safavi-Naini;Willy Susilo;,https://doi.org/10.1007/11593447_35
+asiacrypt/asiacrypt2005,2005,Signatures,Efficient Designated Confirmer Signatures Without Random Oracles or General Zero-Knowledge Proofs.,Craig Gentry;David Molnar;Zulfikar Ramzan;,https://doi.org/10.1007/11593447_36
+asiacrypt/asiacrypt2005,2005,Signatures,Universally Convertible Directed Signatures.,Fabien Laguillaumie;Pascal Paillier;Damien Vergnaud;,https://doi.org/10.1007/11593447_37

@@ -1,0 +1,33 @@
+eurocrypt/eurocrypt2005,2005,Cryptanalysis,Cryptanalysis of the Hash Functions MD4 and RIPEMD.,Xiaoyun Wang;Xuejia Lai;Dengguo Feng;Hui Chen;Xiuyuan Yu;,https://doi.org/10.1007/11426639_1
+eurocrypt/eurocrypt2005,2005,Cryptanalysis,How to Break MD5 and Other Hash Functions.,Xiaoyun Wang;Hongbo Yu;,https://doi.org/10.1007/11426639_2
+eurocrypt/eurocrypt2005,2005,Cryptanalysis,Collisions of SHA-0 and Reduced SHA-1.,Eli Biham;Rafi Chen;Antoine Joux;Patrick Carribault;Christophe Lemuet;William Jalby;,https://doi.org/10.1007/11426639_3
+eurocrypt/eurocrypt2005,2005,Theory,Reducing Complexity Assumptions for Statistically-Hiding Commitment.,Iftach Haitner;Omer Horvitz;Jonathan Katz;Chiu-Yuen Koo;Ruggero Morselli;Ronen Shaltiel;,https://doi.org/10.1007/11426639_4
+eurocrypt/eurocrypt2005,2005,Theory,Smooth Projective Hashing and Two-Message Oblivious Transfer.,Yael Tauman Kalai;,https://doi.org/10.1007/11426639_5
+eurocrypt/eurocrypt2005,2005,Theory,On Robust Combiners for Oblivious Transfer and Other Primitives.,Danny Harnik;Joe Kilian;Moni Naor;Omer Reingold;Alon Rosen;,https://doi.org/10.1007/11426639_6
+eurocrypt/eurocrypt2005,2005,Encryption,Efficient Identity-Based Encryption Without Random Oracles.,Brent Waters;,https://doi.org/10.1007/11426639_7
+eurocrypt/eurocrypt2005,2005,Encryption,Tag-KEM/DEM: A New Framework for Hybrid Encryption and A New Analysis of Kurosawa-Desmedt KEM.,Masayuki Abe;Rosario Gennaro;Kaoru Kurosawa;Victor Shoup;,https://doi.org/10.1007/11426639_8
+eurocrypt/eurocrypt2005,2005,Signatures and Authentication,Secure Remote Authentication Using Biometric Data.,Xavier Boyen;Yevgeniy Dodis;Jonathan Katz;Rafail Ostrovsky;Adam D. Smith;,https://doi.org/10.1007/11426639_9
+eurocrypt/eurocrypt2005,2005,Signatures and Authentication,Stronger Security Bounds for Wegman-Carter-Shoup Authenticators.,Daniel J. Bernstein;,https://doi.org/10.1007/11426639_10
+eurocrypt/eurocrypt2005,2005,Signatures and Authentication,3-Move Undeniable Signature Scheme.,Kaoru Kurosawa;Swee-Huay Heng;,https://doi.org/10.1007/11426639_11
+eurocrypt/eurocrypt2005,2005,Signatures and Authentication,Group Signatures with Efficient Concurrent Join.,Aggelos Kiayias;Moti Yung;,https://doi.org/10.1007/11426639_12
+eurocrypt/eurocrypt2005,2005,Algebra and Number Theory,Floating-Point LLL Revisited.,Phong Q. Nguyen;Damien Stehlé;,https://doi.org/10.1007/11426639_13
+eurocrypt/eurocrypt2005,2005,Algebra and Number Theory,Practical Cryptography in High Dimensional Tori.,Marten van Dijk;Robert Granger;Dan Page;Karl Rubin;Alice Silverberg;Martijn Stam;David P. Woodruff;,https://doi.org/10.1007/11426639_14
+eurocrypt/eurocrypt2005,2005,Algebra and Number Theory,A Tool Kit for Finding Small Roots of Bivariate Polynomials over the Integers.,Johannes Blömer;Alexander May;,https://doi.org/10.1007/11426639_15
+eurocrypt/eurocrypt2005,2005,Quantum Cryptography,Computational Indistinguishability Between Quantum States and Its Cryptographic Application.,Akinori Kawachi;Takeshi Koshiba;Harumichi Nishimura;Tomoyuki Yamakami;,https://doi.org/10.1007/11426639_16
+eurocrypt/eurocrypt2005,2005,Quantum Cryptography,Approximate Quantum Error-Correcting Codes and Secret Sharing Schemes.,Claude Crépeau;Daniel Gottesman;Adam D. Smith;,https://doi.org/10.1007/11426639_17
+eurocrypt/eurocrypt2005,2005,Secure Protocols,Compact E-Cash.,Jan Camenisch;Susan Hohenberger;Anna Lysyanskaya;,https://doi.org/10.1007/11426639_18
+eurocrypt/eurocrypt2005,2005,Secure Protocols,Cryptographic Asynchronous Multi-party Computation with Optimal Resilience (Extended Abstract).,Martin Hirt;Jesper Buus Nielsen;Bartosz Przydatek;,https://doi.org/10.1007/11426639_19
+eurocrypt/eurocrypt2005,2005,Algebra and Number Theory,Differential Cryptanalysis for Multivariate Schemes.,Pierre-Alain Fouque;Louis Granboulan;Jacques Stern;,https://doi.org/10.1007/11426639_20
+eurocrypt/eurocrypt2005,2005,Algebra and Number Theory,A Fast Cryptanalysis of the Isomorphism of Polynomials with One Secret Problem.,Ludovic Perret;,https://doi.org/10.1007/11426639_21
+eurocrypt/eurocrypt2005,2005,Algebra and Number Theory,Partial Key Exposure Attacks on RSA up to Full Size Exponents.,Matthias Ernst;Ellen Jochemsz;Alexander May;Benne de Weger;,https://doi.org/10.1007/11426639_22
+eurocrypt/eurocrypt2005,2005,Algebra and Number Theory,The RSA Group is Pseudo-Free.,Daniele Micciancio;,https://doi.org/10.1007/11426639_23
+eurocrypt/eurocrypt2005,2005,Theory,Universally Composable Password-Based Key Exchange.,Ran Canetti;Shai Halevi;Jonathan Katz;Yehuda Lindell;Philip D. MacKenzie;,https://doi.org/10.1007/11426639_24
+eurocrypt/eurocrypt2005,2005,Theory,Mercurial Commitments with Applications to Zero-Knowledge Sets.,Melissa Chase;Alexander Healy;Anna Lysyanskaya;Tal Malkin;Leonid Reyzin;,https://doi.org/10.1007/11426639_25
+eurocrypt/eurocrypt2005,2005,Encryption,Hierarchical Identity Based Encryption with Constant Size Ciphertext.,Dan Boneh;Xavier Boyen;Eu-Jin Goh;,https://doi.org/10.1007/11426639_26
+eurocrypt/eurocrypt2005,2005,Encryption,Fuzzy Identity-Based Encryption.,Amit Sahai;Brent Waters;,https://doi.org/10.1007/11426639_27
+eurocrypt/eurocrypt2005,2005,Cryptanalysis,Second Preimages on n-Bit Hash Functions for Much Less than 2n Work.,John Kelsey;Bruce Schneier;,https://doi.org/10.1007/11426639_28
+eurocrypt/eurocrypt2005,2005,Cryptanalysis,Predicting and Distinguishing Attacks on RC4 Keystream Generator.,Itsik Mantin;,https://doi.org/10.1007/11426639_29
+eurocrypt/eurocrypt2005,2005,Cryptanalysis,Related-Key Boomerang and Rectangle Attacks.,Eli Biham;Orr Dunkelman;Nathan Keller;,https://doi.org/10.1007/11426639_30
+eurocrypt/eurocrypt2005,2005,Cryptanalysis,On the Impossibility of Highly-Efficient Blockcipher-Based Hash Functions.,John Black;Martin Cochran;Thomas Shrimpton;,https://doi.org/10.1007/11426639_31
+eurocrypt/eurocrypt2005,2005,Broadcast Encryption and Traitor Tracing,Public Traceability in Traitor Tracing Schemes.,Hervé Chabanne;Duong Hieu Phan;David Pointcheval;,https://doi.org/10.1007/11426639_32
+eurocrypt/eurocrypt2005,2005,Broadcast Encryption and Traitor Tracing,One-Way Chain Based Broadcast Encryption Schemes.,Nam-Su Jho;Jung Yeon Hwang;Jung Hee Cheon;Myung-Hwan Kim;Dong Hoon Lee;Eun Sun Yoo;,https://doi.org/10.1007/11426639_33

@@ -1,0 +1,30 @@
+sp/sp1997,1997,None,Message from the Program Chairs.,,http://doi.ieeecomputersociety.org/10.1109/SP.1997.10001
+sp/sp1997,1997,None,Conference Committee.,,http://doi.ieeecomputersociety.org/10.1109/SP.1997.10000
+sp/sp1997,1997,Panel/Debate,Is the Trusted Computing Base Concept Fundamentally Flawed?,John D. McLean;,https://doi.org/10.1109/SECPRI.1997.601304
+sp/sp1997,1997,Panel/Debate,Some weaknesses of the TCB model.,Bob Blakley;Darrell M. Kienzle;,https://doi.org/10.1109/SECPRI.1997.601305
+sp/sp1997,1997,Panel/Debate,Is the Reference Monitor Concept Fatally Flawed? The Case for the Negative.,William R. Shockley;James P. Downey;,https://doi.org/10.1109/SECPRI.1997.601307
+sp/sp1997,1997,Authorization and Authentication,Toward Acceptable Metrics of Authentication.,Michael K. Reiter;Stuart G. Stubblebine;,https://doi.org/10.1109/SECPRI.1997.601308
+sp/sp1997,1997,Authorization and Authentication,An Authorization Scheme For Distributed Object Systems.,Vincent Nicomette;Yves Deswarte;,https://doi.org/10.1109/SECPRI.1997.601310
+sp/sp1997,1997,Authorization and Authentication,A Logical Language for Expressing Authorizations.,Sushil Jajodia;Pierangela Samarati;V. S. Subrahmanian;,https://doi.org/10.1109/SECPRI.1997.601312
+sp/sp1997,1997,Applications,Anonymous Connections and Onion Routing.,Paul F. Syverson;David M. Goldschlag;Michael G. Reed;,https://doi.org/10.1109/SECPRI.1997.601314
+sp/sp1997,1997,Applications,The Design and Implementation of a Multilevel Secure Log Manager.,V. R. Pesati;T. E. Keefe;S. Pal;,https://doi.org/10.1109/SECPRI.1997.601316
+sp/sp1997,1997,Applications,A Secure and Reliable Bootstrap Architecture.,William A. Arbaugh;David J. Farber;Jonathan M. Smith;,https://doi.org/10.1109/SECPRI.1997.601317
+sp/sp1997,1997,Applications,An MBone Proxy for an Application Gateway Firewall.,Kelly Djahandari;Daniel F. Sterne;,https://doi.org/10.1109/SECPRI.1997.601318
+sp/sp1997,1997,Security Theory,Secure Software Architectures.,Mark Moriconi;Xiaolei Qian;Robert A. Riemenschneider;Li Gong;,https://doi.org/10.1109/SECPRI.1997.601320
+sp/sp1997,1997,Security Theory,A General Theory of Security Properties.,Aris Zakinthinos;E. Stewart Lee;,https://doi.org/10.1109/SECPRI.1997.601322
+sp/sp1997,1997,Security Theory,Analyzing Consistency of Security Policies.,Laurence Cholvy;Frédéric Cuppens;,https://doi.org/10.1109/SECPRI.1997.601324
+sp/sp1997,1997,Panel,Ensuring Assurance in Mobile Computing.,Marvin Schaefer;Sylvan Pinsky;Drew Dean;Li Gong;Jim Roskind;Barbara Fox;,https://doi.org/10.1109/SECPRI.1997.601326
+sp/sp1997,1997,Architectures,Filtering Postures: Local Enforcement for Global Policies.,Joshua D. Guttman;,https://doi.org/10.1109/SECPRI.1997.601327
+sp/sp1997,1997,Architectures,Providing flexibility in information flow control for object oriented systems.,Elena Ferrari;Pierangela Samarati;Elisa Bertino;Sushil Jajodia;,https://doi.org/10.1109/SECPRI.1997.601328
+sp/sp1997,1997,Architectures,Automated analysis of cryptographic protocols using Mur-phi.,John C. Mitchell;Mark Mitchell;Ulrich Stern;,https://doi.org/10.1109/SECPRI.1997.601329
+sp/sp1997,1997,Intrusion Detection and Beyond,How to Systematically Classify Computer Security Intrusions.,Ulf Lindqvist;Erland Jonsson;,https://doi.org/10.1109/SECPRI.1997.601330
+sp/sp1997,1997,Intrusion Detection and Beyond,Surviving information warfare attacks on databases.,Paul Ammann;Sushil Jajodia;Catherine D. McCollum;Barbara T. Blaustein;,https://doi.org/10.1109/SECPRI.1997.601331
+sp/sp1997,1997,Intrusion Detection and Beyond,Execution Monitoring of Security-Critical Programs in Distributed Systems: A Specification-Based Approach.,Calvin Ko;Manfred Ruschitzka;Karl N. Levitt;,https://doi.org/10.1109/SECPRI.1997.601332
+sp/sp1997,1997,Intrusion Detection and Beyond,Catalytic Inference Analysis: Detecting Inference Threats due to Knowledge Discovery.,John Hale;Sujeet Shenoi;,https://doi.org/10.1109/SECPRI.1997.601333
+sp/sp1997,1997,Panel,Security in Innovative New Operating Systems.,Cynthia E. Irvine;,https://doi.org/10.1109/SECPRI.1997.601334
+sp/sp1997,1997,Panel,Research on Proof-Carrying Code for Untrusted-Code Security.,George C. Necula;Peter Lee;,https://doi.org/10.1109/SECPRI.1997.601335
+sp/sp1997,1997,Panel,Access Control for the SPIN Extensible Operating System.,Robert Grimm;Brian N. Bershad;,https://doi.org/10.1109/SECPRI.1997.601336
+sp/sp1997,1997,Panel,Escort: Securing Scout Paths.,Oliver Spatscheck;Larry L. Peterson;,https://doi.org/10.1109/SECPRI.1997.601337
+sp/sp1997,1997,System Vulnerabilities,Analysis of a Denial of Service Attack on TCP.,Christoph L. Schuba;Ivan Krsul;Markus G. Kuhn;Eugene H. Spafford;Aurobindo Sundaram;Diego Zamboni;,https://doi.org/10.1109/SECPRI.1997.601338
+sp/sp1997,1997,System Vulnerabilities,Deniable Password Snatching: On the Possibility of Evasive Electronic Espionage.,Adam L. Young;Moti Yung;,https://doi.org/10.1109/SECPRI.1997.601339
+sp/sp1997,1997,System Vulnerabilities,Number Theoretic Attacks on Secure Password Schemes.,Sarvar Patel;,https://doi.org/10.1109/SECPRI.1997.601340

@@ -1,0 +1,16 @@
+ccs/ccsw2011,2011,Keynote address,Clouds and their discontents.,John Manferdelli;,http://doi.acm.org/10.1145/2046660.2046662
+ccs/ccsw2011,2011,Resource management,All your clouds are belong to us: security analysis of cloud management interfaces.,Juraj Somorovsky;Mario Heiderich;Meiko Jensen;Jörg Schwenk;Nils Gruschka;Luigi Lo Iacono;,http://doi.acm.org/10.1145/2046660.2046664
+ccs/ccsw2011,2011,Resource management,Trusted platform-as-a-service: a foundation for trustworthy cloud-hosted applications.,Andrew Brown;Jeffrey S. Chase;,http://doi.acm.org/10.1145/2046660.2046665
+ccs/ccsw2011,2011,Resource management,Verifiable resource accounting for cloud computing services.,Vyas Sekar;Petros Maniatis;,http://doi.acm.org/10.1145/2046660.2046666
+ccs/ccsw2011,2011,Keynote address,What's different about security in a public cloud?,Charlie Kaufman;,http://doi.acm.org/10.1145/2046660.2046668
+ccs/ccsw2011,2011,Virtualization,An exploration of L2 cache covert channels in virtualized environments.,Yunjing Xu;Michael Bailey;Farnam Jahanian;Kaustubh R. Joshi;Matti A. Hiltunen;Richard D. Schlichting;,http://doi.acm.org/10.1145/2046660.2046670
+ccs/ccsw2011,2011,Virtualization,Eliminating fine grained timers in Xen.,Bhanu C. Vattikonda;Sambit Das;Hovav Shacham;,http://doi.acm.org/10.1145/2046660.2046671
+ccs/ccsw2011,2011,Virtualization,Automated verification of virtualized infrastructures.,Sören Bleikertz;Thomas Groß;Sebastian Mödersheim;,http://doi.acm.org/10.1145/2046660.2046672
+ccs/ccsw2011,2011,Keynote address,Cloud security: myth or reality?,Timothy G. Brown;,http://doi.acm.org/10.1145/2046660.2046674
+ccs/ccsw2011,2011,Verification and legal matters,Detecting fraudulent use of cloud resources.,Joseph Idziorek;Mark Tannian;Douglas Jacobson;,http://doi.acm.org/10.1145/2046660.2046676
+ccs/ccsw2011,2011,Verification and legal matters,Do you know where your cloud files are?,Karyn Benson;Rafael Dowsley;Hovav Shacham;,http://doi.acm.org/10.1145/2046660.2046677
+ccs/ccsw2011,2011,Verification and legal matters,Managing multi-jurisdictional requirements in the cloud: towards a computational legal landscape.,David G. Gordon;Travis D. Breaux;,http://doi.acm.org/10.1145/2046660.2046678
+ccs/ccsw2011,2011,Cryptographic protocols,Oblivious RAM simulation with efficient worst-case access overhead.,Michael T. Goodrich;Michael Mitzenmacher;Olga Ohrimenko;Roberto Tamassia;,http://doi.acm.org/10.1145/2046660.2046680
+ccs/ccsw2011,2011,Cryptographic protocols,Privacy-preserving outsourcing of brute-force key searches.,Ghassan Karame;Srdjan Capkun;Ueli Maurer;,http://doi.acm.org/10.1145/2046660.2046681
+ccs/ccsw2011,2011,Cryptographic protocols,Can homomorphic encryption be practical?,Michael Naehrig;Kristin E. Lauter;Vinod Vaikuntanathan;,http://doi.acm.org/10.1145/2046660.2046682
+ccs/ccsw2011,2011,Cryptographic protocols,Towards ensuring client-side computational integrity.,George Danezis;Benjamin Livshits;,http://doi.acm.org/10.1145/2046660.2046683

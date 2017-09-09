@@ -1,0 +1,60 @@
+crypto/crypto89,1989,Opening Session,Keying the German Navy's Enigma.,David Kahn;,https://doi.org/10.1007/0-387-34805-0_1
+crypto/crypto89,1989,Opening Session,Making Conditionally Secure Cryptosystems Unconditionally Abuse-Free in a General Context.,Yvo Desmedt;,https://doi.org/10.1007/0-387-34805-0_2
+crypto/crypto89,1989,Opening Session,On the Existence of Bit Commitment Schemes and Zero-Knowledge Proofs.,Ivan Damgård;,https://doi.org/10.1007/0-387-34805-0_3
+crypto/crypto89,1989,Why is Cryptography Harder Than It Looks?,Problems with the Normal Use of Cryptography for Providing Security on Unclassified Networks.,Russell L. Brand;,https://doi.org/10.1007/0-387-34805-0_4
+crypto/crypto89,1989,Why is Cryptography Harder Than It Looks?,The use of Encryption in Kerberos for Network Authentication.,John T. Kohl;,https://doi.org/10.1007/0-387-34805-0_5
+crypto/crypto89,1989,Why is Cryptography Harder Than It Looks?,UNIX Password Security - Ten Years Later.,David C. Feldmeier;Philip R. Karn;,https://doi.org/10.1007/0-387-34805-0_6
+crypto/crypto89,1989,Why is Cryptography Harder Than It Looks?,Practical Problems with a Cryptographic Protection Scheme.,Jonathan M. Smith;,https://doi.org/10.1007/0-387-34805-0_7
+crypto/crypto89,1989,Why is Cryptography Harder Than It Looks?,The Smart Siskette - A Universal User Token and Personal Crypto-Engine.,Paul Barrett;Raymund Eisele;,https://doi.org/10.1007/0-387-34805-0_8
+crypto/crypto89,1989,Pseudo-randomness and Sequences,On the Quadratic Spans of Periodic Sequences.,Agnes Hui Chan;Richard A. Games;,https://doi.org/10.1007/0-387-34805-0_9
+crypto/crypto89,1989,Pseudo-randomness and Sequences,The Shortest Feedback Shift Register That Can Generate A Given Sequence.,Cees J. A. Jansen;Dick E. Boekee;,https://doi.org/10.1007/0-387-34805-0_10
+crypto/crypto89,1989,Pseudo-randomness and Sequences,Perfect Local Randomness in Pseudo-Random Sequences.,Ueli M. Maurer;James L. Massey;,https://doi.org/10.1007/0-387-34805-0_11
+crypto/crypto89,1989,Pseudo-randomness and Sequences,Sparse Pseudorandom Distributions.,Oded Goldreich;Hugo Krawczyk;,https://doi.org/10.1007/0-387-34805-0_12
+crypto/crypto89,1989,Pseudo-randomness and Sequences,Bit Commitment Using Pseudo-Randomness.,Moni Naor;,https://doi.org/10.1007/0-387-34805-0_13
+crypto/crypto89,1989,Cryptanalysis and Implementation,How to Predict Congruential Generators.,Hugo Krawczyk;,https://doi.org/10.1007/0-387-34805-0_14
+crypto/crypto89,1989,Cryptanalysis and Implementation,A Chosen Text Attack on The Modified Cryptographic Checksum Algorithm of Cohen and Huang.,Bart Preneel;Antoon Bosselaers;René Govaerts;Joos Vandewalle;,https://doi.org/10.1007/0-387-34805-0_15
+crypto/crypto89,1989,Cryptanalysis and Implementation,On the Linear Consistency Test (LCT) in Cryptanalysis with Applications.,Kencheng Zeng;Chung-Huang Yang;T. R. N. Rao;,https://doi.org/10.1007/0-387-34805-0_16
+crypto/crypto89,1989,Cryptanalysis and Implementation,Batch RSA.,Amos Fiat;,https://doi.org/10.1007/0-387-34805-0_17
+crypto/crypto89,1989,Cryptanalysis and Implementation,On the Implementation of Elliptic Curve Cryptosystems.,Andreas Bender;Guy Castagnoli;,https://doi.org/10.1007/0-387-34805-0_18
+crypto/crypto89,1989,Signature and Authentication,New Paradigms for Digital Signatures and Message Authentication Based on Non-Interative Zero Knowledge Proofs.,Mihir Bellare;Shafi Goldwasser;,https://doi.org/10.1007/0-387-34805-0_19
+crypto/crypto89,1989,Signature and Authentication,Undeniable Signatures.,David Chaum;Hans Van Antwerpen;,https://doi.org/10.1007/0-387-34805-0_20
+crypto/crypto89,1989,Signature and Authentication,A Certified Digital Signature.,Ralph C. Merkle;,https://doi.org/10.1007/0-387-34805-0_21
+crypto/crypto89,1989,Signature and Authentication,Efficient Identification and Signatures for Smart Cards.,Claus-Peter Schnorr;,https://doi.org/10.1007/0-387-34805-0_22
+crypto/crypto89,1989,Signature and Authentication,A Signature with Shared Verification Scheme.,Marijke De Soete;Jean-Jacques Quisquater;Klaus Vedder;,https://doi.org/10.1007/0-387-34805-0_23
+crypto/crypto89,1989,Signature and Authentication,On-Line/Off-Line Digital Schemes.,Shimon Even;Oded Goldreich;Silvio Micali;,https://doi.org/10.1007/0-387-34805-0_24
+crypto/crypto89,1989,Threshold Schemes and Key Management,On the Classification of Idea Secret Sharing Schemes.,Ernest F. Brickell;Daniel M. Davenport;,https://doi.org/10.1007/0-387-34805-0_25
+crypto/crypto89,1989,Threshold Schemes and Key Management,Dynamic Threshold Scheme Based on the Definition of Cross-Product in an N-Dimentional Linear Space.,Chi-Sung Laih;Lein Harn;Jau-Yien Lee;Tzonelih Hwang;,https://doi.org/10.1007/0-387-34805-0_26
+crypto/crypto89,1989,Threshold Schemes and Key Management,Secret Sharing Over Infinite Domains (Extended Abstract).,Benny Chor;Eyal Kushilevitz;,https://doi.org/10.1007/0-387-34805-0_27
+crypto/crypto89,1989,Threshold Schemes and Key Management,Threshold Cryptosystems.,Yvo Desmedt;Yair Frankel;,https://doi.org/10.1007/0-387-34805-0_28
+crypto/crypto89,1989,Threshold Schemes and Key Management,Flexible Access Control with Master Keys.,Gerald C. Chick;Stafford E. Tavares;,https://doi.org/10.1007/0-387-34805-0_29
+crypto/crypto89,1989,Key Distribution and Network Security,Key Distribution Protocol for Digital Mobile Communication Systems.,Makoto Tatebayashi;Natsume Matsuzaki;David B. Newman Jr.;,https://doi.org/10.1007/0-387-34805-0_30
+crypto/crypto89,1989,Key Distribution and Network Security,A Key Exchange System Based on Real Quadratic Fields.,Johannes A. Buchmann;Hugh C. Williams;,https://doi.org/10.1007/0-387-34805-0_31
+crypto/crypto89,1989,Key Distribution and Network Security,On Key Distribution Systems.,Yacov Yacobi;Zahava Shmuely;,https://doi.org/10.1007/0-387-34805-0_32
+crypto/crypto89,1989,Key Distribution and Network Security,SDNS Architecture and End-to-End Encryption.,Ruth Nelson;John H. Heimann;,https://doi.org/10.1007/0-387-34805-0_33
+crypto/crypto89,1989,Fast Computation,A Survey of Hardware Implementation of RSA (Abstract).,Ernest F. Brickell;,https://doi.org/10.1007/0-387-34805-0_34
+crypto/crypto89,1989,Fast Computation,Modular Exponentiation Using Recursive Sums of Residues.,Paul A. Findlay;Brian A. Johnson;,https://doi.org/10.1007/0-387-34805-0_35
+crypto/crypto89,1989,Fast Computation,A Fast Modular-multiplication Algorithm based on a Higher Radix.,Hikaru Morita;,https://doi.org/10.1007/0-387-34805-0_36
+crypto/crypto89,1989,Fast Computation,Addition Chain Heuristics.,Jurjen N. Bos;Matthijs J. Coster;,https://doi.org/10.1007/0-387-34805-0_37
+crypto/crypto89,1989,Fast Computation,How Easy is Collision Search. New Results and Applications to DES.,Jean-Jacques Quisquater;Jean-Paul Delescaille;,https://doi.org/10.1007/0-387-34805-0_38
+crypto/crypto89,1989,Odds and Ends,A Design Principle for Hash Functions.,Ivan Damgård;,https://doi.org/10.1007/0-387-34805-0_39
+crypto/crypto89,1989,Odds and Ends,One Way Hash Functions and DES.,Ralph C. Merkle;,https://doi.org/10.1007/0-387-34805-0_40
+crypto/crypto89,1989,Odds and Ends,Properties of Cryptosystem PGM.,Spyros S. Magliveras;Nasir D. Memon;,https://doi.org/10.1007/0-387-34805-0_41
+crypto/crypto89,1989,Odds and Ends,On the Construction of Block Ciphers Provably Secure and Not Relying on Any Unproved Hypotheses.,Yuliang Zheng;Tsutomu Matsumoto;Hideki Imai;,https://doi.org/10.1007/0-387-34805-0_42
+crypto/crypto89,1989,Odds and Ends,Disposable Zero-Knowledge Authentications and Their Applications to Untraceable Electronic Cash.,Tatsuaki Okamoto;Kazuo Ohta;,https://doi.org/10.1007/0-387-34805-0_43
+crypto/crypto89,1989,Zero-Knowledge and Oblivious Transfer,Efficient Identification Schemes Using Two Prover Interactive Proofs.,Michael Ben-Or;Shafi Goldwasser;Joe Kilian;Avi Wigderson;,https://doi.org/10.1007/0-387-34805-0_44
+crypto/crypto89,1989,Zero-Knowledge and Oblivious Transfer,On the Concrete Complexity of Zero-Knowledge Proofs.,Joan Boyar;René Peralta;,https://doi.org/10.1007/0-387-34805-0_45
+crypto/crypto89,1989,Zero-Knowledge and Oblivious Transfer,Zero Knowledge Proofs of Knowledge in Two Rounds.,Uriel Feige;Adi Shamir;,https://doi.org/10.1007/0-387-34805-0_46
+crypto/crypto89,1989,Zero-Knowledge and Oblivious Transfer,Minimum Resource Zero-Knowledge Proofs (Extended Abstract).,Joe Kilian;Silvio Micali;Rafail Ostrovsky;,https://doi.org/10.1007/0-387-34805-0_47
+crypto/crypto89,1989,Zero-Knowledge and Oblivious Transfer,Non-Interactive Oblivious Transfer and Spplications.,Mihir Bellare;Silvio Micali;,https://doi.org/10.1007/0-387-34805-0_48
+crypto/crypto89,1989,Multiparty Computation,Multiparty Protocols Tolerating Half Faulty Processors.,Donald Beaver;,https://doi.org/10.1007/0-387-34805-0_49
+crypto/crypto89,1989,Multiparty Computation,Controlled Gradual Disclosure Schemes for Random Bits and Their Applications.,Richard Cleve;,https://doi.org/10.1007/0-387-34805-0_50
+crypto/crypto89,1989,Multiparty Computation,Multiparty Computation with Faulty Majority.,Donald Beaver;Shafi Goldwasser;,https://doi.org/10.1007/0-387-34805-0_51
+crypto/crypto89,1989,Multiparty Computation,The Spymasters Double-Agent Problem: Multiparty Computations Secure Unconditionally from Minorities and Cryptographically from Majorities.,David Chaum;,https://doi.org/10.1007/0-387-34805-0_52
+crypto/crypto89,1989,Rump Session:Impromptu Talks,On the Structure of Secret Key Exchange Protocols.,Mihir Bellare;Lenore Cowen;Shafi Goldwasser;,https://doi.org/10.1007/0-387-34805-0_53
+crypto/crypto89,1989,Rump Session:Impromptu Talks,An Efficient Identification Scheme Based on Permuted Kernels (Extended Abstract).,Adi Shamir;,https://doi.org/10.1007/0-387-34805-0_54
+crypto/crypto89,1989,Rump Session:Impromptu Talks,An Efficient Software Protection Scheme.,Rafail Ostrovsky;,https://doi.org/10.1007/0-387-34805-0_55
+crypto/crypto89,1989,Rump Session:Impromptu Talks,Good S-Boxes Are Easy To Find.,Carlisle M. Adams;Stafford E. Tavares;,https://doi.org/10.1007/0-387-34805-0_56
+crypto/crypto89,1989,Rump Session:Impromptu Talks,Covert Distributed Processing with Computer Viruses.,Steve R. White;,https://doi.org/10.1007/0-387-34805-0_57
+crypto/crypto89,1989,Rump Session:Impromptu Talks,Progress in Data Security Standardization.,Wyn L. Price;,https://doi.org/10.1007/0-387-34805-0_58
+crypto/crypto89,1989,Rump Session:Impromptu Talks,The FEAL-8 Cryptosystem and a Call for Attack.,Shoji Miyaguchi;,https://doi.org/10.1007/0-387-34805-0_59
+crypto/crypto89,1989,Rump Session:Impromptu Talks,How to Explain Zero-Knowledge Protocols to Your Children.,Jean-Jacques Quisquater;Myriam Quisquater;Muriel Quisquater;Michaël Quisquater;Louis C. Guillou;Marie Annick Guillou;Gaïd Guillou;Anna Guillou;Gwenolé Guillou;Soazig Guillou;Thomas A. Berson;,https://doi.org/10.1007/0-387-34805-0_60

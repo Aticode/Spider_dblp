@@ -1,0 +1,33 @@
+asiacrypt/asiacrypt2003,2003,Public Key Cryptography,Chosen-Ciphertext Security without Redundancy.,Duong Hieu Phan;David Pointcheval;,https://doi.org/10.1007/978-3-540-40061-5_1
+asiacrypt/asiacrypt2003,2003,Public Key Cryptography,Some RSA-Based Encryption Schemes with Tight Security Reduction.,Kaoru Kurosawa;Tsuyoshi Takagi;,https://doi.org/10.1007/978-3-540-40061-5_2
+asiacrypt/asiacrypt2003,2003,Public Key Cryptography,A Simple Public-Key Cryptosystem with a Double Trapdoor Decryption Mechanism and Its Applications.,Emmanuel Bresson;Dario Catalano;David Pointcheval;,https://doi.org/10.1007/978-3-540-40061-5_3
+asiacrypt/asiacrypt2003,2003,Number Theory,Factoring Estimates for a 1024-Bit RSA Modulus.,Arjen K. Lenstra;Eran Tromer;Adi Shamir;Wil Kortsmit;Bruce Dodson;James P. Hughes;Paul C. Leyland;,https://doi.org/10.1007/978-3-540-40061-5_4
+asiacrypt/asiacrypt2003,2003,Number Theory,Index Calculus Attack for Hyperelliptic Curves of Small Genus.,Nicolas Thériault;,https://doi.org/10.1007/978-3-540-40061-5_5
+asiacrypt/asiacrypt2003,2003,Efficient Implementations,Parallelizing Explicit Formula for Arithmetic in the Jacobian of Hyperelliptic Curves.,Pradeep Kumar Mishra;Palash Sarkar;,https://doi.org/10.1007/978-3-540-40061-5_6
+asiacrypt/asiacrypt2003,2003,Efficient Implementations,Tate Pairing Implementation for Hyperelliptic Curves y2 = xp-x + d.,Iwan M. Duursma;Hyang-Sook Lee;,https://doi.org/10.1007/978-3-540-40061-5_7
+asiacrypt/asiacrypt2003,2003,Efficient Implementations,The AGM-X0(N) Heegner Point Lifting Algorithm and Elliptic Curve Point Counting.,David R. Kohel;,https://doi.org/10.1007/978-3-540-40061-5_8
+asiacrypt/asiacrypt2003,2003,Key Management and Protocols,Key Management Schemes for Stateless Receivers Based on Time Varying Heterogeneous Logical Key Hierarchy.,Miodrag J. Mihaljevic;,https://doi.org/10.1007/978-3-540-40061-5_9
+asiacrypt/asiacrypt2003,2003,Key Management and Protocols,Leakage-Resilient Authenticated Key Establishment Protocols.,SeongHan Shin;Kazukuni Kobara;Hideki Imai;,https://doi.org/10.1007/978-3-540-40061-5_10
+asiacrypt/asiacrypt2003,2003,Key Management and Protocols,Untraceable Fair Network Payment Protocols with Off-Line TTP.,Chih-Hung Wang;,https://doi.org/10.1007/978-3-540-40061-5_11
+asiacrypt/asiacrypt2003,2003,Hash Functions,Incremental Multiset Hash Functions and Their Application to Memory Integrity Checking.,Dwaine E. Clarke;Srinivas Devadas;Marten van Dijk;Blaise Gassend;G. Edward Suh;,https://doi.org/10.1007/978-3-540-40061-5_12
+asiacrypt/asiacrypt2003,2003,Hash Functions,New Parallel Domain Extenders for UOWHF.,Wonil Lee;Donghoon Chang;Sangjin Lee;Soo Hak Sung;Mridul Nandi;,https://doi.org/10.1007/978-3-540-40061-5_13
+asiacrypt/asiacrypt2003,2003,Hash Functions,Cryptanalysis of 3-Pass HAVAL.,Bart Van Rompay;Alex Biryukov;Bart Preneel;Joos Vandewalle;,https://doi.org/10.1007/978-3-540-40061-5_14
+asiacrypt/asiacrypt2003,2003,Group Signatures,Efficient Group Signatures without Trapdoors.,Giuseppe Ateniese;Breno de Medeiros;,https://doi.org/10.1007/978-3-540-40061-5_15
+asiacrypt/asiacrypt2003,2003,Group Signatures,Accumulating Composites and Improved Group Signing.,Gene Tsudik;Shouhuai Xu;,https://doi.org/10.1007/978-3-540-40061-5_16
+asiacrypt/asiacrypt2003,2003,Group Signatures,Almost Uniform Density of Power Residues and the Provable Security of ESIGN.,Tatsuaki Okamoto;Jacques Stern;,https://doi.org/10.1007/978-3-540-40061-5_17
+asiacrypt/asiacrypt2003,2003,Number Theory,Rotations and Translations of Number Field Sieve Polynomials.,Jason E. Gower;,https://doi.org/10.1007/978-3-540-40061-5_18
+asiacrypt/asiacrypt2003,2003,Number Theory,On Class Group Computations Using the Number Field Sieve.,Mark L. Bauer;Safuat Hamdy;,https://doi.org/10.1007/978-3-540-40061-5_19
+asiacrypt/asiacrypt2003,2003,Invited Talk,The Secret and Beauty of Ancient Chinese Padlocks.,Hong-Sen Yan;Hsing-Hui Huang;,https://doi.org/10.1007/978-3-540-40061-5_20
+asiacrypt/asiacrypt2003,2003,Block Cipher,A Traceable Block Cipher.,Olivier Billet;Henri Gilbert;,https://doi.org/10.1007/978-3-540-40061-5_21
+asiacrypt/asiacrypt2003,2003,Block Cipher,A New Attack against Khazad.,Frédéric Muller;,https://doi.org/10.1007/978-3-540-40061-5_22
+asiacrypt/asiacrypt2003,2003,Broadcast and Multicast,An Efficient Public Key Trace and Revoke Scheme Secure against Adaptive Chosen Ciphertext Attack.,Chong Hee Kim;Yong Ho Hwang;Pil Joong Lee;,https://doi.org/10.1007/978-3-540-40061-5_23
+asiacrypt/asiacrypt2003,2003,Broadcast and Multicast,Sequential Key Derivation Patterns for Broadcast Encryption and Key Predistribution Schemes.,Nuttapong Attrapadung;Kazukuni Kobara;Hideki Imai;,https://doi.org/10.1007/978-3-540-40061-5_24
+asiacrypt/asiacrypt2003,2003,Foundations and Complexity Theory,Boneh et al.'s k-Element Aggregate Extraction Assumption Is Equivalent to the Diffie-Hellman Assumption.,Jean-Sébastien Coron;David Naccache;,https://doi.org/10.1007/978-3-540-40061-5_25
+asiacrypt/asiacrypt2003,2003,Foundations and Complexity Theory,On Diophantine Complexity and Statistical Zero-Knowledge Arguments.,Helger Lipmaa;,https://doi.org/10.1007/978-3-540-40061-5_26
+asiacrypt/asiacrypt2003,2003,Foundations and Complexity Theory,Verifiable Homomorphic Oblivious Transfer and Private Equality Test.,Helger Lipmaa;,https://doi.org/10.1007/978-3-540-40061-5_27
+asiacrypt/asiacrypt2003,2003,Public Key Cryptography,Generalized Powering Functions and Their Application to Digital Signatures.,Hisayoshi Sato;Tsuyoshi Takagi;Satoru Tezuka;Kazuo Takaragi;,https://doi.org/10.1007/978-3-540-40061-5_28
+asiacrypt/asiacrypt2003,2003,Public Key Cryptography,Certificateless Public Key Cryptography.,Sattam S. Al-Riyami;Kenneth G. Paterson;,https://doi.org/10.1007/978-3-540-40061-5_29
+asiacrypt/asiacrypt2003,2003,Public Key Cryptography,A Complete and Explicit Security Reduction Algorithm for RSA-Based Cryptosystems.,Kaoru Kurosawa;Katja Schmidt-Samoa;Tsuyoshi Takagi;,https://doi.org/10.1007/978-3-540-40061-5_30
+asiacrypt/asiacrypt2003,2003,Public Key Cryptography,The Insecurity of Esign in Practical Implementations.,Pierre-Alain Fouque;Nick Howgrave-Graham;Gwenaëlle Martinet;Guillaume Poupard;,https://doi.org/10.1007/978-3-540-40061-5_31
+asiacrypt/asiacrypt2003,2003,Digital Signature,Efficient One-Time Proxy Signatures.,Huaxiong Wang;Josef Pieprzyk;,https://doi.org/10.1007/978-3-540-40061-5_32
+asiacrypt/asiacrypt2003,2003,Digital Signature,Universal Designated-Verifier Signatures.,Ron Steinfeld;Laurence Bull;Huaxiong Wang;Josef Pieprzyk;,https://doi.org/10.1007/978-3-540-40061-5_33

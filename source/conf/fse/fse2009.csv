@@ -1,0 +1,24 @@
+fse/fse2009,2009,Stream Ciphers,Cube Testers and Key Recovery Attacks on Reduced-Round MD6 and Trivium.,Jean-Philippe Aumasson;Itai Dinur;Willi Meier;Adi Shamir;,https://doi.org/10.1007/978-3-642-03317-9_1
+fse/fse2009,2009,Stream Ciphers,An Efficient State Recovery Attack on X-FCSR-256.,Paul Stankovski;Martin Hell;Thomas Johansson;,https://doi.org/10.1007/978-3-642-03317-9_2
+fse/fse2009,2009,Stream Ciphers,Key Collisions of the RC4 Stream Cipher.,Mitsuru Matsui;,https://doi.org/10.1007/978-3-642-03317-9_3
+fse/fse2009,2009,Invited Talk,Intel's New AES Instructions for Enhanced Performance and Security.,Shay Gueron;,https://doi.org/10.1007/978-3-642-03317-9_4
+fse/fse2009,2009,Theory of Hash Functions,Blockcipher-Based Hashing Revisited.,Martijn Stam;,https://doi.org/10.1007/978-3-642-03317-9_5
+fse/fse2009,2009,Theory of Hash Functions,On the Security of Tandem-DM.,Ewan Fleischmann;Michael Gorski;Stefan Lucks;,https://doi.org/10.1007/978-3-642-03317-9_6
+fse/fse2009,2009,Theory of Hash Functions,"Indifferentiability of Permutation-Based Compression Functions and Tree-Based Modes of Operation, with Applications to MD6.",Yevgeniy Dodis;Leonid Reyzin;Ronald L. Rivest;Emily Shen;,https://doi.org/10.1007/978-3-642-03317-9_7
+fse/fse2009,2009,Hash Functions Analysis,Cryptanalysis of RadioGatún.,Thomas Fuhr;Thomas Peyrin;,https://doi.org/10.1007/978-3-642-03317-9_8
+fse/fse2009,2009,Hash Functions Analysis,Preimage Attacks on Reduced Tiger and SHA-2.,Takanori Isobe;Kyoji Shibutani;,https://doi.org/10.1007/978-3-642-03317-9_9
+fse/fse2009,2009,Hash Functions Analysis,Cryptanalysis of the LAKE Hash Family.,Alex Biryukov;Praveen Gauravaram;Jian Guo;Dmitry Khovratovich;San Ling;Krystian Matusiewicz;Ivica Nikolic;Josef Pieprzyk;Huaxiong Wang;,https://doi.org/10.1007/978-3-642-03317-9_10
+fse/fse2009,2009,Block Ciphers Analysis,New Cryptanalysis of Block Ciphers with Low Algebraic Degree.,Bing Sun;Longjiang Qu;Chao Li;,https://doi.org/10.1007/978-3-642-03317-9_11
+fse/fse2009,2009,Block Ciphers Analysis,Algebraic Techniques in Differential Cryptanalysis.,Martin R. Albrecht;Carlos Cid;,https://doi.org/10.1007/978-3-642-03317-9_12
+fse/fse2009,2009,Block Ciphers Analysis,Multidimensional Extension of Matsui's Algorithm 2.,Miia Hermelin;Joo Yeon Cho;Kaisa Nyberg;,https://doi.org/10.1007/978-3-642-03317-9_13
+fse/fse2009,2009,Hash Functions Analysis,Meet-in-the-Middle Attacks on SHA-3 Candidates.,Dmitry Khovratovich;Ivica Nikolic;Ralf-Philipp Weinmann;,https://doi.org/10.1007/978-3-642-03317-9_14
+fse/fse2009,2009,Hash Functions Analysis,Practical Collisions for EnRUPT.,Sebastiaan Indesteege;Bart Preneel;,https://doi.org/10.1007/978-3-642-03317-9_15
+fse/fse2009,2009,Hash Functions Analysis,The Rebound Attack: Cryptanalysis of Reduced Whirlpool and Grøstl.,Florian Mendel;Christian Rechberger;Martin Schläffer;Søren S. Thomsen;,https://doi.org/10.1007/978-3-642-03317-9_16
+fse/fse2009,2009,Block Ciphers,Revisiting the IDEA Philosophy.,Pascal Junod;Marco Macchetti;,https://doi.org/10.1007/978-3-642-03317-9_17
+fse/fse2009,2009,Block Ciphers,Cryptanalysis of the ISDB Scrambling Algorithm (MULTI2).,Jean-Philippe Aumasson;Jorge Nakahara Jr.;Pouyan Sepehrdad;,https://doi.org/10.1007/978-3-642-03317-9_18
+fse/fse2009,2009,Block Ciphers,Beyond-Birthday-Bound Security Based on Tweakable Block Cipher.,Kazuhiko Minematsu;,https://doi.org/10.1007/978-3-642-03317-9_19
+fse/fse2009,2009,Theory of Symmetric Key,Enhanced Target Collision Resistant Hash Functions Revisited.,Mohammad Reza Reyhanitabar;Willy Susilo;Yi Mu;,https://doi.org/10.1007/978-3-642-03317-9_20
+fse/fse2009,2009,Message Authentication Codes,MAC Reforgeability.,John Black;Martin Cochran;,https://doi.org/10.1007/978-3-642-03317-9_21
+fse/fse2009,2009,Message Authentication Codes,New Distinguishing Attack on MAC Using Secret-Prefix Method.,Xiaoyun Wang;Wei Wang;Keting Jia;Meiqin Wang;,https://doi.org/10.1007/978-3-642-03317-9_22
+fse/fse2009,2009,Message Authentication Codes,Fast and Secure CBC-Type MAC Algorithms.,Mridul Nandi;,https://doi.org/10.1007/978-3-642-03317-9_23
+fse/fse2009,2009,Message Authentication Codes,HBS: A Single-Key Mode of Operation for Deterministic Authenticated Encryption.,Tetsu Iwata;Kan Yasuda;,https://doi.org/10.1007/978-3-642-03317-9_24

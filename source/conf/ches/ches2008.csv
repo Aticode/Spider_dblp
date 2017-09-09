@@ -1,0 +1,29 @@
+ches/ches2008,2008,Side-Channel Analysis 1,Attack and Improvement of a Secure S-Box Calculation Based on the Fourier Transform.,Jean-Sébastien Coron;Christophe Giraud;Emmanuel Prouff;Matthieu Rivain;,https://doi.org/10.1007/978-3-540-85053-3_1
+ches/ches2008,2008,Side-Channel Analysis 1,Collision-Based Power Analysis of Modular Exponentiation Using Chosen-Message Pairs.,Naofumi Homma;Atsushi Miyamoto;Takafumi Aoki;Akashi Satoh;Adi Shamir;,https://doi.org/10.1007/978-3-540-85053-3_2
+ches/ches2008,2008,Side-Channel Analysis 1,Multiple-Differential Side-Channel Collision Attacks on AES.,Andrey Bogdanov;,https://doi.org/10.1007/978-3-540-85053-3_3
+ches/ches2008,2008,Implementations 1,Time-Area Optimized Public-Key Engines: -Cryptosystems as Replacement for Elliptic Curves?.,Andrey Bogdanov;Thomas Eisenbarth;Andy Rupp;Christopher Wolf;,https://doi.org/10.1007/978-3-540-85053-3_4
+ches/ches2008,2008,Implementations 1,Ultra High Performance ECC over NIST Primes on Commercial FPGAs.,Tim Güneysu;Christof Paar;,https://doi.org/10.1007/978-3-540-85053-3_5
+ches/ches2008,2008,Implementations 1,Exploiting the Power of GPUs for Asymmetric Cryptography.,Robert Szerwinski;Tim Güneysu;,https://doi.org/10.1007/978-3-540-85053-3_6
+ches/ches2008,2008,Fault Analysis 1,High-Performance Concurrent Error Detection Scheme for AES Hardware.,Akashi Satoh;Takeshi Sugawara;Naofumi Homma;Takafumi Aoki;,https://doi.org/10.1007/978-3-540-85053-3_7
+ches/ches2008,2008,Fault Analysis 1,A Lightweight Concurrent Fault Detection Scheme for the AES S-Boxes Using Normal Basis.,Mehran Mozaffari Kermani;Arash Reyhani-Masoleh;,https://doi.org/10.1007/978-3-540-85053-3_8
+ches/ches2008,2008,Fault Analysis 1,RSA with CRT: A New Cost-Effective Solution to Thwart Fault Attacks.,David Vigilant;,https://doi.org/10.1007/978-3-540-85053-3_9
+ches/ches2008,2008,Random Number Generation,A Design for a Physical RNG with Robust Entropy Estimators.,Wolfgang Killmann;Werner Schindler;,https://doi.org/10.1007/978-3-540-85053-3_10
+ches/ches2008,2008,Random Number Generation,Fast Digital TRNG Based on Metastable Ring Oscillator.,Ihor Vasyltsov;Eduard Hambardzumyan;Young-Sik Kim;Bohdan Karpinskyy;,https://doi.org/10.1007/978-3-540-85053-3_11
+ches/ches2008,2008,Random Number Generation,Efficient Helper Data Key Extractor on FPGAs.,Christoph Bösch;Jorge Guajardo;Ahmad-Reza Sadeghi;Jamshid Shokrollahi;Pim Tuyls;,https://doi.org/10.1007/978-3-540-85053-3_12
+ches/ches2008,2008,Side-Channel Analysis 2,The Carry Leakage on the Randomized Exponent Countermeasure.,Pierre-Alain Fouque;Denis Réal;Frédéric Valette;M'hamed Drissi;,https://doi.org/10.1007/978-3-540-85053-3_13
+ches/ches2008,2008,Side-Channel Analysis 2,Recovering Secret Keys from Weak Side Channel Traces of Differing Lengths.,Colin D. Walter;,https://doi.org/10.1007/978-3-540-85053-3_14
+ches/ches2008,2008,Side-Channel Analysis 2,Attacking State-of-the-Art Software Countermeasures-A Case Study for AES.,Stefan Tillich;Christoph Herbst;,https://doi.org/10.1007/978-3-540-85053-3_15
+ches/ches2008,2008,Cryptography and Cryptanalysis,Binary Edwards Curves.,Daniel J. Bernstein;Tanja Lange;Reza Rezaeian Farashahi;,https://doi.org/10.1007/978-3-540-85053-3_16
+ches/ches2008,2008,Cryptography and Cryptanalysis,A Real-World Attack Breaking A5/1 within Hours.,Timo Gendrullis;Martin Novotný;Andy Rupp;,https://doi.org/10.1007/978-3-540-85053-3_17
+ches/ches2008,2008,Cryptography and Cryptanalysis,Hash Functions and RFID Tags: Mind the Gap.,Andrey Bogdanov;Gregor Leander;Christof Paar;Axel Poschmann;Matthew J. B. Robshaw;Yannick Seurin;,https://doi.org/10.1007/978-3-540-85053-3_18
+ches/ches2008,2008,Implementations 2,A New Bit-Serial Architecture for Field Multiplication Using Polynomial Bases.,Arash Reyhani-Masoleh;,https://doi.org/10.1007/978-3-540-85053-3_19
+ches/ches2008,2008,Implementations 2,A Very Compact Hardware Implementation of the MISTY1 Block Cipher.,Dai Yamamoto;Jun Yajima;Kouichi Itoh;,https://doi.org/10.1007/978-3-540-85053-3_20
+ches/ches2008,2008,Implementations 2,Light-Weight Instruction Set Extensions for Bit-Sliced Cryptography.,Philipp Grabher;Johann Großschädl;Dan Page;,https://doi.org/10.1007/978-3-540-85053-3_21
+ches/ches2008,2008,Fault Analysis 2,Power and Fault Analysis Resistance in Hardware through Dynamic Reconfiguration.,Nele Mentens;Benedikt Gierlichs;Ingrid Verbauwhede;,https://doi.org/10.1007/978-3-540-85053-3_22
+ches/ches2008,2008,Fault Analysis 2,RFID and Its Vulnerability to Faults.,Michael Hutter;Jörn-Marc Schmidt;Thomas Plos;,https://doi.org/10.1007/978-3-540-85053-3_23
+ches/ches2008,2008,Fault Analysis 2,Perturbating RSA Public Keys: An Improved Attack.,Alexandre Berzati;Cécile Canovas;Louis Goubin;,https://doi.org/10.1007/978-3-540-85053-3_24
+ches/ches2008,2008,Side-Channel Analysis 3,Divided Backend Duplication Methodology for Balanced Dual Rail Routing.,Karthik Baddam;Mark Zwolinski;,https://doi.org/10.1007/978-3-540-85053-3_25
+ches/ches2008,2008,Side-Channel Analysis 3,Using Subspace-Based Template Attacks to Compare and Combine Power and Electromagnetic Information Leakages.,François-Xavier Standaert;Cédric Archambeau;,https://doi.org/10.1007/978-3-540-85053-3_26
+ches/ches2008,2008,Side-Channel Analysis 3,Mutual Information Analysis.,Benedikt Gierlichs;Lejla Batina;Pim Tuyls;Bart Preneel;,https://doi.org/10.1007/978-3-540-85053-3_27
+ches/ches2008,2008,Invited Talks,"RSA-Past, Present, Future.",Adi Shamir;,https://doi.org/10.1007/978-3-540-85053-3_28
+ches/ches2008,2008,Invited Talks,A Vision for Platform Security.,Ernie Brickell;,https://doi.org/10.1007/978-3-540-85053-3_29

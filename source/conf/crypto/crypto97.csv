@@ -1,0 +1,37 @@
+crypto/crypto97,1997,Complexity Theory,The Complexity of Computing Hard Core Predicates.,Mikael Goldmann;Mats Näslund;,https://doi.org/10.1007/BFb0052224
+crypto/crypto97,1997,Complexity Theory,Statistical Zero Knowledge Protocols to Prove Modular Polynomial Relations.,Eiichiro Fujisaki;Tatsuaki Okamoto;,https://doi.org/10.1007/BFb0052225
+crypto/crypto97,1997,Complexity Theory,Keeping the SZK-Verifier Honest Unconditionally.,Giovanni Di Crescenzo;Tatsuaki Okamoto;Moti Yung;,https://doi.org/10.1007/BFb0052226
+crypto/crypto97,1997,Invited Lecture,On the Foundations of Modern Cryptography.,Oded Goldreich;,https://doi.org/10.1007/BFb0052227
+crypto/crypto97,1997,Cryptographic Primitives,Plug and Play Encryption.,Donald Beaver;,https://doi.org/10.1007/BFb0052228
+crypto/crypto97,1997,Cryptographic Primitives,Deniable Encryption.,Ran Canetti;Cynthia Dwork;Moni Naor;Rafail Ostrovsky;,https://doi.org/10.1007/BFb0052229
+crypto/crypto97,1997,Lattice-Based Cryptography,Eliminating Decryption Errors in the Ajtai-Dwork Cryptosystem.,Oded Goldreich;Shafi Goldwasser;Shai Halevi;,https://doi.org/10.1007/BFb0052230
+crypto/crypto97,1997,Lattice-Based Cryptography,Public-Key Cryptosystems from Lattice Reduction Problems.,Oded Goldreich;Shafi Goldwasser;Shai Halevi;,https://doi.org/10.1007/BFb0052231
+crypto/crypto97,1997,Digital Signatures,RSA-Based Undeniable Signatures.,Rosario Gennaro;Hugo Krawczyk;Tal Rabin;,https://doi.org/10.1007/BFb0052232
+crypto/crypto97,1997,Digital Signatures,Security of Blind Digital Signatures (Extended Abstract).,Ari Juels;Michael Luby;Rafail Ostrovsky;,https://doi.org/10.1007/BFb0052233
+crypto/crypto97,1997,Digital Signatures,Digital Signcryption or How to Achieve Cost(Signature & Encryption) << Cost(Signature) + Cost(Encryption).,Yuliang Zheng;,https://doi.org/10.1007/BFb0052234
+crypto/crypto97,1997,Digital Signatures,How to Sign Digital Streams.,Rosario Gennaro;Pankaj Rohatgi;,https://doi.org/10.1007/BFb0052235
+crypto/crypto97,1997,Cryptanalysis of Public-Key Cryptosystems (I),Merkle-Hellman Revisited: A Cryptanalysis of the Qu-Vanstone Cryptosystem Based on Group Factorizations.,Phong Q. Nguyen;Jacques Stern;,https://doi.org/10.1007/BFb0052236
+crypto/crypto97,1997,Cryptanalysis of Public-Key Cryptosystems (I),Failure of the McEliece Public-Key Cryptosystem Under Message-Resend and Related-Message Attack.,Thomas A. Berson;,https://doi.org/10.1007/BFb0052237
+crypto/crypto97,1997,Cryptanalysis of Public-Key Cryptosystems (I),A Multiplicative Attack Using LLL Algorithm on RSA Signatures with Redundancy.,Jean-François Misarsky;,https://doi.org/10.1007/BFb0052238
+crypto/crypto97,1997,Cryptanalysis of Public-Key Cryptosystems (II),On the Security of the KMOV Public Key Cryptosystem.,Daniel Bleichenbacher;,https://doi.org/10.1007/BFb0052239
+crypto/crypto97,1997,Cryptanalysis of Public-Key Cryptosystems (II),A Key Recovery Attack on Discrete Log-based Schemes Using a Prime Order Subgroupp.,Chae Hoon Lim;Pil Joong Lee;,https://doi.org/10.1007/BFb0052240
+crypto/crypto97,1997,Cryptanalysis of Public-Key Cryptosystems (II),The Prevalence of Kleptographic Attacks on Discrete-Log Based Cryptosystems.,Adam L. Young;Moti Yung;,https://doi.org/10.1007/BFb0052241
+crypto/crypto97,1997,Cryptanalysis of Public-Key Cryptosystems (II),"""Pseudo-Random"" Number Generation Within Cryptographic Algorithms: The DDS Case.",Mihir Bellare;Shafi Goldwasser;Daniele Micciancio;,https://doi.org/10.1007/BFb0052242
+crypto/crypto97,1997,Information Theory,Unconditional Security Against Memory-Bounded Adversaries.,Christian Cachin;Ueli M. Maurer;,https://doi.org/10.1007/BFb0052243
+crypto/crypto97,1997,Information Theory,Privacy Amplification Secure Against Active Adversaries.,Ueli M. Maurer;Stefan Wolf;,https://doi.org/10.1007/BFb0052244
+crypto/crypto97,1997,Information Theory,Visual Authentication and Identification.,Moni Naor;Benny Pinkas;,https://doi.org/10.1007/BFb0052245
+crypto/crypto97,1997,Invited Lecture,"Quantum Information Processing: The Good, the Bad and the Ugly.",Gilles Brassard;,https://doi.org/10.1007/BFb0052246
+crypto/crypto97,1997,Elliptic Curve Implementation,Efficient Algorithms for Elliptic Curve Cryptosystems.,Jorge Guajardo;Christof Paar;,https://doi.org/10.1007/BFb0052247
+crypto/crypto97,1997,Elliptic Curve Implementation,An Improved Algorithm for Arithmetic on a Family of Elliptic Curves.,Jerome A. Solinas;,https://doi.org/10.1007/BFb0052248
+crypto/crypto97,1997,Number-Theoretic Systems,Fast RSA-Type Cryptosystems Using N-Adic Expansion.,Tsuyoshi Takagi;,https://doi.org/10.1007/BFb0052249
+crypto/crypto97,1997,Number-Theoretic Systems,A One Way Function Based on Ideal Arithmetic in Number Fields.,Johannes A. Buchmann;Sachar Paulus;,https://doi.org/10.1007/BFb0052250
+crypto/crypto97,1997,Distributed Cryptography,Efficient Anonymous Multicast and Reception (Extended Abstract).,Shlomi Dolev;Rafail Ostrovsky;,https://doi.org/10.1007/BFb0052251
+crypto/crypto97,1997,Distributed Cryptography,Efficient Group Signature Schemes for Large Groups (Extended Abstract).,Jan Camenisch;Markus Stadler;,https://doi.org/10.1007/BFb0052252
+crypto/crypto97,1997,Distributed Cryptography,Efficient Generation of Shared RSA Keys (Extended Abstract).,Dan Boneh;Matthew K. Franklin;,https://doi.org/10.1007/BFb0052253
+crypto/crypto97,1997,Distributed Cryptography,Proactive RSA.,Yair Frankel;Peter Gemmell;Philip D. MacKenzie;Moti Yung;,https://doi.org/10.1007/BFb0052254
+crypto/crypto97,1997,Hash Functions,Towards Realizing Random Oracles: Hash Functions That Hide All Partial Information.,Ran Canetti;,https://doi.org/10.1007/BFb0052255
+crypto/crypto97,1997,Hash Functions,Collision-Resistant Hashing: Towards Making UOWHFs Practical.,Mihir Bellare;Phillip Rogaway;,https://doi.org/10.1007/BFb0052256
+crypto/crypto97,1997,Hash Functions,Fast and Secure Hashing Based on Codes.,Lars R. Knudsen;Bart Preneel;,https://doi.org/10.1007/BFb0052257
+crypto/crypto97,1997,Cryptanalysis of Secret-Key Cryptosystems,Edit Distance Correlation Attack on the Alternating Step Generator.,Jovan Dj. Golic;Renato Menicocci;,https://doi.org/10.1007/BFb0052258
+crypto/crypto97,1997,Cryptanalysis of Secret-Key Cryptosystems,Differential Fault Analysis of Secret Key Cryptosystems.,Eli Biham;Adi Shamir;,https://doi.org/10.1007/BFb0052259
+crypto/crypto97,1997,Cryptanalysis of Secret-Key Cryptosystems,Cryptanalysis of the Cellular Encryption Algorithm.,David A. Wagner;Bruce Schneier;John Kelsey;,https://doi.org/10.1007/BFb0052260

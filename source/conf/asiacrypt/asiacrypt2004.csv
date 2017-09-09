@@ -1,0 +1,37 @@
+asiacrypt/asiacrypt2004,2004,Block Ciphers,On Feistel Ciphers Using Optimal Diffusion Mappings Across Multiple Rounds.,Taizo Shirai;Bart Preneel;,https://doi.org/10.1007/978-3-540-30539-2_1
+asiacrypt/asiacrypt2004,2004,Block Ciphers,Efficient Instantiations of Tweakable Blockciphers and Refinements to Modes OCB and PMAC.,Phillip Rogaway;,https://doi.org/10.1007/978-3-540-30539-2_2
+asiacrypt/asiacrypt2004,2004,Block Ciphers,Eliminating Random Permutation Oracles in the Even-Mansour Cipher.,Craig Gentry;Zulfikar Ramzan;,https://doi.org/10.1007/978-3-540-30539-2_3
+asiacrypt/asiacrypt2004,2004,Public Key Encryption,Towards Plaintext-Aware Public-Key Encryption Without Random Oracles.,Mihir Bellare;Adriana Palacio;,https://doi.org/10.1007/978-3-540-30539-2_4
+asiacrypt/asiacrypt2004,2004,Public Key Encryption,OAEP 3-Round: A Generic and Secure Asymmetric Encryption Padding.,Duong Hieu Phan;David Pointcheval;,https://doi.org/10.1007/978-3-540-30539-2_5
+asiacrypt/asiacrypt2004,2004,Invited Talk,Stream Ciphers: Dead or Alive?,Adi Shamir;,https://doi.org/10.1007/978-3-540-30539-2_6
+asiacrypt/asiacrypt2004,2004,Number Theory and Algebra,On the Generalized Linear Equivalence of Functions Over Finite Fields.,Luca Breveglieri;Alessandra Cherubini;Marco Macchetti;,https://doi.org/10.1007/978-3-540-30539-2_7
+asiacrypt/asiacrypt2004,2004,Number Theory and Algebra,Sieving Using Bucket Sort.,Kazumaro Aoki;Hiroki Ueda;,https://doi.org/10.1007/978-3-540-30539-2_8
+asiacrypt/asiacrypt2004,2004,Number Theory and Algebra,Right-Invariance: A Property for Probabilistic Analysis of Cryptography Based on Infinite Groups.,Eonkyung Lee;,https://doi.org/10.1007/978-3-540-30539-2_9
+asiacrypt/asiacrypt2004,2004,Secure Computation,Practical Two-Party Computation Based on the Conditional Gate.,Berry Schoenmakers;Pim Tuyls;,https://doi.org/10.1007/978-3-540-30539-2_10
+asiacrypt/asiacrypt2004,2004,Secure Computation,Privacy in Non-private Environments.,Markus Bläser;Andreas Jakoby;Maciej Liskiewicz;Bodo Manthey;,https://doi.org/10.1007/978-3-540-30539-2_11
+asiacrypt/asiacrypt2004,2004,Secure Computation,Asynchronous Proactive Cryptosystems Without Agreement (Extended Abstract).,Bartosz Przydatek;Reto Strobl;,https://doi.org/10.1007/978-3-540-30539-2_12
+asiacrypt/asiacrypt2004,2004,Secure Computation,Lattice-Based Threshold-Changeability for Standard Shamir Secret-Sharing Schemes.,Ron Steinfeld;Huaxiong Wang;Josef Pieprzyk;,https://doi.org/10.1007/978-3-540-30539-2_13
+asiacrypt/asiacrypt2004,2004,Hash Functions,Masking Based Domain Extenders for UOWHFs: Bounds and Constructions.,Palash Sarkar;,https://doi.org/10.1007/978-3-540-30539-2_14
+asiacrypt/asiacrypt2004,2004,Hash Functions,Higher Order Universal One-Way Hash Functions.,Deukjo Hong;Bart Preneel;Sangjin Lee;,https://doi.org/10.1007/978-3-540-30539-2_15
+asiacrypt/asiacrypt2004,2004,Hash Functions,The MD2 Hash Function Is Not One-Way.,Frédéric Muller;,https://doi.org/10.1007/978-3-540-30539-2_16
+asiacrypt/asiacrypt2004,2004,Key Management,New Approaches to Password Authenticated Key Exchange Based on RSA.,Muxiang Zhang;,https://doi.org/10.1007/978-3-540-30539-2_17
+asiacrypt/asiacrypt2004,2004,Key Management,Constant-Round Authenticated Group Key Exchange for Dynamic Groups.,Hyun-Jeong Kim;Su-Mi Lee;Dong Hoon Lee;,https://doi.org/10.1007/978-3-540-30539-2_18
+asiacrypt/asiacrypt2004,2004,Key Management,A Public-Key Black-Box Traitor Tracing Scheme with Sublinear Ciphertext Size Against Self-Defensive Pirates.,Tatsuyuki Matsushita;Hideki Imai;,https://doi.org/10.1007/978-3-540-30539-2_19
+asiacrypt/asiacrypt2004,2004,Identification,Batching Schnorr Identification Scheme with Applications to Privacy-Preserving Authorization and Low-Bandwidth Communication Devices.,Rosario Gennaro;Darren Leigh;Ravi Sundaram;William S. Yerazunis;,https://doi.org/10.1007/978-3-540-30539-2_20
+asiacrypt/asiacrypt2004,2004,Identification,Secret Handshakes from CA-Oblivious Encryption.,Claude Castelluccia;Stanislaw Jarecki;Gene Tsudik;,https://doi.org/10.1007/978-3-540-30539-2_21
+asiacrypt/asiacrypt2004,2004,Identification,k-Times Anonymous Authentication (Extended Abstract).,Isamu Teranishi;Jun Furukawa;Kazue Sako;,https://doi.org/10.1007/978-3-540-30539-2_22
+asiacrypt/asiacrypt2004,2004,XL-Algorithms,The XL-Algorithm and a Conjecture from Commutative Algebra.,Claus Diem;,https://doi.org/10.1007/978-3-540-30539-2_23
+asiacrypt/asiacrypt2004,2004,XL-Algorithms,Comparison Between XL and Gröbner Basis Algorithms.,Gwénolé Ars;Jean-Charles Faugère;Hideki Imai;Mitsuru Kawazoe;Makoto Sugita;,https://doi.org/10.1007/978-3-540-30539-2_24
+asiacrypt/asiacrypt2004,2004,Digital Signatures,Generic Homomorphic Undeniable Signatures.,Jean Monnerat;Serge Vaudenay;,https://doi.org/10.1007/978-3-540-30539-2_25
+asiacrypt/asiacrypt2004,2004,Digital Signatures,Efficient and Provably Secure Trapdoor-Free Group Signature Schemes from Bilinear Pairings.,Lan Nguyen;Reihaneh Safavi-Naini;,https://doi.org/10.1007/978-3-540-30539-2_26
+asiacrypt/asiacrypt2004,2004,Public Key Cryptanalysis,On the Security of MOR Public Key Cryptosystem.,In-Sok Lee;Woo-Hwan Kim;Daesung Kwon;Sangil Nahm;Nam-Seok Kwak;Yoo-Jin Baek;,https://doi.org/10.1007/978-3-540-30539-2_27
+asiacrypt/asiacrypt2004,2004,Public Key Cryptanalysis,Cryptanalyzing the Polynomial-Reconstruction Based Public-Key System Under Optimal Parameter Choice.,Aggelos Kiayias;Moti Yung;,https://doi.org/10.1007/978-3-540-30539-2_28
+asiacrypt/asiacrypt2004,2004,Public Key Cryptanalysis,Colluding Attacks to a Payment Protocol and Two Signature Exchange Schemes.,Feng Bao;,https://doi.org/10.1007/978-3-540-30539-2_29
+asiacrypt/asiacrypt2004,2004,Invited Talk,Information Security in Korea IT839 Strategy.,Ho-Ick Suk;,https://doi.org/10.1007/978-3-540-30539-2_30
+asiacrypt/asiacrypt2004,2004,Symmetric Key Cryptanalysis,How Far Can We Go Beyond Linear Cryptanalysis?,Thomas Baignères;Pascal Junod;Serge Vaudenay;,https://doi.org/10.1007/978-3-540-30539-2_31
+asiacrypt/asiacrypt2004,2004,Symmetric Key Cryptanalysis,The Davies-Murphy Power Attack.,Sébastien Kunz-Jacques;Frédéric Muller;Frédéric Valette;,https://doi.org/10.1007/978-3-540-30539-2_32
+asiacrypt/asiacrypt2004,2004,Symmetric Key Cryptanalysis,Time-Memory Trade-Off Attacks on Multiplications and T-Functions.,Joydip Mitra;Palash Sarkar;,https://doi.org/10.1007/978-3-540-30539-2_33
+asiacrypt/asiacrypt2004,2004,Symmetric Key Cryptanalysis,Cryptanalysis of Bluetooth Keystream Generator Two-Level E0.,Yi Lu;Serge Vaudenay;,https://doi.org/10.1007/978-3-540-30539-2_34
+asiacrypt/asiacrypt2004,2004,Protocols,On Provably Secure Time-Stamping Schemes.,Ahto Buldas;Märt Saarepera;,https://doi.org/10.1007/978-3-540-30539-2_35
+asiacrypt/asiacrypt2004,2004,Protocols,Strong Conditional Oblivious Transfer and Computing on Intervals.,Ian F. Blake;Vladimir Kolesnikov;,https://doi.org/10.1007/978-3-540-30539-2_36
+asiacrypt/asiacrypt2004,2004,Protocols,Improved Setup Assumptions for 3-Round Resettable Zero Knowledge.,Giovanni Di Crescenzo;Giuseppe Persiano;Ivan Visconti;,https://doi.org/10.1007/978-3-540-30539-2_37

@@ -1,0 +1,35 @@
+srds/srds2001,2001,Replication,Optimizing File Availability in a Secure Serverless Distributed File System.,John R. Douceur;Roger Wattenhofer;,https://doi.org/10.1109/RELDIS.2001.969727
+srds/srds2001,2001,Replication,Primary-Backup Replication: From a Time-Free Protocol to a Time-Based Implementation.,Rui Carlos Oliveira;José Orlando Pereira;André Schiper;,https://doi.org/10.1109/RELDIS.2001.969730
+srds/srds2001,2001,Replication,"How to Select a Replication Protocol According to Scalability, Availability, and Communication Overhead.",Ricardo Jiménez-Peris;Marta Patiño-Martínez;Bettina Kemme;Gustavo Alonso;,https://doi.org/10.1109/RELDIS.2001.969732
+srds/srds2001,2001,Recovery,Quantifying Rollback Propagation in Distributed Checkpointing.,Adnan Agbaria;Hagit Attiya;Roy Friedman;Roman Vitenberg;,https://doi.org/10.1109/RELDIS.2001.969737
+srds/srds2001,2001,Recovery,Continental Pronto.,Svend Frølund;Fernando Pedone;,https://doi.org/10.1109/RELDIS.2001.969740
+srds/srds2001,2001,Recovery,Compiler-Assisted Heterogeneous Checkpointing.,Feras Karablieh;Rida A. Bazzi;Margaret Hicks;,https://doi.org/10.1109/RELDIS.2001.969743
+srds/srds2001,2001,Panel 1: Reliability and Security in Distributed and Mobile Systems,Applying Fault-Tolerance Principles to Security Research.,Anjali Bhargava;Bharat K. Bhargava;,https://doi.org/10.1109/RELDIS.2001.969746
+srds/srds2001,2001,Panel 1: Reliability and Security in Distributed and Mobile Systems,The Challenge of Creating Productive Collaborating Information Assurance Communities via Internet Research and Standards.,Joseph Betser;,https://doi.org/10.1109/RELDIS.2001.969749
+srds/srds2001,2001,Panel 1: Reliability and Security in Distributed and Mobile Systems,Can Reliability and Security be Joined Reliably and Securely?.,Kevin A. Kwiat;,https://doi.org/10.1109/RELDIS.2001.969750
+srds/srds2001,2001,Panel 1: Reliability and Security in Distributed and Mobile Systems,Incorporation of Security and Fault Tolerance Mechanisms into Real-Time Component-Based Distributed Computing Systems.,K. H. Kim;,https://doi.org/10.1109/RELDIS.2001.969752
+srds/srds2001,2001,Panel 1: Reliability and Security in Distributed and Mobile Systems,Research in High-Confidence Distributed Information Systems.,Mukesh Singhal;,https://doi.org/10.1109/RELDIS.2001.969753
+srds/srds2001,2001,Security,Detecting Heap Smashing Attacks through Fault Containment Wrappers.,Christof Fetzer;Zhen Xiao;,https://doi.org/10.1109/RELDIS.2001.969756
+srds/srds2001,2001,Security,Efficient Update Diffusion in Byzantine Environments.,Dahlia Malkhi;Ohad Rodeh;Michael K. Reiter;Yaron Sella;,https://doi.org/10.1109/RELDIS.2001.969758
+srds/srds2001,2001,Security,An Analytical Framework for Reasoning about Intrusions.,Shambhu J. Upadhyaya;Ramkumar Chinchani;Kevin A. Kwiat;,https://doi.org/10.1109/RELDIS.2001.969760
+srds/srds2001,2001,Agreement Protocols,Optimistic Validation of Electronic Tickets.,Fernando Pedone;,https://doi.org/10.1109/RELDIS.2001.969763
+srds/srds2001,2001,Agreement Protocols,A Consensus Protocol Based on a Weak FailureDetector and a Sliding Round Window.,Michel Hurfin;Achour Mostéfaoui;Michel Raynal;Raimundo A. Macêdo;,https://doi.org/10.1109/RELDIS.2001.969766
+srds/srds2001,2001,Agreement Protocols,Polynomial Time Synthesis of Byzantine Agreement.,Sandeep S. Kulkarni;Anish Arora;Arun Chippada;,https://doi.org/10.1109/RELDIS.2001.969767
+srds/srds2001,2001,Application Level Fault Tolerance,Looking Ahead in Atomic Actions with Exception Handling.,Alexander B. Romanovsky;,https://doi.org/10.1109/RELDIS.2001.969768
+srds/srds2001,2001,Application Level Fault Tolerance,Assessing Inter-Modular Error Propagation in Distributed Software.,Arshad Jhumka;Martin Hiller;Neeraj Suri;,https://doi.org/10.1109/RELDIS.2001.969769
+srds/srds2001,2001,Application Level Fault Tolerance,Designing a Robust Namespace for Distributed File Services.,Zheng Zhang;Christos T. Karamanolis;,https://doi.org/10.1109/RELDIS.2001.969770
+srds/srds2001,2001,Panel 2: Building Reliable Systems from COTS Components,High-Quality Customizable Embedded Software from COTS Components.,Farokh B. Bastani;,https://doi.org/10.1109/RELDIS.2001.969771
+srds/srds2001,2001,Panel 2: Building Reliable Systems from COTS Components,Application of Commercial-Grade Digital Equipment in Nuclear Power Plant Safety Systems.,Matthew Chiramal;,https://doi.org/10.1109/RELDIS.2001.969772
+srds/srds2001,2001,Panel 2: Building Reliable Systems from COTS Components,Why Is It So Hard to Predict Software System Trustworthiness from Software Component Trustworthiness?.,Jeffrey M. Voas;,https://doi.org/10.1109/RELDIS.2001.969773
+srds/srds2001,2001,Concise Contributions,Message Logging Optimization for Wireless Networks.,Bin Yao;W. Kent Fuchs;,https://doi.org/10.1109/RELDIS.2001.969774
+srds/srds2001,2001,Concise Contributions,Reducing Noise in Gossip-Based Reliable Broadcast.,Petr Kouznetsov;Rachid Guerraoui;Sidath B. Handurukande;Anne-Marie Kermarrec;,https://doi.org/10.1109/RELDIS.2001.969775
+srds/srds2001,2001,Concise Contributions,Chasing the FLP Impossibility Result in a LAN or How Robust Can a Fault Tolerant Server Be?.,Péter Urbán;Xavier Défago;André Schiper;,https://doi.org/10.1109/RELDIS.2001.970767
+srds/srds2001,2001,Concise Contributions,Consensus with Written Messages Under Link Faults.,Bettina Weiss;Ulrich Schmid;,https://doi.org/10.1109/RELDIS.2001.970768
+srds/srds2001,2001,Concise Contributions,Efficient TDMA Synchronization for Distributed Embedded Systems.,Vilgot Claesson;Henrik Lönn;Neeraj Suri;,https://doi.org/10.1109/RELDIS.2001.970769
+srds/srds2001,2001,Concise Contributions,Efficient Recovery Information Management Schemes for the Fault Tolerant Mobile Computing Systems.,Taesoon Park;Namyoon Woo;Heon Young Yeom;,https://doi.org/10.1109/RELDIS.2001.970770
+srds/srds2001,2001,QoS and Real-Time Systems,Using the Timely Computing Base for Dependable QoS Adaptation.,Antonio Casimiro;Paulo Veríssimo;,https://doi.org/10.1109/RELDIS.2001.970771
+srds/srds2001,2001,QoS and Real-Time Systems,A Microkernel Middleware Architecture for Distributed Embedded Real-Time Systems.,Uwe Brinkschulte;Aurelie Bechina;Florentin Picioroaga;Etienne Schneider;Theo Ungerer;Jochen Kreuzinger;Matthias Pfeffer;,https://doi.org/10.1109/RELDIS.2001.970772
+srds/srds2001,2001,QoS and Real-Time Systems,Performance Analysis of the CORBA Notification Service .,Srinivasan Ramani;Kishor S. Trivedi;Balakrishnan Dasarathy;,https://doi.org/10.1109/RELDIS.2001.970773
+srds/srds2001,2001,Mobile Systems,Reliable Real-Time Cooperation of Mobile Autonomous Systems.,Stefan Schemmer;Edgar Nett;Michael Mock;,https://doi.org/10.1109/RELDIS.2001.970774
+srds/srds2001,2001,Mobile Systems,On the Effectiveness of a Counter-Based Cache Invalidation Scheme and Its Resiliency to Failures in Mobile Environments.,Guohong Cao;Chita R. Das;,https://doi.org/10.1109/RELDIS.2001.970775
+srds/srds2001,2001,Mobile Systems,Comparison-Based System-Level Fault Diagnosis in Ad Hoc Networks.,Stefano Chessa;Paolo Santi;,https://doi.org/10.1109/RELDIS.2001.970776

@@ -1,0 +1,30 @@
+ccs/ccs1993,1993,None,Does Licensing Require New Access Control Techniques?,Ralf C. Hauser;,http://doi.acm.org/10.1145/168588.168589
+ccs/ccs1993,1993,None,A Cryptographic File System for UNIX.,Matt Blaze;,http://doi.acm.org/10.1145/168588.168590
+ccs/ccs1993,1993,None,A Particular Solution to Provide Secure Communications in an Ethernet Environment.,Miguel Soriano;Jordi Forné;Francisco Recacha;José L. Melús;,http://doi.acm.org/10.1145/168588.168591
+ccs/ccs1993,1993,None,Lower Bounds on Messages and Rounds for Network Authentication Protocols.,Li Gong;,http://doi.acm.org/10.1145/168588.168592
+ccs/ccs1993,1993,None,Optimality of Multi-Domain Protocols.,Raphael Yahalom;,http://doi.acm.org/10.1145/168588.168593
+ccs/ccs1993,1993,None,On Simple and Secure Key Distribution.,Gene Tsudik;Els Van Herreweghen;,http://doi.acm.org/10.1145/168588.168594
+ccs/ccs1993,1993,None,A New Signature Scheme Based on the DSA Giving Message Recovery.,Kaisa Nyberg;Rainer A. Rueppel;,http://doi.acm.org/10.1145/168588.168595
+ccs/ccs1993,1993,None,Random Oracles are Practical: A Paradigm for Designing Efficient Protocols.,Mihir Bellare;Phillip Rogaway;,http://doi.acm.org/10.1145/168588.168596
+ccs/ccs1993,1993,None,Sorting Out Signature Schemes.,Birgit Pfitzmann;,http://doi.acm.org/10.1145/168588.168597
+ccs/ccs1993,1993,None,Digital Signatures: Can They be Accepted as Legal Signatures in EDI?,Patrick W. Brown;,http://doi.acm.org/10.1145/168588.168598
+ccs/ccs1993,1993,None,Design of the Commercial Data Masking Facility Data Privacy Algorithm.,Donald Byron Johnson;Stephen M. Matyas;An V. Le;John D. Wilkins;,http://doi.acm.org/10.1145/168588.168599
+ccs/ccs1993,1993,None,Adding Time to a Logic of Authentication.,Paul F. Syverson;,http://doi.acm.org/10.1145/168588.168600
+ccs/ccs1993,1993,None,NetCash: A Design for Practical Electronic Currency on the Internet.,Gennady Medvinsky;B. Clifford Neuman;,http://doi.acm.org/10.1145/168588.168601
+ccs/ccs1993,1993,None,Security Planning for Personal Communications.,Dan Brown;,http://doi.acm.org/10.1145/168588.168602
+ccs/ccs1993,1993,None,A Framework for Distributed Authorization.,Thomas Y. C. Woo;Simon S. Lam;,http://doi.acm.org/10.1145/168588.168603
+ccs/ccs1993,1993,None,"A Pump for Rapid, Reliable, Secure Communication.",Myong H. Kang;Ira S. Moskowitz;,http://doi.acm.org/10.1145/168588.168604
+ccs/ccs1993,1993,None,Authorizations in Relational Database Management Systems.,Elisa Bertino;Pierangela Samarati;Sushil Jajodia;,http://doi.acm.org/10.1145/168588.168605
+ccs/ccs1993,1993,None,High Assurance Discretionary Access Control for Object Bases.,Elisa Bertino;Pierangela Samarati;Sushil Jajodia;,http://doi.acm.org/10.1145/168588.168606
+ccs/ccs1993,1993,None,Denial of Service.,Roger M. Needham;,http://doi.acm.org/10.1145/168588.168607
+ccs/ccs1993,1993,None,Analysis of an Algorithm for Distributed Recognition and Accountability.,Calvin Ko;Deborah A. Frincke;Terrance Goan;Todd L. Heberlein;Karl N. Levitt;Biswanath Mukherjee;Christopher Wee;,http://doi.acm.org/10.1145/168588.168608
+ccs/ccs1993,1993,None,Integration of DCE and Local Registries: Design Approaches.,Ping Lin;C. Sekar Chandersekaran;,http://doi.acm.org/10.1145/168588.168609
+ccs/ccs1993,1993,None,Systematic Generation of Cryptographically Robust S-Boxes.,Jennifer Seberry;Xian-Mo Zhang;Yuliang Zheng;,http://doi.acm.org/10.1145/168588.168610
+ccs/ccs1993,1993,None,Differential Cryptanalysis of Hash Functions Based on Block Ciphers.,Bart Preneel;René Govaerts;Joos Vandewalle;,http://doi.acm.org/10.1145/168588.168611
+ccs/ccs1993,1993,None,Verifiable Secret Sharing for Monotone Access Structures.,Thomas Beth;Hans-Joachim Knobloch;Marcus Otten;,http://doi.acm.org/10.1145/168588.168612
+ccs/ccs1993,1993,None,Securing a Global Village and Its Resources: Baseline Security for Interconnected Signaling System #7 Telecommunications Networks.,Hank M. Kluepfel;,http://doi.acm.org/10.1145/168588.168613
+ccs/ccs1993,1993,None,Cryptanalysis and Protocol Failures (abstract).,Gustavus J. Simmons;,http://doi.acm.org/10.1145/168588.168614
+ccs/ccs1993,1993,None,Why Cryptosystems Fail.,Ross J. Anderson;,http://doi.acm.org/10.1145/168588.168615
+ccs/ccs1993,1993,None,"Towards Practical ""Proven Secure"" Authenticated Key Distribution.",Yvo Desmedt;Mike Burmester;,http://doi.acm.org/10.1145/168588.168616
+ccs/ccs1993,1993,None,Extending Cryptographic Logics of Belief to Key Agreement Protocols.,Paul C. van Oorschot;,http://doi.acm.org/10.1145/168588.168617
+ccs/ccs1993,1993,None,Augmented Encrypted Key Exchange: A Password-Based Protocol Secure against Dictionary Attacks and Password File Compromise.,Steven M. Bellovin;Michael Merritt;,http://doi.acm.org/10.1145/168588.168618

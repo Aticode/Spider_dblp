@@ -1,0 +1,32 @@
+asiacrypt/asiacrypt99,1999,Invited Talk,Modulus Search for Elliptic Curve Cryptosystems.,Kenji Koyama;Yukio Tsuruoka;Noboru Kunihiro;,https://doi.org/10.1007/978-3-540-48000-6_1
+asiacrypt/asiacrypt99,1999,Asymmetric Key Cryptosystems,On the Lai-Massey Scheme.,Serge Vaudenay;,https://doi.org/10.1007/978-3-540-48000-6_2
+asiacrypt/asiacrypt99,1999,Asymmetric Key Cryptosystems,On Cryptographically Secure Vectorial Boolean Functions.,Takashi Satoh;Tetsu Iwata;Kaoru Kurosawa;,https://doi.org/10.1007/978-3-540-48000-6_3
+asiacrypt/asiacrypt99,1999,Analysis,Equivalent Keys of HPC.,Carl D'Halluin;Gert Bijnens;Bart Preneel;Vincent Rijmen;,https://doi.org/10.1007/978-3-540-48000-6_4
+asiacrypt/asiacrypt99,1999,Analysis,Cryptanalysis of Five Rounds of CRYPTON Using Impossible Differentials.,Haruki Seki;Toshinobu Kaneko;,https://doi.org/10.1007/978-3-540-48000-6_5
+asiacrypt/asiacrypt99,1999,Analysis,Cryptanalysis of Two Cryptosystems Based on Group Actions.,Simon R. Blackburn;Steven D. Galbraith;,https://doi.org/10.1007/978-3-540-48000-6_6
+asiacrypt/asiacrypt99,1999,Analysis,Probabilistic Higher Order Differential Attack and Higher Order Bent Functions.,Tetsu Iwata;Kaoru Kurosawa;,https://doi.org/10.1007/978-3-540-48000-6_7
+asiacrypt/asiacrypt99,1999,Elliptic Curve Cryptosystems,Fast Algorithms for Elliptic Curve Cryptosystems over Binary Finite Field.,Yongfei Han;Peng-Chor Leong;Peng-Chong Tan;Jiang Zhang;,https://doi.org/10.1007/978-3-540-48000-6_8
+asiacrypt/asiacrypt99,1999,Elliptic Curve Cryptosystems,Optimizing the Menezes-Okamoto-Vanstone (MOV) Algorithm for Non-supersingular Elliptic Curves.,Junji Shikata;Yuliang Zheng;Joe Suzuki;Hideki Imai;,https://doi.org/10.1007/978-3-540-48000-6_9
+asiacrypt/asiacrypt99,1999,Elliptic Curve Cryptosystems,Speeding up the Discrete Log Computation on Curves with Automorphisms.,Iwan M. Duursma;Pierrick Gaudry;François Morain;,https://doi.org/10.1007/978-3-540-48000-6_10
+asiacrypt/asiacrypt99,1999,Elliptic Curve Cryptosystems,ECC: Do We Need to Count?,Jean-Sébastien Coron;Helena Handschuh;David Naccache;,https://doi.org/10.1007/978-3-540-48000-6_11
+asiacrypt/asiacrypt99,1999,Elliptic Curve Cryptosystems,Elliptic Scalar Multiplication Using Point Halving.,Erik Woodward Knudsen;,https://doi.org/10.1007/978-3-540-48000-6_12
+asiacrypt/asiacrypt99,1999,Public Key Cryptosystems,On the Design of RSA with Short Secret Exponent.,Hung-Min Sun;Wu-Chuan Yang;Chi-Sung Laih;,https://doi.org/10.1007/978-3-540-48000-6_13
+asiacrypt/asiacrypt99,1999,Public Key Cryptosystems,Efficient Public-Key Cryptosystems Provably Secure Against Active Adversaries.,Pascal Paillier;David Pointcheval;,https://doi.org/10.1007/978-3-540-48000-6_14
+asiacrypt/asiacrypt99,1999,Public Key Cryptosystems,Adaptively-Secure Optimal-Resilience Proactive RSA.,Yair Frankel;Philip D. MacKenzie;Moti Yung;,https://doi.org/10.1007/978-3-540-48000-6_15
+asiacrypt/asiacrypt99,1999,Integers and Computation,Factorization of RSA-140 Using the Number Field Sieve.,Stefania Cavallar;Bruce Dodson;Arjen K. Lenstra;Paul C. Leyland;Walter M. Lioen;Peter L. Montgomery;Brian Murphy;Herman J. J. te Riele;Paul Zimmermann;,https://doi.org/10.1007/978-3-540-48000-6_16
+asiacrypt/asiacrypt99,1999,Integers and Computation,How to Prove That a Committed Number Is Prime.,Tri Van Le;Khanh Quoc Nguyen;Vijay Varadharajan;,https://doi.org/10.1007/978-3-540-48000-6_17
+asiacrypt/asiacrypt99,1999,Integers and Computation,Reducing Logarithms in Totally Non-maximal Imaginary Quadratic Orders to Logarithms in Finite Fields.,Detlef Hühnlein;Tsuyoshi Takagi;,https://doi.org/10.1007/978-3-540-48000-6_18
+asiacrypt/asiacrypt99,1999,Integers and Computation,General Adversaries in Unconditional Multi-party Computation.,Matthias Fitzi;Martin Hirt;Ueli M. Maurer;,https://doi.org/10.1007/978-3-540-48000-6_19
+asiacrypt/asiacrypt99,1999,Network Security,Approximation Hardness and Secure Communication in Broadcast Channels.,Yvo Desmedt;Yongge Wang;,https://doi.org/10.1007/978-3-540-48000-6_20
+asiacrypt/asiacrypt99,1999,Network Security,Mix-Networks on Permutation Networks.,Masayuki Abe;,https://doi.org/10.1007/978-3-540-48000-6_21
+asiacrypt/asiacrypt99,1999,Network Security,Secure Communication in an Unknown Network Using Certificates.,Mike Burmester;Yvo Desmedt;,https://doi.org/10.1007/978-3-540-48000-6_22
+asiacrypt/asiacrypt99,1999,Random Number,Linear Complexity versus Pseudorandomness: On Beth and Dai's Result.,Yongge Wang;,https://doi.org/10.1007/978-3-540-48000-6_23
+asiacrypt/asiacrypt99,1999,Random Number,A Class of Explicit Perfect Multi-sequences.,Chaoping Xing;Kwok-Yan Lam;Zhenghong Wei;,https://doi.org/10.1007/978-3-540-48000-6_24
+asiacrypt/asiacrypt99,1999,Random Number,Cryptanalysis of LFSR-Encrypted Codes with Unknown Combining Function.,Sarbani Palit;Bimal K. Roy;,https://doi.org/10.1007/978-3-540-48000-6_25
+asiacrypt/asiacrypt99,1999,Key Management,Doing More with Fewer Bits.,Andries E. Brouwer;Ruud Pellikaan;Eric R. Verheul;,https://doi.org/10.1007/978-3-540-48000-6_26
+asiacrypt/asiacrypt99,1999,Key Management,"A Quick Group Key Distribution Scheme with ""Entity Revocation"".",Jun Anzai;Natsume Matsuzaki;Tsutomu Matsumoto;,https://doi.org/10.1007/978-3-540-48000-6_27
+asiacrypt/asiacrypt99,1999,Key Management,An Efficient Hierarchical Identity-Based Key-Sharing Method Resistant against Collusion-Attacks.,Goichiro Hanaoka;Tsuyoshi Nishioka;Yuliang Zheng;Hideki Imai;,https://doi.org/10.1007/978-3-540-48000-6_28
+asiacrypt/asiacrypt99,1999,Key Management,Periodical Multi-secret Threshold Cryptosystems.,Masayuki Numao;,https://doi.org/10.1007/978-3-540-48000-6_29
+asiacrypt/asiacrypt99,1999,Authentication,A Signature Scheme with Message Recovery as Secure as Discrete Logarithm.,Masayuki Abe;Tatsuaki Okamoto;,https://doi.org/10.1007/978-3-540-48000-6_30
+asiacrypt/asiacrypt99,1999,Authentication,A3-Codes under Collusion Attacks.,Yejing Wang;Reihaneh Safavi-Naini;,https://doi.org/10.1007/978-3-540-48000-6_31
+asiacrypt/asiacrypt99,1999,Authentication,Broadcast Authentication in Group Communication.,Reihaneh Safavi-Naini;Huaxiong Wang;,https://doi.org/10.1007/978-3-540-48000-6_32

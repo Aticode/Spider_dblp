@@ -1,0 +1,20 @@
+sp/sp2005,2005,None,Message from the Program Chairs.,,https://doi.org/10.1109/SP.2005.13
+sp/sp2005,2005,None,Conference Organizers.,,https://doi.org/10.1109/SP.2005.5
+sp/sp2005,2005,None,Program Committee.,,https://doi.org/10.1109/SP.2005.16
+sp/sp2005,2005,Session:Intrusion Detection,Language-Based Generation and Evaluation of NIDS Signatures.,Shai Rubin;Somesh Jha;Barton P. Miller;,https://doi.org/10.1109/SP.2005.10
+sp/sp2005,2005,Session:Intrusion Detection,Efficient Intrusion Detection using Automaton Inlining.,Rajeev Gopalakrishna;Eugene H. Spafford;Jan Vitek;,https://doi.org/10.1109/SP.2005.1
+sp/sp2005,2005,Session:Intrusion Detection,Semantics-Aware Malware Detection.,Mihai Christodorescu;Somesh Jha;Sanjit A. Seshia;Dawn Xiaodong Song;Randal E. Bryant;,https://doi.org/10.1109/SP.2005.20
+sp/sp2005,2005,Session:Sensor Networks,Distributed Detection of Node Replication Attacks in Sensor Networks.,Bryan Parno;Adrian Perrig;Virgil D. Gligor;,https://doi.org/10.1109/SP.2005.8
+sp/sp2005,2005,Session:Sensor Networks,Detection of Denial-of-Message Attacks on Sensor Network Broadcasts.,Jonathan M. McCune;Elaine Shi;Adrian Perrig;Michael K. Reiter;,https://doi.org/10.1109/SP.2005.7
+sp/sp2005,2005,Session:Access Control and Authentication,Distributed Proving in Access-Control Systems.,Lujo Bauer;Scott Garriss;Michael K. Reiter;,https://doi.org/10.1109/SP.2005.9
+sp/sp2005,2005,Session:Access Control and Authentication,On Safety in Discretionary Access Control.,Ninghui Li;Mahesh V. Tripunitara;,https://doi.org/10.1109/SP.2005.14
+sp/sp2005,2005,Session:Access Control and Authentication,Seeing-Is-Believing: Using Camera Phones for Human-Verifiable Authentication.,Jonathan M. McCune;Adrian Perrig;Michael K. Reiter;,https://doi.org/10.1109/SP.2005.19
+sp/sp2005,2005,Session:Integrity,A Generic Attack on Checksumming-Based Software Tamper Resistance.,Glenn Wurster;Paul C. van Oorschot;Anil Somayaji;,https://doi.org/10.1109/SP.2005.2
+sp/sp2005,2005,Session:Integrity,Towards Constant Bandwidth Overhead Integrity Checking of Untrusted Data.,Dwaine E. Clarke;G. Edward Suh;Blaise Gassend;Ajay Sudan;Marten van Dijk;Srinivas Devadas;,https://doi.org/10.1109/SP.2005.24
+sp/sp2005,2005,Session:Integrity,BIND: A Fine-Grained Attestation Service for Secure Distributed Systems.,Elaine Shi;Adrian Perrig;Leendert van Doorn;,https://doi.org/10.1109/SP.2005.4
+sp/sp2005,2005,Session:Cryptography and Protocols,Relating Symbolic and Cryptographic Secrecy.,Michael Backes;Birgit Pfitzmann;,https://doi.org/10.1109/SP.2005.17
+sp/sp2005,2005,Session:Cryptography and Protocols,Low-Cost Traffic Analysis of Tor.,Steven J. Murdoch;George Danezis;,https://doi.org/10.1109/SP.2005.12
+sp/sp2005,2005,Session:Cryptography and Protocols,Leap-Frog Packet Linking and Diverse Key Distributions for Improved Integrity in Network Broadcasts.,Michael T. Goodrich;,https://doi.org/10.1109/SP.2005.11
+sp/sp2005,2005,Session:Worms and Network Forensics,Remote Physical Device Fingerprinting.,Tadayoshi Kohno;Andre Broido;Kimberly C. Claffy;,https://doi.org/10.1109/SP.2005.18
+sp/sp2005,2005,Session:Worms and Network Forensics,Polygraph: Automatically Generating Signatures for Polymorphic Worms.,James Newsome;Brad Karp;Dawn Xiaodong Song;,https://doi.org/10.1109/SP.2005.15
+sp/sp2005,2005,Session:Worms and Network Forensics,Worm Origin Identification Using Random Moonwalks.,Yinglian Xie;Vyas Sekar;David A. Maltz;Michael K. Reiter;Hui Zhang;,https://doi.org/10.1109/SP.2005.23

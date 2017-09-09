@@ -1,0 +1,44 @@
+infocom/infocom1995-3,1995,Session 8A:Switching,Burst Scheduling: Architecture and Algorithm for Switching Packet Video.,Simon S. Lam;Geoffrey G. Xie;,None
+infocom/infocom1995-3,1995,Session 8A:Switching,Multicast and Self-Routing in ATM Radix Trees and Banyan Networks.,Ka Lun Eddie Law;Alberto Leon-Garcia;,None
+infocom/infocom1995-3,1995,Session 8A:Switching,Providing Bandwidth Guarantees in an Input-Buffered Crossbar Switch.,Dimitrios Stiliadis;Anujan Varma;,None
+infocom/infocom1995-3,1995,Session 8A:Switching,An All-Optical Wavelength-Division Meshed-Ring Packet-Switching Network.,Izhak Rubin;Hsing-kuo Hua;,None
+infocom/infocom1995-3,1995,Session 8B:Correlated Traffic,"Fractal Traffic: Measurements, Modelling and Performance Evaluation.",Ron Addie;Moshe Zukerman;Timothy D. Neame;,None
+infocom/infocom1995-3,1995,Session 8B:Correlated Traffic,"Analysis of an ATM Buffer with Self-Similar (""Fractal"") Input Traffic.",Nikolay B. Likhanov;Boris Tsybakov;Nicolas D. Georganas;,None
+infocom/infocom1995-3,1995,Session 8B:Correlated Traffic,Modeling Superposition of ON-OFF Correlated Traffic Sources in Multimedia Applications.,Aurelio La Corte;Alfio Lombardo;Giovanni Schembra;,None
+infocom/infocom1995-3,1995,Session 8B:Correlated Traffic,Effective Bandwidths of Departure Processes from Queues with Time Varying Capacities.,Cheng-Shang Chang;Tim Zajic;,None
+infocom/infocom1995-3,1995,Session 8C:Multimedia,A Synchronization Mechanism for Continuous Media in Multimedia Communications.,Yutaka Ishibashi;Shuji Tasaka;,None
+infocom/infocom1995-3,1995,Session 8C:Multimedia,On Bandwidth and Storage Tradeoffs in Multimedia Distribution Networks.,Frank Schaffa;Jean-Paul Nussbaumer;,None
+infocom/infocom1995-3,1995,Session 8C:Multimedia,Performance Analysis of Traffic Control Methods in Multimedia ATM LAN.,Naoki Wakamiya;Ken-ichi Baba;Masayuki Murata;Hideo Miyahara;,None
+infocom/infocom1995-3,1995,Session 8C:Multimedia,Multiconnection Over Multichannels.,Ming Chen;Nicolas D. Georganas;,None
+infocom/infocom1995-3,1995,Session 8D:Wireless 3:Qos and Performance,A Mini-Product-Form-Based Solution to Data-Delay Evaluation in Wireless Integrated Voice/Data Networks.,Jeffrey E. Wieselthier;Anthony Ephremides;,None
+infocom/infocom1995-3,1995,Session 8D:Wireless 3:Qos and Performance,An Asymmetric Protocol for Digital Cellular Communications.,Sanjoy Paul;Ender Ayanoglu;Thomas F. La Porta;Kuo-Wei Herman Chen;Krishan K. Sabnani;Richard D. Gitlin;,None
+infocom/infocom1995-3,1995,Session 8D:Wireless 3:Qos and Performance,A Reservation-Based Multicast (RBM) Routing Protocol for Mobile Networks: Overview of Initial Route Construction.,M. Scott Corson;Stephen Gordon Batsell;,None
+infocom/infocom1995-3,1995,Session 8D:Wireless 3:Qos and Performance,QOS Provisioning in Micro-Cellular Networks Supporting Multimedia Traffic.,Mahmoud Naghshineh;Anthony S. Acampora;,None
+infocom/infocom1995-3,1995,Session 9A:QoS and Admission Control,Dynamic Bandwidth Allocation in Broadband ISDN Using a Multilevel Optimal Control Approach.,Andreas Pitsillides;Jim Lambert;David Tipper;,None
+infocom/infocom1995-3,1995,Session 9A:QoS and Admission Control,Resource and Connection Admission Control in Real-Time Transport Protocols with Deterministic QoS Guarantees.,Shanzeng Guo;Nicolas D. Georganas;,None
+infocom/infocom1995-3,1995,Session 9A:QoS and Admission Control,A Service with Bounded Degradation in Quality-of-Service Networks.,Jörg Liebeherr;Dongwei Liao;,None
+infocom/infocom1995-3,1995,Session 9A:QoS and Admission Control,"An Approach to Pricing, Optimal Allocation and Quality of Service Provisioning in High-Speed Packet Networks.",Jakka Sairamesh;Donald F. Ferguson;Yechiam Yemini;,None
+infocom/infocom1995-3,1995,Session 9B:Performance 2,Maximal Average Loss Rates for a Single GPS Server System with Finite Buffers.,James R. Yee;N. Thomas Gaarder;,None
+infocom/infocom1995-3,1995,Session 9B:Performance 2,On Characterizing an ATM Source via the Sustainable Cell Rate Traffic Descriptor.,Fabrice Guillemin;Catherine Rosenberg;Josée Mignault;,None
+infocom/infocom1995-3,1995,Session 9B:Performance 2,Traffic Characterization and Switch Utilization Using a Deterministic Bounding Interval Dependent Traffic Model.,Edward W. Knightly;Hui Zhang;,None
+infocom/infocom1995-3,1995,Session 9B:Performance 2,Analysis of Delay Performance of ATM Signaling Link.,K. Kant;,None
+infocom/infocom1995-3,1995,Session 9C:Fairness,The Fairness of DQDB Networks with Slot Reuse.,Gregory B. Brewster;Mary K. Vernon;,None
+infocom/infocom1995-3,1995,Session 9C:Fairness,On Slot Allocation for Time-Constrained Messages in DQDB Networks.,Ching-Chih Han;Chao-Ju Hou;Kang G. Shin;,None
+infocom/infocom1995-3,1995,Session 9C:Fairness,Fairness by Demand and Service Pattern Match: The Alpha Tuning Mechanism for DQDB MANs.,Lakshmana N. Kumar;Christos Douligeris;,None
+infocom/infocom1995-3,1995,Session 9C:Fairness,A Proof for Lack of Starvation in DQDB with and without Slot Reuse.,Oran Sharon;,None
+infocom/infocom1995-3,1995,Session 9D:Architecture,V-Net: A Framework for a Versatile Network Architecture to Support Real-Time Communication Performance Guarantees.,Brian Field;Taieb Znati;Daniel Mossé;,None
+infocom/infocom1995-3,1995,Session 9D:Architecture,"A Loop-Free Path-Finding Algorithm: Specification, Verification and Complexity.",J. J. Garcia-Luna-Aceves;Shree Murthy;,None
+infocom/infocom1995-3,1995,Session 9D:Architecture,A Simple Architecture for ATM Switching Systems.,Wang-Jiunn Cheng;Wen-Tsuen Chen;,None
+infocom/infocom1995-3,1995,Session 9D:Architecture,A Fast Bypass Algorithm for High-Speed Networks.,Israel Cidon;Raphael Rom;Yuval Shavitt;,None
+infocom/infocom1995-3,1995,Session 10A:Congestion Control 2,A Model for Virtual Tree Bandwidth Allocation in ATM Networks.,Adarshpal S. Sethi;,None
+infocom/infocom1995-3,1995,Session 10A:Congestion Control 2,Resource Sharing for Multi-Party Real-Time Communication.,Amit Gupta;Wingwai Howe;Mark Moran;Quyen Nguyen;,None
+infocom/infocom1995-3,1995,Session 10A:Congestion Control 2,Towards Optimal Policing in ATM Networks.,Lorne Mason;Anne Pelletier;Jacques Lapointe;,None
+infocom/infocom1995-3,1995,Session 10A:Congestion Control 2,Cooperating Leaky Bucket for Average Rate Enforcement of VBR Video Traffic in ATM Networks.,Joseph S. M. Ho;Hüseyin Uzunalioglu;Ian F. Akyildiz;,None
+infocom/infocom1995-3,1995,Session 10B:Performance 3,Analysis of One-Way Reservation Algorithms.,Israel Cidon;Raphael Rom;Yuval Shavitt;,None
+infocom/infocom1995-3,1995,Session 10B:Performance 3,A Performance Study of Selective Cell Discarding Using the End-of-Packet Indicator in AAL Type 5.,Ahmed E. Kamal;,None
+infocom/infocom1995-3,1995,Session 10B:Performance 3,Performance Evaluations of a MetaRing MAC Protocol Integrating Video and Data Traffics in an Interconnected Environment.,Giuseppe Anastasi;Luciano Lenzini;P. Motta;,None
+infocom/infocom1995-3,1995,Session 10B:Performance 3,A Nonpreemptive Priority Delay Model with Modified-Vacation Intervals for Homogeneous FDDI Networks.,Priya N. Werahera;Anura P. Jayasumana;Duane C. Boes;,None
+infocom/infocom1995-3,1995,Session 10C:Routing in Optical Networks,Logarithmically Scalable Routing Algorithms in Large Optical Networks.,Zhensheng Zhang;Duanyang Guo;Anthony S. Acampora;,None
+infocom/infocom1995-3,1995,Session 10C:Routing in Optical Networks,Optical Switch Configuration and Lightpath Assignment in Wavelength Routing Multihop Lightwave Networks.,Chien Chen;Subrata Banerjee;,None
+infocom/infocom1995-3,1995,Session 10C:Routing in Optical Networks,A Novel Upgrade Path for Transparent Optical Networks Based on Wavelength Reuse.,Vivek Tandon;Mark Wilby;Fraser Burton;,None
+infocom/infocom1995-3,1995,Session 10C:Routing in Optical Networks,Design of Logical Topologies for Wavelength-Routed All-Optical Networks.,Rajiv Ramaswami;Kumar N. Sivarajan;,None

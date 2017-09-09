@@ -1,0 +1,44 @@
+crypto/crypto85,1985,Signatures and Authentication,Breaking the Ong-Schnorr-Shamir Signature Scheme for Quadratic Number Fields.,Dennis Estes;Leonard M. Adleman;Kireeti Kompella;Kevin S. McCurley;Gary L. Miller;,https://doi.org/10.1007/3-540-39799-X_1
+crypto/crypto85,1985,Signatures and Authentication,Another Birthday Attack.,Don Coppersmith;,https://doi.org/10.1007/3-540-39799-X_2
+crypto/crypto85,1985,Signatures and Authentication,Attacks on Some RSA Signatures.,Wiebren de Jonge;David Chaum;,https://doi.org/10.1007/3-540-39799-X_3
+crypto/crypto85,1985,Signatures and Authentication,An Attack on a Signature Scheme Proposed by Okamoto and Shiraishi.,Ernest F. Brickell;John M. DeLaurentis;,https://doi.org/10.1007/3-540-39799-X_4
+crypto/crypto85,1985,Signatures and Authentication,A Secure Subliminal Channel (?).,Gustavus J. Simmons;,https://doi.org/10.1007/3-540-39799-X_5
+crypto/crypto85,1985,Signatures and Authentication,Unconditionally Secure Authentication Schemes and Practical and Theoretical Consequences.,Yvo Desmedt;,https://doi.org/10.1007/3-540-39799-X_6
+crypto/crypto85,1985,Protocols,On the Security of Ping-Pong Protocols when Implemented using the RSA.,Shimon Even;Oded Goldreich;Adi Shamir;,https://doi.org/10.1007/3-540-39799-X_7
+crypto/crypto85,1985,Protocols,A Secure Poker Protocol that Minimizes the Effect of Player Coalitions.,Claude Crépeau;,https://doi.org/10.1007/3-540-39799-X_8
+crypto/crypto85,1985,Protocols,A Framework for the Study of Cryptographic Protocols.,Richard Berger;Sampath Kannan;René Peralta;,https://doi.org/10.1007/3-540-39799-X_9
+crypto/crypto85,1985,Protocols,Cheating at Mental Poker.,Don Coppersmith;,https://doi.org/10.1007/3-540-39799-X_10
+crypto/crypto85,1985,Protocols,Security for the DoD Transmission Control Protocol.,Whitfield Diffie;,https://doi.org/10.1007/3-540-39799-X_11
+crypto/crypto85,1985,Protocols,Symmetric Public-Key Encryption.,Zvi Galil;Stuart Haber;Moti Yung;,https://doi.org/10.1007/3-540-39799-X_12
+crypto/crypto85,1985,Copy Protection,Software Protection: Myth or Reality?,James R. Gosler;,https://doi.org/10.1007/3-540-39799-X_13
+crypto/crypto85,1985,Copy Protection,Public Protection of Software.,Amir Herzberg;Shlomit S. Pinter;,https://doi.org/10.1007/3-540-39799-X_14
+crypto/crypto85,1985,Copy Protection,Fingerprinting Long Forgiving Messages.,G. R. Blakley;Catherine A. Meadows;George B. Purdy;,https://doi.org/10.1007/3-540-39799-X_15
+crypto/crypto85,1985,Single Key Cryptology,Crytanalysis of DES with a Reduced Number of Rounds: Sequences of Linear Factors in Block Ciphers.,David Chaum;Jan-Hendrik Evertse;,https://doi.org/10.1007/3-540-39799-X_16
+crypto/crypto85,1985,Single Key Cryptology,Is DES a Pure Cipher? (Results of More Cycling Experiments on DES).,Burton S. Kaliski Jr.;Ronald L. Rivest;Alan T. Sherman;,https://doi.org/10.1007/3-540-39799-X_17
+crypto/crypto85,1985,Single Key Cryptology,A Layered Approach to the Design of Private Key Cryptosystems.,T. E. Moore;Stafford E. Tavares;,https://doi.org/10.1007/3-540-39799-X_18
+crypto/crypto85,1985,Single Key Cryptology,Lifetimes of Keys in Cryptographic Key Management Systems.,Eiji Okamoto;K. Nakamura;,https://doi.org/10.1007/3-540-39799-X_19
+crypto/crypto85,1985,Single Key Cryptology,Correlation Immunity and the Summation Generator.,Rainer A. Rueppel;,https://doi.org/10.1007/3-540-39799-X_20
+crypto/crypto85,1985,Single Key Cryptology,Design of Combiners to Prevent Divide and Conquer Attacks.,Thomas Siegenthaler;,https://doi.org/10.1007/3-540-39799-X_21
+crypto/crypto85,1985,Single Key Cryptology,On the Security of DES.,Adi Shamir;,https://doi.org/10.1007/3-540-39799-X_22
+crypto/crypto85,1985,Single Key Cryptology,"Information Theory Without the Finiteness Assumption, II: Unfolding the DES.",G. R. Blakley;,https://doi.org/10.1007/3-540-39799-X_23
+crypto/crypto85,1985,Two Key Cryptology,Analysis of a Public Key Approach Based on Polynomial Substitution.,Harriet J. Fell;Whitfield Diffie;,https://doi.org/10.1007/3-540-39799-X_24
+crypto/crypto85,1985,Two Key Cryptology,Developing an RSA Chip.,Martin Kochanski;,https://doi.org/10.1007/3-540-39799-X_25
+crypto/crypto85,1985,Two Key Cryptology,An M³ Public-Key Encryption Scheme.,Hugh C. Williams;,https://doi.org/10.1007/3-540-39799-X_26
+crypto/crypto85,1985,Two Key Cryptology,Trapdoor Rings and Their Use in Cryptography.,Vijay Varadharajan;,https://doi.org/10.1007/3-540-39799-X_27
+crypto/crypto85,1985,Two Key Cryptology,On Computing Logarithms Over Finite Fields.,Taher El Gamal;,https://doi.org/10.1007/3-540-39799-X_28
+crypto/crypto85,1985,Two Key Cryptology,On Using RSA with Low Exponent in a Public Key Network.,Johan Håstad;,https://doi.org/10.1007/3-540-39799-X_29
+crypto/crypto85,1985,Two Key Cryptology,Lenstra's Factorization Method Based on Elliptic Curves.,N. M. Stephens;,https://doi.org/10.1007/3-540-39799-X_30
+crypto/crypto85,1985,Two Key Cryptology,Use of Elliptic Curves in Cryptography.,Victor S. Miller;,https://doi.org/10.1007/3-540-39799-X_31
+crypto/crypto85,1985,Randomness and Other Problems,Cryptography with Cellular Automata.,Stephen Wolfram;,https://doi.org/10.1007/3-540-39799-X_32
+crypto/crypto85,1985,Randomness and Other Problems,Efficient Parallel Pseudo-Random Number Generation.,John H. Reif;J. D. Tygar;,https://doi.org/10.1007/3-540-39799-X_33
+crypto/crypto85,1985,Randomness and Other Problems,How to Construct Pseudo-Random Permutations from Pseudo-Random Functions (Abstract).,Michael Luby;Charles Rackoff;,https://doi.org/10.1007/3-540-39799-X_34
+crypto/crypto85,1985,Randomness and Other Problems,The Bit Security of Modular Squaring Given Partial Factorization of the Modulos.,Benny Chor;Oded Goldreich;Shafi Goldwasser;,https://doi.org/10.1007/3-540-39799-X_35
+crypto/crypto85,1985,Randomness and Other Problems,Some Cryptographic Aspects of Womcodes.,Philippe Godlewski;Gérard D. Cohen;,https://doi.org/10.1007/3-540-39799-X_36
+crypto/crypto85,1985,Randomness and Other Problems,How to Reduce Your Enemy's Information (Extended Abstract).,Charles H. Bennett;Gilles Brassard;Jean-Marc Robert;,https://doi.org/10.1007/3-540-39799-X_37
+crypto/crypto85,1985,Randomness and Other Problems,"Encrypting Problem Instances: Or ..., Can You Take Advantage of Someone Without Having to Trust Him?",Joan Feigenbaum;,https://doi.org/10.1007/3-540-39799-X_38
+crypto/crypto85,1985,Randomness and Other Problems,Divergence Bounds on Key Equivocation and Error Probability in Cryptanalysis.,Johan van Tilburg;Dick E. Boekee;,https://doi.org/10.1007/3-540-39799-X_39
+crypto/crypto85,1985,Impromptu Talks,A Chosen Text Attack on the RSA Cryptosystem and Some Discrete Logarithm Schemes.,Yvo Desmedt;Andrew M. Odlyzko;,https://doi.org/10.1007/3-540-39799-X_40
+crypto/crypto85,1985,Impromptu Talks,On the Design of S-Boxes.,A. F. Webster;Stafford E. Tavares;,https://doi.org/10.1007/3-540-39799-X_41
+crypto/crypto85,1985,Impromptu Talks,The Real Reason for Rivest's Phenomenon.,Don Coppersmith;,https://doi.org/10.1007/3-540-39799-X_42
+crypto/crypto85,1985,Impromptu Talks,"The Importance of ""Good"" Key Scheduling Schemes (How to Make a Secure DES Scheme with <= 48 Bit Keys).",Jean-Jacques Quisquater;Yvo Desmedt;Marc Davio;,https://doi.org/10.1007/3-540-39799-X_43
+crypto/crypto85,1985,Impromptu Talks,Access Control at the Netherlands Postal and Telecommunications Services.,Willem H. Haemers;,https://doi.org/10.1007/3-540-39799-X_44

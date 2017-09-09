@@ -1,0 +1,33 @@
+asiacrypt/asiacrypt98,1998,Public Key Cryptosystems,Generating RSA Moduli with a Predetermined Portion.,Arjen K. Lenstra;,https://doi.org/10.1007/3-540-49649-1_1
+asiacrypt/asiacrypt98,1998,Public Key Cryptosystems,Generation of Shared RSA Keys by Two Parties.,Guillaume Poupard;Jacques Stern;,https://doi.org/10.1007/3-540-49649-1_2
+asiacrypt/asiacrypt98,1998,Public Key Cryptosystems,An Attack on RSA Given a Small Fraction of the Private Key Bits.,Dan Boneh;Glenn Durfee;Yair Frankel;,https://doi.org/10.1007/3-540-49649-1_3
+asiacrypt/asiacrypt98,1998,Public Key Cryptosystems,C*-+ and HM: Variations Around Two Schemes of T. Matsumoto and H. Imai.,Jacques Patarin;Louis Goubin;Nicolas Courtois;,https://doi.org/10.1007/3-540-49649-1_4
+asiacrypt/asiacrypt98,1998,Invited Talk,ECC/DLP and Fractoring-Based Cryptography: A Tale of Two Families (Abstract).,Burton S. Kaliski Jr.;,https://doi.org/10.1007/3-540-49649-1_5
+asiacrypt/asiacrypt98,1998,Elliptic Curve Cryptosystems,Efficient Elliptic Curve Exponentiation Using Mixed Coordinates.,Henri Cohen;Atsuko Miyaji;Takatoshi Ono;,https://doi.org/10.1007/3-540-49649-1_6
+asiacrypt/asiacrypt98,1998,Elliptic Curve Cryptosystems,Efficient Implementation of Schoof's Algorithm.,Tetsuya Izu;Jun Kogure;Masayuki Noro;Kazuhiro Yokoyama;,https://doi.org/10.1007/3-540-49649-1_7
+asiacrypt/asiacrypt98,1998,Elliptic Curve Cryptosystems,Design of Hyperelliptic Cryptosystems in Small Characteristic and a Software Implementation over F2n.,Yasuyuki Sakai;Kouichi Sakurai;,https://doi.org/10.1007/3-540-49649-1_8
+asiacrypt/asiacrypt98,1998,Elliptic Curve Cryptosystems,Construction of Secure Elliptic Cryptosystems Using CM Tests and Liftings.,Jinhui Chao;Osamu Nakamura;Kohji Sobataka;Shigeo Tsujii;,https://doi.org/10.1007/3-540-49649-1_9
+asiacrypt/asiacrypt98,1998,Elliptic Curve Cryptosystems,Elliptic Curve Discrete Logarithms and the Index Calculus.,Joseph H. Silverman;Joe Suzuki;,https://doi.org/10.1007/3-540-49649-1_10
+asiacrypt/asiacrypt98,1998,Cryptanalysis 1,Cryptanalysis of Rijmen-Preneel Trapdoor Ciphers.,Hongjun Wu;Feng Bao;Robert H. Deng;Qin-Zhong Ye;,https://doi.org/10.1007/3-540-49649-1_11
+asiacrypt/asiacrypt98,1998,Cryptanalysis 1,Improved Truncated Differential Attacks on SAFER.,Hongjun Wu;Feng Bao;Robert H. Deng;Qin-Zhong Ye;,https://doi.org/10.1007/3-540-49649-1_12
+asiacrypt/asiacrypt98,1998,Cryptanalysis 1,Optimal Resistance Against the Davies and Murphy Attack.,Thomas Pornin;,https://doi.org/10.1007/3-540-49649-1_13
+asiacrypt/asiacrypt98,1998,Signature,A Group Signature Scheme with Improved Efficiency.,Jan Camenisch;Markus Michels;,https://doi.org/10.1007/3-540-49649-1_14
+asiacrypt/asiacrypt98,1998,Signature,A Study on the Proposed Korean Digital Signature Algorithm.,Chae Hoon Lim;Pil Joong Lee;,https://doi.org/10.1007/3-540-49649-1_15
+asiacrypt/asiacrypt98,1998,Cryptanalysis 2,Cryptanalysis of the Original McEliece Cryptosystem.,Anne Canteaut;Nicolas Sendrier;,https://doi.org/10.1007/3-540-49649-1_16
+asiacrypt/asiacrypt98,1998,Cryptanalysis 2,Improving the Security of the McEliece Public-Key Cryptosystem.,Hung-Min Sun;,https://doi.org/10.1007/3-540-49649-1_17
+asiacrypt/asiacrypt98,1998,Cryptanalysis 2,Cryptanalysis in Prime Order Subgroups of Z*n.,Wenbo Mao;Chae Hoon Lim;,https://doi.org/10.1007/3-540-49649-1_18
+asiacrypt/asiacrypt98,1998,Finite Automata,Weak Invertibiity of Finite Automata and Cryptanalysis on FAPKC.,Zong-Duo Dai;Dingfeng Ye;Kwok-Yan Lam;,https://doi.org/10.1007/3-540-49649-1_19
+asiacrypt/asiacrypt98,1998,Authentication Codes,Bounds and Constructions for Multireceiver Authentication Codes.,Reihaneh Safavi-Naini;Huaxiong Wang;,https://doi.org/10.1007/3-540-49649-1_20
+asiacrypt/asiacrypt98,1998,Electronic Cash,Fair Off-Line e-cash Made Easy.,Yair Frankel;Yiannis Tsiounis;Moti Yung;,https://doi.org/10.1007/3-540-49649-1_21
+asiacrypt/asiacrypt98,1998,Electronic Cash,Off-Line Fair Payment Protocols Using Convertible Signatures.,Colin Boyd;Ernest Foo;,https://doi.org/10.1007/3-540-49649-1_22
+asiacrypt/asiacrypt98,1998,Electronic Cash,Efficient Fair Exchange with Verifiable Confirmation of Signatures.,Liqun Chen;,https://doi.org/10.1007/3-540-49649-1_23
+asiacrypt/asiacrypt98,1998,Electronic Cash,Adaptively Secure Oblivious Transfer.,Donald Beaver;,https://doi.org/10.1007/3-540-49649-1_24
+asiacrypt/asiacrypt98,1998,Steam Ciphers,ML-Sequences over Rings Z/(2e)*: I. Constructions of Nondegenerative ML-Sequences II. Injectiveness of Compression Mappings of New Classes.,Wen Feng Qi;Jun-Hui Yang;Jing Jun Zhou;,https://doi.org/10.1007/3-540-49649-1_25
+asiacrypt/asiacrypt98,1998,Steam Ciphers,Analysis Methods for (Alleged) RC4.,Lars R. Knudsen;Willi Meier;Bart Preneel;Vincent Rijmen;Sven Verdoolaege;,https://doi.org/10.1007/3-540-49649-1_26
+asiacrypt/asiacrypt98,1998,Steam Ciphers,Reduced Complexity Correlation Attacks on Two Clock-Controlled Generators.,Thomas Johansson;,https://doi.org/10.1007/3-540-49649-1_27
+asiacrypt/asiacrypt98,1998,Cryptographic Protocols,A New Efficient All-Or-Nothing Disclosure of Secrets Protocol.,Julien P. Stern;,https://doi.org/10.1007/3-540-49649-1_28
+asiacrypt/asiacrypt98,1998,Cryptographic Protocols,The Béguin-Quisquater Server-Aided RSA Protocol from Crypto '95 is not Secure.,Phong Q. Nguyen;Jacques Stern;,https://doi.org/10.1007/3-540-49649-1_29
+asiacrypt/asiacrypt98,1998,Key Escrow,"Equitable Key Escrow with Limited Time Span (or, How to Enforce Time Expiration Cryptographically).",Mike Burmester;Yvo Desmedt;Jennifer Seberry;,https://doi.org/10.1007/3-540-49649-1_30
+asiacrypt/asiacrypt98,1998,New Cryptography,Audio and Optical Cryptography.,Yvo Desmedt;Shuang Hou;Jean-Jacques Quisquater;,https://doi.org/10.1007/3-540-49649-1_31
+asiacrypt/asiacrypt98,1998,Information Theory,Strong Security Against Active Attacks in Information-Theoretic Secret-Key Agreement.,Stefan Wolf;,https://doi.org/10.1007/3-540-49649-1_32
+asiacrypt/asiacrypt98,1998,Information Theory,Some Bounds and a Construction for Secure Broadcast Encryption.,Kaoru Kurosawa;Takuya Yoshida;Yvo Desmedt;Mike Burmester;,https://doi.org/10.1007/3-540-49649-1_33

@@ -1,0 +1,45 @@
+acsac/acsac2008,2008,Invited Talk,Structuring for Strategic Cyber Defense: A Cyber Manhattan Project Blueprint.,O. Sami Saydjari;,https://doi.org/10.1109/ACSAC.2008.53
+acsac/acsac2008,2008,Forensics and Security Management,Practical Applications of Bloom Filters to the NIST RDS and Hard Drive Triage.,Paul F. Farrell Jr.;Simson L. Garfinkel;Douglas White;,https://doi.org/10.1109/ACSAC.2008.12
+acsac/acsac2008,2008,Forensics and Security Management,Systematic Signature Engineering by Re-use of Snort Signatures.,Sebastian Schmerl;Hartmut König;Ulrich Flegel;Michael Meier;René Rietz;,https://doi.org/10.1109/ACSAC.2008.20
+acsac/acsac2008,2008,Forensics and Security Management,Analysing the Performance of Security Solutions to Reduce Vulnerability Exposure Window.,Yolanta Beres;Jonathan Griffin;Simon Shiu;Max Heitman;David Markle;Peter Ventura;,https://doi.org/10.1109/ACSAC.2008.42
+acsac/acsac2008,2008,Operating Systems and Memory Security,New Side Channels Targeted at Passwords.,Albert Tannous;Jonathan T. Trostle;Mohamed Hassan;Stephen E. McLaughlin;Trent Jaeger;,https://doi.org/10.1109/ACSAC.2008.47
+acsac/acsac2008,2008,Operating Systems and Memory Security,PinUP: Pinning User Files to Known Applications.,William Enck;Patrick D. McDaniel;Trent Jaeger;,https://doi.org/10.1109/ACSAC.2008.41
+acsac/acsac2008,2008,Operating Systems and Memory Security,Defending Against Attacks on Main Memory Persistence.,William Enck;Kevin R. B. Butler;Thomas Richardson;Patrick D. McDaniel;Adam D. Smith;,https://doi.org/10.1109/ACSAC.2008.45
+acsac/acsac2008,2008,Kernel-Level Defensive Techniques,Automatic Inference and Enforcement of Kernel Data Structure Invariants.,Arati Baliga;Vinod Ganapathy;Liviu Iftode;,https://doi.org/10.1109/ACSAC.2008.29
+acsac/acsac2008,2008,Kernel-Level Defensive Techniques,VICI Virtual Machine Introspection for Cognitive Immunity.,Timothy Fraser;Matthew R. Evenson;William A. Arbaugh;,https://doi.org/10.1109/ACSAC.2008.33
+acsac/acsac2008,2008,Kernel-Level Defensive Techniques,Soft-Timer Driven Transient Kernel Control Flow Attacks and Defense.,Jinpeng Wei;Bryan D. Payne;Jonathon Giffin;Calton Pu;,https://doi.org/10.1109/ACSAC.2008.40
+acsac/acsac2008,2008,Graphical Passwords and Biometrics,On Purely Automated Attacks and Click-Based Graphical Passwords.,Amirali Salehi-Abari;Julie Thorpe;Paul C. van Oorschot;,https://doi.org/10.1109/ACSAC.2008.18
+acsac/acsac2008,2008,Graphical Passwords and Biometrics,YAGP: Yet Another Graphical Password Strategy.,Haichang Gao;Xuewu Guo;Xiaoping Chen;Liming Wang;Xiyang Liu;,https://doi.org/10.1109/ACSAC.2008.19
+acsac/acsac2008,2008,Graphical Passwords and Biometrics,Privacy-Aware Biometrics: Design and Implementation of a Multimodal Verification System.,Stelvio Cimato;Marco Gamassi;Vincenzo Piuri;Roberto Sassi;Fabio Scotti;,https://doi.org/10.1109/ACSAC.2008.13
+acsac/acsac2008,2008,Graphical Passwords and Biometrics,Improving the Efficiency of Capture-Resistant Biometric Authentication Based on Set Intersection.,Xunhua Wang;Philip D. Huff;Brett C. Tjaden;,https://doi.org/10.1109/ACSAC.2008.11
+acsac/acsac2008,2008,Access Control,ProActive Access Control for Business Process-Driven Environments.,Mathias Kohler;Andreas Schaad;,https://doi.org/10.1109/ACSAC.2008.26
+acsac/acsac2008,2008,Access Control,Assessing Quality of Policy Properties in Verification of Access Control Policies.,Evan Martin;JeeHyun Hwang;Tao Xie;Vincent C. Hu;,https://doi.org/10.1109/ACSAC.2008.48
+acsac/acsac2008,2008,Access Control,Please Permit Me: Stateless Delegated Authorization in Mashups.,Ragib Hasan;Marianne Winslett;Richard M. Conlan;Brian Slesinsky;Nandakumar Ramani;,https://doi.org/10.1109/ACSAC.2008.24
+acsac/acsac2008,2008,Access Control,Implementing ACL-Based Policies in XACML.,Günter Karjoth;Andreas Schade;Els Van Herreweghen;,https://doi.org/10.1109/ACSAC.2008.31
+acsac/acsac2008,2008,Network Security,Execution Trace-Driven Automated Attack Signature Generation.,Susanta Nanda;Tzi-cker Chiueh;,https://doi.org/10.1109/ACSAC.2008.58
+acsac/acsac2008,2008,Network Security,Improving Security Visualization with Exposure Map Filtering.,Mansour Alsaleh;David Barrera;Paul C. van Oorschot;,https://doi.org/10.1109/ACSAC.2008.16
+acsac/acsac2008,2008,Network Security,Attack Grammar: A New Approach to Modeling and Analyzing Network Attack Sequences.,Yinqian Zhang;Xun Fan;Yijun Wang;Zhi Xue;,https://doi.org/10.1109/ACSAC.2008.34
+acsac/acsac2008,2008,Network Security,Host-Centric Model Checking for Network Vulnerability Analysis.,Rattikorn Hewett;Phongphun Kijsanayothin;,https://doi.org/10.1109/ACSAC.2008.15
+acsac/acsac2008,2008,Role-Based Access Control,The Role Hierarchy Mining Problem: Discovery of Optimal Role Hierarchies.,Qi Guo;Jaideep Vaidya;Vijayalakshmi Atluri;,https://doi.org/10.1109/ACSAC.2008.38
+acsac/acsac2008,2008,Role-Based Access Control,Permission Set Mining: Discovering Practical and Useful Roles.,Dana Zhang;Kotagiri Ramamohanarao;Tim Ebringer;Trevor Yann;,https://doi.org/10.1109/ACSAC.2008.21
+acsac/acsac2008,2008,Role-Based Access Control,Enforcing Role-Based Access Control Policies in Web Services with UML and OCL.,Karsten Sohr;Tanveer Mustafa;Xinyu Bao;Gail-Joon Ahn;,https://doi.org/10.1109/ACSAC.2008.35
+acsac/acsac2008,2008,Intrusion Detection,Addressing Low Base Rates in Intrusion Detection via Uncertainty-Bounding Multi-Step Analysis.,Robert J. Cole;Peng Liu;,https://doi.org/10.1109/ACSAC.2008.14
+acsac/acsac2008,2008,Intrusion Detection,Toward Automatic Generation of Intrusion Detection Verification Rules.,Frédéric Massicotte;Yvan Labiche;Lionel C. Briand;,https://doi.org/10.1109/ACSAC.2008.27
+acsac/acsac2008,2008,Intrusion Detection,STILL: Exploit Code Detection via Static Taint and Initialization Analyses.,Xinran Wang;Yoon-chan Jhi;Sencun Zhu;Peng Liu;,https://doi.org/10.1109/ACSAC.2008.37
+acsac/acsac2008,2008,Malware and Data Protection,McBoost: Boosting Scalability in Malware Collection and Analysis Using Statistical Classification of Executables.,Roberto Perdisci;Andrea Lanzi;Wenke Lee;,https://doi.org/10.1109/ACSAC.2008.22
+acsac/acsac2008,2008,Malware and Data Protection,MalTRAK: Tracking and Eliminating Unknown Malware.,Amit Vasudevan;,https://doi.org/10.1109/ACSAC.2008.44
+acsac/acsac2008,2008,Malware and Data Protection,Preventing Information Leaks through Shadow Executions.,Roberto Capizzi;Antonio Longo;V. N. Venkatakrishnan;A. Prasad Sistla;,https://doi.org/10.1109/ACSAC.2008.50
+acsac/acsac2008,2008,Web-Based Applications Security,XSSDS: Server-Side Detection of Cross-Site Scripting Attacks.,Martin Johns;Björn Engelmann;Joachim Posegga;,https://doi.org/10.1109/ACSAC.2008.36
+acsac/acsac2008,2008,Web-Based Applications Security,Anti-Phishing in Offense and Defense.,Chuan Yue;Haining Wang;,https://doi.org/10.1109/ACSAC.2008.32
+acsac/acsac2008,2008,Web-Based Applications Security,OMOS: A Framework for Secure Communication in Mashup Applications.,Saman Zarandioon;Danfeng Yao;Vinod Ganapathy;,https://doi.org/10.1109/ACSAC.2008.25
+acsac/acsac2008,2008,Anomaly and Misuse Detection,Behavior-Profile Clustering for False Alert Reduction in Anomaly Detection Sensors.,Vanessa Frías-Martínez;Salvatore J. Stolfo;Angelos D. Keromytis;,https://doi.org/10.1109/ACSAC.2008.30
+acsac/acsac2008,2008,Anomaly and Misuse Detection,Bluetooth Network-Based Misuse Detection.,Terrence O'Connor;Douglas S. Reeves;,https://doi.org/10.1109/ACSAC.2008.39
+acsac/acsac2008,2008,Anomaly and Misuse Detection,Bridging the Gap between Data-Flow and Control-Flow Analysis for Anomaly Detection.,Peng Li;Hyundo Park;Debin Gao;Jianming Fu;,https://doi.org/10.1109/ACSAC.2008.17
+acsac/acsac2008,2008,Classic Papers,"Epilogue for RFC 1281, Guidelines for the Secure Operation of the Internet.",Barbara Fraser;Steve Crocker;,https://doi.org/10.1109/ACSAC.2008.57
+acsac/acsac2008,2008,Classic Papers,The Evolution of System-Call Monitoring.,Stephanie Forrest;Steven A. Hofmeyr;Anil Somayaji;,https://doi.org/10.1109/ACSAC.2008.54
+acsac/acsac2008,2008,Authentication,PAS: Predicate-Based Authentication Services Against Powerful Passive Adversaries.,Xiaole Bai;Wenjun Gu;Sriram Chellappan;Xun Wang;Dong Xuan;Bin Ma;,https://doi.org/10.1109/ACSAC.2008.23
+acsac/acsac2008,2008,Authentication,pwdArmor: Protecting Conventional Password-Based Authentications.,Timothy W. van der Horst;Kent E. Seamons;,https://doi.org/10.1109/ACSAC.2008.46
+acsac/acsac2008,2008,Authentication,DARE: A Framework for Dynamic Authentication of Remote Executions.,Erdem Aktas;Kanad Ghose;,https://doi.org/10.1109/ACSAC.2008.49
+acsac/acsac2008,2008,Applied Cryptography,Instruction Set Extensions for Enhancing the Performance of Symmetric-Key Cryptography.,Sean O'Melia;Adam J. Elbirt;,https://doi.org/10.1109/ACSAC.2008.10
+acsac/acsac2008,2008,Applied Cryptography,A Survey to Guide Group Key Protocol Development.,Ahren Studer;Christina Johns;Jaanus Kase;Kyle O'Meara;Lorrie Faith Cranor;,https://doi.org/10.1109/ACSAC.2008.28
+acsac/acsac2008,2008,Applied Cryptography,Transaction Oriented Text Messaging with Trusted-SMS.,Antonio Grillo;Alessandro Lentini;Gianluigi Me;Giuseppe F. Italiano;,https://doi.org/10.1109/ACSAC.2008.43

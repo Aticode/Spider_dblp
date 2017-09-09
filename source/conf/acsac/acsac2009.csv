@@ -1,0 +1,48 @@
+acsac/acsac2009,2009,Discovering Policy,A Network Access Control Mechanism Based on Behavior Profiles.,Vanessa Frías-Martínez;Joseph Sherrick;Salvatore J. Stolfo;Angelos D. Keromytis;,https://doi.org/10.1109/ACSAC.2009.10
+acsac/acsac2009,2009,Discovering Policy,RoleVAT: Visual Assessment of Practical Need for Role Based Access Control.,Dana Zhang;Kotagiri Ramamohanarao;Steven Versteeg;Rui Zhang;,https://doi.org/10.1109/ACSAC.2009.11
+acsac/acsac2009,2009,Discovering Policy,How to Securely Break into RBAC: The BTG-RBAC Model.,Ana Margarida Ferreira;David W. Chadwick;Pedro Farinha;Ricardo João Cruz Correia;Gansen Zhao;Rui Chilro;Luis Filipe Coelho Antunes;,https://doi.org/10.1109/ACSAC.2009.12
+acsac/acsac2009,2009,Invited Paper,Computer-Related Risk Futures.,Peter G. Neumann;,https://doi.org/10.1109/ACSAC.2009.13
+acsac/acsac2009,2009,Hardware/Software Security,Evaluation of a DPA-Resistant Prototype Chip.,Mario Kirschbaum;Thomas Popp;,https://doi.org/10.1109/ACSAC.2009.14
+acsac/acsac2009,2009,Hardware/Software Security,FPValidator: Validating Type Equivalence of Function Pointers on the Fly.,Hua Wang;Yao Guo;Xiangqun Chen;,https://doi.org/10.1109/ACSAC.2009.15
+acsac/acsac2009,2009,Hardware/Software Security,Surgically Returning to Randomized lib(c).,Giampaolo Fresi Roglia;Lorenzo Martignoni;Roberto Paleari;Danilo Bruschi;,https://doi.org/10.1109/ACSAC.2009.16
+acsac/acsac2009,2009,Cloud Security,SecureMR: A Service Integrity Assurance Framework for MapReduce.,Wei Wei;Juan Du;Ting Yu;Xiaohui Gu;,https://doi.org/10.1109/ACSAC.2009.17
+acsac/acsac2009,2009,Cloud Security,Justifying Integrity Using a Virtual Machine Verifier.,Joshua Schiffman;Thomas Moyer;Christopher Shal;Trent Jaeger;Patrick D. McDaniel;,https://doi.org/10.1109/ACSAC.2009.18
+acsac/acsac2009,2009,Integrity,Scalable Web Content Attestation.,Thomas Moyer;Kevin R. B. Butler;Joshua Schiffman;Patrick D. McDaniel;Trent Jaeger;,https://doi.org/10.1109/ACSAC.2009.19
+acsac/acsac2009,2009,Integrity,A Study of User-Friendly Hash Comparison Schemes.,Hsu-Chun Hsiao;Yue-Hsun Lin;Ahren Studer;Cassandra Studer;King-Hang Wang;Hiroaki Kikuchi;Adrian Perrig;Hung-Min Sun;Bo-Yin Yang;,https://doi.org/10.1109/ACSAC.2009.20
+acsac/acsac2009,2009,Network Security,Modeling Modern Network Attacks and Countermeasures Using Attack Graphs.,Kyle Ingols;Matthew Chu;Richard Lippmann;Seth E. Webster;Stephen W. Boyer;,https://doi.org/10.1109/ACSAC.2009.21
+acsac/acsac2009,2009,Network Security,Evaluating Network Security With Two-Layer Attack Graphs.,Anmin Xie;Zhuhua Cai;Cong Tang;Jian-bin Hu;Zhong Chen;,https://doi.org/10.1109/ACSAC.2009.22
+acsac/acsac2009,2009,Intellectual Property Rights,Unifying Broadcast Encryption and Traitor Tracing for Content Protection.,Hongxia Jin;Jeffrey B. Lotspiech;,https://doi.org/10.1109/ACSAC.2009.23
+acsac/acsac2009,2009,Intellectual Property Rights,Detecting Software Theft via System Call Based Birthmarks.,Xinran Wang;Yoon-chan Jhi;Sencun Zhu;Peng Liu;,https://doi.org/10.1109/ACSAC.2009.24
+acsac/acsac2009,2009,Classic Paper,Reflections on UNIX Vulnerabilities.,Matt Bishop;,https://doi.org/10.1109/ACSAC.2009.25
+acsac/acsac2009,2009,Invited Essayist,"The Good, the Bad, And the Ugly: Stepping on the Security Scale.",Mary Ann Davidson;,https://doi.org/10.1109/ACSAC.2009.59
+acsac/acsac2009,2009,Authentication and Audit,A New Approach for Anonymous Password Authentication.,Yanjiang Yang;Jianying Zhou;Jian Weng;Feng Bao;,https://doi.org/10.1109/ACSAC.2009.26
+acsac/acsac2009,2009,Authentication and Audit,On the Security of PAS (Predicate-Based Authentication Service).,Shujun Li;Hassan Jameel Asghar;Josef Pieprzyk;Ahmad-Reza Sadeghi;Roland Schmitz;Huaxiong Wang;,https://doi.org/10.1109/ACSAC.2009.27
+acsac/acsac2009,2009,Authentication and Audit,BAF: An Efficient Publicly Verifiable Secure Audit Logging Scheme for Distributed Systems.,Attila Altay Yavuz;Peng Ning;,https://doi.org/10.1109/ACSAC.2009.28
+acsac/acsac2009,2009,"Malware, Botnets and Operating System Security (Part 1)",FIRE: FInding Rogue nEtworks.,Brett Stone-Gross;Christopher Kruegel;Kevin C. Almeroth;Andreas Moser;Engin Kirda;,https://doi.org/10.1109/ACSAC.2009.29
+acsac/acsac2009,2009,"Malware, Botnets and Operating System Security (Part 1)",Active Botnet Probing to Identify Obscure Command and Control Channels.,Guofei Gu;Vinod Yegneswaran;Phillip A. Porras;Jennifer Stoll;Wenke Lee;,https://doi.org/10.1109/ACSAC.2009.30
+acsac/acsac2009,2009,"Malware, Botnets and Operating System Security (Part 1)",TrustGraph: Trusted Graphics Subsystem for High Assurance Systems.,Hamed Okhravi;David M. Nicol;,https://doi.org/10.1109/ACSAC.2009.31
+acsac/acsac2009,2009,Denial of Service Defense,RAD: Reflector Attack Defense Using Message Authentication Codes.,Erik Kline;Matt Beaumont-Gay;Jelena Mirkovic;Peter L. Reiher;,https://doi.org/10.1109/ACSAC.2009.32
+acsac/acsac2009,2009,Denial of Service Defense,A Guided Tour Puzzle for Denial of Service Prevention.,Mehmud Abliz;Taieb Znati;,https://doi.org/10.1109/ACSAC.2009.33
+acsac/acsac2009,2009,Denial of Service Defense,Online Signature Generation for Windows Systems.,Lixin Li;James E. Just;R. Sekar;,https://doi.org/10.1109/ACSAC.2009.34
+acsac/acsac2009,2009,"Malware, Botnets and Operating System Security (Part 2)",Protecting Commodity Operating System Kernels from Vulnerable Device Drivers.,Shakeel Butt;Vinod Ganapathy;Michael M. Swift;Chih-Cheng Chang;,https://doi.org/10.1109/ACSAC.2009.35
+acsac/acsac2009,2009,"Malware, Botnets and Operating System Security (Part 2)",Detecting Malicious Flux Service Networks through Passive Analysis of Recursive DNS Traces.,Roberto Perdisci;Igino Corona;David Dagon;Wenke Lee;,https://doi.org/10.1109/ACSAC.2009.36
+acsac/acsac2009,2009,"Malware, Botnets and Operating System Security (Part 2)",Identification of Bot Commands by Run-Time Execution Monitoring.,Young Hee Park;Douglas S. Reeves;,https://doi.org/10.1109/ACSAC.2009.37
+acsac/acsac2009,2009,Mobile Security,Transparent Encryption for External Storage Media with Key Management Adapted to Mobile Use.,Alf Zugenmaier;Sven Lachmund;Dileesh Jostin;,https://doi.org/10.1109/ACSAC.2009.38
+acsac/acsac2009,2009,Mobile Security,Semantically Rich Application-Centric Security in Android.,Machigar Ongtang;Stephen E. McLaughlin;William Enck;Patrick D. McDaniel;,https://doi.org/10.1109/ACSAC.2009.39
+acsac/acsac2009,2009,Mobile Security,Leveraging Cellular Infrastructure to Improve Fraud Prevention.,Frank S. Park;Chinmay Gangakhedkar;Patrick Traynor;,https://doi.org/10.1109/ACSAC.2009.40
+acsac/acsac2009,2009,Multimedia and Web Security,Analyzing and Detecting Malicious Flash Advertisements.,Sean Ford;Marco Cova;Christopher Kruegel;Giovanni Vigna;,https://doi.org/10.1109/ACSAC.2009.41
+acsac/acsac2009,2009,Multimedia and Web Security,Symmetric Cryptography in Javascript.,Emily Stark;Michael Hamburg;Dan Boneh;,https://doi.org/10.1109/ACSAC.2009.42
+acsac/acsac2009,2009,Multimedia and Web Security,Analyzing Information Flow in JavaScript-Based Browser Extensions.,Mohan Dhawan;Vinod Ganapathy;,https://doi.org/10.1109/ACSAC.2009.43
+acsac/acsac2009,2009,Classic Paper,Java Security: A Ten Year Retrospective.,Li Gong;,https://doi.org/10.1109/ACSAC.2009.44
+acsac/acsac2009,2009,Trust Management,Secure Web 2.0 Content Sharing Beyond Walled Gardens.,San-Tsai Sun;Kirstie Hawkey;Konstantin Beznosov;,https://doi.org/10.1109/ACSAC.2009.45
+acsac/acsac2009,2009,Trust Management,Enabling Secure Secret Sharing in Distributed Online Social Networks.,Le-Hung Vu;Karl Aberer;Sonja Buchegger;Anwitaman Datta;,https://doi.org/10.1109/ACSAC.2009.46
+acsac/acsac2009,2009,Trust Management,Deploying and Monitoring DNS Security (DNSSEC).,Eric Osterweil;Daniel Massey;Lixia Zhang;,https://doi.org/10.1109/ACSAC.2009.47
+acsac/acsac2009,2009,Virtualization Security,MAVMM: Lightweight and Purpose Built VMM for Malware Analysis.,Anh M. Nguyen;Nabil Schear;HeeDong Jung;Apeksha Godiyal;Samuel T. King;Hai D. Nguyen;,https://doi.org/10.1109/ACSAC.2009.48
+acsac/acsac2009,2009,Virtualization Security,Protecting Kernel Code and Data with a Virtualization-Aware Collaborative Operating System.,Daniela Alvim Seabra de Oliveira;Shyhtsun Felix Wu;,https://doi.org/10.1109/ACSAC.2009.49
+acsac/acsac2009,2009,Virtualization Security,HIMA: A Hypervisor-Based Integrity Measurement Agent.,Ahmed M. Azab;Peng Ning;Emre Can Sezer;Xiaolan Zhang;,https://doi.org/10.1109/ACSAC.2009.50
+acsac/acsac2009,2009,"Intrusion Detection, Recovery and Analysis",Online Sketching of Network Flows for Real-Time Stepping-Stone Detection.,Baris Coskun;Nasir D. Memon;,https://doi.org/10.1109/ACSAC.2009.51
+acsac/acsac2009,2009,"Intrusion Detection, Recovery and Analysis",SHELF: Preserving Business Continuity and Availability in an Intrusion Recovery System.,Xi Xiong;Xiaoqi Jia;Peng Liu;,https://doi.org/10.1109/ACSAC.2009.52
+acsac/acsac2009,2009,"Intrusion Detection, Recovery and Analysis",An Empirical Approach to Modeling Uncertainty in Intrusion Analysis.,Xinming Ou;Siva Raj Rajagopalan;Sakthiyuvaraja Sakthivelmurugan;,https://doi.org/10.1109/ACSAC.2009.53
+acsac/acsac2009,2009,Privacy and Software Assurance,The Design of a Trustworthy Voting System.,Nathanael Paul;Andrew S. Tanenbaum;,https://doi.org/10.1109/ACSAC.2009.54
+acsac/acsac2009,2009,Privacy and Software Assurance,Privacy through Noise: A Design Space for Private Identification.,Karsten Nohl;David Evans;,https://doi.org/10.1109/ACSAC.2009.55
+acsac/acsac2009,2009,Privacy and Software Assurance,A Survey of Vendor Software Assurance Practices.,Jeremy Epstein;,https://doi.org/10.1109/ACSAC.2009.56

@@ -1,0 +1,25 @@
+crypto/crypto2017-1,2017,Functional Encryption,"Stronger Security for Reusable Garbled Circuits, General Definitions and Attacks.",Shweta Agrawal;,https://doi.org/10.1007/978-3-319-63688-7_1
+crypto/crypto2017-1,2017,Functional Encryption,Generic Transformations of Predicate Encodings: Constructions and Applications.,Miguel Ambrona;Gilles Barthe;Benedikt Schmidt;,https://doi.org/10.1007/978-3-319-63688-7_2
+crypto/crypto2017-1,2017,Functional Encryption,Practical Functional Encryption for Quadratic Functions with Applications to Predicate Encryption.,Carmen Elisabetta Zaira Baltico;Dario Catalano;Dario Fiore;Romain Gay;,https://doi.org/10.1007/978-3-319-63688-7_3
+crypto/crypto2017-1,2017,Foundations,Memory-Tight Reductions.,Benedikt Auerbach;David Cash;Manuel Fersch;Eike Kiltz;,https://doi.org/10.1007/978-3-319-63688-7_4
+crypto/crypto2017-1,2017,Foundations,"Be Adaptive, Avoid Overcommitting.",Zahra Jafargholi;Chethan Kamath;Karen Klein;Ilan Komargodski;Krzysztof Pietrzak;Daniel Wichs;,https://doi.org/10.1007/978-3-319-63688-7_5
+crypto/crypto2017-1,2017,Two-Party Computation,"The TinyTable Protocol for 2-Party Secure Computation, or: Gate-Scrambling Revisited.",Ivan Damgård;Jesper Buus Nielsen;Michael Nielsen;Samuel Ranellucci;,https://doi.org/10.1007/978-3-319-63688-7_6
+crypto/crypto2017-1,2017,Two-Party Computation,Privacy-Free Garbled Circuits for Formulas: Size Zero and Information-Theoretic.,Yashvanth Kondi;Arpita Patra;,https://doi.org/10.1007/978-3-319-63688-7_7
+crypto/crypto2017-1,2017,Two-Party Computation,Secure Arithmetic Computation with Constant Computational Overhead.,Benny Applebaum;Ivan Damgård;Yuval Ishai;Michael Nielsen;Lior Zichron;,https://doi.org/10.1007/978-3-319-63688-7_8
+crypto/crypto2017-1,2017,Two-Party Computation,Encryption Switching Protocols Revisited: Switching Modulo p.,Guilhem Castagnos;Laurent Imbert;Fabien Laguillaumie;,https://doi.org/10.1007/978-3-319-63688-7_9
+crypto/crypto2017-1,2017,Bitcoin,The Bitcoin Backbone Protocol with Chains of Variable Difficulty.,Juan A. Garay;Aggelos Kiayias;Nikos Leonardos;,https://doi.org/10.1007/978-3-319-63688-7_10
+crypto/crypto2017-1,2017,Bitcoin,Bitcoin as a Transaction Ledger: A Composable Treatment.,Christian Badertscher;Ueli Maurer;Daniel Tschudi;Vassilis Zikas;,https://doi.org/10.1007/978-3-319-63688-7_11
+crypto/crypto2017-1,2017,Bitcoin,Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol.,Aggelos Kiayias;Alexander Russell;Bernardo David;Roman Oliynykov;,https://doi.org/10.1007/978-3-319-63688-7_12
+crypto/crypto2017-1,2017,Multiparty Computation,Robust Non-interactive Multiparty Computation Against Constant-Size Collusion.,Fabrice Benhamouda;Hugo Krawczyk;Tal Rabin;,https://doi.org/10.1007/978-3-319-63688-7_13
+crypto/crypto2017-1,2017,Multiparty Computation,The Price of Low Communication in Secure Multi-party Computation.,Juan A. Garay;Yuval Ishai;Rafail Ostrovsky;Vassilis Zikas;,https://doi.org/10.1007/978-3-319-63688-7_14
+crypto/crypto2017-1,2017,Multiparty Computation,Topology-Hiding Computation on All Graphs.,Adi Akavia;Rio LaVigne;Tal Moran;,https://doi.org/10.1007/978-3-319-63688-7_15
+crypto/crypto2017-1,2017,Multiparty Computation,A New Approach to Round-Optimal Secure Multiparty Computation.,Prabhanjan Ananth;Arka Rai Choudhuri;Abhishek Jain;,https://doi.org/10.1007/978-3-319-63688-7_16
+crypto/crypto2017-1,2017,Award Papers,Watermarking Cryptographic Functionalities from Standard Lattice Assumptions.,Sam Kim;David J. Wu;,https://doi.org/10.1007/978-3-319-63688-7_17
+crypto/crypto2017-1,2017,Award Papers,Identity-Based Encryption from the Diffie-Hellman Assumption.,Nico Döttling;Sanjam Garg;,https://doi.org/10.1007/978-3-319-63688-7_18
+crypto/crypto2017-1,2017,Award Papers,The First Collision for Full SHA-1.,Marc Stevens;Elie Bursztein;Pierre Karpman;Ange Albertini;Yarik Markov;,https://doi.org/10.1007/978-3-319-63688-7_19
+crypto/crypto2017-1,2017,Obfuscation,Indistinguishability Obfuscation from SXDH on 5-Linear Maps and Locality-5 PRGs.,Huijia Lin;,https://doi.org/10.1007/978-3-319-63688-7_20
+crypto/crypto2017-1,2017,Obfuscation,Indistinguishability Obfuscation from Trilinear Maps and Block-Wise Local PRGs.,Huijia Lin;Stefano Tessaro;,https://doi.org/10.1007/978-3-319-63688-7_21
+crypto/crypto2017-1,2017,Obfuscation,Lower Bounds on Obfuscation from All-or-Nothing Encryption Primitives.,Sanjam Garg;Mohammad Mahmoody;Ameer Mohammed;,https://doi.org/10.1007/978-3-319-63688-7_22
+crypto/crypto2017-1,2017,Obfuscation,Structure vs. Hardness Through the Obfuscation Lens.,Nir Bitansky;Akshay Degwekar;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-319-63688-7_23
+crypto/crypto2017-1,2017,Conditional Disclosure of Secrets,"Conditional Disclosure of Secrets: Amplification, Closure, Amortization, Lower-Bounds, and Separations.",Benny Applebaum;Barak Arkis;Pavel Raykov;Prashant Nalini Vasudevan;,https://doi.org/10.1007/978-3-319-63688-7_24
+crypto/crypto2017-1,2017,Conditional Disclosure of Secrets,Conditional Disclosure of Secrets via Non-linear Reconstruction.,Tianren Liu;Vinod Vaikuntanathan;Hoeteck Wee;,https://doi.org/10.1007/978-3-319-63688-7_25

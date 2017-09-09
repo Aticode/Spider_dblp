@@ -1,0 +1,34 @@
+crypto/crypto2004,2004,Linear Cryptanalysis,On Multiple Linear Approximations.,Alex Biryukov;Christophe De Cannière;Michaël Quisquater;,https://doi.org/10.1007/978-3-540-28628-8_1
+crypto/crypto2004,2004,Linear Cryptanalysis,Feistel Schemes and Bi-linear Cryptanalysis.,Nicolas Courtois;,https://doi.org/10.1007/978-3-540-28628-8_2
+crypto/crypto2004,2004,Group Signatures,Short Group Signatures.,Dan Boneh;Xavier Boyen;Hovav Shacham;,https://doi.org/10.1007/978-3-540-28628-8_3
+crypto/crypto2004,2004,Group Signatures,Signature Schemes and Anonymous Credentials from Bilinear Maps.,Jan Camenisch;Anna Lysyanskaya;,https://doi.org/10.1007/978-3-540-28628-8_4
+crypto/crypto2004,2004,Foundations,Complete Classification of Bilinear Hard-Core Functions.,Thomas Holenstein;Ueli M. Maurer;Johan Sjödin;,https://doi.org/10.1007/978-3-540-28628-8_5
+crypto/crypto2004,2004,Foundations,"Finding Collisions on a Public Road, or Do Secure Hash Functions Need Secret Coins?",Chun-Yuan Hsiao;Leonid Reyzin;,https://doi.org/10.1007/978-3-540-28628-8_6
+crypto/crypto2004,2004,Foundations,Security of Random Feistel Schemes with 5 or More Rounds.,Jacques Patarin;,https://doi.org/10.1007/978-3-540-28628-8_7
+crypto/crypto2004,2004,Efficient Representations,Signed Binary Representations Revisited.,Katsuyuki Okeya;Katja Schmidt-Samoa;Christian Spahn;Tsuyoshi Takagi;,https://doi.org/10.1007/978-3-540-28628-8_8
+crypto/crypto2004,2004,Efficient Representations,Compressed Pairings.,Michael Scott;Paulo S. L. M. Barreto;,https://doi.org/10.1007/978-3-540-28628-8_9
+crypto/crypto2004,2004,Efficient Representations,Asymptotically Optimal Communication for Torus-Based Cryptography.,Marten van Dijk;David P. Woodruff;,https://doi.org/10.1007/978-3-540-28628-8_10
+crypto/crypto2004,2004,Efficient Representations,How to Compress Rabin Ciphertexts and Signatures (and More).,Craig Gentry;,https://doi.org/10.1007/978-3-540-28628-8_11
+crypto/crypto2004,2004,Public Key Cryptanalysis,On the Bounded Sum-of-Digits Discrete Logarithm Problem in Finite Fields.,Qi Cheng;,https://doi.org/10.1007/978-3-540-28628-8_12
+crypto/crypto2004,2004,Public Key Cryptanalysis,Computing the RSA Secret Key Is Deterministic Polynomial Time Equivalent to Factoring.,Alexander May;,https://doi.org/10.1007/978-3-540-28628-8_13
+crypto/crypto2004,2004,Zero-Knowledge,Multi-trapdoor Commitments and Their Applications to Proofs of Knowledge Secure Under Concurrent Man-in-the-Middle Attacks.,Rosario Gennaro;,https://doi.org/10.1007/978-3-540-28628-8_14
+crypto/crypto2004,2004,Zero-Knowledge,Constant-Round Resettable Zero Knowledge with Concurrent Soundness in the Bare Public-Key Model.,Giovanni Di Crescenzo;Giuseppe Persiano;Ivan Visconti;,https://doi.org/10.1007/978-3-540-28628-8_15
+crypto/crypto2004,2004,Zero-Knowledge,Zero-Knowledge Proofs and String Commitments Withstanding Quantum Attacks.,Ivan Damgård;Serge Fehr;Louis Salvail;,https://doi.org/10.1007/978-3-540-28628-8_16
+crypto/crypto2004,2004,Zero-Knowledge,The Knowledge-of-Exponent Assumptions and 3-Round Zero-Knowledge Protocols.,Mihir Bellare;Adriana Palacio;,https://doi.org/10.1007/978-3-540-28628-8_17
+crypto/crypto2004,2004,Hash Collisions,Near-Collisions of SHA-0.,Eli Biham;Rafi Chen;,https://doi.org/10.1007/978-3-540-28628-8_18
+crypto/crypto2004,2004,Hash Collisions,Multicollisions in Iterated Hash Functions. Application to Cascaded Constructions.,Antoine Joux;,https://doi.org/10.1007/978-3-540-28628-8_19
+crypto/crypto2004,2004,Secure Computation,Adaptively Secure Feldman VSS and Applications to Universally-Composable Threshold Cryptography.,Masayuki Abe;Serge Fehr;,https://doi.org/10.1007/978-3-540-28628-8_20
+crypto/crypto2004,2004,Secure Computation,Round-Optimal Secure Two-Party Computation.,Jonathan Katz;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-540-28628-8_21
+crypto/crypto2004,2004,Invited Talk,"Security, Liberty, and Electronic Communications.",Susan Landau;,https://doi.org/10.1007/978-3-540-28628-8_22
+crypto/crypto2004,2004,Stream Cipher Cryptanalysis,An Improved Correlation Attack Against Irregular Clocked and Filtered Keystream Generators.,Håvard Molland;Tor Helleseth;,https://doi.org/10.1007/978-3-540-28628-8_23
+crypto/crypto2004,2004,Stream Cipher Cryptanalysis,Rewriting Variables: The Complexity of Fast Algebraic Attacks on Stream Ciphers.,Philip Hawkes;Gregory G. Rose;,https://doi.org/10.1007/978-3-540-28628-8_24
+crypto/crypto2004,2004,Stream Cipher Cryptanalysis,Faster Correlation Attack on Bluetooth Keystream Generator E0.,Yi Lu;Serge Vaudenay;,https://doi.org/10.1007/978-3-540-28628-8_25
+crypto/crypto2004,2004,Public Key Encryption,A New Paradigm of Hybrid Encryption Scheme.,Kaoru Kurosawa;Yvo Desmedt;,https://doi.org/10.1007/978-3-540-28628-8_26
+crypto/crypto2004,2004,Public Key Encryption,Secure Identity Based Encryption Without Random Oracles.,Dan Boneh;Xavier Boyen;,https://doi.org/10.1007/978-3-540-28628-8_27
+crypto/crypto2004,2004,Bounded Storage Model,Non-interactive Timestamping in the Bounded Storage Model.,Tal Moran;Ronen Shaltiel;Amnon Ta-Shma;,https://doi.org/10.1007/978-3-540-28628-8_28
+crypto/crypto2004,2004,Key Management,IPAKE: Isomorphisms for Password-Based Authenticated Key Exchange.,Dario Catalano;David Pointcheval;Thomas Pornin;,https://doi.org/10.1007/978-3-540-28628-8_29
+crypto/crypto2004,2004,Key Management,"Randomness Extraction and Key Derivation Using the CBC, Cascade and HMAC Modes.",Yevgeniy Dodis;Rosario Gennaro;Johan Håstad;Hugo Krawczyk;Tal Rabin;,https://doi.org/10.1007/978-3-540-28628-8_30
+crypto/crypto2004,2004,Key Management,Efficient Tree-Based Revocation in Groups of Low-State Devices.,Michael T. Goodrich;Jonathan Z. Sun;Roberto Tamassia;,https://doi.org/10.1007/978-3-540-28628-8_31
+crypto/crypto2004,2004,Computationally Unbounded Adversaries,Privacy-Preserving Datamining on Vertically Partitioned Databases.,Cynthia Dwork;Kobbi Nissim;,https://doi.org/10.1007/978-3-540-28628-8_32
+crypto/crypto2004,2004,Computationally Unbounded Adversaries,Optimal Perfectly Secure Message Transmission.,K. Srinathan;Arvind Narayanan;C. Pandu Rangan;,https://doi.org/10.1007/978-3-540-28628-8_33
+crypto/crypto2004,2004,Computationally Unbounded Adversaries,"Pseudo-signatures, Broadcast, and Multi-party Computation from Correlated Randomness.",Matthias Fitzi;Stefan Wolf;Jürg Wullschleger;,https://doi.org/10.1007/978-3-540-28628-8_34

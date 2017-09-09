@@ -1,0 +1,34 @@
+pkc/pkc2006,2006,Cryptanalysis and Protocol Weaknesses,New Attacks on RSA with Small Secret CRT-Exponents.,Daniel Bleichenbacher;Alexander May;,https://doi.org/10.1007/11745853_1
+pkc/pkc2006,2006,Cryptanalysis and Protocol Weaknesses,An Attack on a Modified Niederreiter Encryption Scheme.,Christian Wieschebrink;,https://doi.org/10.1007/11745853_2
+pkc/pkc2006,2006,Cryptanalysis and Protocol Weaknesses,Cryptanalysis of an Efficient Proof of Knowledge of Discrete Logarithm.,Sébastien Kunz-Jacques;Gwenaëlle Martinet;Guillaume Poupard;Jacques Stern;,https://doi.org/10.1007/11745853_3
+pkc/pkc2006,2006,Distributed Crypto-computing,Efficient Polynomial Operations in the Shared-Coefficients Setting.,Payman Mohassel;Matthew K. Franklin;,https://doi.org/10.1007/11745853_4
+pkc/pkc2006,2006,Distributed Crypto-computing,Generic On-Line/Off-Line Threshold Signatures.,Chris Crutchfield;David Molnar;David Turner;David A. Wagner;,https://doi.org/10.1007/11745853_5
+pkc/pkc2006,2006,Distributed Crypto-computing,Linear Integer Secret Sharing and Distributed Exponentiation.,Ivan Damgård;Rune Thorbek;,https://doi.org/10.1007/11745853_6
+pkc/pkc2006,2006,Encryption Methods,Encoding-Free ElGamal Encryption Without Random Oracles.,Benoît Chevallier-Mames;Pascal Paillier;David Pointcheval;,https://doi.org/10.1007/11745853_7
+pkc/pkc2006,2006,Encryption Methods,Parallel Key-Insulated Public Key Encryption.,Goichiro Hanaoka;Yumiko Hanaoka;Hideki Imai;,https://doi.org/10.1007/11745853_8
+pkc/pkc2006,2006,Encryption Methods,Provably Secure Steganography with Imperfect Sampling.,Anna Lysyanskaya;Mira Meyerovich;,https://doi.org/10.1007/11745853_9
+pkc/pkc2006,2006,Cryptographic Hash and Applications,Collision-Resistant No More: Hash-and-Sign Paradigm Revisited.,Ilya Mironov;,https://doi.org/10.1007/11745853_10
+pkc/pkc2006,2006,Cryptographic Hash and Applications,Higher Order Universal One-Way Hash Functions from the Subset Sum Assumption.,Ron Steinfeld;Josef Pieprzyk;Huaxiong Wang;,https://doi.org/10.1007/11745853_11
+pkc/pkc2006,2006,Number Theory Algorithms,An Algorithm to Solve the Discrete Logarithm Problem with the Number Field Sieve.,An Commeine;Igor A. Semaev;,https://doi.org/10.1007/11745853_12
+pkc/pkc2006,2006,Number Theory Algorithms,Efficient Scalar Multiplication by Isogeny Decompositions.,Christophe Doche;Thomas Icart;David R. Kohel;,https://doi.org/10.1007/11745853_13
+pkc/pkc2006,2006,Number Theory Algorithms,Curve25519: New Diffie-Hellman Speed Records.,Daniel J. Bernstein;,https://doi.org/10.1007/11745853_14
+pkc/pkc2006,2006,Pairing-Based Cryptography,Strongly Unforgeable Signatures Based on Computational Diffie-Hellman.,Dan Boneh;Emily Shen;Brent Waters;,https://doi.org/10.1007/11745853_15
+pkc/pkc2006,2006,Pairing-Based Cryptography,Generalization of the Selective-ID Security Model for HIBE Protocols.,Sanjit Chatterjee;Palash Sarkar;,https://doi.org/10.1007/11745853_16
+pkc/pkc2006,2006,Pairing-Based Cryptography,Identity-Based Aggregate Signatures.,Craig Gentry;Zulfikar Ramzan;,https://doi.org/10.1007/11745853_17
+pkc/pkc2006,2006,Pairing-Based Cryptography,On the Limitations of the Spread of an IBE-to-PKE Transformation.,Eike Kiltz;,https://doi.org/10.1007/11745853_18
+pkc/pkc2006,2006,Cryptosystems Design and Analysis,Inoculating Multivariate Schemes Against Differential Attacks.,Jintai Ding;Jason E. Gower;,https://doi.org/10.1007/11745853_19
+pkc/pkc2006,2006,Cryptosystems Design and Analysis,Random Subgroups of Braid Groups: An Approach to Cryptanalysis of a Braid Group Based Cryptographic Protocol.,Alexei G. Myasnikov;Vladimir Shpilrain;Alexander Ushakov;,https://doi.org/10.1007/11745853_20
+pkc/pkc2006,2006,Cryptosystems Design and Analysis,High-Order Attacks Against the Exponent Splitting Protection.,Frédéric Muller;Frédéric Valette;,https://doi.org/10.1007/11745853_21
+pkc/pkc2006,2006,Signature and Identification,New Online/Offline Signature Schemes Without Random Oracles.,Kaoru Kurosawa;Katja Schmidt-Samoa;,https://doi.org/10.1007/11745853_22
+pkc/pkc2006,2006,Signature and Identification,Anonymous Signature Schemes.,Guomin Yang;Duncan S. Wong;Xiaotie Deng;Huaxiong Wang;,https://doi.org/10.1007/11745853_23
+pkc/pkc2006,2006,Signature and Identification,The Power of Identification Schemes.,Kaoru Kurosawa;Swee-Huay Heng;,https://doi.org/10.1007/11745853_24
+pkc/pkc2006,2006,Authentication and Key Establishment,Security Analysis of KEA Authenticated Key Exchange Protocol.,Kristin E. Lauter;Anton Mityagin;,https://doi.org/10.1007/11745853_25
+pkc/pkc2006,2006,Authentication and Key Establishment,SAS-Based Authenticated Key Agreement.,Sylvain Pasini;Serge Vaudenay;,https://doi.org/10.1007/11745853_26
+pkc/pkc2006,2006,Authentication and Key Establishment,The Twist-AUgmented Technique for Key Exchange.,Olivier Chevassut;Pierre-Alain Fouque;Pierrick Gaudry;David Pointcheval;,https://doi.org/10.1007/11745853_27
+pkc/pkc2006,2006,Authentication and Key Establishment,Password-Based Group Key Exchange in a Constant Number of Rounds.,Michel Abdalla;Emmanuel Bresson;Olivier Chevassut;David Pointcheval;,https://doi.org/10.1007/11745853_28
+pkc/pkc2006,2006,Multi-party Computation,Conditional Oblivious Cast.,Cheng-Kang Chu;Wen-Guey Tzeng;,https://doi.org/10.1007/11745853_29
+pkc/pkc2006,2006,Multi-party Computation,Efficiency Tradeoffs for Malicious Two-Party Computation.,Payman Mohassel;Matthew K. Franklin;,https://doi.org/10.1007/11745853_30
+pkc/pkc2006,2006,PKI Techniques,On Constructing Certificateless Cryptosystems from Identity Based Encryption.,Benoît Libert;Jean-Jacques Quisquater;,https://doi.org/10.1007/11745853_31
+pkc/pkc2006,2006,PKI Techniques,Building Better Signcryption Schemes with Tag-KEMs.,Tor E. Bjørstad;Alexander W. Dent;,https://doi.org/10.1007/11745853_32
+pkc/pkc2006,2006,PKI Techniques,Security-Mediated Certificateless Cryptography.,Sherman S. M. Chow;Colin Boyd;Juan Manuel González Nieto;,https://doi.org/10.1007/11745853_33
+pkc/pkc2006,2006,PKI Techniques,k-Times Anonymous Authentication with a Constant Proving Cost.,Isamu Teranishi;Kazue Sako;,https://doi.org/10.1007/11745853_34

@@ -1,0 +1,22 @@
+jcs/jcs24,2016,Number 1,Symbolic universal composability.,Florian Böhl;Dominique Unruh;,https://doi.org/10.3233/JCS-140523
+jcs/jcs24,2016,Number 1,"Secure multi-execution: Fine-grained, declassification-aware, and transparent.",Willard Rafnsson;Andrei Sabelfeld;,https://doi.org/10.3233/JCS-150541
+jcs/jcs24,2016,Number 1,Mashic compiler: Mashup sandboxing based on inter-frame communication.,Zhengqin Luo;José Fragoso Santos;Ana Almeida Matos;Tamara Rezk;,https://doi.org/10.3233/JCS-160542
+jcs/jcs24,2016,Number 2,Secure outsourced garbled circuit evaluation for mobile devices.,Henry Carter;Benjamin Mood;Patrick Traynor;Kevin R. B. Butler;,https://doi.org/10.3233/JCS-150540
+jcs/jcs24,2016,Number 2,Information-flow security for JavaScript and its APIs.,Daniel Hedin;Luciano Bello;Andrei Sabelfeld;,https://doi.org/10.3233/JCS-160544
+jcs/jcs24,2016,Number 2,The user attribution problem and the challenge of persistent surveillance of user activity in complex networks.,Claudio Taglienti;James Cannady;,https://doi.org/10.3233/JCS-160546
+jcs/jcs24,2016,Number 2,Publicly evaluable pseudorandom functions and their applications.,Yu Chen;Zongyang Zhang;,https://doi.org/10.3233/JCS-160547
+jcs/jcs24,2016,Number 3,A severity-based quantification of data leakages in database systems.,Sokratis Vavilis;Milan Petkovic;Nicola Zannone;,https://doi.org/10.3233/JCS-160543
+jcs/jcs24,2016,Number 3,Efficient integrity checks for join queries in the cloud.,Sabrina De Capitani di Vimercati;Sara Foresti;Sushil Jajodia;Stefano Paraboschi;Pierangela Samarati;,https://doi.org/10.3233/JCS-160545
+jcs/jcs24,2016,Number 3,Minimum cost rule enforcement for cooperative database access.,Meixing Le;Krishna Kant;Malek Athamnah;Sushil Jajodia;,https://doi.org/10.3233/JCS-160548
+jcs/jcs24,2016,Number 4,TripleMon: A multi-layer security framework for mediating inter-process communication on Android.,Yiming Jing;Gail-Joon Ahn;Hongxin Hu;Haehyun Cho;Ziming Zhao;,https://doi.org/10.3233/JCS-160552
+jcs/jcs24,2016,Number 4,Context-aware security: Linguistic mechanisms and static analysis.,Chiara Bodei;Pierpaolo Degano;Letterio Galletta;Francesco Salvatori;,https://doi.org/10.3233/JCS-160551
+jcs/jcs24,2016,Number 4,Practical and privacy-preserving information retrieval from a database table.,Giovanni Di Crescenzo;Debra L. Cook;Allen McIntosh;Euthimios Panagos;,https://doi.org/10.3233/JCS-160550
+jcs/jcs24,2016,Number 4,SQLiDDS: SQL injection detection using document similarity measure.,Debabrata Kar;Suvasini Panigrahi;Srikanth Sundararajan;,https://doi.org/10.3233/JCS-160554
+jcs/jcs24,2016,Number 5,Information flow analysis for a dynamically typed language with staged metaprogramming.,Martin Mariusz Lester;Luke Ong;Max Schäfer;,https://doi.org/10.3233/JCS-160557
+jcs/jcs24,2016,Number 5,Automated analysis of security protocols with global state.,Steve Kremer;Robert Künnemann;,https://doi.org/10.3233/JCS-160556
+jcs/jcs24,2016,Number 5,Model-checking trace-based information flow properties for infinite-state systems.,Deepak D'Souza;Raghavendra K. Ramesh;,https://doi.org/10.3233/JCS-160549
+jcs/jcs24,2016,Number 5,Exploring large scale security system reproducibility with the LESS simulator.,John Sonchack;Adam J. Aviv;,https://doi.org/10.3233/JCS-160553
+jcs/jcs24,2016,Number 6,Content sharing schemes in DRM systems with enhanced performance and privacy preservation.,Michal Davidson;Tamir Tassa;Ehud Gudes;,https://doi.org/10.3233/JCS-15746
+jcs/jcs24,2016,Number 6,A verified information-flow architecture.,Arthur Azevedo de Amorim;Nathan Collins;André DeHon;Delphine Demange;Catalin Hritcu;David Pichardie;Benjamin C. Pierce;Randy Pollack;Andrew Tolmach;,https://doi.org/10.3233/JCS-15784
+jcs/jcs24,2016,Number 6,Using temporal probabilistic logic for optimal monitoring of security events with limited resources.,Sushil Jajodia;Noseong Park;Edoardo Serra;V. S. Subrahmanian;,https://doi.org/10.3233/JCS-160555
+jcs/jcs24,2016,Number 6,Provably secure memory isolation for Linux on ARM.,Roberto Guanciale;Hamed Nemati;Mads Dam;Christoph Baumann;,https://doi.org/10.3233/JCS-160558

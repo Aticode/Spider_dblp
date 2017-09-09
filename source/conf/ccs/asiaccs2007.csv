@@ -1,0 +1,47 @@
+ccs/asiaccs2007,2007,Keynote speeches,Keynote speech.,Mark Bregman;,http://doi.acm.org/10.1145/1229285.1229287
+ccs/asiaccs2007,2007,Keynote speeches,Topological analysis of network attack vulnerability.,Sushil Jajodia;,http://doi.acm.org/10.1145/1229285.1229288
+ccs/asiaccs2007,2007,Keynote speeches,On the evolution of adversary models in security protocols: from the beginning to sensor networks.,Virgil D. Gligor;,http://doi.acm.org/10.1145/1229285.1229289
+ccs/asiaccs2007,2007,Network security,Analyzing network traffic to detect self-decrypting exploit code.,Qinghua Zhang;Douglas S. Reeves;Peng Ning;S. Purushothaman Iyer;,http://doi.acm.org/10.1145/1229285.1229291
+ccs/asiaccs2007,2007,Network security,Network anomaly detection based on TCM-KNN algorithm.,Yang Li;Binxing Fang;Li Guo;You Chen;,http://doi.acm.org/10.1145/1229285.1229292
+ccs/asiaccs2007,2007,Network security,BASE: an incrementally deployable mechanism for viable IP spoofing prevention.,Heejo Lee;Minjin Kwon;Geoffrey Hasker;Adrian Perrig;,http://doi.acm.org/10.1145/1229285.1229293
+ccs/asiaccs2007,2007,Network security,Bluetooth worm propagation: mobility pattern matters!,Guanhua Yan;Hector D. Flores;Leticia Cuellar;Nicolas W. Hengartner;Stephan Eidenbenz;Vincent Vu;,http://doi.acm.org/10.1145/1229285.1229294
+ccs/asiaccs2007,2007,Anonymity systems &amp; formal method,A k-anonymous communication protocol for overlay networks.,Pan Wang;Peng Ning;Douglas S. Reeves;,http://doi.acm.org/10.1145/1229285.1229296
+ccs/asiaccs2007,2007,Anonymity systems &amp; formal method,Kleptographic attacks on a cascade of mix servers.,Przemyslaw Kubiak;Miroslaw Kutylowski;Filip Zagórski;,http://doi.acm.org/10.1145/1229285.1229297
+ccs/asiaccs2007,2007,Anonymity systems &amp; formal method,Private stateful circuits secure against probing attacks.,Yu Yu;Jussipekka Leiwo;A. Benjamin Premkumar;,http://doi.acm.org/10.1145/1229285.1229298
+ccs/asiaccs2007,2007,Anonymity systems &amp; formal method,Specifying and analyzing security automata using CSP-OZ.,David A. Basin;Ernst-Rüdiger Olderog;Paul E. Sevinç;,http://doi.acm.org/10.1145/1229285.1229299
+ccs/asiaccs2007,2007,Access control,Efficient techniques for realizing geo-spatial access control.,Mikhail J. Atallah;Marina Blanton;Keith B. Frikken;,http://doi.acm.org/10.1145/1229285.1229301
+ccs/asiaccs2007,2007,Access control,A framework for decentralized access control.,Meenakshi Balasubramanian;Abhishek Bhatnagar;Namit Chaturvedi;Atish Datta Chowdhury;Arul Ganesh;,http://doi.acm.org/10.1145/1229285.1229302
+ccs/asiaccs2007,2007,Access control,Incremental adaptation of XPath access control views.,Padmapriya Ayyagari;Prasenjit Mitra;Dongwon Lee;Peng Liu;Wang-Chien Lee;,http://doi.acm.org/10.1145/1229285.1229303
+ccs/asiaccs2007,2007,Access control,SecureBus: towards application-transparent trusted computing with mandatory access control.,Xinwen Zhang;Michael J. Covington;Songqing Chen;Ravi S. Sandhu;,http://doi.acm.org/10.1145/1229285.1229304
+ccs/asiaccs2007,2007,Access control,Administration in role-based access control.,Ninghui Li;Ziqing Mao;,http://doi.acm.org/10.1145/1229285.1229305
+ccs/asiaccs2007,2007,Access control,Managing RBAC states with transitive relations.,Chaoyi Pang;David P. Hansen;Anthony J. Maeder;,http://doi.acm.org/10.1145/1229285.1229306
+ccs/asiaccs2007,2007,Authentication &amp; trust management,Trust management services in relational databases.,Sabrina De Capitani di Vimercati;Sushil Jajodia;Stefano Paraboschi;Pierangela Samarati;,http://doi.acm.org/10.1145/1229285.1229308
+ccs/asiaccs2007,2007,Authentication &amp; trust management,Concurrently-secure credential ownership proofs.,Siamak Fayyaz Shahandashti;Reihaneh Safavi-Naini;Joonsang Baek;,http://doi.acm.org/10.1145/1229285.1229309
+ccs/asiaccs2007,2007,Authentication &amp; trust management,Unconditionally secure ring authentication.,Reihaneh Safavi-Naini;Shuhong Wang;Yvo Desmedt;,http://doi.acm.org/10.1145/1229285.1229310
+ccs/asiaccs2007,2007,Authentication &amp; trust management,Combinatorial characterizations of authentication codes in verification oracle model.,Dongvu Tonien;Reihaneh Safavi-Naini;Peter R. Wild;,http://doi.acm.org/10.1145/1229285.1229311
+ccs/asiaccs2007,2007,Applications &amp; security policy,A novel approach for a file-system integrity monitor tool of Xen virtual machine.,Anh-Quynh Nguyen;Yoshiyasu Takefuji;,http://doi.acm.org/10.1145/1229285.1229313
+ccs/asiaccs2007,2007,Applications &amp; security policy,Detecting relay attacks with timing-based protocols.,Jason Reid;Juan Manuel González Nieto;Tee Tang;Bouchra Senadji;,http://doi.acm.org/10.1145/1229285.1229314
+ccs/asiaccs2007,2007,Applications &amp; security policy,Direct static enforcement of high-level security policies.,Qihua Wang;Ninghui Li;,http://doi.acm.org/10.1145/1229285.1229315
+ccs/asiaccs2007,2007,Applications &amp; security policy,An extended model of security policy for multi-applicative smart cards.,Matthias Schwan;,http://doi.acm.org/10.1145/1229285.1229316
+ccs/asiaccs2007,2007,RFID &amp; watermarking,Protecting RFID communications in supply chains.,Yingjiu Li;Xuhua Ding;,http://doi.acm.org/10.1145/1229285.1229318
+ccs/asiaccs2007,2007,RFID &amp; watermarking,Universally composable and forward-secure RFID authentication and authenticated key exchange.,Tri Van Le;Mike Burmester;Breno de Medeiros;,http://doi.acm.org/10.1145/1229285.1229319
+ccs/asiaccs2007,2007,Short papers,A dynamic information flow model of secure systems.,Jianjun Shen;Sihan Qing;,http://doi.acm.org/10.1145/1229285.1229321
+ccs/asiaccs2007,2007,Short papers,Crocus: a steganographic filesystem manager.,Hioki Hirohisa;,http://doi.acm.org/10.1145/1229285.1229322
+ccs/asiaccs2007,2007,Short papers,Compact FPGA implementations of QUAD.,David Arditti;Côme Berbain;Olivier Billet;Henri Gilbert;,http://doi.acm.org/10.1145/1229285.1229323
+ccs/asiaccs2007,2007,Short papers,Elastic block ciphers: the basic design.,Debra L. Cook;Angelos D. Keromytis;Moti Yung;,http://doi.acm.org/10.1145/1229285.1229324
+ccs/asiaccs2007,2007,Short papers,Fuzzy extractors for continuous distributions.,Ileana Buhan;Jeroen Doumen;Pieter H. Hartel;Raymond N. J. Veldhuis;,http://doi.acm.org/10.1145/1229285.1229325
+ccs/asiaccs2007,2007,Short papers,Invisible designated confirmer signatures without random oracles.,Victor K. Wei;,http://doi.acm.org/10.1145/1229285.1229326
+ccs/asiaccs2007,2007,Short papers,Keystroke statistical learning model for web authentication.,Cheng-Huang Jiang;Shiuhpyng Shieh;Jen-Chien Liu;,http://doi.acm.org/10.1145/1229285.1229327
+ccs/asiaccs2007,2007,Short papers,Managing heterogeneous network environments using an extensible policy framework.,Lawrence Teo;Gail-Joon Ahn;,http://doi.acm.org/10.1145/1229285.1229328
+ccs/asiaccs2007,2007,Short papers,Mitigating denial-of-service attacks in MANET by distributed packet filtering: a game-theoretic approach.,Xiaoxin Wu;David K. Y. Yau;,http://doi.acm.org/10.1145/1229285.1229329
+ccs/asiaccs2007,2007,Short papers,New constructions of fuzzy identity-based encryption.,Joonsang Baek;Willy Susilo;Jianying Zhou;,http://doi.acm.org/10.1145/1229285.1229330
+ccs/asiaccs2007,2007,Short papers,Non-intrusive IP traceback for DDoS attacks.,Vrizlynn L. L. Thing;Morris Sloman;Naranker Dulay;,http://doi.acm.org/10.1145/1229285.1229331
+ccs/asiaccs2007,2007,Short papers,Ring signatures: universally composable definitions and constructions.,Kazuki Yoneyama;Kazuo Ohta;,http://doi.acm.org/10.1145/1229285.1229332
+ccs/asiaccs2007,2007,Short papers,SPECS: smart partial enciphering service for accessing encrypted files with efficient and transparent.,Tae-Kyou Park;Ilkyeun Ra;,http://doi.acm.org/10.1145/1229285.1229333
+ccs/asiaccs2007,2007,Short papers,The energy cost of cryptographic key establishment in wireless sensor networks.,Johann Großschädl;Alexander Szekely;Stefan Tillich;,http://doi.acm.org/10.1145/1229285.1229334
+ccs/asiaccs2007,2007,Short papers,Extended privilege inheritance in RBAC.,M. A. C. Dekker;J. G. Cederquist;Jason Crampton;Sandro Etalle;,http://doi.acm.org/10.1145/1229285.1229335
+ccs/asiaccs2007,2007,Short papers,History-based access control for XML documents.,Patrick Röder;Omid Tafreschi;Claudia Eckert;,http://doi.acm.org/10.1145/1229285.1229336
+ccs/asiaccs2007,2007,Short papers,Addressing interoperability issues in access control models.,Vishwas Patil;Alessandro Mei;Luigi V. Mancini;,http://doi.acm.org/10.1145/1229285.1229337
+ccs/asiaccs2007,2007,Short papers,A framework for diversifying windows native APIs to tolerate code injection attacks.,Lynette Qu Nguyen;Tufan Demir;Jeff Rowe;Francis Hsu;Karl N. Levitt;,http://doi.acm.org/10.1145/1229285.1229338
+ccs/asiaccs2007,2007,Short papers,DRETA: distributed routing evidence tracing and authentication intrusion detection model for MANET.,Chinyang Henry Tseng;Shiau-Huey Wang;Karl N. Levitt;,http://doi.acm.org/10.1145/1229285.1229339
+ccs/asiaccs2007,2007,Short papers,Masquerade detection based on SVM and sequence-based user commands profile.,Jeongseok Seo;Sung Deok Cha;,http://doi.acm.org/10.1145/1229285.1229340

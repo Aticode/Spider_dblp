@@ -1,0 +1,19 @@
+sp/sp2003,2003,Anonymity,Mixminion: Design of a Type III Anonymous Remailer Protocol.,George Danezis;Roger Dingledine;Nick Mathewson;,https://doi.org/10.1109/SECPRI.2003.1199323
+sp/sp2003,2003,Anonymity,Probabilistic Treatment of MIXes to Hamper Traffic Analysis.,Dakshi Agrawal;Dogan Kesdogan;Stefan Penz;,https://doi.org/10.1109/SECPRI.2003.1199324
+sp/sp2003,2003,Anonymity,Defending Anonymous Communications Against Passive Logging Attack.,Matthew K. Wright;Micah Adler;Brian Neil Levine;Clay Shields;,https://doi.org/10.1109/SECPRI.2003.1199325
+sp/sp2003,2003,IDS,Active Mapping: Resisting NIDS Evasion without Altering Traffic.,Umesh Shankar;Vern Paxson;,https://doi.org/10.1109/SECPRI.2003.1199327
+sp/sp2003,2003,IDS,Anomaly Detection Using Call Stack Information.,Henry Hanping Feng;Oleg M. Kolesnikov;Prahlad Fogla;Wenke Lee;Weibo Gong;,https://doi.org/10.1109/SECPRI.2003.1199328
+sp/sp2003,2003,OS,Defending Against Denial-of-Service Attacks with Puzzle Auction.,XiaoFeng Wang;Michael K. Reiter;,https://doi.org/10.1109/SECPRI.2003.1199329
+sp/sp2003,2003,OS,Pi: A Path Identification Mechanism to Defend against DDoS Attack.,Abraham Yaar;Adrian Perrig;Dawn Xiaodong Song;,https://doi.org/10.1109/SECPRI.2003.1199330
+sp/sp2003,2003,Formal Methods,A Unified Scheme for Resource Protection in Automated Trust Negotiation.,Ting Yu;Marianne Winslett;,https://doi.org/10.1109/SECPRI.2003.1199331
+sp/sp2003,2003,Formal Methods,Beyond Proof-of-Compliance: Safety and Availability Analysis in Trust Management.,Ninghui Li;William H. Winsborough;John C. Mitchell;,https://doi.org/10.1109/SECPRI.2003.1199332
+sp/sp2003,2003,Formal Methods,Intransitive Non-Interference for Cryptographic Purpose.,Michael Backes;Birgit Pfitzmann;,https://doi.org/10.1109/SECPRI.2003.1199333
+sp/sp2003,2003,Hardware,Using Memory Errors to Attack a Virtual Machine.,Sudhakar Govindavajhala;Andrew W. Appel;,https://doi.org/10.1109/SECPRI.2003.1199334
+sp/sp2003,2003,Hardware,Specifying and Verifying Hardware for Tamper-Resistant Software.,David Lie;John C. Mitchell;Chandramohan A. Thekkath;Mark Horowitz;,https://doi.org/10.1109/SECPRI.2003.1199335
+sp/sp2003,2003,Hardware & Crypto,Secret Handshakes from Pairing-Based Key Agreements.,Dirk Balfanz;Glenn Durfee;Narendar Shankar;Diana K. Smetters;Jessica Staddon;Hao-Chi Wong;,https://doi.org/10.1109/SECPRI.2003.1199336
+sp/sp2003,2003,Hardware & Crypto,Random Key Predistribution Schemes for Sensor Networks.,Haowen Chan;Adrian Perrig;Dawn Xiaodong Song;,https://doi.org/10.1109/SECPRI.2003.1199337
+sp/sp2003,2003,Distributed Systems,Hardening Functions for Large Scale Distributed Computations.,Doug Szajda;Barry G. Lawson;Jason Owen;,https://doi.org/10.1109/SECPRI.2003.1199338
+sp/sp2003,2003,Distributed Systems,A Practical Revocation Scheme for Broadcast Encryption Using Smart Cards.,Noam Kogan;Yuval Shavitt;Avishai Wool;,https://doi.org/10.1109/SECPRI.2003.1199339
+sp/sp2003,2003,Distributed Systems,Using Replication and Partitioning to Build Secure Distributed Systems.,Lantian Zheng;Stephen Chong;Andrew C. Myers;Steve Zdancewic;,https://doi.org/10.1109/SECPRI.2003.1199340
+sp/sp2003,2003,Distributed Systems,Vulnerabilities in Synchronous IPC Designs.,Jonathan S. Shapiro;,https://doi.org/10.1109/SECPRI.2003.1199341
+sp/sp2003,2003,Distributed Systems,Garbage Collector Memory Accounting in Language-Based Systems.,David W. Price;Algis Rudys;Dan S. Wallach;,https://doi.org/10.1109/SECPRI.2003.1199342

@@ -1,0 +1,20 @@
+tissec/tissec7,February 2004,Number 1,Verifiable encryption of digital signatures and applications.,Giuseppe Ateniese;,http://doi.acm.org/10.1145/984334.984335
+tissec/tissec7,February 2004,Number 1,"Use of nested certificates for efficient, dynamic, and trust preserving public key infrastructure.",Albert Levi;M. Ufuk Çaglayan;Çetin Kaya Koç;,http://doi.acm.org/10.1145/984334.984336
+tissec/tissec7,February 2004,Number 1,Tree-based group key agreement.,Yongdae Kim;Adrian Perrig;Gene Tsudik;,http://doi.acm.org/10.1145/984334.984337
+tissec/tissec7,February 2004,Number 1,Crypto-based identifiers (CBIDs): Concepts and applications.,Gabriel Montenegro;Claude Castelluccia;,http://doi.acm.org/10.1145/984334.984338
+tissec/tissec7,February 2004,Number 1,The UCONABC usage control model.,Jaehong Park;Ravi S. Sandhu;,http://doi.acm.org/10.1145/984334.984339
+tissec/tissec7,May 2004,Number 2,Consistency analysis of authorization hook placement in the Linux security modules framework.,Trent Jaeger;Antony Edwards;Xiaolan Zhang;,http://doi.acm.org/10.1145/996943.996944
+tissec/tissec7,May 2004,Number 2,Breaking and provably repairing the SSH authenticated encryption scheme: A case study of the Encode-then-Encrypt-and-MAC paradigm.,Mihir Bellare;Tadayoshi Kohno;Chanathip Namprempre;,http://doi.acm.org/10.1145/996943.996945
+tissec/tissec7,May 2004,Number 2,Just fast keying: Key agreement in a hostile internet.,William Aiello;Steven M. Bellovin;Matt Blaze;Ran Canetti;John Ioannidis;Angelos D. Keromytis;Omer Reingold;,http://doi.acm.org/10.1145/996943.996946
+tissec/tissec7,May 2004,Number 2,Techniques and tools for analyzing intrusion alerts.,Peng Ning;Yun Cui;Douglas S. Reeves;Dingbang Xu;,http://doi.acm.org/10.1145/996943.996947
+tissec/tissec7,May 2004,Number 2,A key recovery attack on the 802.11b wired equivalent privacy protocol (WEP).,Adam Stubblefield;John Ioannidis;Aviel D. Rubin;,http://doi.acm.org/10.1145/996943.996948
+tissec/tissec7,August 2004,Number 3,The session token protocol for forensics and traceback.,Brian D. Carrier;Clay Shields;,http://doi.acm.org/10.1145/1015040.1015041
+tissec/tissec7,August 2004,Number 3,Modular authorization and administration.,Horst Wedde;Mario Lischka;,http://doi.acm.org/10.1145/1015040.1015042
+tissec/tissec7,August 2004,Number 3,An integrated approach to engineer and enforce context constraints in RBAC environments.,Mark Strembeck;Gustaf Neumann;,http://doi.acm.org/10.1145/1015040.1015043
+tissec/tissec7,August 2004,Number 3,Content-triggered trust negotiation.,Adam Hess;Jason E. Holt;Jared Jacobson;Kent E. Seamons;,http://doi.acm.org/10.1145/1015040.1015044
+tissec/tissec7,August 2004,Number 3,On the performance of group key agreement protocols.,Yair Amir;Yongdae Kim;Cristina Nita-Rotaru;Gene Tsudik;,http://doi.acm.org/10.1145/1015040.1015045
+tissec/tissec7,November 2004,Number 4,The predecessor attack: An analysis of a threat to anonymous communications systems.,Matthew K. Wright;Micah Adler;Brian Neil Levine;Clay Shields;,http://doi.acm.org/10.1145/1042031.1042032
+tissec/tissec7,November 2004,Number 4,A key-chain-based keying scheme for many-to-many secure group communication.,Dijiang Huang;Deep Medhi;,http://doi.acm.org/10.1145/1042031.1042033
+tissec/tissec7,November 2004,Number 4,Client-side caching for TLS.,Hovav Shacham;Dan Boneh;Eric Rescorla;,http://doi.acm.org/10.1145/1042031.1042034
+tissec/tissec7,November 2004,Number 4,Traducement: A model for record security.,Tom Walcott;Matt Bishop;,http://doi.acm.org/10.1145/1042031.1042035
+tissec/tissec7,November 2004,Number 4,Hypothesizing and reasoning about attacks missed by intrusion detection systems.,Peng Ning;Dingbang Xu;,http://doi.acm.org/10.1145/1042031.1042036

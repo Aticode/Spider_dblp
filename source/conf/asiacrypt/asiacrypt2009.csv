@@ -1,0 +1,41 @@
+asiacrypt/asiacrypt2009,2009,Block Ciphers,Related-Key Cryptanalysis of the Full AES-192 and AES-256.,Alex Biryukov;Dmitry Khovratovich;,https://doi.org/10.1007/978-3-642-10366-7_1
+asiacrypt/asiacrypt2009,2009,Block Ciphers,The Key-Dependent Attack on Block Ciphers.,Xiaorui Sun;Xuejia Lai;,https://doi.org/10.1007/978-3-642-10366-7_2
+asiacrypt/asiacrypt2009,2009,Block Ciphers,Cascade Encryption Revisited.,Peter Gazi;Ueli M. Maurer;,https://doi.org/10.1007/978-3-642-10366-7_3
+asiacrypt/asiacrypt2009,2009,Quantum and Post-Quantum,Quantum-Secure Coin-Flipping and Applications.,Ivan Damgård;Carolin Lunemann;,https://doi.org/10.1007/978-3-642-10366-7_4
+asiacrypt/asiacrypt2009,2009,Quantum and Post-Quantum,On the Power of Two-Party Quantum Cryptography.,Louis Salvail;Christian Schaffner;Miroslava Sotáková;,https://doi.org/10.1007/978-3-642-10366-7_5
+asiacrypt/asiacrypt2009,2009,Quantum and Post-Quantum,Security Bounds for the Design of Code-Based Cryptosystems.,Matthieu Finiasz;Nicolas Sendrier;,https://doi.org/10.1007/978-3-642-10366-7_6
+asiacrypt/asiacrypt2009,2009,Hash Functions,Rebound Attack on the Full Lane Compression Function.,Krystian Matusiewicz;María Naya-Plasencia;Ivica Nikolic;Yu Sasaki;Martin Schläffer;,https://doi.org/10.1007/978-3-642-10366-7_7
+asiacrypt/asiacrypt2009,2009,Hash Functions,Rebound Distinguishers: Results on the Full Whirlpool Compression Function.,Mario Lamberger;Florian Mendel;Christian Rechberger;Vincent Rijmen;Martin Schläffer;,https://doi.org/10.1007/978-3-642-10366-7_8
+asiacrypt/asiacrypt2009,2009,Hash Functions,MD5 Is Weaker Than Weak: Attacks on Concatenated Combiners.,Florian Mendel;Christian Rechberger;Martin Schläffer;,https://doi.org/10.1007/978-3-642-10366-7_9
+asiacrypt/asiacrypt2009,2009,Hash Functions,The Intel AES Instructions Set and the SHA-3 Candidates.,Ryad Benadjila;Olivier Billet;Shay Gueron;Matthew J. B. Robshaw;,https://doi.org/10.1007/978-3-642-10366-7_10
+asiacrypt/asiacrypt2009,2009,Encryption Schemes,Group Encryption: Non-interactive Realization in the Standard Model.,Julien Cathalo;Benoît Libert;Moti Yung;,https://doi.org/10.1007/978-3-642-10366-7_11
+asiacrypt/asiacrypt2009,2009,Encryption Schemes,On Black-Box Constructions of Predicate Encryption from Trapdoor Permutations.,Jonathan Katz;Arkady Yerukhimovich;,https://doi.org/10.1007/978-3-642-10366-7_12
+asiacrypt/asiacrypt2009,2009,Encryption Schemes,Hierarchical Predicate Encryption for Inner-Products.,Tatsuaki Okamoto;Katsuyuki Takashima;,https://doi.org/10.1007/978-3-642-10366-7_13
+asiacrypt/asiacrypt2009,2009,Encryption Schemes,Hedged Public-Key Encryption: How to Protect against Bad Randomness.,Mihir Bellare;Zvika Brakerski;Moni Naor;Thomas Ristenpart;Gil Segev;Hovav Shacham;Scott Yilek;,https://doi.org/10.1007/978-3-642-10366-7_14
+asiacrypt/asiacrypt2009,2009,Multi Party Computation,Secure Two-Party Computation Is Practical.,Benny Pinkas;Thomas Schneider;Nigel P. Smart;Stephen C. Williams;,https://doi.org/10.1007/978-3-642-10366-7_15
+asiacrypt/asiacrypt2009,2009,Multi Party Computation,Secure Multi-party Computation Minimizing Online Rounds.,Seung Geol Choi;Ariel Elbaz;Tal Malkin;Moti Yung;,https://doi.org/10.1007/978-3-642-10366-7_16
+asiacrypt/asiacrypt2009,2009,Multi Party Computation,Improved Non-committing Encryption with Applications to Adaptively Secure Protocols.,Seung Geol Choi;Dana Dachman-Soled;Tal Malkin;Hoeteck Wee;,https://doi.org/10.1007/978-3-642-10366-7_17
+asiacrypt/asiacrypt2009,2009,Cryptographic Protocols,Non-malleable Statistically Hiding Commitment from Any One-Way Function.,Zongyang Zhang;Zhenfu Cao;Ning Ding;Rong Ma;,https://doi.org/10.1007/978-3-642-10366-7_18
+asiacrypt/asiacrypt2009,2009,Cryptographic Protocols,Proofs of Storage from Homomorphic Identification Protocols.,Giuseppe Ateniese;Seny Kamara;Jonathan Katz;,https://doi.org/10.1007/978-3-642-10366-7_19
+asiacrypt/asiacrypt2009,2009,Cryptographic Protocols,Simple Adaptive Oblivious Transfer without Random Oracle.,Kaoru Kurosawa;Ryo Nojima;,https://doi.org/10.1007/978-3-642-10366-7_20
+asiacrypt/asiacrypt2009,2009,Hash Functions,Improved Generic Algorithms for 3-Collisions.,Antoine Joux;Stefan Lucks;,https://doi.org/10.1007/978-3-642-10366-7_21
+asiacrypt/asiacrypt2009,2009,Hash Functions,A Modular Design for Hash Functions: Towards Making the Mix-Compress-Mix Approach Practical.,Anja Lehmann;Stefano Tessaro;,https://doi.org/10.1007/978-3-642-10366-7_22
+asiacrypt/asiacrypt2009,2009,Hash Functions,How to Confirm Cryptosystems Security: The Original Merkle-Damgård Is Still Alive!,Yusuke Naito;Kazuki Yoneyama;Lei Wang;Kazuo Ohta;,https://doi.org/10.1007/978-3-642-10366-7_23
+asiacrypt/asiacrypt2009,2009,Models and Frameworks,On the Analysis of Cryptographic Assumptions in the Generic Ring Model.,Tibor Jager;Jörg Schwenk;,https://doi.org/10.1007/978-3-642-10366-7_24
+asiacrypt/asiacrypt2009,2009,Models and Frameworks,"Zero Knowledge in the Random Oracle Model, Revisited.",Hoeteck Wee;,https://doi.org/10.1007/978-3-642-10366-7_25
+asiacrypt/asiacrypt2009,2009,Models and Frameworks,A Framework for Universally Composable Non-committing Blind Signatures.,Masayuki Abe;Miyako Ohkubo;,https://doi.org/10.1007/978-3-642-10366-7_26
+asiacrypt/asiacrypt2009,2009,Cryptanalysis:Sqaure and Quadratic,Cryptanalysis of the Square Cryptosystems.,Olivier Billet;Gilles Macario-Rat;,https://doi.org/10.1007/978-3-642-10366-7_27
+asiacrypt/asiacrypt2009,2009,Cryptanalysis:Sqaure and Quadratic,Factoring pq2 with Quadratic Forms: Nice Cryptanalyses.,Guilhem Castagnos;Antoine Joux;Fabien Laguillaumie;Phong Q. Nguyen;,https://doi.org/10.1007/978-3-642-10366-7_28
+asiacrypt/asiacrypt2009,2009,Cryptanalysis:Sqaure and Quadratic,Attacking Power Generators Using Unravelled Linearization: When Do We Output Too Much?,Mathias Herrmann;Alexander May;,https://doi.org/10.1007/978-3-642-10366-7_29
+asiacrypt/asiacrypt2009,2009,Models and Frameworks,Security Notions and Generic Constructions for Client Puzzles.,Liqun Chen;Paul Morrissey;Nigel P. Smart;Bogdan Warinschi;,https://doi.org/10.1007/978-3-642-10366-7_30
+asiacrypt/asiacrypt2009,2009,Models and Frameworks,Foundations of Non-malleable Hash and One-Way Functions.,Alexandra Boldyreva;David Cash;Marc Fischlin;Bogdan Warinschi;,https://doi.org/10.1007/978-3-642-10366-7_31
+asiacrypt/asiacrypt2009,2009,Hash Functions,Improved Cryptanalysis of Skein.,Jean-Philippe Aumasson;Çagdas Çalik;Willi Meier;Onur Özen;Raphael C.-W. Phan;Kerem Varici;,https://doi.org/10.1007/978-3-642-10366-7_32
+asiacrypt/asiacrypt2009,2009,Hash Functions,Linearization Framework for Collision Attacks: Application to CubeHash and MD6.,Eric Brier;Shahram Khazaei;Willi Meier;Thomas Peyrin;,https://doi.org/10.1007/978-3-642-10366-7_33
+asiacrypt/asiacrypt2009,2009,Hash Functions,Preimages for Step-Reduced SHA-2.,Kazumaro Aoki;Jian Guo;Krystian Matusiewicz;Yu Sasaki;Lei Wang;,https://doi.org/10.1007/978-3-642-10366-7_34
+asiacrypt/asiacrypt2009,2009,Lattice-Based,Fiat-Shamir with Aborts: Applications to Lattice and Factoring-Based Signatures.,Vadim Lyubashevsky;,https://doi.org/10.1007/978-3-642-10366-7_35
+asiacrypt/asiacrypt2009,2009,Lattice-Based,Efficient Public Key Encryption Based on Ideal Lattices.,Damien Stehlé;Ron Steinfeld;Keisuke Tanaka;Keita Xagawa;,https://doi.org/10.1007/978-3-642-10366-7_36
+asiacrypt/asiacrypt2009,2009,Lattice-Based,Smooth Projective Hashing and Password-Based Authenticated Key Exchange from Lattices.,Jonathan Katz;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-642-10366-7_37
+asiacrypt/asiacrypt2009,2009,Side Channels,PSS Is Secure against Random Fault Attacks.,Jean-Sébastien Coron;Avradip Mandal;,https://doi.org/10.1007/978-3-642-10366-7_38
+asiacrypt/asiacrypt2009,2009,Side Channels,Cache-Timing Template Attacks.,Billy Bob Brumley;Risto M. Hakala;,https://doi.org/10.1007/978-3-642-10366-7_39
+asiacrypt/asiacrypt2009,2009,Side Channels,Memory Leakage-Resilient Encryption Based on Physically Unclonable Functions.,Frederik Armknecht;Roel Maes;Ahmad-Reza Sadeghi;Berk Sunar;Pim Tuyls;,https://doi.org/10.1007/978-3-642-10366-7_40
+asiacrypt/asiacrypt2009,2009,Side Channels,Signature Schemes with Bounded Leakage Resilience.,Jonathan Katz;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-642-10366-7_41

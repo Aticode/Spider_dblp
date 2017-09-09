@@ -1,0 +1,39 @@
+asiacrypt/asiacrypt90,1990,Public-Key Cryptosystems,The Implementation of Elliptic Curve Cryptosystems.,Alfred Menezes;Scott A. Vanstone;,https://doi.org/10.1007/BFb0030345
+asiacrypt/asiacrypt90,1990,Public-Key Cryptosystems,Direct Demonstration of the Power to Break Public-Key Cryptosystems.,Kenji Koyama;,https://doi.org/10.1007/BFb0030346
+asiacrypt/asiacrypt90,1990,Pseudoranomness And Sequences,Continued Fractions and the Berlekamp-Massey Algorithm.,Zong-Duo Dai;Kencheng Zeng;,https://doi.org/10.1007/BFb0030347
+asiacrypt/asiacrypt90,1990,Pseudoranomness And Sequences,Nonlinear Generators of Binary Sequences with Controllable Complexity and Double Key.,Guang Gong;,https://doi.org/10.1007/BFb0030348
+asiacrypt/asiacrypt90,1990,Pseudoranomness And Sequences,K-M Sequence is Forwardly Predictable.,Yixian Yang;,https://doi.org/10.1007/BFb0030349
+asiacrypt/asiacrypt90,1990,Pseudoranomness And Sequences,Lower Bounds on the Weight Complexities of Cascaded Binary Sequences.,Cunsheng Ding;,https://doi.org/10.1007/BFb0030350
+asiacrypt/asiacrypt90,1990,Network Security,Secure User Access Control for Public Networks.,Pil Joong Lee;,https://doi.org/10.1007/BFb0030351
+asiacrypt/asiacrypt90,1990,Network Security,Formal Specification and Verification of Secure Communication Protocols.,Svein J. Knapskog;,https://doi.org/10.1007/BFb0030352
+asiacrypt/asiacrypt90,1990,Network Security,Network Security Policy Models.,Vijay Varadharajan;,https://doi.org/10.1007/BFb0030353
+asiacrypt/asiacrypt90,1990,Network Security,KEYMEX: An expert system for the design of key management schemes.,Jan C. A. van der Lubbe;Dick E. Boekee;,https://doi.org/10.1007/BFb0030354
+asiacrypt/asiacrypt90,1990,Authentication,On The Formal Analysis of PKCS Authentication Protocols.,Klaus Gaarder;Einar Snekkenes;,https://doi.org/10.1007/BFb0030355
+asiacrypt/asiacrypt90,1990,Authentication,Some Remarks on Authentication Systems.,Martin Anthony;Keith M. Martin;Jennifer Seberry;Peter R. Wild;,https://doi.org/10.1007/BFb0030356
+asiacrypt/asiacrypt90,1990,Authentication,Meet-in-the-Middle Attack on Digital Signature Schemes.,Kazuo Ohta;Kenji Koyama;,https://doi.org/10.1007/BFb0030357
+asiacrypt/asiacrypt90,1990,Pseudorandomness And Sequences,A Binary Sequence Generator Based on Ziv-Lempel Source Coding.,Cees J. A. Jansen;Dick E. Boekee;,https://doi.org/10.1007/BFb0030358
+asiacrypt/asiacrypt90,1990,Pseudorandomness And Sequences,A Fast Iterative Algorithm For A Shift Register Initial State Reconstruction Given The Nosiy Output Sequence.,Miodrag J. Mihaljevic;Jovan Dj. Golic;,https://doi.org/10.1007/BFb0030359
+asiacrypt/asiacrypt90,1990,Pseudorandomness And Sequences,Parallel Generation of Pseudo-Random Sequences.,Reihaneh Safavi-Naini;,https://doi.org/10.1007/BFb0030360
+asiacrypt/asiacrypt90,1990,Pseudorandomness And Sequences,Large Primes in Stream Cipher Cryptography.,Kencheng Zeng;Chung-Huang Yang;T. R. N. Rao;,https://doi.org/10.1007/BFb0030361
+asiacrypt/asiacrypt90,1990,Block Ciphers,Comparison of Block Ciphers.,Helen Gustafson;Ed Dawson;William J. Caelli;,https://doi.org/10.1007/BFb0030362
+asiacrypt/asiacrypt90,1990,Block Ciphers,Key Scheduling In Des Type Cryptosystems.,Lawrence Brown;Jennifer Seberry;,https://doi.org/10.1007/BFb0030363
+asiacrypt/asiacrypt90,1990,Block Ciphers,LOKI - A Cryptographic Primitive for Authentication and Secrecy Applications.,Lawrence Brown;Josef Pieprzyk;Jennifer Seberry;,https://doi.org/10.1007/BFb0030364
+asiacrypt/asiacrypt90,1990,Block Ciphers,Permutation Generators of Alternating Groups.,Josef Pieprzyk;Xian-Mo Zhang;,https://doi.org/10.1007/BFb0030365
+asiacrypt/asiacrypt90,1990,Zero-Knowledge Protocols,Showing Credentials without Identification Transfeering Signatures between Unconditionally Unlinkable Pseudonyms.,David Chaum;,https://doi.org/10.1007/BFb0030366
+asiacrypt/asiacrypt90,1990,Zero-Knowledge Protocols,A (non-practical) three-pass identification protocol using coding theory.,Marc Girault;,https://doi.org/10.1007/BFb0030367
+asiacrypt/asiacrypt90,1990,Zero-Knowledge Protocols,Demonstrating Possession without Revealing Factors and its Application.,Hiroki Shizuya;Kenji Koyama;Toshiya Itoh;,https://doi.org/10.1007/BFb0030368
+asiacrypt/asiacrypt90,1990,Zero-Knowledge Protocols,Anonymous One-Time Signatures and Flexible Untraceable Electronic Cash.,Barry Hayes;,https://doi.org/10.1007/BFb0030369
+asiacrypt/asiacrypt90,1990,Theory,Dyadic Matrices and Their Potential Significance in Cryptography.,Yixian Yang;,https://doi.org/10.1007/BFb0030370
+asiacrypt/asiacrypt90,1990,Theory,A Note on Strong Fibonacci Pseudoprimes.,Rudolf Lidl;Winfried B. Müller;,https://doi.org/10.1007/BFb0030371
+asiacrypt/asiacrypt90,1990,Theory,On the Significance of the Directed Acyclic Word Graph in Cryptology.,Cees J. A. Jansen;Dick E. Boekee;,https://doi.org/10.1007/BFb0030372
+asiacrypt/asiacrypt90,1990,Theory,Solving Equations in Sequences.,Kencheng Zeng;Minqiang Huang;,https://doi.org/10.1007/BFb0030373
+asiacrypt/asiacrypt90,1990,Applications,The Practical Application Of State Of The Art Security In Real Environments.,Ronald Ferreira;,https://doi.org/10.1007/BFb0030374
+asiacrypt/asiacrypt90,1990,Applications,RSA as a Benchmark for Multiprocessor Machines.,Rodney H. Cooper;Wayne Patterson;,https://doi.org/10.1007/BFb0030375
+asiacrypt/asiacrypt90,1990,Applications,Range Equations and Range Matrices: a Study in Statistical Database Security.,Vangalur S. Alagar;,https://doi.org/10.1007/BFb0030376
+asiacrypt/asiacrypt90,1990,Applications,Record Encryption in Distributed Databases.,Thomas Hardjono;,https://doi.org/10.1007/BFb0030377
+asiacrypt/asiacrypt90,1990,Implementations,VLSI Design for Exponentiation in GF (2n).,Willi Geiselmann;Dieter Gollmann;,https://doi.org/10.1007/BFb0030378
+asiacrypt/asiacrypt90,1990,Implementations,A Fast Modular-multiplication Module for Smart Cards.,Hikaru Morita;,https://doi.org/10.1007/BFb0030379
+asiacrypt/asiacrypt90,1990,Implementations,Minòs: Extended User Authentication.,Michael Newberry;,https://doi.org/10.1007/BFb0030380
+asiacrypt/asiacrypt90,1990,Rump Session,Universal Logic Sequences.,Ed Dawson;Bruce Goldburg;,https://doi.org/10.1007/BFb0030381
+asiacrypt/asiacrypt90,1990,Rump Session,The Three Faces of Information Security.,John M. Carroll;,https://doi.org/10.1007/BFb0030382
+asiacrypt/asiacrypt90,1990,Rump Session,Secure Cryptographic Initialisation.,Mark Ames;,https://doi.org/10.1007/BFb0030383

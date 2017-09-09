@@ -1,0 +1,37 @@
+tcc/tcc2011,2011,Hardness Amplification,Input Locality and Hardness Amplification.,Andrej Bogdanov;Alon Rosen;,https://doi.org/10.1007/978-3-642-19571-6_1
+tcc/tcc2011,2011,Hardness Amplification,General Hardness Amplification of Predicates and Puzzles - (Extended Abstract).,Thomas Holenstein;Grant Schoenebeck;,https://doi.org/10.1007/978-3-642-19571-6_2
+tcc/tcc2011,2011,Hardness Amplification,Security Amplification for the Cascade of Arbitrarily Weak PRPs: Tight Bounds via the Interactive Hardcore Lemma.,Stefano Tessaro;,https://doi.org/10.1007/978-3-642-19571-6_3
+tcc/tcc2011,2011,Invited Talk 1,Dense Model Theorems and Their Applications.,Luca Trevisan;,https://doi.org/10.1007/978-3-642-19571-6_4
+tcc/tcc2011,2011,Leakage Resilience,Parallel Repetition for Leakage Resilience Amplification Revisited.,Abhishek Jain;Krzysztof Pietrzak;,https://doi.org/10.1007/978-3-642-19571-6_5
+tcc/tcc2011,2011,Leakage Resilience,Achieving Leakage Resilience through Dual System Encryption.,Allison B. Lewko;Yannis Rouselakis;Brent Waters;,https://doi.org/10.1007/978-3-642-19571-6_6
+tcc/tcc2011,2011,Leakage Resilience,Signatures Resilient to Continual Leakage on Memory and Computation.,Tal Malkin;Isamu Teranishi;Yevgeniy Vahlis;Moti Yung;,https://doi.org/10.1007/978-3-642-19571-6_7
+tcc/tcc2011,2011,Leakage Resilience,After-the-Fact Leakage in Public-Key Encryption.,Shai Halevi;Huijia Lin;,https://doi.org/10.1007/978-3-642-19571-6_8
+tcc/tcc2011,2011,Tamper Resilience,One-Time Computable Self-erasing Functions.,Stefan Dziembowski;Tomasz Kazana;Daniel Wichs;,https://doi.org/10.1007/978-3-642-19571-6_9
+tcc/tcc2011,2011,Tamper Resilience,Perfectly Secure Oblivious RAM without Random Oracles.,Ivan Damgård;Sigurd Meldgaard;Jesper Buus Nielsen;,https://doi.org/10.1007/978-3-642-19571-6_10
+tcc/tcc2011,2011,Tamper Resilience,Unconditional and Composable Security Using a Single Stateful Tamper-Proof Hardware Token.,Nico Döttling;Daniel Kraschewski;Jörn Müller-Quade;,https://doi.org/10.1007/978-3-642-19571-6_11
+tcc/tcc2011,2011,Tamper Resilience,Correlated-Input Secure Hash Functions.,Vipul Goyal;Adam O'Neill;Vanishree Rao;,https://doi.org/10.1007/978-3-642-19571-6_12
+tcc/tcc2011,2011,Encryption,Black-Box Circular-Secure Encryption beyond Affine Functions.,Zvika Brakerski;Shafi Goldwasser;Yael Tauman Kalai;,https://doi.org/10.1007/978-3-642-19571-6_13
+tcc/tcc2011,2011,Encryption,Homomorphic Encryption: From Private-Key to Public-Key.,Ron Rothblum;,https://doi.org/10.1007/978-3-642-19571-6_14
+tcc/tcc2011,2011,Encryption,Identity-Based Encryption Secure against Selective Opening Attack.,Mihir Bellare;Brent Waters;Scott Yilek;,https://doi.org/10.1007/978-3-642-19571-6_15
+tcc/tcc2011,2011,Encryption,Functional Encryption: Definitions and Challenges.,Dan Boneh;Amit Sahai;Brent Waters;,https://doi.org/10.1007/978-3-642-19571-6_16
+tcc/tcc2011,2011,Composable Security,Concurrent Non-Malleable Zero Knowledge with Adaptive Inputs.,Huijia Lin;Rafael Pass;,https://doi.org/10.1007/978-3-642-19571-6_17
+tcc/tcc2011,2011,Composable Security,Round-Optimal Password-Based Authenticated Key Exchange.,Jonathan Katz;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-642-19571-6_18
+tcc/tcc2011,2011,Composable Security,Bringing People of Different Beliefs Together to Do UC.,Sanjam Garg;Vipul Goyal;Abhishek Jain;Amit Sahai;,https://doi.org/10.1007/978-3-642-19571-6_19
+tcc/tcc2011,2011,Secure Computation,Secure Two-Party Computation via Cut-and-Choose Oblivious Transfer.,Yehuda Lindell;Benny Pinkas;,https://doi.org/10.1007/978-3-642-19571-6_20
+tcc/tcc2011,2011,Secure Computation,Practical Adaptive Oblivious Transfer from Simple Assumptions.,Matthew Green;Susan Hohenberger;,https://doi.org/10.1007/978-3-642-19571-6_21
+tcc/tcc2011,2011,Secure Computation,Completeness Theorems with Constructive Proofs for Finite Deterministic 2-Party Functions.,Daniel Kraschewski;Jörn Müller-Quade;,https://doi.org/10.1007/978-3-642-19571-6_22
+tcc/tcc2011,2011,Secure Computation,A Zero-One Law for Secure Multi-party Computation with Ternary Outputs.,Gunnar Kreitz;,https://doi.org/10.1007/978-3-642-19571-6_23
+tcc/tcc2011,2011,Privacy,PCPs and the Hardness of Generating Private Synthetic Data.,Jonathan Ullman;Salil P. Vadhan;,https://doi.org/10.1007/978-3-642-19571-6_24
+tcc/tcc2011,2011,Privacy,Limits of Computational Differential Privacy in the Client/Server Setting.,Adam Groce;Jonathan Katz;Arkady Yerukhimovich;,https://doi.org/10.1007/978-3-642-19571-6_25
+tcc/tcc2011,2011,Privacy,Towards Privacy for Social Networks: A Zero-Knowledge Based Definition of Privacy.,Johannes Gehrke;Edward Lui;Rafael Pass;,https://doi.org/10.1007/978-3-642-19571-6_26
+tcc/tcc2011,2011,Coin Tossing and Pseudorandomness,On the Black-Box Complexity of Optimally-Fair Coin Tossing.,Dana Dachman-Soled;Yehuda Lindell;Mohammad Mahmoody;Tal Malkin;,https://doi.org/10.1007/978-3-642-19571-6_27
+tcc/tcc2011,2011,Coin Tossing and Pseudorandomness,Tight Bounds for Classical and Quantum Coin Flipping.,Esther Hänggi;Jürg Wullschleger;,https://doi.org/10.1007/978-3-642-19571-6_28
+tcc/tcc2011,2011,Coin Tossing and Pseudorandomness,Exploring the Limits of Common Coins Using Frontier Analysis of Protocols.,Hemanta K. Maji;Pichayoot Ouppaphan;Manoj Prabhakaran;Mike Rosulek;,https://doi.org/10.1007/978-3-642-19571-6_29
+tcc/tcc2011,2011,Coin Tossing and Pseudorandomness,Limits on the Stretch of Non-adaptive Constructions of Pseudo-Random Generators.,Josh Bronson;Ali Juma;Periklis A. Papakonstantinou;,https://doi.org/10.1007/978-3-642-19571-6_30
+tcc/tcc2011,2011,Coin Tossing and Pseudorandomness,On the Complexity of Non-adaptively Increasing the Stretch of Pseudorandom Generators.,Eric Miles;Emanuele Viola;,https://doi.org/10.1007/978-3-642-19571-6_31
+tcc/tcc2011,2011,Invited Talk 2,Concurrent Security and Non-malleability.,Rafael Pass;,https://doi.org/10.1007/978-3-642-19571-6_32
+tcc/tcc2011,2011,Black-Box Constructions and Separations,(Nearly) Round-Optimal Black-Box Constructions of Commitments Secure against Selective Opening Attacks.,David Xiao;,https://doi.org/10.1007/978-3-642-19571-6_33
+tcc/tcc2011,2011,Black-Box Constructions and Separations,Limits on the Power of Zero-Knowledge Proofs in Cryptographic Constructions.,Zvika Brakerski;Jonathan Katz;Gil Segev;Arkady Yerukhimovich;,https://doi.org/10.1007/978-3-642-19571-6_34
+tcc/tcc2011,2011,Black-Box Constructions and Separations,Towards Non-Black-Box Lower Bounds in Cryptography.,Rafael Pass;Wei-Lung Dustin Tseng;Muthuramakrishnan Venkitasubramaniam;,https://doi.org/10.1007/978-3-642-19571-6_35
+tcc/tcc2011,2011,Black-Box Separations,On Black-Box Separations among Injective One-Way Functions.,Takahiro Matsuda;Kanta Matsuura;,https://doi.org/10.1007/978-3-642-19571-6_36
+tcc/tcc2011,2011,Black-Box Separations,Impossibility of Blind Signatures from One-Way Permutations.,Jonathan Katz;Dominique Schröder;Arkady Yerukhimovich;,https://doi.org/10.1007/978-3-642-19571-6_37

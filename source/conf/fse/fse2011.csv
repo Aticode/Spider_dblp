@@ -1,0 +1,23 @@
+fse/fse2011,2011,Differential Cryptanalysis,Differential Cryptanalysis of Round-Reduced PRINTcipher: Computing Roots of Permutations.,Mohamed Ahmed Abdelraheem;Gregor Leander;Erik Zenner;,https://doi.org/10.1007/978-3-642-21702-9_1
+fse/fse2011,2011,Differential Cryptanalysis,Search for Related-Key Differential Characteristics in DES-Like Ciphers.,Alex Biryukov;Ivica Nikolic;,https://doi.org/10.1007/978-3-642-21702-9_2
+fse/fse2011,2011,Differential Cryptanalysis,Multiple Differential Cryptanalysis: Theory and Practice.,Céline Blondeau;Benoît Gérard;,https://doi.org/10.1007/978-3-642-21702-9_3
+fse/fse2011,2011,Invited Talk,Fast Correlation Attacks: Methods and Countermeasures.,Willi Meier;,https://doi.org/10.1007/978-3-642-21702-9_4
+fse/fse2011,2011,Hash Functions,Analysis of Reduced-SHAvite-3-256 v2.,Marine Minier;María Naya-Plasencia;Thomas Peyrin;,https://doi.org/10.1007/978-3-642-21702-9_5
+fse/fse2011,2011,Hash Functions,An Improved Algebraic Attack on Hamsi-256.,Itai Dinur;Adi Shamir;,https://doi.org/10.1007/978-3-642-21702-9_6
+fse/fse2011,2011,Hash Functions,Practical Near-Collisions and Collisions on Round-Reduced ECHO-256 Compression Function.,Jérémy Jean;Pierre-Alain Fouque;,https://doi.org/10.1007/978-3-642-21702-9_7
+fse/fse2011,2011,Security and Models,On Cipher-Dependent Related-Key Attacks in the Ideal-Cipher Model.,Martin R. Albrecht;Pooya Farshim;Kenneth G. Paterson;Gaven J. Watson;,https://doi.org/10.1007/978-3-642-21702-9_8
+fse/fse2011,2011,Security and Models,On the Security of Hash Functions Employing Blockcipher Postprocessing.,Donghoon Chang;Mridul Nandi;Moti Yung;,https://doi.org/10.1007/978-3-642-21702-9_9
+fse/fse2011,2011,Stream Ciphers,Breaking Grain-128 with Dynamic Cube Attacks.,Itai Dinur;Adi Shamir;,https://doi.org/10.1007/978-3-642-21702-9_10
+fse/fse2011,2011,Stream Ciphers,Cryptanalysis of the Knapsack Generator.,Simon Knellwolf;Willi Meier;,https://doi.org/10.1007/978-3-642-21702-9_11
+fse/fse2011,2011,Stream Ciphers,Attack on Broadcast RC4 Revisited.,Subhamoy Maitra;Goutam Paul;Sourav Sengupta;,https://doi.org/10.1007/978-3-642-21702-9_12
+fse/fse2011,2011,Hash Functions,Boomerang Attacks on BLAKE-32.,Alex Biryukov;Ivica Nikolic;Arnab Roy;,https://doi.org/10.1007/978-3-642-21702-9_13
+fse/fse2011,2011,Hash Functions,Practical Near-Collisions on the Compression Function of BMW.,Gaëtan Leurent;Søren S. Thomsen;,https://doi.org/10.1007/978-3-642-21702-9_14
+fse/fse2011,2011,Hash Functions,Higher-Order Differential Properties of Keccak and Luffa.,Christina Boura;Anne Canteaut;Christophe De Cannière;,https://doi.org/10.1007/978-3-642-21702-9_15
+fse/fse2011,2011,Block Ciphers and Modes,Cryptanalysis of PRESENT-Like Ciphers with Secret S-Boxes.,Julia Borghoff;Lars R. Knudsen;Gregor Leander;Søren S. Thomsen;,https://doi.org/10.1007/978-3-642-21702-9_16
+fse/fse2011,2011,Block Ciphers and Modes,A Single-Key Attack on the Full GOST Block Cipher.,Takanori Isobe;,https://doi.org/10.1007/978-3-642-21702-9_17
+fse/fse2011,2011,Block Ciphers and Modes,The Software Performance of Authenticated-Encryption Modes.,Ted Krovetz;Phillip Rogaway;,https://doi.org/10.1007/978-3-642-21702-9_18
+fse/fse2011,2011,Linear and Differential Cryptanalysis,Cryptanalysis of Hummingbird-1.,Markku-Juhani O. Saarinen;,https://doi.org/10.1007/978-3-642-21702-9_19
+fse/fse2011,2011,Linear and Differential Cryptanalysis,The Additive Differential Probability of ARX.,Vesselin Velichkov;Nicky Mouha;Christophe De Cannière;Bart Preneel;,https://doi.org/10.1007/978-3-642-21702-9_20
+fse/fse2011,2011,Linear and Differential Cryptanalysis,Linear Approximations of Addition Modulo 2n-1.,Chunfang Zhou;Xiutao Feng;Chuankun Wu;,https://doi.org/10.1007/978-3-642-21702-9_21
+fse/fse2011,2011,Hash Functions,Meet-in-the-Middle Preimage Attacks on AES Hashing Modes and an Application to Whirlpool.,Yu Sasaki;,https://doi.org/10.1007/978-3-642-21702-9_22
+fse/fse2011,2011,Hash Functions,Known-Key Distinguishers on 11-Round Feistel and Collision Attacks on Its Hashing Modes.,Yu Sasaki;Kan Yasuda;,https://doi.org/10.1007/978-3-642-21702-9_23

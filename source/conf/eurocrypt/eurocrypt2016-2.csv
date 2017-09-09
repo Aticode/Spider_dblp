@@ -1,0 +1,31 @@
+eurocrypt/eurocrypt2016-2,2016,None,Zero-Knowledge Arguments for Lattice-Based Accumulators: Logarithmic-Size Ring Signatures and Group Signatures Without Trapdoors.,Benoît Libert;San Ling;Khoa Nguyen;Huaxiong Wang;,https://doi.org/10.1007/978-3-662-49896-5_1
+eurocrypt/eurocrypt2016-2,2016,None,Adaptively Secure Identity-Based Encryption from Lattices with Asymptotically Shorter Public Parameters.,Shota Yamada;,https://doi.org/10.1007/978-3-662-49896-5_2
+eurocrypt/eurocrypt2016-2,2016,None,Online/Offline OR Composition of Sigma Protocols.,Michele Ciampi;Giuseppe Persiano;Alessandra Scafuro;Luisa Siniscalchi;Ivan Visconti;,https://doi.org/10.1007/978-3-662-49896-5_3
+eurocrypt/eurocrypt2016-2,2016,None,Constant-Round Leakage-Resilient Zero-Knowledge from Collision Resistance.,Susumu Kiyoshima;,https://doi.org/10.1007/978-3-662-49896-5_4
+eurocrypt/eurocrypt2016-2,2016,None,Constrained Pseudorandom Functions for Unconstrained Inputs.,Apoorvaa Deshpande;Venkata Koppula;Brent Waters;,https://doi.org/10.1007/978-3-662-49896-5_5
+eurocrypt/eurocrypt2016-2,2016,None,Pseudorandom Functions in Almost Constant Depth from Low-Noise LPN.,Yu Yu;John P. Steinberger;,https://doi.org/10.1007/978-3-662-49896-5_6
+eurocrypt/eurocrypt2016-2,2016,None,Secure Computation from Elastic Noisy Channels.,Dakshita Khurana;Hemanta K. Maji;Amit Sahai;,https://doi.org/10.1007/978-3-662-49896-5_7
+eurocrypt/eurocrypt2016-2,2016,None,All Complete Functionalities are Reversible.,Dakshita Khurana;Daniel Kraschewski;Hemanta K. Maji;Manoj Prabhakaran;Amit Sahai;,https://doi.org/10.1007/978-3-662-49896-5_8
+eurocrypt/eurocrypt2016-2,2016,None,On the Power of Hierarchical Identity-Based Encryption.,Mohammad Mahmoody;Ameer Mohammed;,https://doi.org/10.1007/978-3-662-49896-5_9
+eurocrypt/eurocrypt2016-2,2016,None,On the Impossibility of Tight Cryptographic Reductions.,Christoph Bader;Tibor Jager;Yong Li;Sven Schäge;,https://doi.org/10.1007/978-3-662-49896-5_10
+eurocrypt/eurocrypt2016-2,2016,None,On the Size of Pairing-Based Non-interactive Arguments.,Jens Groth;,https://doi.org/10.1007/978-3-662-49896-5_11
+eurocrypt/eurocrypt2016-2,2016,None,Efficient Zero-Knowledge Arguments for Arithmetic Circuits in the Discrete Log Setting.,Jonathan Bootle;Andrea Cerulli;Pyrros Chaidos;Jens Groth;Christophe Petit;,https://doi.org/10.1007/978-3-662-49896-5_12
+eurocrypt/eurocrypt2016-2,2016,None,On the Complexity of Scrypt and Proofs of Space in the Parallel Random Oracle Model.,Joël Alwen;Binyi Chen;Chethan Kamath;Vladimir Kolmogorov;Krzysztof Pietrzak;Stefano Tessaro;,https://doi.org/10.1007/978-3-662-49896-5_13
+eurocrypt/eurocrypt2016-2,2016,None,Anonymous Traitor Tracing: How to Embed Arbitrary Information in a Key.,Ryo Nishimaki;Daniel Wichs;Mark Zhandry;,https://doi.org/10.1007/978-3-662-49896-5_14
+eurocrypt/eurocrypt2016-2,2016,None,Unconditionally Secure Computation with Reduced Interaction.,Ivan Damgård;Jesper Buus Nielsen;Rafail Ostrovsky;Adi Rosén;,https://doi.org/10.1007/978-3-662-49896-5_15
+eurocrypt/eurocrypt2016-2,2016,None,The Exact Round Complexity of Secure Computation.,Sanjam Garg;Pratyay Mukherjee;Omkant Pandey;Antigoni Polychroniadou;,https://doi.org/10.1007/978-3-662-49896-5_16
+eurocrypt/eurocrypt2016-2,2016,None,"On the Composition of Two-Prover Commitments, and Applications to Multi-round Relativistic Commitments.",Serge Fehr;Max Fillinger;,https://doi.org/10.1007/978-3-662-49896-5_17
+eurocrypt/eurocrypt2016-2,2016,None,Computationally Binding Quantum Commitments.,Dominique Unruh;,https://doi.org/10.1007/978-3-662-49896-5_18
+eurocrypt/eurocrypt2016-2,2016,None,Structural Lattice Reduction: Generalized Worst-Case to Average-Case Reductions and Homomorphic Cryptosystems.,Nicolas Gama;Malika Izabachène;Phong Q. Nguyen;Xiang Xie;,https://doi.org/10.1007/978-3-662-49896-5_19
+eurocrypt/eurocrypt2016-2,2016,None,Recovering Short Generators of Principal Ideals in Cyclotomic Rings.,Ronald Cramer;Léo Ducas;Chris Peikert;Oded Regev;,https://doi.org/10.1007/978-3-662-49896-5_20
+eurocrypt/eurocrypt2016-2,2016,None,Circuit Compilers with O(1/\log (n)) Leakage Rate.,Marcin Andrychowicz;Stefan Dziembowski;Sebastian Faust;,https://doi.org/10.1007/978-3-662-49896-5_21
+eurocrypt/eurocrypt2016-2,2016,None,Randomness Complexity of Private Circuits for Multiplication.,Sonia Belaïd;Fabrice Benhamouda;Alain Passelègue;Emmanuel Prouff;Adrian Thillard;Damien Vergnaud;,https://doi.org/10.1007/978-3-662-49896-5_22
+eurocrypt/eurocrypt2016-2,2016,None,10-Round Feistel is Indifferentiable from an Ideal Cipher.,Dana Dachman-Soled;Jonathan Katz;Aishwarya Thiruvengadam;,https://doi.org/10.1007/978-3-662-49896-5_23
+eurocrypt/eurocrypt2016-2,2016,None,Indifferentiability of Confusion-Diffusion Networks.,Yevgeniy Dodis;Martijn Stam;John P. Steinberger;Tianren Liu;,https://doi.org/10.1007/978-3-662-49896-5_24
+eurocrypt/eurocrypt2016-2,2016,None,Fair and Robust Multi-party Computation Using a Global Transaction Ledger.,Aggelos Kiayias;Hong-Sheng Zhou;Vassilis Zikas;,https://doi.org/10.1007/978-3-662-49896-5_25
+eurocrypt/eurocrypt2016-2,2016,None,Two Round Multiparty Computation via Multi-key FHE.,Pratyay Mukherjee;Daniel Wichs;,https://doi.org/10.1007/978-3-662-49896-5_26
+eurocrypt/eurocrypt2016-2,2016,None,"Post-zeroizing Obfuscation: New Mathematical Tools, and the Case of Evasive Circuits.",Saikrishna Badrinarayanan;Eric Miles;Amit Sahai;Mark Zhandry;,https://doi.org/10.1007/978-3-662-49896-5_27
+eurocrypt/eurocrypt2016-2,2016,None,New Negative Results on Differing-Inputs Obfuscation.,Mihir Bellare;Igors Stepanovs;Brent Waters;,https://doi.org/10.1007/978-3-662-49896-5_28
+eurocrypt/eurocrypt2016-2,2016,None,Automated Unbounded Analysis of Cryptographic Constructions in the Generic Group Model.,Miguel Ambrona;Gilles Barthe;Benedikt Schmidt;,https://doi.org/10.1007/978-3-662-49896-5_29
+eurocrypt/eurocrypt2016-2,2016,None,Multi-input Functional Encryption in the Private-Key Setting: Stronger Security from Weaker Assumptions.,Zvika Brakerski;Ilan Komargodski;Gil Segev;,https://doi.org/10.1007/978-3-662-49896-5_30
+eurocrypt/eurocrypt2016-2,2016,None,"Non-malleable Codes for Bounded Depth, Bounded Fan-In Circuits.",Marshall Ball;Dana Dachman-Soled;Mukul Kulkarni;Tal Malkin;,https://doi.org/10.1007/978-3-662-49896-5_31

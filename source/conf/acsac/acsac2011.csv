@@ -1,0 +1,42 @@
+acsac/acsac2011,2011,Malware,Understanding the prevalence and use of alternative plans in malware with network games.,Yacin Nadji;Manos Antonakakis;Roberto Perdisci;Wenke Lee;,http://doi.acm.org/10.1145/2076732.2076734
+acsac/acsac2011,2011,Malware,FORECAST: skimming off the malware cream.,Matthias Neugschwandtner;Paolo Milani Comparetti;Grégoire Jacob;Christopher Kruegel;,http://doi.acm.org/10.1145/2076732.2076735
+acsac/acsac2011,2011,Malware,Detecting malware's failover C&C strategies with squeeze.,Matthias Neugschwandtner;Paolo Milani Comparetti;Christian Platzer;,http://doi.acm.org/10.1145/2076732.2076736
+acsac/acsac2011,2011,Situational awareness,Distilling critical attack graph surface iteratively through minimum-cost SAT solving.,Heqing Huang;Su Zhang;Xinming Ou;Atul Prakash;Karem A. Sakallah;,http://doi.acm.org/10.1145/2076732.2076738
+acsac/acsac2011,2011,Situational awareness,RIPE: runtime intrusion prevention evaluator.,John Wilander;Nick Nikiforakis;Yves Younan;Mariam Kamkar;Wouter Joosen;,http://doi.acm.org/10.1145/2076732.2076739
+acsac/acsac2011,2011,Situational awareness,Hit 'em where it hurts: a live security exercise on cyber situational awareness.,Adam Doupé;Manuel Egele;Benjamin Caillat;Gianluca Stringhini;Gorkem Yakin;Ali Zand;Ludovico Cavedon;Giovanni Vigna;,http://doi.acm.org/10.1145/2076732.2076740
+acsac/acsac2011,2011,Applied cryptography,"""Mix-in-Place"" anonymous networking using secure function evaluation.",Nilesh Nipane;Italo Dacosta;Patrick Traynor;,http://doi.acm.org/10.1145/2076732.2076742
+acsac/acsac2011,2011,Applied cryptography,Security through amnesia: a software-based solution to the cold boot attack on disk encryption.,Patrick Simmons;,http://doi.acm.org/10.1145/2076732.2076743
+acsac/acsac2011,2011,Applied cryptography,Private search in the real world.,Vasilis Pappas;Mariana Raykova;Binh Vo;Steven M. Bellovin;Tal Malkin;,http://doi.acm.org/10.1145/2076732.2076744
+acsac/acsac2011,2011,Social network security,The socialbot network: when bots socialize for fame and money.,Yazan Boshmaf;Ildar Muslukhov;Konstantin Beznosov;Matei Ripeanu;,http://doi.acm.org/10.1145/2076732.2076746
+acsac/acsac2011,2011,Social network security,Detecting and resolving privacy conflicts for collaborative data sharing in online social networks.,Hongxin Hu;Gail-Joon Ahn;Jan Jorgensen;,http://doi.acm.org/10.1145/2076732.2076747
+acsac/acsac2011,2011,Social network security,Social snapshots: digital forensics for online social networks.,Markus Huber;Martin Mulazzani;Manuel Leithner;Sebastian Schrittwieser;Gilbert Wondracek;Edgar R. Weippl;,http://doi.acm.org/10.1145/2076732.2076748
+acsac/acsac2011,2011,Classic paper,A peel of onion.,Paul F. Syverson;,http://doi.acm.org/10.1145/2076732.2076750
+acsac/acsac2011,2011,Invited essayist,The science of cyber security experimentation: the DETER project.,Terry Benzel;,http://doi.acm.org/10.1145/2076732.2076752
+acsac/acsac2011,2011,Usable security,Facing the facts about image type in recognition-based graphical passwords.,Max Hlywa;Robert Biddle;Andrew S. Patrick;,http://doi.acm.org/10.1145/2076732.2076754
+acsac/acsac2011,2011,Usable security,PhorceField: a phish-proof password ceremony.,Michael Hart;Claude Castille;Manoj Harpalani;Jonathan Toohill;Rob Johnson;,http://doi.acm.org/10.1145/2076732.2076755
+acsac/acsac2011,2011,Usable security,Dynamic sample size detection in continuous authentication using sequential sampling.,Ahmed Awad E. Ahmed;Issa Traoré;,http://doi.acm.org/10.1145/2076732.2076756
+acsac/acsac2011,2011,Secure infrastructure,Improving robustness of DNS to software vulnerabilities.,Ahmed Khurshid;Firat Kiyak;Matthew Caesar;,http://doi.acm.org/10.1145/2076732.2076758
+acsac/acsac2011,2011,Secure infrastructure,Enabling secure VM-vTPM migration in private clouds.,Boris Danev;Ramya Jayaram Masti;Ghassan Karame;Srdjan Capkun;,http://doi.acm.org/10.1145/2076732.2076759
+acsac/acsac2011,2011,Secure infrastructure,Exposing invisible timing-based traffic watermarks with BACKLIT.,Xiapu Luo;Peng Zhou;Junjie Zhang;Roberto Perdisci;Wenke Lee;Rocky K. C. Chang;,http://doi.acm.org/10.1145/2076732.2076760
+acsac/acsac2011,2011,Anonymity,Exploring the potential benefits of expanded rate limiting in Tor: slow and steady wins the race with Tortoise.,W. Brad Moore;Chris Wacek;Micah Sherr;,http://doi.acm.org/10.1145/2076732.2076762
+acsac/acsac2011,2011,Anonymity,"""Super nodes"" in Tor: existence and security implication.",Chenglong Li;Yibo Xue;Yingfei Dong;Dongsheng Wang;,http://doi.acm.org/10.1145/2076732.2076763
+acsac/acsac2011,2011,Anonymity,Smart metering de-pseudonymization.,Marek Jawurek;Martin Johns;Konrad Rieck;,http://doi.acm.org/10.1145/2076732.2076764
+acsac/acsac2011,2011,Web security,SEMAGE: a new image-based two-factor CAPTCHA.,Shardul Vikram;Yinan Fan;Guofei Gu;,http://doi.acm.org/10.1145/2076732.2076766
+acsac/acsac2011,2011,Web security,BLOCK: a black-box approach for detection of state violation attacks towards web applications.,Xiaowei Li;Yuan Xue;,http://doi.acm.org/10.1145/2076732.2076767
+acsac/acsac2011,2011,Web security,A server- and browser-transparent CSRF defense for web 2.0 applications.,Riccardo Pelizzi;R. Sekar;,http://doi.acm.org/10.1145/2076732.2076768
+acsac/acsac2011,2011,Software security,ASIDE: IDE support for web application security.,Jing Xie;Bill Chu;Heather Richter Lipford;John T. Melton;,http://doi.acm.org/10.1145/2076732.2076770
+acsac/acsac2011,2011,Software security,Tracking payment card data flow using virtual machine state introspection.,Jennia Hizver;Tzi-cker Chiueh;,http://doi.acm.org/10.1145/2076732.2076771
+acsac/acsac2011,2011,Web security,An empirical study of visual security cues to prevent the SSLstripping attack.,Dongwan Shin;Rodrigo Lopes;,http://doi.acm.org/10.1145/2076732.2076773
+acsac/acsac2011,2011,Web security,AdSentry: comprehensive and flexible confinement of JavaScript-based advertisements.,Xinshu Dong;Minh Tran;Zhenkai Liang;Xuxian Jiang;,http://doi.acm.org/10.1145/2076732.2076774
+acsac/acsac2011,2011,Web security,WebJail: least-privilege integration of third-party components in web mashups.,Steven Van Acker;Philippe De Ryck;Lieven Desmet;Frank Piessens;Wouter Joosen;,http://doi.acm.org/10.1145/2076732.2076775
+acsac/acsac2011,2011,Classic paper,Key escrow from a safe distance: looking back at the Clipper Chip.,Matt Blaze;,http://doi.acm.org/10.1145/2076732.2076777
+acsac/acsac2011,2011,Mobile security,Reliable telemetry in white spaces using remote attestation.,Omid Fatemieh;Michael LeMay;Carl A. Gunter;,http://doi.acm.org/10.1145/2076732.2076779
+acsac/acsac2011,2011,Mobile security,"Don't Bump, Shake on It: the exploitation of a popular accelerometer-based smart phone exchange and its secure replacement.",Ahren Studer;Timothy Passaro;Lujo Bauer;,http://doi.acm.org/10.1145/2076732.2076780
+acsac/acsac2011,2011,Mobile security,Attacks on WebView in the Android system.,Tongbo Luo;Hao Hao;Wenliang Du;Yifei Wang;Heng Yin;,http://doi.acm.org/10.1145/2076732.2076781
+acsac/acsac2011,2011,Malware,Mitigating code-reuse attacks with control-flow locking.,Tyler K. Bletsch;Xuxian Jiang;Vincent W. Freeh;,http://doi.acm.org/10.1145/2076732.2076783
+acsac/acsac2011,2011,Malware,deRop: removing return-oriented programming from malware.,Kangjie Lu;Dabi Zou;Weiping Wen;Debin Gao;,http://doi.acm.org/10.1145/2076732.2076784
+acsac/acsac2011,2011,Malware,Static detection of malicious JavaScript-bearing PDF documents.,Pavel Laskov;Nedim Srndic;,http://doi.acm.org/10.1145/2076732.2076785
+acsac/acsac2011,2011,Situational awareness,Nexat: a history-based approach to predict attacker actions.,Casey Cipriano;Ali Zand;Amir Houmansadr;Christopher Kruegel;Giovanni Vigna;,http://doi.acm.org/10.1145/2076732.2076787
+acsac/acsac2011,2011,Situational awareness,From prey to hunter: transforming legacy embedded devices into exploitation sensor grids.,Ang Cui;Jatin Kataria;Salvatore J. Stolfo;,http://doi.acm.org/10.1145/2076732.2076788
+acsac/acsac2011,2011,Malware,BareBox: efficient malware analysis on bare-metal.,Dhilung Kirat;Giovanni Vigna;Christopher Kruegel;,http://doi.acm.org/10.1145/2076732.2076790
+acsac/acsac2011,2011,Malware,Automated remote repair for mobile malware.,Yacin Nadji;Jonathon T. Giffin;Patrick Traynor;,http://doi.acm.org/10.1145/2076732.2076791

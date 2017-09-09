@@ -1,0 +1,36 @@
+eurocrypt/eurocrypt2004,2004,Private Computation,Efficient Private Matching and Set Intersection.,Michael J. Freedman;Kobbi Nissim;Benny Pinkas;,https://doi.org/10.1007/978-3-540-24676-3_1
+eurocrypt/eurocrypt2004,2004,Private Computation,Positive Results and Techniques for Obfuscation.,Ben Lynn;Manoj Prabhakaran;Amit Sahai;,https://doi.org/10.1007/978-3-540-24676-3_2
+eurocrypt/eurocrypt2004,2004,Private Computation,Secure Computation of the k th-Ranked Element.,Gagan Aggarwal;Nina Mishra;Benny Pinkas;,https://doi.org/10.1007/978-3-540-24676-3_3
+eurocrypt/eurocrypt2004,2004,Signatures,Short Signatures Without Random Oracles.,Dan Boneh;Xavier Boyen;,https://doi.org/10.1007/978-3-540-24676-3_4
+eurocrypt/eurocrypt2004,2004,Signatures,Sequential Aggregate Signatures from Trapdoor Permutations.,Anna Lysyanskaya;Silvio Micali;Leonid Reyzin;Hovav Shacham;,https://doi.org/10.1007/978-3-540-24676-3_5
+eurocrypt/eurocrypt2004,2004,Unconditional Security,On the Key-Uncertainty of Quantum Ciphers and the Computational Security of One-Way Quantum Transmission.,Ivan Damgård;Thomas Pedersen;Louis Salvail;,https://doi.org/10.1007/978-3-540-24676-3_6
+eurocrypt/eurocrypt2004,2004,Unconditional Security,The Exact Price for Unconditionally Secure Asymmetric Cryptography.,Renato Renner;Stefan Wolf;,https://doi.org/10.1007/978-3-540-24676-3_7
+eurocrypt/eurocrypt2004,2004,Unconditional Security,On Generating the Initial Key in the Bounded-Storage Model.,Stefan Dziembowski;Ueli M. Maurer;,https://doi.org/10.1007/978-3-540-24676-3_8
+eurocrypt/eurocrypt2004,2004,Distributed Cryptography,Practical Large-Scale Distributed Key Generation.,John F. Canny;Stephen Sorkin;,https://doi.org/10.1007/978-3-540-24676-3_9
+eurocrypt/eurocrypt2004,2004,Distributed Cryptography,Optimal Communication Complexity of Generic Multicast Key Distribution.,Daniele Micciancio;Saurabh Panjwani;,https://doi.org/10.1007/978-3-540-24676-3_10
+eurocrypt/eurocrypt2004,2004,Founadations,An Uninstantiable Random-Oracle-Model Scheme for a Hybrid-Encryption Problem.,Mihir Bellare;Alexandra Boldyreva;Adriana Palacio;,https://doi.org/10.1007/978-3-540-24676-3_11
+eurocrypt/eurocrypt2004,2004,Founadations,Black-Box Composition Does Not Imply Adaptive Security.,Steven Myers;,https://doi.org/10.1007/978-3-540-24676-3_12
+eurocrypt/eurocrypt2004,2004,Identity-Based Encryption,Chosen-Ciphertext Security from Identity-Based Encryption.,Ran Canetti;Shai Halevi;Jonathan Katz;,https://doi.org/10.1007/978-3-540-24676-3_13
+eurocrypt/eurocrypt2004,2004,Identity-Based Encryption,Efficient Selective-ID Secure Identity-Based Encryption Without Random Oracles.,Dan Boneh;Xavier Boyen;,https://doi.org/10.1007/978-3-540-24676-3_14
+eurocrypt/eurocrypt2004,2004,Elliptic Curves,Construction of Secure Random Curves of Genus 2 over Prime Fields.,Pierrick Gaudry;Éric Schost;,https://doi.org/10.1007/978-3-540-24676-3_15
+eurocrypt/eurocrypt2004,2004,Elliptic Curves,Projective Coordinates Leak.,David Naccache;Nigel P. Smart;Jacques Stern;,https://doi.org/10.1007/978-3-540-24676-3_16
+eurocrypt/eurocrypt2004,2004,Signatures,Security Proofs for Identity-Based Identification and Signature Schemes.,Mihir Bellare;Chanathip Namprempre;Gregory Neven;,https://doi.org/10.1007/978-3-540-24676-3_17
+eurocrypt/eurocrypt2004,2004,Signatures,Concurrent Signatures.,Liqun Chen;Caroline Kudla;Kenneth G. Paterson;,https://doi.org/10.1007/978-3-540-24676-3_18
+eurocrypt/eurocrypt2004,2004,Signatures,The Hierarchy of Key Evolving Signatures and a Characterization of Proxy Signatures.,Tal Malkin;Satoshi Obana;Moti Yung;,https://doi.org/10.1007/978-3-540-24676-3_19
+eurocrypt/eurocrypt2004,2004,Public-Key Cryptography,Public-Key Steganography.,Luis von Ahn;Nicholas J. Hopper;,https://doi.org/10.1007/978-3-540-24676-3_20
+eurocrypt/eurocrypt2004,2004,Public-Key Cryptography,Immunizing Encryption Schemes from Decryption Errors.,Cynthia Dwork;Moni Naor;Omer Reingold;,https://doi.org/10.1007/978-3-540-24676-3_21
+eurocrypt/eurocrypt2004,2004,Public-Key Cryptography,Secure Hashed Diffie-Hellman over Non-DDH Groups.,Rosario Gennaro;Hugo Krawczyk;Tal Rabin;,https://doi.org/10.1007/978-3-540-24676-3_22
+eurocrypt/eurocrypt2004,2004,Foundations,On Simulation-Sound Trapdoor Commitments.,Philip D. MacKenzie;Ke Yang;,https://doi.org/10.1007/978-3-540-24676-3_23
+eurocrypt/eurocrypt2004,2004,Foundations,Hash Function Balance and Its Impact on Birthday Attacks.,Mihir Bellare;Tadayoshi Kohno;,https://doi.org/10.1007/978-3-540-24676-3_24
+eurocrypt/eurocrypt2004,2004,Multiparty Computation,Multi-party Computation with Hybrid Security.,Matthias Fitzi;Thomas Holenstein;Jürg Wullschleger;,https://doi.org/10.1007/978-3-540-24676-3_25
+eurocrypt/eurocrypt2004,2004,Multiparty Computation,On the Hardness of Information-Theoretic Multiparty Computation.,Yuval Ishai;Eyal Kushilevitz;,https://doi.org/10.1007/978-3-540-24676-3_26
+eurocrypt/eurocrypt2004,2004,Multiparty Computation,Dining Cryptographers Revisited.,Philippe Golle;Ari Juels;,https://doi.org/10.1007/978-3-540-24676-3_27
+eurocrypt/eurocrypt2004,2004,Cryptanalysis,Algebraic Attacks and Decomposition of Boolean Functions.,Willi Meier;Enes Pasalic;Claude Carlet;,https://doi.org/10.1007/978-3-540-24676-3_28
+eurocrypt/eurocrypt2004,2004,Cryptanalysis,Finding Small Roots of Bivariate Integer Polynomial Equations Revisited.,Jean-Sébastien Coron;,https://doi.org/10.1007/978-3-540-24676-3_29
+eurocrypt/eurocrypt2004,2004,New Applications,Public Key Encryption with Keyword Search.,Dan Boneh;Giovanni Di Crescenzo;Rafail Ostrovsky;Giuseppe Persiano;,https://doi.org/10.1007/978-3-540-24676-3_30
+eurocrypt/eurocrypt2004,2004,New Applications,Fuzzy Extractors: How to Generate Strong Keys from Biometrics and Other Noisy Data.,Yevgeniy Dodis;Leonid Reyzin;Adam D. Smith;,https://doi.org/10.1007/978-3-540-24676-3_31
+eurocrypt/eurocrypt2004,2004,Algorithms and Implementations,Merkle Tree Traversal in Log Space and Time.,Michael Szydlo;,https://doi.org/10.1007/978-3-540-24676-3_32
+eurocrypt/eurocrypt2004,2004,Algorithms and Implementations,Can We Trust Cryptographic Software? Cryptographic Flaws in GNU Privacy Guard v1.2.3.,Phong Q. Nguyen;,https://doi.org/10.1007/978-3-540-24676-3_33
+eurocrypt/eurocrypt2004,2004,Anonymity,Traceable Signatures.,Aggelos Kiayias;Yiannis Tsiounis;Moti Yung;,https://doi.org/10.1007/978-3-540-24676-3_34
+eurocrypt/eurocrypt2004,2004,Anonymity,Handcuffing Big Brother: an Abuse-Resilient Transaction Escrow Scheme.,Stanislaw Jarecki;Vitaly Shmatikov;,https://doi.org/10.1007/978-3-540-24676-3_35
+eurocrypt/eurocrypt2004,2004,Anonymity,Anonymous Identification in Ad Hoc Groups.,Yevgeniy Dodis;Aggelos Kiayias;Antonio Nicolosi;Victor Shoup;,https://doi.org/10.1007/978-3-540-24676-3_36

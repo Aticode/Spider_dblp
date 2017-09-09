@@ -1,0 +1,26 @@
+srds/srds86,1986,Invited Distinguished Speakers,Why Do Computers Stop and What Can Be Done About It?,Jim Gray;,None
+srds/srds86,1986,Invited Distinguished Speakers,The Future of Data Replication.,Hector Garcia-Molina;,None
+srds/srds86,1986,Invited Distinguished Speakers,Problems in Maintaining Agreement.,H. Raymond Strong;,None
+srds/srds86,1986,Invited Distinguished Speakers,Issues in Fault-Tolerant Real-Time Local Area Networks.,Gérard Le Lann;,None
+srds/srds86,1986,Session,Accuracy of Time Measurement in Distributed Real Time Systems.,Hermann Kopetz;,None
+srds/srds86,1986,Session,Time-Driven Orphan Elimination.,Martin S. McKendry;Maurice Herlihy;,None
+srds/srds86,1986,Session,Fault Tolerant Locking (FTL) for Tightly Coupled Systems.,Wesley W. Chu;Jung M. An;,None
+srds/srds86,1986,Session,Failure Handling in Distributed Programming Languages.,Richard D. Schlichting;Titus D. M. Purdin;,None
+srds/srds86,1986,Session,Low-Cost Comparison and Diagnosis of Large Remotely Located Files.,W. Kent Fuchs;Kun-Lung Wu;Jacob A. Abraham;,None
+srds/srds86,1986,Session,A Saturation Network to Tolerate Faults and Intrusions.,Yves Deswarte;Jean-Charles Fabre;Jean-Claude Laprie;David Powell;,None
+srds/srds86,1986,Session,Robust Application Design in Highly Available Distributed Databases.,Sunil K. Sarin;,None
+srds/srds86,1986,Session,Database Processing with Triple Modular Redundancy.,Frank M. Pittelli;Hector Garcia-Molina;,None
+srds/srds86,1986,Session,O(N * sqrt(N)) Decentralized Commit Protocols.,T. V. Lakshman;Ashok K. Agrawala;,None
+srds/srds86,1986,Special Invited Lecture,Reliability and Security Issues in Distributed Computing Systems.,Brian Randell;John E. Dobson;,None
+srds/srds86,1986,Session IVa,How Big Can An Atomic Action Be?,David J. Taylor;,None
+srds/srds86,1986,Session IVa,A Structured Decision Mechanism for Diverse Software.,Tom Anderson;,None
+srds/srds86,1986,Session IVa,An Approach to Fault-Tolerance in Massive Parallelism Systems.,Fabrizio Baiardi;Marco Vanneschi;,None
+srds/srds86,1986,Session IVb,Simultaneity is Harder than Agreement.,Brian A. Coan;Cynthia Dwork;,None
+srds/srds86,1986,Session IVb,Optimal Checkpointing of Real-Time Tasks.,Kang G. Shin;Yann-Hang Lee;,None
+srds/srds86,1986,Session IVb,An Analysis of the Execution Overhead Inherent in the Conversation Scheme.,K. H. Kim;Seung-Min Yang;,None
+srds/srds86,1986,Session Va,Relocating Processes in Distributed Computer Systems.,Donald F. Ferguson;Gautam Kar;Gerald Leitner;Christos Nikolaou;,None
+srds/srds86,1986,Session Va,Operating System Support for Software Migration in a Distributed System.,Roberto Zicari;,None
+srds/srds86,1986,Session Va,State Inconsistency Issues in Local Area Network-Based Distributed Kernels.,K. Ravindran;Samuel T. Chanson;,None
+srds/srds86,1986,Session Vb,A Token-Based Resiliency Control Scheme in Replicated Database Systems.,Sang Hyuk Son;Ashok K. Agrawala;,None
+srds/srds86,1986,Session Vb,Transaction Recovery in Distributed DB/DC Systems: A Progressive Approach.,Philip S. Yu;Balakrishna R. Iyer;Yann-Hang Lee;,None
+srds/srds86,1986,Session Vb,A Characterisation of Faults in Systems.,Paul D. Ezhilchelvan;Santosh K. Shrivastava;,None

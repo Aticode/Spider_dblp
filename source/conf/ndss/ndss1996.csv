@@ -1,0 +1,17 @@
+ndss/ndss1996,1996,Session 1:Electronic Mail Security,Mixing Email with Babel.,Ceki Gülcü;Gene Tsudik;,https://doi.org/10.1109/NDSS.1996.492350
+ndss/ndss1996,1996,Session 1:Electronic Mail Security,An integration of PGP and MIME.,Kazuhiko Yamamoto;,https://doi.org/10.1109/NDSS.1996.492351
+ndss/ndss1996,1996,Session 2:Distributed Object Systems,A Security Framework Supporting Domain Based Access Control in Distributed Systems.,Nicholas Yialelis;Morris Sloman;,http://doi.ieeecomputersociety.org/10.1109/SNDSS.1996.10001
+ndss/ndss1996,1996,Session 2:Distributed Object Systems,Scalability of Security in Distributed Object Systems.,Dan M. Nessett;,https://doi.org/10.1109/NDSS.1996.492352
+ndss/ndss1996,1996,Session 3:Distributed System Security,A flexible distributed authorization protocol.,Jonathan T. Trostle;B. Clifford Neuman;,https://doi.org/10.1109/NDSS.1996.492353
+ndss/ndss1996,1996,Session 3:Distributed System Security,Preserving Integrity in Remote File Location and Retrieval.,Trent Jaeger;Aviel D. Rubin;,https://doi.org/10.1109/NDSS.1996.492413
+ndss/ndss1996,1996,Session 3:Distributed System Security,"C-HTTP - The Development of a Secure, Closed HTTP-based Network on the Internet.",Takahiro Kiuchi;Shigekoto Kaihara;,https://doi.org/10.1109/NDSS.1996.492414
+ndss/ndss1996,1996,Session 4:Panel,Panel: Intellectual Property Protection.,,http://doi.ieeecomputersociety.org/10.1109/SNDSS.1996.10000
+ndss/ndss1996,1996,Session 5:Network Security,"Designing an Academic Firewall: Policy, Practice, and Experience with SURF.",Michael B. Greenwald;Sandeep K. Singhal;Jonathan Stone;David R. Cheriton;,https://doi.org/10.1109/NDSS.1996.492415
+ndss/ndss1996,1996,Session 5:Network Security,Digital signature protection of the OSPF routing protocol.,Sandra L. Murphy;Madelyn R. Badger;,https://doi.org/10.1109/NDSS.1996.492416
+ndss/ndss1996,1996,Session 5:Network Security,A Case Study of Secure ATM Switch Booting.,Shaw-Cheng Chuang;Michael Roe;,https://doi.org/10.1109/NDSS.1996.492417
+ndss/ndss1996,1996,Session 6:Key Management,SKEME: a versatile secure key exchange mechanism for Internet.,Hugo Krawczyk;,https://doi.org/10.1109/NDSS.1996.492418
+ndss/ndss1996,1996,Session 6:Key Management,IDUP and SPKM: Developing Public-Key-Based APIs and Mechanisms for Communication Security Services.,Carlisle Adams;,https://doi.org/10.1109/NDSS.1996.492419
+ndss/ndss1996,1996,Session 7:Encryption,An Empirical Study of Secure MPEG Video Transmissions.,Iskender Agi;Li Gong;,https://doi.org/10.1109/NDSS.1996.492420
+ndss/ndss1996,1996,Session 7:Encryption,Parallelized Network Security Protocols.,Erich M. Nahum;David J. Yates;Sean W. O'Malley;Hilarie K. Orman;Richard Schroeppel;,https://doi.org/10.1109/NDSS.1996.492421
+ndss/ndss1996,1996,Session 7:Encryption,"A ""bump in the stack"" encryptor for MS-DOS systems.",David A. Wagner;Steven M. Bellovin;,https://doi.org/10.1109/NDSS.1996.492422
+ndss/ndss1996,1996,Session 8:Panel,Panel: Public-Key Infrastructure.,,http://doi.ieeecomputersociety.org/10.1109/SNDSS.1996.10006

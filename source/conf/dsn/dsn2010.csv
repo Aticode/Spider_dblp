@@ -1,0 +1,69 @@
+dsn/dsn2010,2010,None,Scalable RFID systems: a privacy-preserving protocol with constant-time identification.,Basel Alomair;Andrew Clark;Jorge Cuéllar;Radha Poovendran;,https://doi.org/10.1109/DSN.2010.5545008
+dsn/dsn2010,2010,None,Detecting selfish carrier-sense behavior in WiFi networks by passive monitoring.,Utpal Paul;Samir R. Das;Ritesh Maheshwari;,https://doi.org/10.1109/DSN.2010.5544261
+dsn/dsn2010,2010,None,Detecting Sybil nodes in wireless networks with physical layer network coding.,Weichao Wang;Di Pu;Alexander M. Wyglinski;,https://doi.org/10.1109/DSN.2010.5545011
+dsn/dsn2010,2010,None,Observable non-Sybil quorums construction in one-hop wireless ad hoc networks.,Diogo Mónica;João Leitão;Luís E. T. Rodrigues;Carlos Ribeiro;,https://doi.org/10.1109/DSN.2010.5545006
+dsn/dsn2010,2010,None,Reliable MLC NAND flash memories based on nonlinear t-error-correcting codes.,Zhen Wang;Mark G. Karpovsky;Ajay Joshi;,https://doi.org/10.1109/DSN.2010.5545014
+dsn/dsn2010,2010,None,Code-M: A non-MDS erasure code scheme to support fast recovery from up to two-disk failures in storage systems.,Shenggang Wan;Qiang Cao;Changsheng Xie;Benjamin Eckart;Xubin He;,https://doi.org/10.1109/DSN.2010.5545009
+dsn/dsn2010,2010,None,Decoding STAR code for tolerating simultaneous disk failure and silent errors.,Jianqiang Luo;Cheng Huang;Lihao Xu;,https://doi.org/10.1109/DSN.2010.5544948
+dsn/dsn2010,2010,None,Diverse Partial Memory Replication.,Ryan M. Lefever;Vikram S. Adve;William H. Sanders;,https://doi.org/10.1109/DSN.2010.5545012
+dsn/dsn2010,2010,None,Data recovery for web applications.,Istemi Ekin Akkus;Ashvin Goel;,https://doi.org/10.1109/DSN.2010.5544951
+dsn/dsn2010,2010,None,Programming support and adaptive checkpointing for high-throughput data services with log-based recovery.,Jingyu Zhou;Caijie Zhang;Hong Tang;Jiesheng Wu;Tao Yang;,https://doi.org/10.1109/DSN.2010.5545015
+dsn/dsn2010,2010,None,StageWeb: Interweaving pipeline stages into a wearout and variation tolerant CMP fabric.,Shantanu Gupta;Amin Ansari;Shuguang Feng;Scott A. Mahlke;,https://doi.org/10.1109/DSN.2010.5544915
+dsn/dsn2010,2010,None,Architecting reliable multi-core network-on-chip for small scale processing technology.,Xin Fu;Tao Li;José A. B. Fortes;,https://doi.org/10.1109/DSN.2010.5544949
+dsn/dsn2010,2010,None,Energy-efficient fault tolerance in chip multiprocessors using Critical Value Forwarding.,Pramod Subramanyan;Virendra Singh;Kewal K. Saluja;Erik Larsson;,https://doi.org/10.1109/DSN.2010.5544918
+dsn/dsn2010,2010,None,A fast and accurate multi-cycle soft error rate estimation approach to resilient embedded systems design.,Mahdi Fazeli;Seyed Ghassem Miremadi;Hossein Asadi;Seyed Nematollah Ahmadian;,https://doi.org/10.1109/DSN.2010.5544952
+dsn/dsn2010,2010,None,Bit-slice logic interleaving for spatial multi-bit soft-error tolerance.,Nishant J. George;Carl R. Elks;Barry W. Johnson;John Lach;,https://doi.org/10.1109/DSN.2010.5544920
+dsn/dsn2010,2010,None,WearMon: Reliability monitoring using adaptive critical path testing.,Bardia Zandian;Waleed Dweik;Suk Hun Kang;Thomas Punihaole;Murali Annavaram;,https://doi.org/10.1109/DSN.2010.5544916
+dsn/dsn2010,2010,None,A numerical optimization-based methodology for application robustification: Transforming applications for error tolerance.,Joseph Sloan;David Kesler;Rakesh Kumar;Ali Rahimi;,https://doi.org/10.1109/DSN.2010.5544923
+dsn/dsn2010,2010,None,Blue Banana: resilience to avatar mobility in distributed MMOGs.,Sergey Legtchenko;Sébastien Monnet;Gaël Thomas;,https://doi.org/10.1109/DSN.2010.5544919
+dsn/dsn2010,2010,None,"Efficient eventual consistency in Pahoehoe, an erasure-coded key-blob archive.",Eric Anderson;Xiaozhou Li;Arif Merchant;Mehul A. Shah;Kevin Smathers;Joseph Tucek;Mustafa Uysal;Jay J. Wylie;,https://doi.org/10.1109/DSN.2010.5544926
+dsn/dsn2010,2010,None,Using correlated surprise to infer shared influence.,Adam J. Oliner;Ashutosh V. Kulkarni;Alex Aiken;,https://doi.org/10.1109/DSN.2010.5544921
+dsn/dsn2010,2010,None,Keystroke biometrics with number-pad input.,Roy A. Maxion;Kevin S. Killourhy;,https://doi.org/10.1109/DSN.2010.5544311
+dsn/dsn2010,2010,None,Using Bayesian networks for cyber security analysis.,Peng Xie;Jason H. Li;Xinming Ou;Peng Liu;Renato Levy;,https://doi.org/10.1109/DSN.2010.5544924
+dsn/dsn2010,2010,None,A study of the internal and external effects of concurrency bugs.,Pedro Fonseca;Cheng Li;Vishal Singhal;Rodrigo Rodrigues;,https://doi.org/10.1109/DSN.2010.5544315
+dsn/dsn2010,2010,None,AutomaDeD: Automata-based debugging for dissimilar parallel tasks.,Greg Bronevetsky;Ignacio Laguna;Saurabh Bagchi;Bronis R. de Supinski;Dong H. Ahn;Martin Schulz;,https://doi.org/10.1109/DSN.2010.5544927
+dsn/dsn2010,2010,None,Detecting vulnerabilities in C programs using trace-based testing.,Dazhi Zhang;Donggang Liu;Yu Lei;David Chenho Kung;Christoph Csallner;Wenhua Wang;,https://doi.org/10.1109/DSN.2010.5544310
+dsn/dsn2010,2010,None,Mash-IF: Practical information-flow control within client-side mashups.,Zhou Li;Kehuan Zhang;XiaoFeng Wang;,https://doi.org/10.1109/DSN.2010.5544312
+dsn/dsn2010,2010,None,DataGuard: Dynamic data attestation in wireless sensor networks.,Dazhi Zhang;Donggang Liu;,https://doi.org/10.1109/DSN.2010.5544307
+dsn/dsn2010,2010,None,iProve: A scalable technique for consumer-verifiable software guarantees.,Silviu Andrica;Horatiu Jula;George Candea;,https://doi.org/10.1109/DSN.2010.5544309
+dsn/dsn2010,2010,None,Reuse-oriented camouflaging trojan: Vulnerability detection and attack construction.,Zhiqiang Lin;Xiangyu Zhang;Dongyan Xu;,https://doi.org/10.1109/DSN.2010.5544305
+dsn/dsn2010,2010,None,Detection of botnets using combined host- and network-level information.,Yuanyuan Zeng;Xin Hu;Kang G. Shin;,https://doi.org/10.1109/DSN.2010.5544306
+dsn/dsn2010,2010,None,Dependable connection setup for network capabilities.,Soo Bum Lee;Virgil D. Gligor;Adrian Perrig;,https://doi.org/10.1109/DSN.2010.5544303
+dsn/dsn2010,2010,None,Why software hangs and what can be done with it.,Xiang Song;Haibo Chen;Binyu Zang;,https://doi.org/10.1109/DSN.2010.5544304
+dsn/dsn2010,2010,None,Finding stable cliques of PlanetLab nodes.,Elias Procópio Duarte Jr.;Thiago Garrett;Luis C. E. Bona;Renato Carmo;Alexandre P. Züge;,https://doi.org/10.1109/DSN.2010.5544300
+dsn/dsn2010,2010,None,Who is peeping at your passwords at Starbucks? - To catch an evil twin access point.,Yimin Song;Chao Yang;Guofei Gu;,https://doi.org/10.1109/DSN.2010.5544302
+dsn/dsn2010,2010,None,Improving privacy and lifetime of PCM-based main memory.,Jingfei Kong;Huiyang Zhou;,https://doi.org/10.1109/DSN.2010.5544298
+dsn/dsn2010,2010,None,Generic construction of consensus algorithms for benign and Byzantine faults.,Olivier Rütti;Zarko Milosevic;André Schiper;,https://doi.org/10.1109/DSN.2010.5544299
+dsn/dsn2010,2010,None,Scrooge: Reducing the costs of fast Byzantine replication in presence of unresponsive replicas.,Marco Serafini;Péter Bokor;Dan Dobre;Matthias Majuntke;Neeraj Suri;,https://doi.org/10.1109/DSN.2010.5544295
+dsn/dsn2010,2010,None,Zzyzx: Scalable fault tolerance through Byzantine locking.,James Hendricks;Shafeeq Sinnamohideen;Gregory R. Ganger;Michael K. Reiter;,https://doi.org/10.1109/DSN.2010.5544297
+dsn/dsn2010,2010,None,Doubly-expedited one-step Byzantine consensus.,Nazreen Banu;Taisuke Izumi;Koichi Wada;,https://doi.org/10.1109/DSN.2010.5544293
+dsn/dsn2010,2010,None,A passive approach to wireless device fingerprinting.,Ke Gao;Cherita L. Corbett;Raheem A. Beyah;,https://doi.org/10.1109/DSN.2010.5544294
+dsn/dsn2010,2010,None,Exploiting diverse observation perspectives to get insights on the malware landscape.,Corrado Leita;Ulrich Bayer;Engin Kirda;,https://doi.org/10.1109/DSN.2010.5544291
+dsn/dsn2010,2010,None,Combined performance and risk analysis for border management applications.,Mayra Sacanamboy;Bojan Cukic;,https://doi.org/10.1109/DSN.2010.5544292
+dsn/dsn2010,2010,None,Experimental validation of a fault tolerant microcomputer system against intermittent faults.,Joaquin Gracia-Moran;Daniel Gil-Tomas;Luis J. Saiz-Adalid;Juan Carlos Baraza;Pedro J. Gil-Vicente;,https://doi.org/10.1109/DSN.2010.5544288
+dsn/dsn2010,2010,None,Evaluating repair strategies for a water-treatment facility using Arcade.,Boudewijn R. Haverkort;Matthias Kuntz;Anne Remke;S. Roolvink;Mariëlle Stoelinga;,https://doi.org/10.1109/DSN.2010.5544290
+dsn/dsn2010,2010,None,Application of a fault injection based dependability assessment process to a commercial safety critical nuclear reactor protection system.,Carl R. Elks;Michael Reynolds;Nishant J. George;Marko Miklo;Scott Bingham;Ronald D. Williams;Barry W. Johnson;Michael Waterman;Jeanne Dion;,https://doi.org/10.1109/DSN.2010.5544285
+dsn/dsn2010,2010,None,Measurement-based analysis of fault and error sensitivities of dynamic memory.,Keun Soo Yim;Zbigniew Kalbarczyk;Ravishankar K. Iyer;,https://doi.org/10.1109/DSN.2010.5544287
+dsn/dsn2010,2010,None,Representativeness analysis of injected software faults in complex software.,Roberto Natella;Domenico Cotroneo;João Durães;Henrique Madeira;,https://doi.org/10.1109/DSN.2010.5544282
+dsn/dsn2010,2010,None,An empirical investigation of fault types in space mission system software.,Michael Grottke;Allen P. Nikora;Kishor S. Trivedi;,https://doi.org/10.1109/DSN.2010.5544284
+dsn/dsn2010,2010,None,Assessing and improving the effectiveness of logs for the analysis of software faults.,Marcello Cinque;Domenico Cotroneo;Roberto Natella;Antonio Pecchia;,https://doi.org/10.1109/DSN.2010.5544279
+dsn/dsn2010,2010,None,Statistical guarantees of performance for MIMO designs.,Jayanand Asok Kumar;Shobha Vasudevan;,https://doi.org/10.1109/DSN.2010.5544281
+dsn/dsn2010,2010,None,Transient fault models and AVF estimation revisited.,Nishant J. George;Carl R. Elks;Barry W. Johnson;John Lach;,https://doi.org/10.1109/DSN.2010.5544276
+dsn/dsn2010,2010,None,"A unified model for timing speculation: Evaluating the impact of technology scaling, CMOS design style, and fault recovery mechanism.",Marc de Kruijf;Shuou Nomura;Karthikeyan Sankaralingam;,https://doi.org/10.1109/DSN.2010.5544278
+dsn/dsn2010,2010,None,Performance and availability aware regeneration for cloud based multitier applications.,Gueyoung Jung;Kaustubh R. Joshi;Matti A. Hiltunen;Richard D. Schlichting;Calton Pu;,https://doi.org/10.1109/DSN.2010.5544273
+dsn/dsn2010,2010,None,Adaptive on-line software aging prediction based on machine learning.,Javier Alonso;Jordi Torres;Josep Lluis Berral;Ricard Gavaldà;,https://doi.org/10.1109/DSN.2010.5544275
+dsn/dsn2010,2010,None,Correlating failures with asynchronous changes for root cause analysis in enterprise environments.,Manoj K. Agarwal;Venkateswara Reddy Madduri;,https://doi.org/10.1109/DSN.2010.5544270
+dsn/dsn2010,2010,None,Ring Paxos: A high-throughput atomic broadcast protocol.,Parisa Jalili Marandi;Marco Primi;Nicolas Schiper;Fernando Pedone;,https://doi.org/10.1109/DSN.2010.5544272
+dsn/dsn2010,2010,None,Turquois: Byzantine consensus in wireless ad hoc networks.,Henrique Moniz;Nuno Ferreira Neves;Miguel Correia;,https://doi.org/10.1109/DSN.2010.5544268
+dsn/dsn2010,2010,None,"Diversity-inspired clustering for self-healing MANETs: Motivation, protocol, and performability evaluation.",Ann T. Tai;Kam S. Tso;William H. Sanders;,https://doi.org/10.1109/DSN.2010.5544269
+dsn/dsn2010,2010,None,GOOFI-2: A tool for experimental dependability assessment.,Daniel Skarin;Raul Barbosa;Johan Karlsson;,https://doi.org/10.1109/DSN.2010.5544265
+dsn/dsn2010,2010,None,Studying application-library interaction and behavior with LibTrac.,Eric Bisolfati;Paul Dan Marinescu;George Candea;,https://doi.org/10.1109/DSN.2010.5544267
+dsn/dsn2010,2010,None,Experiences with a CANoe-based fault injection framework for AUTOSAR.,Patrick E. Lanigan;Priya Narasimhan;Thomas E. Fuhrman;,https://doi.org/10.1109/DSN.2010.5544419
+dsn/dsn2010,2010,None,Empirical characterization of uncongested optical lambda networks and 10GbE commodity endpoints.,Tudor Marian;Daniel A. Freedman;Ken Birman;Hakim Weatherspoon;,https://doi.org/10.1109/DSN.2010.5544264
+dsn/dsn2010,2010,None,On/off process modeling of IP network failures.,Pirkko Kuusela;Ilkka Norros;,https://doi.org/10.1109/DSN.2010.5544427
+dsn/dsn2010,2010,None,An automated technique to support the verification and validation of simulation models.,Samuel K. Klock;Peter Kemper;,https://doi.org/10.1109/DSN.2010.5544417
+dsn/dsn2010,2010,None,Model checking CSLTA with Deterministic and Stochastic Petri Nets.,Elvio Gilberto Amparore;Susanna Donatelli;,https://doi.org/10.1109/DSN.2010.5544425
+dsn/dsn2010,2010,None,1st workshop on fault-tolerance for HPC at extreme scale FTXS 2010.,John T. Daly;Nathan DeBardeleben;,https://doi.org/10.1109/DSN.2010.5544426
+dsn/dsn2010,2010,None,"Second workshop on proactive failure avoidance, recovery, and maintenance (PFARM).",Miroslaw Malek;Felix Salfner;Kishor S. Trivedi;,https://doi.org/10.1109/DSN.2010.5544422
+dsn/dsn2010,2010,None,Fourth workshop on dependable and secure nanocomputing.,Jean Arlat;Cristian Constantinescu;Ravishankar K. Iyer;Johan Karlsson;Michael Nicolaidis;,https://doi.org/10.1109/DSN.2010.5544423
+dsn/dsn2010,2010,None,4th workshop on recent advances in intrusion-tolerant systems WRAITS 2010.,Miguel Correia;Partha P. Pal;,https://doi.org/10.1109/DSN.2010.5544420

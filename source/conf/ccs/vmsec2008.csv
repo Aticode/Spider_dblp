@@ -1,0 +1,7 @@
+ccs/vmsec2008,2008,Portability & recovery,Secure control of portable images in a virtual computing utility.,Ionut Constandache;Aydan R. Yumerefendi;Jeffrey S. Chase;,http://doi.acm.org/10.1145/1456482.1456484
+ccs/vmsec2008,2008,Portability & recovery,VEP: a virtual machine for extended proof-carrying code.,Heidar Pirzadeh;Danny Dubé;,http://doi.acm.org/10.1145/1456482.1456485
+ccs/vmsec2008,2008,Portability & recovery,Efficiently tracking application interactions using lightweight virtualization.,Yih Huang;Angelos Stavrou;Anup K. Ghosh;Sushil Jajodia;,http://doi.acm.org/10.1145/1456482.1456486
+ccs/vmsec2008,2008,Portability & recovery,Using virtual machines to do cross-layer damage assessment.,Xiaoqi Jia;Shengzhi Zhang;Jiwu Jing;Peng Liu;,http://doi.acm.org/10.1145/1456482.1456487
+ccs/vmsec2008,2008,Hardware & monitoring,Boxing clever with IOMMUs.,Grzegorz Milos;Derek Gordon Murray;,http://doi.acm.org/10.1145/1456482.1456489
+ccs/vmsec2008,2008,Hardware & monitoring,Binding software to specific native hardware in a VM environment: the puf challenge and opportunity.,Mikhail J. Atallah;Eric Bryant;John T. Korb;John R. Rice;,http://doi.acm.org/10.1145/1456482.1456490
+ccs/vmsec2008,2008,Hardware & monitoring,"Traps, events, emulation, and enforcement: managing the yin and yang of virtualization-based security.",Sergey Bratus;Michael E. Locasto;Ashwin Ramaswamy;Sean W. Smith;,http://doi.acm.org/10.1145/1456482.1456491

@@ -1,0 +1,31 @@
+fse/fse2004,2004,None,New Cryptographic Primitives Based on Multiword T-Functions.,Alexander Klimov;Adi Shamir;,https://doi.org/10.1007/978-3-540-25937-4_1
+fse/fse2004,2004,None,Towards a Unifying View of Block Cipher Cryptanalysis.,David A. Wagner;,https://doi.org/10.1007/978-3-540-25937-4_2
+fse/fse2004,2004,None,Algebraic Attacks on Summation Generators.,Dong Hoon Lee;Jaeheon Kim;Jin Hong;Jae Woo Han;Dukjae Moon;,https://doi.org/10.1007/978-3-540-25937-4_3
+fse/fse2004,2004,None,Algebraic Attacks on SOBER-t32 and SOBER-t16 without Stuttering.,Joo Yeon Cho;Josef Pieprzyk;,https://doi.org/10.1007/978-3-540-25937-4_4
+fse/fse2004,2004,None,Improving Fast Algebraic Attacks.,Frederik Armknecht;,https://doi.org/10.1007/978-3-540-25937-4_5
+fse/fse2004,2004,None,Resistance of S-Boxes against Algebraic Attacks.,Jung Hee Cheon;Dong Hoon Lee;,https://doi.org/10.1007/978-3-540-25937-4_6
+fse/fse2004,2004,None,Differential Attacks against the Helix Stream Cipher.,Frédéric Muller;,https://doi.org/10.1007/978-3-540-25937-4_7
+fse/fse2004,2004,None,Improved Linear Consistency Attack on Irregular Clocked Keystream Generators.,Håvard Molland;,https://doi.org/10.1007/978-3-540-25937-4_8
+fse/fse2004,2004,None,Correlation Attacks Using a New Class of Weak Feedback Polynomials.,Håkan Englund;Martin Hell;Thomas Johansson;,https://doi.org/10.1007/978-3-540-25937-4_9
+fse/fse2004,2004,None,Minimum Distance between Bent and 1-Resilient Boolean Functions.,Soumen Maity;Subhamoy Maitra;,https://doi.org/10.1007/978-3-540-25937-4_10
+fse/fse2004,2004,None,Results on Rotation Symmetric Bent and Correlation Immune Boolean Functions.,Pantelimon Stanica;Subhamoy Maitra;John A. Clark;,https://doi.org/10.1007/978-3-540-25937-4_11
+fse/fse2004,2004,None,A Weakness of the Linear Part of Stream Cipher MUGI.,Jovan Dj. Golic;,https://doi.org/10.1007/978-3-540-25937-4_12
+fse/fse2004,2004,None,Vulnerability of Nonlinear Filter Generators Based on Linear Finite State Machines.,Jin Hong;Dong Hoon Lee;Seongtaek Chee;Palash Sarkar;,https://doi.org/10.1007/978-3-540-25937-4_13
+fse/fse2004,2004,None,VMPC One-Way Function and Stream Cipher.,Bartosz Zoltak;,https://doi.org/10.1007/978-3-540-25937-4_14
+fse/fse2004,2004,None,A New Stream Cipher HC-256.,Hongjun Wu;,https://doi.org/10.1007/978-3-540-25937-4_15
+fse/fse2004,2004,None,A New Weakness in the RC4 Keystream Generator and an Approach to Improve the Security of the Cipher.,Souradyuti Paul;Bart Preneel;,https://doi.org/10.1007/978-3-540-25937-4_16
+fse/fse2004,2004,None,Improving Immunity of Feistel Ciphers against Differential Cryptanalysis by Using Multiple MDS Matrices.,Taizo Shirai;Kyoji Shibutani;,https://doi.org/10.1007/978-3-540-25937-4_17
+fse/fse2004,2004,None,ICEBERG : An Involutional Cipher Efficient for Block Encryption in Reconfigurable Hardware.,François-Xavier Standaert;Gilles Piret;Gaël Rouvroy;Jean-Jacques Quisquater;Jean-Didier Legat;,https://doi.org/10.1007/978-3-540-25937-4_18
+fse/fse2004,2004,None,Related Key Differential Attacks on 27 Rounds of XTEA and Full-Round GOST.,Youngdai Ko;Seokhie Hong;Wonil Lee;Sangjin Lee;Ju-Sung Kang;,https://doi.org/10.1007/978-3-540-25937-4_19
+fse/fse2004,2004,None,On the Additive Differential Probability of Exclusive-Or.,Helger Lipmaa;Johan Wallén;Philippe Dumas;,https://doi.org/10.1007/978-3-540-25937-4_20
+fse/fse2004,2004,None,Two Power Analysis Attacks against One-Mask Methods.,Mehdi-Laurent Akkar;Régis Bevan;Louis Goubin;,https://doi.org/10.1007/978-3-540-25937-4_21
+fse/fse2004,2004,None,Nonce-Based Symmetric Encryption.,Phillip Rogaway;,https://doi.org/10.1007/978-3-540-25937-4_22
+fse/fse2004,2004,None,Ciphers Secure against Related-Key Attacks.,Stefan Lucks;,https://doi.org/10.1007/978-3-540-25937-4_23
+fse/fse2004,2004,None,"Cryptographic Hash-Function Basics: Definitions, Implications, and Separations for Preimage Resistance, Second-Preimage Resistance, and Collision Resistance.",Phillip Rogaway;Thomas Shrimpton;,https://doi.org/10.1007/978-3-540-25937-4_24
+fse/fse2004,2004,None,The EAX Mode of Operation.,Mihir Bellare;Phillip Rogaway;David A. Wagner;,https://doi.org/10.1007/978-3-540-25937-4_25
+fse/fse2004,2004,None,CWC: A High-Performance Conventional Authenticated Encryption Mode.,Tadayoshi Kohno;John Viega;Doug Whiting;,https://doi.org/10.1007/978-3-540-25937-4_26
+fse/fse2004,2004,None,New Security Proofs for the 3GPP Confidentiality and Integrity Algorithms.,Tetsu Iwata;Tadayoshi Kohno;,https://doi.org/10.1007/978-3-540-25937-4_27
+fse/fse2004,2004,None,Cryptanalysis of a Message Authentication Code due to Cary and Venkatesan.,Simon R. Blackburn;Kenneth G. Paterson;,https://doi.org/10.1007/978-3-540-25937-4_28
+fse/fse2004,2004,None,Fast Software-Based Attacks on SecurID.,Scott Contini;Yiqun Lisa Yin;,https://doi.org/10.1007/978-3-540-25937-4_29
+fse/fse2004,2004,None,A MAC Forgery Attack on SOBER-128.,Dai Watanabe;Soichi Furuya;,https://doi.org/10.1007/978-3-540-25937-4_30
+fse/fse2004,2004,None,On Linear Approximation of Modulo Sum.,Alexander Maximov;,https://doi.org/10.1007/978-3-540-25937-4_31

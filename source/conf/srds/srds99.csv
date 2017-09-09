@@ -1,0 +1,54 @@
+srds/srds99,1999,Invited Speaker,Reliability of Future Telephone Networks.,Robert C. B. Cooper;,https://doi.org/10.1109/RELDIS.1999.805077
+srds/srds99,1999,Mobile Computing,Information Dissemination in Partitionable Mobile Ad Hoc Networks.,Goutham Karumanchi;Srinivasan Muralidharan;Ravi Prakash;,https://doi.org/10.1109/RELDIS.1999.805078
+srds/srds99,1999,Mobile Computing,Group Multicast in Distributed Mobile Systems with Unreliable Wireless Network.,Giuseppe Anastasi;Alberto Bartoli;Francesco Spadoni;,https://doi.org/10.1109/RELDIS.1999.805079
+srds/srds99,1999,Mobile Computing,Improving Level of Service for Mobile Users using Context-Awareness.,Paul Couderc;Anne-Marie Kermarrec;,https://doi.org/10.1109/RELDIS.1999.805080
+srds/srds99,1999,Distributed Algorithms,An Algorithm for Fault-Tolerant Clock State and Rate Synchronization.,Klaus Schossmaier;Bettina Weiss;,https://doi.org/10.1109/RELDIS.1999.805081
+srds/srds99,1999,Distributed Algorithms,Real-Time Fault-Tolerant Atomic Broadcast.,Carole Delporte-Gallet;Hugues Fauconnier;,https://doi.org/10.1109/RELDIS.1999.805082
+srds/srds99,1999,Distributed Algorithms,A General Framework to Solve Agreement Problems.,Michel Hurfin;Raimundo A. Macêdo;Michel Raynal;Frederic Tronel;,https://doi.org/10.1109/RELDIS.1999.805083
+srds/srds99,1999,Formal Methods,Formal Hazard Analysis of Hybrid Systems in cTLA.,Peter Herrmann;Heiko Krumm;,https://doi.org/10.1109/RELDIS.1999.805084
+srds/srds99,1999,Formal Methods,Safecharts for Specifying and Designing Safety Critical Systems.,Hamdan Dammag;Nimal Nissanke;,https://doi.org/10.1109/RELDIS.1999.805085
+srds/srds99,1999,Replication Techniques,"Implementing a Semi-Active Replication Strategy in CHORUS/ClassiX, A Distributed Real-Time Executive.",Anne-Marie Déplanche;Pierre-Yves Théaudière;Yvon Trinquet;,https://doi.org/10.1109/RELDIS.1999.805086
+srds/srds99,1999,Replication Techniques,View Divergence Control of Replicated Data using Update Delay Estimation.,Takao Yamashita;Satoshi Ono;,https://doi.org/10.1109/RELDIS.1999.805087
+srds/srds99,1999,Replication Techniques,Highly Available Process Support Systems: Implementing Backup Mechanisms.,Claus Hagen;Gustavo Alonso;,https://doi.org/10.1109/RELDIS.1999.805088
+srds/srds99,1999,Scalability,Scalable Stability Detection using Logical Hypercube.,Roy Friedman;Shiri Manor;Katherine Guo;,https://doi.org/10.1109/RELDIS.1999.805089
+srds/srds99,1999,Scalability,On Diffusing Updates in a Byzantine Environment.,Dahlia Malkhi;Yishay Mansour;Michael K. Reiter;,https://doi.org/10.1109/RELDIS.1999.805090
+srds/srds99,1999,Scalability,Fault-Tolerant Replication Management in Large-Scale Distributed Storage Systems.,Richard A. Golding;Elizabeth Borowsky;,https://doi.org/10.1109/RELDIS.1999.805091
+srds/srds99,1999,Failure Analysis,A Component-based Approach to Reliability Analysis of Distributed Systems.,Sherif M. Yacoub;Bojan Cukic;Hany H. Ammar;,https://doi.org/10.1109/RELDIS.1999.805092
+srds/srds99,1999,Failure Analysis,Fault Injection based on a Partial View of the Global State of a Distributed System.,Michel Cukier;Ramesh Chandra;David Henke;Jessica Pistole;William H. Sanders;,https://doi.org/10.1109/RELDIS.1999.805093
+srds/srds99,1999,Failure Analysis,Failure Data Analysis of a LAN of Windows NT based Computers.,M. Kalyanakrishnam;Zbigniew Kalbarczyk;Ravishankar K. Iyer;,https://doi.org/10.1109/RELDIS.1999.805094
+srds/srds99,1999,System Support,HAMFS File System.,Yoshitake Shinkai;Yoshihiro Tsuchiya;Takeo Murakami;Jim Williams;,https://doi.org/10.1109/RELDIS.1999.805095
+srds/srds99,1999,System Support,Logging and Recovery in Adaptive Software Distributed Shared Memory Systems.,Angkul Kongmunvattana;Nian-Feng Tzeng;,https://doi.org/10.1109/RELDIS.1999.805096
+srds/srds99,1999,System Support,Tolerating Transient Faults in Statically Scheduled Safety-Critical Embedded Systems.,Nagarajan Kandasamy;John P. Hayes;Brian T. Murray;,https://doi.org/10.1109/RELDIS.1999.805097
+srds/srds99,1999,Logging and Checkpointing,Issues in the Design of a Reflective Library for Checkpointing C++ Objects.,Mangesh Kasbekar;Chita R. Das;Shalini Yajnik;Reinhard Klemm;Yennun Huang;,https://doi.org/10.1109/RELDIS.1999.805098
+srds/srds99,1999,Logging and Checkpointing,Optimistic Recovery in Multi-threaded Distributed Systems.,Om P. Damani;Ashis Tarafdar;Vijay K. Garg;,https://doi.org/10.1109/RELDIS.1999.805099
+srds/srds99,1999,Logging and Checkpointing,An Adaptive Checkpointing Protocol to Bound Recovery Time with Message Logging.,Kuo-Feng Ssu;Bin Yao;W. Kent Fuchs;,https://doi.org/10.1109/RELDIS.1999.805100
+srds/srds99,1999,CORBA,CosNamingFT - A Fault-Tolerant CORBA Naming Service.,Lau Cheuk Lung;Joni da Silva Fraga;Jean-Marie Farines;Michael Ogg;Aleta Ricciardi;,https://doi.org/10.1109/RELDIS.1999.805101
+srds/srds99,1999,CORBA,Enforcing Determinism for the Consistent Replication of Multithreaded CORBA Applications.,Priya Narasimhan;Louise E. Moser;P. M. Melliar-Smith;,https://doi.org/10.1109/RELDIS.1999.805102
+srds/srds99,1999,CORBA,The 'QoS Query Service' for Improved Quality-of-Service Decision Making in CORBA.,Aad P. A. van Moorsel;,https://doi.org/10.1109/RELDIS.1999.805103
+srds/srds99,1999,Work in Progress (Fast Abstracts),Resolving Distributed Deadlocks in the OR Request Model.,Jesús E. Villadangos;Federico Fariña;José Ramón González de Mendívil;José Ramón Garitagoitia;José M. Bernabéu-Aubán;Gottfried Vossen;,https://doi.org/10.1109/RELDIS.1999.805104
+srds/srds99,1999,Work in Progress (Fast Abstracts),An Efficient Checkpointing Algorithm for Distributed Systems Implementing Reliable Communication Channels.,Eugene Gendelman;Lubomir Bic;Michael B. Dillencourt;,https://doi.org/10.1109/RELDIS.1999.805105
+srds/srds99,1999,Work in Progress (Fast Abstracts),An Approach for Fault-Tolerance in Hard Real-Time Distributed Systems.,Pascal Chevochot;Isabelle Puaut;,https://doi.org/10.1109/RELDIS.1999.805106
+srds/srds99,1999,Work in Progress (Fast Abstracts),An Agent Platform for Reliable Asynchronous Distributed Programming.,Luc Bellissard;Noel De Palma;André Freyssinet;M. Herrmann;Serge Lacourte;,https://doi.org/10.1109/RELDIS.1999.805107
+srds/srds99,1999,Work in Progress (Fast Abstracts),Exactly-Once End-to-End Semantics in CORBA Invocations across Heterogeneous Fault-Tolerant ORBs.,Alexey Vaysburd;Shalini Yajnik;,https://doi.org/10.1109/RELDIS.1999.805108
+srds/srds99,1999,Work in Progress (Fast Abstracts),A Distributed Algorithm for Deadlock Detection under OR-request Model.,Soojung Lee;Yoonjoon Lee;,https://doi.org/10.1109/RELDIS.1999.805109
+srds/srds99,1999,Work in Progress (Fast Abstracts),Design and Validation of a Distributed Industrial Control System's Nodes.,José Carlos Campelo;Francisco Rodríguez;Pedro J. Gil;Juan José Serrano;,https://doi.org/10.1109/RELDIS.1999.805110
+srds/srds99,1999,Work in Progress (Fast Abstracts),Performance Evaluation of the Circulating Multisequencer and the Consensus Algorithms in a Real-Time Distributed Transactional System.,Leïla Azouz Saïdane;Farouk Kamoun;,https://doi.org/10.1109/RELDIS.1999.805111
+srds/srds99,1999,Work in Progress (Fast Abstracts),"Database Replication: If You Must be Lazy, be Consistent.",JoAnne Holliday;Divyakant Agrawal;Amr El Abbadi;,https://doi.org/10.1109/RELDIS.1999.805112
+srds/srds99,1999,Work in Progress (Fast Abstracts),A Software Multilevel Fault Injection Mechanism: Case Study Evaluating the Virtual Interface Architecture.,Ting Liu;Zbigniew Kalbarczyk;Ravishankar K. Iyer;,https://doi.org/10.1109/RELDIS.1999.805113
+srds/srds99,1999,Workshop on Reliable Middleware (Wremi),Workshop on Reliable Middleware - Foreword.,Pascal Felber;Rachid Guerraoui;,https://doi.org/10.1109/RELDIS.1999.805114
+srds/srds99,1999,Workshop on Reliable Middleware (Wremi),"The Mainframe as a High-Available, Highly Scalable CORBA Platform.",Werner Froidevaux;Stephan Murer;Martin Prater;,https://doi.org/10.1109/RELDIS.1999.805115
+srds/srds99,1999,Workshop on Reliable Middleware (Wremi),A Method for Combining Replication with Caching.,Mark C. Little;Santosh K. Shrivastava;,https://doi.org/10.1109/RELDIS.1999.805116
+srds/srds99,1999,Workshop on Reliable Middleware (Wremi),Fault Tolerance in Three-Tier Applications: Focusing on the Database Tier.,Alexey Vaysburd;,https://doi.org/10.1109/RELDIS.1999.805117
+srds/srds99,1999,Workshop on Electronic Commerce (Welcom),Workshop on Electronic Commerce - Foreword.,Sebastian Staamann;Uwe G. Wilhelm;,https://doi.org/10.1109/RELDIS.1999.805118
+srds/srds99,1999,Workshop on Electronic Commerce (Welcom),XML Documents Production for an Electronic Platform of Requests for Proposals.,Frédéric Bapst;Christine Vanoirbeek;,https://doi.org/10.1109/RELDIS.1999.805119
+srds/srds99,1999,Workshop on Electronic Commerce (Welcom),Service Provision and Composition in Virtual Business Communities.,Alexander Marton;Giacomo Piccinelli;Chris Turfin;,https://doi.org/10.1109/RELDIS.1999.805120
+srds/srds99,1999,Workshop on Electronic Commerce (Welcom),Quality of Service in Business-to-Business E-Commerce Applications.,Ulrich Fiedler;Bernhard Plattner;Gustavo Alonso;,https://doi.org/10.1109/RELDIS.1999.805121
+srds/srds99,1999,Workshop on Electronic Commerce (Welcom),A Practical Guideline to the Implementation of Online Shops.,Andreas Bartelt;Jochen Meyer;,https://doi.org/10.1109/RELDIS.1999.805122
+srds/srds99,1999,Workshop on Electronic Commerce (Welcom),Approaching a Formal Definition of Fairness in Electronic Commerce.,Felix C. Gärtner;Henning Pagnia;Holger Vogt;,https://doi.org/10.1109/RELDIS.1999.805123
+srds/srds99,1999,Workshop on Electronic Commerce (Welcom),Trust and Electronic Commerce - More than a Technical Problem.,Kornelia Konrad;Gerhard Fuchs;Jochen Barthel;,https://doi.org/10.1109/RELDIS.1999.805124
+srds/srds99,1999,Workshop on Electronic Commerce (Welcom),Authorization Methods for E-Commerce Applications.,Rolf Oppliger;,https://doi.org/10.1109/RELDIS.1999.805125
+srds/srds99,1999,Workshop on Electronic Commerce (Welcom),Gateways to Overcome Incompatibilities of Security Mechanisms.,Jan Zöllner;,https://doi.org/10.1109/RELDIS.1999.805126
+srds/srds99,1999,Workshop on Electronic Commerce (Welcom),Security Mechanisms for using Mobile Agents in Electronic Commerce.,Paulo Marques;Luís Moura Silva;João Gabriel Silva;,https://doi.org/10.1109/RELDIS.1999.805127
+srds/srds99,1999,Workshop on Electronic Commerce (Welcom),Accountable Anonymous Access to Services in Mobile Communication Systems.,Levente Buttyán;Jean-Pierre Hubaux;,https://doi.org/10.1109/RELDIS.1999.805128
+srds/srds99,1999,Workshop on Electronic Commerce (Welcom),On the Provision of Replicated Internet Auction Services.,Fabio Panzieri;Santosh K. Shrivastava;,https://doi.org/10.1109/RELDIS.1999.805129
+srds/srds99,1999,Workshop on Electronic Commerce (Welcom),The Usability Risk.,Ann-Byrd Platt;,https://doi.org/10.1109/RELDIS.1999.805130

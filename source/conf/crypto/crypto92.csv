@@ -1,0 +1,43 @@
+crypto/crypto92,1992,Digital Signatures and Identification,Provably Unforgeable Signatures.,Jurjen N. Bos;David Chaum;,https://doi.org/10.1007/3-540-48071-4_1
+crypto/crypto92,1992,Digital Signatures and Identification,New Constructions of Fail-Stop Signatures and Lower Bounds (Extended Abstract).,Eugène van Heijst;Torben P. Pedersen;Birgit Pfitzmann;,https://doi.org/10.1007/3-540-48071-4_2
+crypto/crypto92,1992,Digital Signatures and Identification,Provably Secure and Practical Identification Schemes and Corresponding Signature Schemes.,Tatsuaki Okamoto;,https://doi.org/10.1007/3-540-48071-4_3
+crypto/crypto92,1992,Digital Signatures and Identification,An Efficient Digital Signature Scheme Based on an Elliptic Curve Over the Ring Zn.,Tatsuaki Okamoto;Atsushi Fujioka;Eiichiro Fujisaki;,https://doi.org/10.1007/3-540-48071-4_4
+crypto/crypto92,1992,The Digital Signature Standard,Designing and Detecting Trapdoors for Discrete Log Cryptosystems.,Daniel M. Gordon;,https://doi.org/10.1007/3-540-48071-4_5
+crypto/crypto92,1992,The Digital Signature Standard,Response to Comments of the NIST Proposed Digital Signature Standard.,Miles E. Smid;Dennis K. Branstad;,https://doi.org/10.1007/3-540-48071-4_6
+crypto/crypto92,1992,Applications and New Problems,Wallet Databases with Observers.,David Chaum;Torben P. Pedersen;,https://doi.org/10.1007/3-540-48071-4_7
+crypto/crypto92,1992,Applications and New Problems,Making Electronic Refunds Safer.,Rafael Hirschfeld;,https://doi.org/10.1007/3-540-48071-4_8
+crypto/crypto92,1992,Applications and New Problems,Fair Public-Key Cryptosystems.,Silvio Micali;,https://doi.org/10.1007/3-540-48071-4_9
+crypto/crypto92,1992,Applications and New Problems,Pricing via Processing or Combatting Junk Mail.,Cynthia Dwork;Moni Naor;,https://doi.org/10.1007/3-540-48071-4_10
+crypto/crypto92,1992,Secret Sharing,On the Information Rate of Secret Sharing Schemes (Extended Abstract).,Carlo Blundo;Alfredo De Santis;Luisa Gargano;Ugo Vaccaro;,https://doi.org/10.1007/3-540-48071-4_11
+crypto/crypto92,1992,Secret Sharing,New General Lower Bounds on the Information Rate of Secret Sharing Schemes.,Douglas R. Stinson;,https://doi.org/10.1007/3-540-48071-4_12
+crypto/crypto92,1992,Secret Sharing,Universally Ideal Secret Sharing Schemes (Preliminary Version).,Amos Beimel;Benny Chor;,https://doi.org/10.1007/3-540-48071-4_13
+crypto/crypto92,1992,Theory,Perfect Zero-Knowledge Arguments for NP Can Be Based on General Complexity Assumptions (Extended Abstract).,Moni Naor;Rafail Ostrovsky;Ramarathnam Venkatesan;Moti Yung;,https://doi.org/10.1007/3-540-48071-4_14
+crypto/crypto92,1992,Theory,Low Communication 2-Prover Zero-Knowledge Proofs for NP.,Cynthia Dwork;Uriel Feige;Joe Kilian;Moni Naor;Shmuel Safra;,https://doi.org/10.1007/3-540-48071-4_15
+crypto/crypto92,1992,Theory,Invariant Signatures and Non-Interactive Zero-Knowledge Proofs are Equivalent (Extended Abstract).,Shafi Goldwasser;Rafail Ostrovsky;,https://doi.org/10.1007/3-540-48071-4_16
+crypto/crypto92,1992,Theory,On the Discrepancy between Serial and Parallel of Zero-Knowledge Protocols (Extended Abstract).,Kouichi Sakurai;Toshiya Itoh;,https://doi.org/10.1007/3-540-48071-4_17
+crypto/crypto92,1992,Cryptographic Functions,On the Design of SP Networks From an Information Theoretic Point of View.,M. Sivabalan;Stafford E. Tavares;Lloyd E. Peppard;,https://doi.org/10.1007/3-540-48071-4_18
+crypto/crypto92,1992,Cryptographic Functions,Partially-Bent Functions.,Claude Carlet;,https://doi.org/10.1007/3-540-48071-4_19
+crypto/crypto92,1992,Digital Signatures and Identification,Practical Approaches to Attaining Security Against Adaptively Chosen Ciphertext Attacks (Extended Abstract).,Yuliang Zheng;Jennifer Seberry;,https://doi.org/10.1007/3-540-48071-4_20
+crypto/crypto92,1992,Digital Signatures and Identification,On the Security of the Permuted Kernel Identification Scheme.,Thierry Baritaud;Mireille Campana;Pascal Chauvaud;Henri Gilbert;,https://doi.org/10.1007/3-540-48071-4_21
+crypto/crypto92,1992,Computational Number Theory,Massively Parallel Computation of Discrete Logarithms.,Daniel M. Gordon;Kevin S. McCurley;,https://doi.org/10.1007/3-540-48071-4_22
+crypto/crypto92,1992,Computational Number Theory,A Quadratic Sieve on the n-Dimensional Cube.,René Peralta;,https://doi.org/10.1007/3-540-48071-4_23
+crypto/crypto92,1992,Computational Number Theory,Efficient Multiplication on Certain Nonsupersingular Elliptic Curves.,Willi Meier;Othmar Staffelbach;,https://doi.org/10.1007/3-540-48071-4_24
+crypto/crypto92,1992,Computational Number Theory,Speeding up Elliptic Cryptosystems by Using a Signed Binary Window Method.,Kenji Koyama;Yukio Tsuruoka;,https://doi.org/10.1007/3-540-48071-4_25
+crypto/crypto92,1992,Computational Number Theory,On Generation of Probable Primes By Incremental Search.,Jørgen Brandt;Ivan Damgård;,https://doi.org/10.1007/3-540-48071-4_26
+crypto/crypto92,1992,Cryptography Education,Kid Krypto.,Michael R. Fellows;Neal Koblitz;,https://doi.org/10.1007/3-540-48071-4_27
+crypto/crypto92,1992,Theory,On Defining Proofs of Knowledge.,Mihir Bellare;Oded Goldreich;,https://doi.org/10.1007/3-540-48071-4_28
+crypto/crypto92,1992,Theory,Pubic Randomness in Cryptography.,Amir Herzberg;Michael Luby;,https://doi.org/10.1007/3-540-48071-4_29
+crypto/crypto92,1992,Theory,Necessary and Sufficient Conditions For Collision-Free Hashing.,Alexander Russell;,https://doi.org/10.1007/3-540-48071-4_30
+crypto/crypto92,1992,Theory,Certifying Cryptographic Tools: The Case of Trapdoor Permutations.,Mihir Bellare;Moti Yung;,https://doi.org/10.1007/3-540-48071-4_31
+crypto/crypto92,1992,Key Distribution,Protocols for Secret Key Agreement by Public Discussion Based on Common Information.,Ueli M. Maurer;,https://doi.org/10.1007/3-540-48071-4_32
+crypto/crypto92,1992,Key Distribution,Perfectly-Secure Key Distribution for Dynamic Conferences.,Carlo Blundo;Alfredo De Santis;Amir Herzberg;Shay Kutten;Ugo Vaccaro;Moti Yung;,https://doi.org/10.1007/3-540-48071-4_33
+crypto/crypto92,1992,DES,Differential Cryptanalysis of the Full 16-Round DES.,Eli Biham;Adi Shamir;,https://doi.org/10.1007/3-540-48071-4_34
+crypto/crypto92,1992,DES,Iterative Characteristics of DES and s²-DES.,Lars R. Knudsen;,https://doi.org/10.1007/3-540-48071-4_35
+crypto/crypto92,1992,DES,DES is not a Group.,Keith W. Campbell;Michael J. Wiener;,https://doi.org/10.1007/3-540-48071-4_36
+crypto/crypto92,1992,Secret Sharing,A High-Speed DES Implementation for Network Applications.,Hans Eberle;,https://doi.org/10.1007/3-540-48071-4_37
+crypto/crypto92,1992,Secret Sharing,Threshold Schemes with Disenrollment.,Bob Blakley;G. R. Blakley;Agnes Hui Chan;James L. Massey;,https://doi.org/10.1007/3-540-48071-4_38
+crypto/crypto92,1992,Secret Sharing,Non-Existence of Homomorphic General Sharing Schemes for Some Key Spaces (Extended Abstract).,Yair Frankel;Yvo Desmedt;Mike Burmester;,https://doi.org/10.1007/3-540-48071-4_39
+crypto/crypto92,1992,Rump Session,An l-Span Generalized Secret Sharing Scheme.,Lein Harn;Hung-Yu Lin;,https://doi.org/10.1007/3-540-48071-4_40
+crypto/crypto92,1992,Rump Session,Provable Security Against Differential Cryptanalysis.,Kaisa Nyberg;Lars R. Knudsen;,https://doi.org/10.1007/3-540-48071-4_41
+crypto/crypto92,1992,Rump Session,Content-Addressable Search Engines and DES-like Systems.,Peter C. Wayner;,https://doi.org/10.1007/3-540-48071-4_42
+crypto/crypto92,1992,Rump Session,FFT-Hash-II is not yet Collision-free.,Serge Vaudenay;,https://doi.org/10.1007/3-540-48071-4_43

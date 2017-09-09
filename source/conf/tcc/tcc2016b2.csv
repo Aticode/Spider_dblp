@@ -1,0 +1,21 @@
+tcc/tcc2016b2,2016,Delegation and IP,Delegating RAM Computations with Adaptive Soundness and Privacy.,Prabhanjan Ananth;Yu-Chi Chen;Kai-Min Chung;Huijia Lin;Wei-Kai Lin;,https://doi.org/10.1007/978-3-662-53644-5_1
+tcc/tcc2016b2,2016,Delegation and IP,Interactive Oracle Proofs.,Eli Ben-Sasson;Alessandro Chiesa;Nicholas Spooner;,https://doi.org/10.1007/978-3-662-53644-5_2
+tcc/tcc2016b2,2016,Delegation and IP,Adaptive Succinct Garbled RAM or: How to Delegate Your Database.,Ran Canetti;Yilei Chen;Justin Holmgren;Mariana Raykova;,https://doi.org/10.1007/978-3-662-53644-5_3
+tcc/tcc2016b2,2016,Delegation and IP,Delegating RAM Computations.,Yael Tauman Kalai;Omer Paneth;,https://doi.org/10.1007/978-3-662-53644-5_4
+tcc/tcc2016b2,2016,Public-Key Encryption,Standard Security Does Not Imply Indistinguishability Under Selective Opening.,Dennis Hofheinz;Vanishree Rao;Daniel Wichs;,https://doi.org/10.1007/978-3-662-53644-5_5
+tcc/tcc2016b2,2016,Public-Key Encryption,Public-Key Encryption with Simulation-Based Selective-Opening Security and Compact Ciphertexts.,Dennis Hofheinz;Tibor Jager;Andy Rupp;,https://doi.org/10.1007/978-3-662-53644-5_6
+tcc/tcc2016b2,2016,Public-Key Encryption,Towards Non-Black-Box Separations of Public Key Encryption and One Way Function.,Dana Dachman-Soled;,https://doi.org/10.1007/978-3-662-53644-5_7
+tcc/tcc2016b2,2016,Public-Key Encryption,Post-Quantum Security of the Fujisaki-Okamoto and OAEP Transforms.,Ehsan Ebrahimi Targhi;Dominique Unruh;,https://doi.org/10.1007/978-3-662-53644-5_8
+tcc/tcc2016b2,2016,Public-Key Encryption,"Multi-key FHE from LWE, Revisited.",Chris Peikert;Sina Shiehian;,https://doi.org/10.1007/978-3-662-53644-5_9
+tcc/tcc2016b2,2016,Obfuscation and Multilinear Maps,Secure Obfuscation in a Weak Multilinear Map Model.,Sanjam Garg;Eric Miles;Pratyay Mukherjee;Amit Sahai;Akshayaram Srinivasan;Mark Zhandry;,https://doi.org/10.1007/978-3-662-53644-5_10
+tcc/tcc2016b2,2016,Obfuscation and Multilinear Maps,Virtual Grey-Boxes Beyond Obfuscation: A Statistical Security Notion for Cryptographic Agents.,Shashank Agrawal;Manoj Prabhakaran;Ching-Hua Yu;,https://doi.org/10.1007/978-3-662-53644-5_11
+tcc/tcc2016b2,2016,Attribute-Based Encryption,Deniable Attribute Based Encryption for Branching Programs from LWE.,Daniel Apon;Xiong Fan;Feng-Hao Liu;,https://doi.org/10.1007/978-3-662-53644-5_12
+tcc/tcc2016b2,2016,Attribute-Based Encryption,Targeted Homomorphic Attribute-Based Encryption.,Zvika Brakerski;David Cash;Rotem Tsabary;Hoeteck Wee;,https://doi.org/10.1007/978-3-662-53644-5_13
+tcc/tcc2016b2,2016,Attribute-Based Encryption,Semi-adaptive Security and Bundling Functionalities Made Generic and Easy.,Rishab Goyal;Venkata Koppula;Brent Waters;,https://doi.org/10.1007/978-3-662-53644-5_14
+tcc/tcc2016b2,2016,Functional Encryption,From Cryptomania to Obfustopia Through Secret-Key Functional Encryption.,Nir Bitansky;Ryo Nishimaki;Alain Passelègue;Daniel Wichs;,https://doi.org/10.1007/978-3-662-53644-5_15
+tcc/tcc2016b2,2016,Functional Encryption,Single-Key to Multi-Key Functional Encryption with Polynomial Loss.,Sanjam Garg;Akshayaram Srinivasan;,https://doi.org/10.1007/978-3-662-53644-5_16
+tcc/tcc2016b2,2016,Functional Encryption,Compactness vs Collusion Resistance in Functional Encryption.,Baiyu Li;Daniele Micciancio;,https://doi.org/10.1007/978-3-662-53644-5_17
+tcc/tcc2016b2,2016,Secret Sharing,Threshold Secret Sharing Requires a Linear Size Alphabet.,Andrej Bogdanov;Siyao Guo;Ilan Komargodski;,https://doi.org/10.1007/978-3-662-53644-5_18
+tcc/tcc2016b2,2016,Secret Sharing,"How to Share a Secret, Infinitely.",Ilan Komargodski;Moni Naor;Eylon Yogev;,https://doi.org/10.1007/978-3-662-53644-5_19
+tcc/tcc2016b2,2016,New Models,Designing Proof of Human-Work Puzzles for Cryptocurrency and Beyond.,Jeremiah Blocki;Hong-Sheng Zhou;,https://doi.org/10.1007/978-3-662-53644-5_20
+tcc/tcc2016b2,2016,New Models,Access Control Encryption: Enforcing Information Flow with Cryptography.,Ivan Damgård;Helene Haagh;Claudio Orlandi;,https://doi.org/10.1007/978-3-662-53644-5_21

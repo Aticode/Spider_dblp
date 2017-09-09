@@ -1,0 +1,20 @@
+fse/fse98,1998,Cryptanalysis,New Results in Linear Cryptanalysis of RC5.,Ali Aydin Selçuk;,https://doi.org/10.1007/3-540-69710-1_1
+fse/fse98,1998,Cryptanalysis,Higher Order Differential Attak of CAST Cipher.,Shiho Moriai;Takeshi Shimoyama;Toshinobu Kaneko;,https://doi.org/10.1007/3-540-69710-1_2
+fse/fse98,1998,Cryptanalysis,Cryptanalysis of TWOPRIME.,Don Coppersmith;David A. Wagner;Bruce Schneier;John Kelsey;,https://doi.org/10.1007/3-540-69710-1_3
+fse/fse98,1998,New Stream Ciphers,JEROBOAM.,Hervé Chabanne;Emmanuel Michon;,https://doi.org/10.1007/3-540-69710-1_4
+fse/fse98,1998,New Stream Ciphers,Fast Hashing and Stream Encryption with PANAMA.,Joan Daemen;Craig S. K. Clapp;,https://doi.org/10.1007/3-540-69710-1_5
+fse/fse98,1998,New Stream Ciphers,Joint Hardware / Software Design of a Fast Stream Cipher.,Craig S. K. Clapp;,https://doi.org/10.1007/3-540-69710-1_6
+fse/fse98,1998,Design Construction Analysis,On the Security of the Hashing Scheme Based on SL2.,Kanat S. Abdukhalikov;Chul Kim;,https://doi.org/10.1007/3-540-69710-1_7
+fse/fse98,1998,Design Construction Analysis,About Feistel Schemes with Six (or More) Rounds.,Jacques Patarin;,https://doi.org/10.1007/3-540-69710-1_8
+fse/fse98,1998,Design Construction Analysis,Monkey: Black-Box Symmetric Ciphers Designed for MONopolizing KEYs.,Adam L. Young;Moti Yung;,https://doi.org/10.1007/3-540-69710-1_9
+fse/fse98,1998,Hash Functions,MRD Hashing.,Reihaneh Safavi-Naini;Shahram Bakhtiari;Chris Charnes;,https://doi.org/10.1007/3-540-69710-1_10
+fse/fse98,1998,Hash Functions,New Constructions for Secure Hash Functions.,William Aiello;Stuart Haber;Ramarathnam Venkatesan;,https://doi.org/10.1007/3-540-69710-1_11
+fse/fse98,1998,Pseudo-Random Generators,Cryptanalytic Attacks on Pseudorandom Number Generators.,John Kelsey;Bruce Schneier;David A. Wagner;Chris Hall;,https://doi.org/10.1007/3-540-69710-1_12
+fse/fse98,1998,New Block Ciphers,CS-Cipher.,Jacques Stern;Serge Vaudenay;,https://doi.org/10.1007/3-540-69710-1_13
+fse/fse98,1998,New Block Ciphers,On the Design and Security of RC2.,Lars R. Knudsen;Vincent Rijmen;Ronald L. Rivest;Matthew J. B. Robshaw;,https://doi.org/10.1007/3-540-69710-1_14
+fse/fse98,1998,New Block Ciphers,Serpent: A New Block Cipher Proposal.,Eli Biham;Ross J. Anderson;Lars R. Knudsen;,https://doi.org/10.1007/3-540-69710-1_15
+fse/fse98,1998,Modes of Operations,Attacking Triple Encryption.,Stefan Lucks;,https://doi.org/10.1007/3-540-69710-1_16
+fse/fse98,1998,Modes of Operations,Cryptanalysis of Some Recently-Proposed Multiple Modes of Operation.,David A. Wagner;,https://doi.org/10.1007/3-540-69710-1_17
+fse/fse98,1998,Cryptanalysis,Differential Cryptanalysis of the ICE Encryption Algorithm.,Bart Van Rompay;Lars R. Knudsen;Vincent Rijmen;,https://doi.org/10.1007/3-540-69710-1_18
+fse/fse98,1998,Cryptanalysis,The First Two Rounds of MD4 are Not One-Way.,Hans Dobbertin;,https://doi.org/10.1007/3-540-69710-1_19
+fse/fse98,1998,Cryptanalysis,Differential Cryptanalysis of KHF.,David A. Wagner;,https://doi.org/10.1007/3-540-69710-1_20

@@ -1,0 +1,36 @@
+crypto/crypto95,1995,MAC and Hash,MDx-MAC and Building Fast MACs from Hash Functions.,Bart Preneel;Paul C. van Oorschot;,https://doi.org/10.1007/3-540-44750-4_1
+crypto/crypto95,1995,MAC and Hash,XOR MACs: New Methods for Message Authentication Using Finite Pseudorandom Functions.,Mihir Bellare;Roch Guérin;Phillip Rogaway;,https://doi.org/10.1007/3-540-44750-4_2
+crypto/crypto95,1995,MAC and Hash,Bucket Hashing and its Application to Fast Message Authentication.,Phillip Rogaway;,https://doi.org/10.1007/3-540-44750-4_3
+crypto/crypto95,1995,Number Theory,Fast Key Exchange with Elliptic Curve Systems.,Richard Schroeppel;Hilarie K. Orman;Sean W. O'Malley;Oliver Spatscheck;,https://doi.org/10.1007/3-540-44750-4_4
+crypto/crypto95,1995,Number Theory,Fast Server-Aided RSA Signatures Secure Against Active Attacks.,Philippe Béguin;Jean-Jacques Quisquater;,https://doi.org/10.1007/3-540-44750-4_5
+crypto/crypto95,1995,Number Theory,Security and Performance of Server-Aided RSA Computation Protocols.,Chae Hoon Lim;Pil Joong Lee;,https://doi.org/10.1007/3-540-44750-4_6
+crypto/crypto95,1995,Oblivious Transfer,Efficient Commitment Schemes with Bounded Sender and Unbounded Receiver.,Shai Halevi;,https://doi.org/10.1007/3-540-44750-4_7
+crypto/crypto95,1995,Oblivious Transfer,Precomputing Oblivious Transfer.,Donald Beaver;,https://doi.org/10.1007/3-540-44750-4_8
+crypto/crypto95,1995,Oblivious Transfer,Committed Oblivious Transfer and Private Multi-Party Computation.,Claude Crépeau;Jeroen van de Graaf;Alain Tapp;,https://doi.org/10.1007/3-540-44750-4_9
+crypto/crypto95,1995,Oblivious Transfer,On the Security of the Quantum Oblivious Transfer and Key Distribution Protocols.,Dominic Mayers;,https://doi.org/10.1007/3-540-44750-4_10
+crypto/crypto95,1995,Cryptanalysis,How to Break Shamir's Asymmetric Basis.,Thorsten Theobald;,https://doi.org/10.1007/3-540-44750-4_11
+crypto/crypto95,1995,Cryptanalysis,On the Security of the Gollmann Cascades.,Sangjoon Park;Sangjin Lee;Seung-Cheol Goh;,https://doi.org/10.1007/3-540-44750-4_12
+crypto/crypto95,1995,Cryptanalysis,Improving the Search Algorithm for the Best Linear Expression.,Kazuo Ohta;Shiho Moriai;Kazumaro Aoki;,https://doi.org/10.1007/3-540-44750-4_13
+crypto/crypto95,1995,Cryptanalysis,On Differential and Linear Crytoanalysis of the RC5 Encryption Algorithm.,Burton S. Kaliski Jr.;Yiqun Lisa Yin;,https://doi.org/10.1007/3-540-44750-4_14
+crypto/crypto95,1995,Key Escrow,"A Simple Method for Generating and Sharing Pseudo-Random Functions, with Applications to Clipper-like Escrow Systems.",Silvio Micali;Ray Sidney;,https://doi.org/10.1007/3-540-44750-4_15
+crypto/crypto95,1995,Key Escrow,A Key Escrow System with Warrant Bounds.,Arjen K. Lenstra;Peter Winkler;Yacov Yacobi;,https://doi.org/10.1007/3-540-44750-4_16
+crypto/crypto95,1995,Key Escrow,"Fair Cryptosystems, Revisited: A Rigorous Approach to Key-Escrow (Extended Abstract).",Joe Kilian;Frank Thomson Leighton;,https://doi.org/10.1007/3-540-44750-4_17
+crypto/crypto95,1995,Key Escrow,"Escrow Encryption Systems Visited: Attacks, Analysis and Designs.",Yair Frankel;Moti Yung;,https://doi.org/10.1007/3-540-44750-4_18
+crypto/crypto95,1995,Protocols,Robustness Principles for Public Key Protocols.,Ross J. Anderson;Roger M. Needham;,https://doi.org/10.1007/3-540-44750-4_19
+crypto/crypto95,1995,Cryptanalysis,Cryptanalysis of the Matsumoto and Imai Public Key Scheme of Eurocrypt'88.,Jacques Patarin;,https://doi.org/10.1007/3-540-44750-4_20
+crypto/crypto95,1995,Cryptanalysis,Cryptanalysis Based on 2-Adic Rational Approximation.,Andrew Klapper;Mark Goresky;,https://doi.org/10.1007/3-540-44750-4_21
+crypto/crypto95,1995,Cryptanalysis,A Key-schedule Weakness in SAFER K-64.,Lars R. Knudsen;,https://doi.org/10.1007/3-540-44750-4_22
+crypto/crypto95,1995,Cryptanalysis,Cryptanalysis of the Immunized LL Public Key Systems.,Yair Frankel;Moti Yung;,https://doi.org/10.1007/3-540-44750-4_23
+crypto/crypto95,1995,"Zero Knowledge, Interactive Protocols",Secure Signature Schemes based on Interactive Protocols.,Ronald Cramer;Ivan Damgård;,https://doi.org/10.1007/3-540-44750-4_24
+crypto/crypto95,1995,"Zero Knowledge, Interactive Protocols",Improved Efficient Arguments (Preliminary Version).,Joe Kilian;,https://doi.org/10.1007/3-540-44750-4_25
+crypto/crypto95,1995,"Zero Knowledge, Interactive Protocols",Honest Verifier vs Dishonest Verifier in Public Coin Zero-Knowledge Proofs.,Ivan Damgård;Oded Goldreich;Tatsuaki Okamoto;Avi Wigderson;,https://doi.org/10.1007/3-540-44750-4_26
+crypto/crypto95,1995,Secret Sharing,Proactive Secret Sharing Or: How to Cope With Perpetual Leakage.,Amir Herzberg;Stanislaw Jarecki;Hugo Krawczyk;Moti Yung;,https://doi.org/10.1007/3-540-44750-4_27
+crypto/crypto95,1995,Secret Sharing,Secret Sharing with Public Reconstruction (Extended Abstract).,Amos Beimel;Benny Chor;,https://doi.org/10.1007/3-540-44750-4_28
+crypto/crypto95,1995,Secret Sharing,General Perfect Secret Sharing Schemes.,G. R. Blakley;Gregory Kabatianskii;,https://doi.org/10.1007/3-540-44750-4_29
+crypto/crypto95,1995,Number Theory,NFS with Four Large Primes: An Explosive Experiment.,Bruce Dodson;Arjen K. Lenstra;,https://doi.org/10.1007/3-540-44750-4_30
+crypto/crypto95,1995,Number Theory,Some Remarks on Lucas-Based Cryptosystems.,Daniel Bleichenbacher;Wieb Bosma;Arjen K. Lenstra;,https://doi.org/10.1007/3-540-44750-4_31
+crypto/crypto95,1995,Secret Sharing,Threshold DSS Signatures without a Trusted Party.,Susan K. Langford;,https://doi.org/10.1007/3-540-44750-4_32
+crypto/crypto95,1995,Secret Sharing,"t-Cheater Identifiable (k, n) Threshold Secret Sharing Schemes.",Kaoru Kurosawa;Satoshi Obana;Wakaha Ogata;,https://doi.org/10.1007/3-540-44750-4_33
+crypto/crypto95,1995,Everything Else,Quantum Cryptanalysis of Hidden Linear Functions (Extended Abstract).,Dan Boneh;Richard J. Lipton;,https://doi.org/10.1007/3-540-44750-4_34
+crypto/crypto95,1995,Everything Else,An Efficient Divisible Electronic Cash Scheme.,Tatsuaki Okamoto;,https://doi.org/10.1007/3-540-44750-4_35
+crypto/crypto95,1995,Everything Else,Collusion-Secure Fingerprinting for Digital Data (Extended Abstract).,Dan Boneh;James Shaw;,https://doi.org/10.1007/3-540-44750-4_36

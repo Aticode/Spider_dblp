@@ -1,0 +1,17 @@
+ndss/ndss1995,1995,Session 1 - Diverse Approaches to Security at the Network Layer,Multicast-specific security threats and counter-measures.,Tony Ballardie;Jon Crowcroft;,https://doi.org/10.1109/NDSS.1995.390649
+ndss/ndss1995,1995,Session 1 - Diverse Approaches to Security at the Network Layer,Design of a key agile cryptographic system for OC-12c rate ATM.,Daniel S. Stevenson;Nathan Hillery;Gregory T. Byrd;Fengmin Gong;Dan Winkelstein;,https://doi.org/10.1109/NDSS.1995.390648
+ndss/ndss1995,1995,Session 1 - Diverse Approaches to Security at the Network Layer,IpAccess-an Internet service access system for firewall installations.,Steffen Stempel;,https://doi.org/10.1109/NDSS.1995.390647
+ndss/ndss1995,1995,Session 2 - Panel,Trusted distribution of software over the Internet.,Aviel D. Rubin;,https://doi.org/10.1109/NDSS.1995.390646
+ndss/ndss1995,1995,Session 2 - Panel,Location-independent information object security.,John C. Lowry;,https://doi.org/10.1109/NDSS.1995.390645
+ndss/ndss1995,1995,Session 4 - Internet Payments,Electronic cash on the Internet.,Stefan Brands;,https://doi.org/10.1109/NDSS.1995.390644
+ndss/ndss1995,1995,Session 4 - Internet Payments,Panel - Internet Payment Mechanisms: Requirements and Architectures.,Ravi Ganesan;,http://doi.ieeecomputersociety.org/10.1109/SNDSS.1995.10006
+ndss/ndss1995,1995,Session 5 - Security Monitoring Tools:Practice and Experience,NERD: Network Event Recording Device: an automated system for network anomaly detection and notification.,David G. Simmons;Ronald Wilkins;,https://doi.org/10.1109/NDSS.1995.390643
+ndss/ndss1995,1995,Session 5 - Security Monitoring Tools:Practice and Experience,An overview of SNIF: a tool for Surveying Network Information Flow.,Jim Alves-Foss;,https://doi.org/10.1109/NDSS.1995.390642
+ndss/ndss1995,1995,Session 5 - Security Monitoring Tools:Practice and Experience,Distributed audit trail analysis.,Abdelaziz Mounji;Baudouin Le Charlier;D. Zampuniéris;Naji Habra;,https://doi.org/10.1109/NDSS.1995.390641
+ndss/ndss1995,1995,Session 6 - Authentication and Authorization,SESAME V2 public key and authorisation extensions to Kerberos.,P. V. McMahon;,https://doi.org/10.1109/NDSS.1995.390640
+ndss/ndss1995,1995,Session 6 - Authentication and Authorization,Yaksha: augmenting Kerberos with public key cryptography.,Ravi Ganesan;,https://doi.org/10.1109/NDSS.1995.390639
+ndss/ndss1995,1995,Session 6 - Authentication and Authorization,GSS-API security for ONC RPC.,Barry Jaspan;,https://doi.org/10.1109/NDSS.1995.390638
+ndss/ndss1995,1995,Session 7 - Mechanisms of Identity:The Certificate Infrastructure,"A Certificate Management System: structure, functions and protocols.",Nada Kapidzic;Alan Davidson;,https://doi.org/10.1109/NDSS.1995.390637
+ndss/ndss1995,1995,Session 7 - Mechanisms of Identity:The Certificate Infrastructure,PEMToolKit: building a top-down certification hierarchy for PEM from the bottom up.,Alireza Bahreman;,https://doi.org/10.1109/NDSS.1995.390636
+ndss/ndss1995,1995,Session 7 - Mechanisms of Identity:The Certificate Infrastructure,A new approach to the X.509 framework: allowing a global authentication infrastructure without a global trust model.,Suzan Mendes;Christian Huitema;,https://doi.org/10.1109/NDSS.1995.390635
+ndss/ndss1995,1995,Session 8 - Panel,Panel: Security Issues for Mosaic and the World Wide Web.,Frederick M. Avolio;,http://doi.ieeecomputersociety.org/10.1109/SNDSS.1995.10005

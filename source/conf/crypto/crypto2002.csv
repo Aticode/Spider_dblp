@@ -1,0 +1,39 @@
+crypto/crypto2002,2002,Block Ciphers,Essential Algebraic Structure within the AES.,Sean Murphy;Matthew J. B. Robshaw;,https://doi.org/10.1007/3-540-45708-9_1
+crypto/crypto2002,2002,Block Ciphers,"Blockwise-Adaptive Attackers: Revisiting the (In)Security of Some Provably Secure Encryption Models: CBC, GEM, IACBC.",Antoine Joux;Gwenaëlle Martinet;Frédéric Valette;,https://doi.org/10.1007/3-540-45708-9_2
+crypto/crypto2002,2002,Block Ciphers,Tweakable Block Ciphers.,Moses Liskov;Ronald L. Rivest;David A. Wagner;,https://doi.org/10.1007/3-540-45708-9_3
+crypto/crypto2002,2002,Multi-user Oriented Cryptosystems,The LSD Broadcast Encryption Scheme.,Dani Halevy;Adi Shamir;,https://doi.org/10.1007/3-540-45708-9_4
+crypto/crypto2002,2002,Multi-user Oriented Cryptosystems,Dynamic Accumulators and Application to Efficient Revocation of Anonymous Credentials.,Jan Camenisch;Anna Lysyanskaya;,https://doi.org/10.1007/3-540-45708-9_5
+crypto/crypto2002,2002,Foundations and Methodology,Provably Secure Steganography.,Nicholas J. Hopper;John Langford;Luis von Ahn;,https://doi.org/10.1007/3-540-45708-9_6
+crypto/crypto2002,2002,Foundations and Methodology,Flaws in Applying Proof Methodologies to Signature Schemes.,Jacques Stern;David Pointcheval;John Malone-Lee;Nigel P. Smart;,https://doi.org/10.1007/3-540-45708-9_7
+crypto/crypto2002,2002,Foundations and Methodology,Separating Random Oracle Proofs from Complexity Theoretic Proofs: The Non-committing Encryption Case.,Jesper Buus Nielsen;,https://doi.org/10.1007/3-540-45708-9_8
+crypto/crypto2002,2002,Security of Practical Protocols,On the Security of RSA Encryption in TLS.,Jakob Jonsson;Burton S. Kaliski Jr.;,https://doi.org/10.1007/3-540-45708-9_9
+crypto/crypto2002,2002,Security of Practical Protocols,Security Analysis of IKE's Signature-Based Key-Exchange Protocol.,Ran Canetti;Hugo Krawczyk;,https://doi.org/10.1007/3-540-45708-9_10
+crypto/crypto2002,2002,Security of Practical Protocols,GQ and Schnorr Identification Schemes: Proofs of Security against Impersonation under Active and Concurrent Attacks.,Mihir Bellare;Adriana Palacio;,https://doi.org/10.1007/3-540-45708-9_11
+crypto/crypto2002,2002,Secure Multiparty Computation,On 2-Round Secure Multiparty Computation.,Rosario Gennaro;Yuval Ishai;Eyal Kushilevitz;Tal Rabin;,https://doi.org/10.1007/3-540-45708-9_12
+crypto/crypto2002,2002,Secure Multiparty Computation,Private Computation - k-Connected versus 1-Connected Networks.,Markus Bläser;Andreas Jakoby;Maciej Liskiewicz;Bodo Siebert;,https://doi.org/10.1007/3-540-45708-9_13
+crypto/crypto2002,2002,Public-Key Encryption,Analysis and Improvements of NTRU Encryption Paddings.,Phong Q. Nguyen;David Pointcheval;,https://doi.org/10.1007/3-540-45708-9_14
+crypto/crypto2002,2002,Public-Key Encryption,Universal Padding Schemes for RSA.,Jean-Sébastien Coron;Marc Joye;David Naccache;Pascal Paillier;,https://doi.org/10.1007/3-540-45708-9_15
+crypto/crypto2002,2002,Public-Key Encryption,Cryptanalysis of Unbalanced RSA with Small CRT-Exponent.,Alexander May;,https://doi.org/10.1007/3-540-45708-9_16
+crypto/crypto2002,2002,Information Theory and Secret Sharing,Hyper-encryption against Space-Bounded Adversaries from On-Line Strong Extractors.,Chi-Jen Lu;,https://doi.org/10.1007/3-540-45708-9_17
+crypto/crypto2002,2002,Information Theory and Secret Sharing,Optimal Black-Box Secret Sharing over Arbitrary Abelian Groups.,Ronald Cramer;Serge Fehr;,https://doi.org/10.1007/3-540-45708-9_18
+crypto/crypto2002,2002,Cipher Design and Analysis,A Generalized Birthday Problem.,David A. Wagner;,https://doi.org/10.1007/3-540-45708-9_19
+crypto/crypto2002,2002,Cipher Design and Analysis,(Not So) Random Shuffles of RC4.,Ilya Mironov;,https://doi.org/10.1007/3-540-45708-9_20
+crypto/crypto2002,2002,Cipher Design and Analysis,Black-Box Analysis of the Block-Cipher-Based Hash-Function Constructions from PGV.,John Black;Phillip Rogaway;Thomas Shrimpton;,https://doi.org/10.1007/3-540-45708-9_21
+crypto/crypto2002,2002,Elliptic Curves and Abelian Varieties,Supersingular Abelian Varieties in Cryptology.,Karl Rubin;Alice Silverberg;,https://doi.org/10.1007/3-540-45708-9_22
+crypto/crypto2002,2002,Elliptic Curves and Abelian Varieties,Efficient Algorithms for Pairing-Based Cryptosystems.,Paulo S. L. M. Barreto;Hae Yong Kim;Ben Lynn;Michael Scott;,https://doi.org/10.1007/3-540-45708-9_23
+crypto/crypto2002,2002,Elliptic Curves and Abelian Varieties,Computing Zeta Functions of Hyperelliptic Curves over Finite Fields of Characteristic 2.,Frederik Vercauteren;,https://doi.org/10.1007/3-540-45708-9_24
+crypto/crypto2002,2002,Password-Based Authentication,Threshold Password-Authenticated Key Exchange.,Philip D. MacKenzie;Thomas Shrimpton;Markus Jakobsson;,https://doi.org/10.1007/3-540-45708-9_25
+crypto/crypto2002,2002,Distributed Cryptosystems,A Threshold Pseudorandom Function Construction and Its Applications.,Jesper Buus Nielsen;,https://doi.org/10.1007/3-540-45708-9_26
+crypto/crypto2002,2002,Distributed Cryptosystems,Efficient Computation Modulo a Shared Secret with Application to the Generation of Shared Safe-Prime Products.,Joy Algesheimer;Jan Camenisch;Victor Shoup;,https://doi.org/10.1007/3-540-45708-9_27
+crypto/crypto2002,2002,Pseudorandomness and Applications,Hidden Number Problem with the Trace and Bit Security of XTR and LUC.,Wen-Ching W. Li;Mats Näslund;Igor E. Shparlinski;,https://doi.org/10.1007/3-540-45708-9_28
+crypto/crypto2002,2002,Pseudorandomness and Applications,Expanding Pseudorandom Functions; or: From Known-Plaintext Security to Chosen-Plaintext Security.,Ivan Damgård;Jesper Buus Nielsen;,https://doi.org/10.1007/3-540-45708-9_29
+crypto/crypto2002,2002,Variations on Signatures and Authentication,Threshold Ring Signatures and Applications to Ad-hoc Groups.,Emmanuel Bresson;Jacques Stern;Michael Szydlo;,https://doi.org/10.1007/3-540-45708-9_30
+crypto/crypto2002,2002,Variations on Signatures and Authentication,Deniable Ring Authentication.,Moni Naor;,https://doi.org/10.1007/3-540-45708-9_31
+crypto/crypto2002,2002,Variations on Signatures and Authentication,SiBIR: Signer-Base Intrusion-Resilient Signatures.,Gene Itkis;Leonid Reyzin;,https://doi.org/10.1007/3-540-45708-9_32
+crypto/crypto2002,2002,Stream Ciphers and Boolean Functions,Cryptanalysis of Stream Ciphers with Linear Masking.,Don Coppersmith;Shai Halevi;Charanjit S. Jutla;,https://doi.org/10.1007/3-540-45708-9_33
+crypto/crypto2002,2002,Stream Ciphers and Boolean Functions,The Filter-Combiner Model for Memoryless Synchronous Stream Ciphers.,Palash Sarkar;,https://doi.org/10.1007/3-540-45708-9_34
+crypto/crypto2002,2002,Stream Ciphers and Boolean Functions,A Larger Class of Cryptographic Boolean Functions via a Study of the Maiorana-McFarland Construction.,Claude Carlet;,https://doi.org/10.1007/3-540-45708-9_35
+crypto/crypto2002,2002,Commitment Schemes,Linear VSS and Distributed Commitments Based on Secret Sharing and Pairwise Checks.,Serge Fehr;Ueli M. Maurer;,https://doi.org/10.1007/3-540-45708-9_36
+crypto/crypto2002,2002,Commitment Schemes,Perfect Hiding and Perfect Binding Universally Composable Commitment Schemes with Constant Expansion Factor.,Ivan Damgård;Jesper Buus Nielsen;,https://doi.org/10.1007/3-540-45708-9_37
+crypto/crypto2002,2002,Signature Schemes,Unique Signatures and Verifiable Random Functions from the DH-DDH Separation.,Anna Lysyanskaya;,https://doi.org/10.1007/3-540-45708-9_38
+crypto/crypto2002,2002,Signature Schemes,Security Proof for Partial-Domain Hash Signature Schemes.,Jean-Sébastien Coron;,https://doi.org/10.1007/3-540-45708-9_39

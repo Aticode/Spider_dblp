@@ -1,0 +1,43 @@
+ches/ches2002,2002,Invited Talk,"CHES: Past, Present, and Future.",Jean-Jacques Quisquater;,https://doi.org/10.1007/3-540-36400-5_1
+ches/ches2002,2002,Attack Strategies,Optical Fault Induction Attacks.,Sergei P. Skorobogatov;Ross J. Anderson;,https://doi.org/10.1007/3-540-36400-5_2
+ches/ches2002,2002,Attack Strategies,Template Attacks.,Suresh Chari;Josyula R. Rao;Pankaj Rohatgi;,https://doi.org/10.1007/3-540-36400-5_3
+ches/ches2002,2002,Attack Strategies,The EM Side-Channel(s).,Dakshi Agrawal;Bruce Archambeault;Josyula R. Rao;Pankaj Rohatgi;,https://doi.org/10.1007/3-540-36400-5_4
+ches/ches2002,2002,Finite Field and Modular Arithmetic,Enhanced Montgomery Multiplication.,Shay Gueron;,https://doi.org/10.1007/3-540-36400-5_5
+ches/ches2002,2002,Finite Field and Modular Arithmetic,New Algorithm for Classical Modular Inverse.,Róbert Lórencz;,https://doi.org/10.1007/3-540-36400-5_6
+ches/ches2002,2002,Finite Field and Modular Arithmetic,Increasing the Bitlength of a Crypto-Coprocessor.,Wieland Fischer;Jean-Pierre Seifert;,https://doi.org/10.1007/3-540-36400-5_7
+ches/ches2002,2002,Elliptic Curve Cryptography,Enhancing Simple Power-Analysis Attacks on Elliptic Curve Cryptosystems.,Elisabeth Oswald;,https://doi.org/10.1007/3-540-36400-5_8
+ches/ches2002,2002,Elliptic Curve Cryptography,Implementation of Elliptic Curve Cryptography with Built-In Counter Measures against Side Channel Attacks.,Elena Trichina;Antonio Bellezza;,https://doi.org/10.1007/3-540-36400-5_9
+ches/ches2002,2002,Elliptic Curve Cryptography,Secure Elliptic Curve Implementations: An Analysis of Resistance to Power-Attacks in a DSP Processor.,Catherine H. Gebotys;Robert J. Gebotys;,https://doi.org/10.1007/3-540-36400-5_10
+ches/ches2002,2002,Elliptic Curve Cryptography,Address-Bit Differential Power Analysis of Cryptographic Schemes OK-ECDH and OK-ECDSA.,Kouichi Itoh;Tetsuya Izu;Masahiko Takenaka;,https://doi.org/10.1007/3-540-36400-5_11
+ches/ches2002,2002,AES and AES Candidates,2Gbit/s Hardware Realizations of RIJNDAEL and SERPENT: A Comparative Analysis.,A. K. Lutz;J. Treichler;Frank K. Gürkaynak;Hubert Kaeslin;G. Basler;Antonia Erni;S. Reichmuth;P. Rommens;Stephan Oetiker;Wolfgang Fichtner;,https://doi.org/10.1007/3-540-36400-5_12
+ches/ches2002,2002,AES and AES Candidates,Efficient Software Implementation of AES on 32-Bit Platforms.,Guido Bertoni;Luca Breveglieri;Pasqualina Fragneto;Marco Macchetti;Stefano Marchesin;,https://doi.org/10.1007/3-540-36400-5_13
+ches/ches2002,2002,AES and AES Candidates,An Optimized S-Box Circuit Architecture for Low Power AES Design.,Sumio Morioka;Akashi Satoh;,https://doi.org/10.1007/3-540-36400-5_14
+ches/ches2002,2002,AES and AES Candidates,Simplified Adaptive Multiplicative Masking for AES.,Elena Trichina;Domenico De Seta;Lucia Germani;,https://doi.org/10.1007/3-540-36400-5_15
+ches/ches2002,2002,AES and AES Candidates,Multiplicative Masking and Power Analysis of AES.,Jovan Dj. Golic;Christophe Tymen;,https://doi.org/10.1007/3-540-36400-5_16
+ches/ches2002,2002,Tamper Resistance,Keeping Secrets in Hardware: The Microsoft Xbox™ Case Study.,Andrew Huang;,https://doi.org/10.1007/3-540-36400-5_17
+ches/ches2002,2002,RSA Implementation,A DPA Attack against the Modular Reduction within a CRT Implementation of RSA.,Bert den Boer;Kerstin Lemke;Guntram Wicke;,https://doi.org/10.1007/3-540-36400-5_18
+ches/ches2002,2002,RSA Implementation,Further Results and Considerations on Side Channel Attacks on RSA.,Vlastimil Klíma;Tomás Rosa;,https://doi.org/10.1007/3-540-36400-5_19
+ches/ches2002,2002,RSA Implementation,Fault Attacks on RSA with CRT: Concrete Results and Practical Countermeasures.,Christian Aumüller;Peter Bier;Wieland Fischer;Peter Hofreiter;Jean-Pierre Seifert;,https://doi.org/10.1007/3-540-36400-5_20
+ches/ches2002,2002,Finite Field and Modular Arithmetic,Some Security Aspects of the M IST Randomized Exponentiation Algorithm.,Colin D. Walter;,https://doi.org/10.1007/3-540-36400-5_21
+ches/ches2002,2002,Finite Field and Modular Arithmetic,The Montgomery Powering Ladder.,Marc Joye;Sung-Ming Yen;,https://doi.org/10.1007/3-540-36400-5_22
+ches/ches2002,2002,Finite Field and Modular Arithmetic,DPA Countermeasures by Improving the Window Method.,Kouichi Itoh;Jun Yajima;Masahiko Takenaka;Naoya Torii;,https://doi.org/10.1007/3-540-36400-5_23
+ches/ches2002,2002,Finite Field and Modular Arithmetic,Efficient Subgroup Exponentiation in Quadratic and Sixth Degree Extensions.,Martijn Stam;Arjen K. Lenstra;,https://doi.org/10.1007/3-540-36400-5_24
+ches/ches2002,2002,Elliptic Curve Cryptography,On the Efficient Generation of Elliptic Curves over Prime Fields.,Elisavet Konstantinou;Yannis C. Stamatiou;Christos D. Zaroliagis;,https://doi.org/10.1007/3-540-36400-5_25
+ches/ches2002,2002,Elliptic Curve Cryptography,An End-to-End Systems Approach to Elliptic Curve Cryptography.,Nils Gura;Sheueling Chang Shantz;Hans Eberle;Sumit Gupta;Vipul Gupta;Daniel Finchelstein;Edouard Goupy;Douglas Stebila;,https://doi.org/10.1007/3-540-36400-5_26
+ches/ches2002,2002,Elliptic Curve Cryptography,A Low-Power Design for an Elliptic Curve Digital Signature Chip.,Richard Schroeppel;Cheryl L. Beaver;Rita Gonzales;Russell Miller;Timothy Draelos;,https://doi.org/10.1007/3-540-36400-5_27
+ches/ches2002,2002,Elliptic Curve Cryptography,A Reconfigurable System on Chip Implementation for Elliptic Curve Cryptography over GF(2n).,M. Ernst;Michael Jung;Felix Madlener;Sorin A. Huss;Rainer Blümel;,https://doi.org/10.1007/3-540-36400-5_28
+ches/ches2002,2002,Elliptic Curve Cryptography,Genus Two Hyperelliptic Curve Coprocessor.,N. Boston;T. Charles Clancy;Y. Liow;J. Webster;,https://doi.org/10.1007/3-540-36400-5_29
+ches/ches2002,2002,Random Number Generation,True Random Number Generator Embedded in Reconfigurable Hardware.,Viktor Fischer;Milos Drutarovský;,https://doi.org/10.1007/3-540-36400-5_30
+ches/ches2002,2002,Random Number Generation,Evaluation Criteria for True (Physical) Random Number Generators Used in Cryptographic Applications.,Werner Schindler;Wolfgang Killmann;,https://doi.org/10.1007/3-540-36400-5_31
+ches/ches2002,2002,Random Number Generation,A Hardware Random Number Generator.,Thomas E. Tkacik;,https://doi.org/10.1007/3-540-36400-5_32
+ches/ches2002,2002,Invited Talk,RFID Systems and Security and Privacy Implications.,Sanjay E. Sarma;Stephen A. Weis;Daniel W. Engels;,https://doi.org/10.1007/3-540-36400-5_33
+ches/ches2002,2002,New Primitives,A New Class of Invertible Mappings.,Alexander Klimov;Adi Shamir;,https://doi.org/10.1007/3-540-36400-5_34
+ches/ches2002,2002,Finite Field and Modular Arithmetic,Scalable and Unified Hardware to Compute Montgomery Inverse in GF(p) and GF(2).,Adnan Abdul-Aziz Gutub;Alexandre F. Tenca;Erkay Savas;Çetin Kaya Koç;,https://doi.org/10.1007/3-540-36400-5_35
+ches/ches2002,2002,Finite Field and Modular Arithmetic,Dual-Field Arithmetic Unit for GF(p) and GF(2m).,Johannes Wolkerstorfer;,https://doi.org/10.1007/3-540-36400-5_36
+ches/ches2002,2002,Finite Field and Modular Arithmetic,Error Detection in Polynomial Basis Multipliers over Binary Extension Fields.,Arash Reyhani-Masoleh;M. Anwarul Hasan;,https://doi.org/10.1007/3-540-36400-5_37
+ches/ches2002,2002,Finite Field and Modular Arithmetic,Hardware Implementation of Finite Fields of Characteristic Three.,Dan Page;Nigel P. Smart;,https://doi.org/10.1007/3-540-36400-5_38
+ches/ches2002,2002,Elliptic Curve Cryptography,Preventing Differential Analysis in GLV Elliptic Curve Scalar Multiplication.,Mathieu Ciet;Jean-Jacques Quisquater;Francesco Sica;,https://doi.org/10.1007/3-540-36400-5_39
+ches/ches2002,2002,Elliptic Curve Cryptography,Randomized Signed-Scalar Multiplication of ECC to Resist Power Attacks.,JaeCheol Ha;Sang-Jae Moon;,https://doi.org/10.1007/3-540-36400-5_40
+ches/ches2002,2002,Elliptic Curve Cryptography,Fast Multi-scalar Multiplication Methods on Elliptic Curves with Precomputation Strategy Using Montgomery Trick.,Katsuyuki Okeya;Kouichi Sakurai;,https://doi.org/10.1007/3-540-36400-5_41
+ches/ches2002,2002,Hardware for Cryptanalysis,Experience Using a Low-Cost FPGA Design to Crack DES Keys.,Richard Clayton;Mike Bond;,https://doi.org/10.1007/3-540-36400-5_42
+ches/ches2002,2002,Hardware for Cryptanalysis,A Time-Memory Tradeoff Using Distinguished Points: New Analysis & FPGA Results.,François-Xavier Standaert;Gaël Rouvroy;Jean-Jacques Quisquater;Jean-Didier Legat;,https://doi.org/10.1007/3-540-36400-5_43

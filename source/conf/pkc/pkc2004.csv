@@ -1,0 +1,32 @@
+pkc/pkc2004,2004,None,A Generalized Wiener Attack on RSA.,Johannes Blömer;Alexander May;,https://doi.org/10.1007/978-3-540-24632-9_1
+pkc/pkc2004,2004,None,Cryptanalysis of a Public-Key Encryption Scheme Based on the Polynomial Reconstruction Problem.,Jean-Sébastien Coron;,https://doi.org/10.1007/978-3-540-24632-9_2
+pkc/pkc2004,2004,None,Faster Scalar Multiplication on Koblitz Curves Combining Point Halving with the Frobenius Endomorphism.,Roberto Maria Avanzi;Mathieu Ciet;Francesco Sica;,https://doi.org/10.1007/978-3-540-24632-9_3
+pkc/pkc2004,2004,None,Application of Montgomery's Trick to Scalar Multiplication for Elliptic and Hyperelliptic Curves Using a Fixed Base Point.,Pradeep Kumar Mishra;Palash Sarkar;,https://doi.org/10.1007/978-3-540-24632-9_4
+pkc/pkc2004,2004,None,Fast Arithmetic on Jacobians of Picard Curves.,Stéphane Flon;Roger Oyono;,https://doi.org/10.1007/978-3-540-24632-9_5
+pkc/pkc2004,2004,None,Undeniable Signatures Based on Characters: How to Sign with One Bit.,Jean Monnerat;Serge Vaudenay;,https://doi.org/10.1007/978-3-540-24632-9_6
+pkc/pkc2004,2004,None,Efficient Extension of Standard Schnorr/RSA Signatures into Universal Designated-Verifier Signatures.,Ron Steinfeld;Huaxiong Wang;Josef Pieprzyk;,https://doi.org/10.1007/978-3-540-24632-9_7
+pkc/pkc2004,2004,None,Constructing Committed Signatures from Strong-RSA Assumption in the Standard Complexity Model.,Huafei Zhu;,https://doi.org/10.1007/978-3-540-24632-9_8
+pkc/pkc2004,2004,None,Constant Round Authenticated Group Key Agreement via Distributed Computation.,Emmanuel Bresson;Dario Catalano;,https://doi.org/10.1007/978-3-540-24632-9_9
+pkc/pkc2004,2004,None,Efficient ID-based Group Key Agreement with Bilinear Maps.,Kyu Young Choi;Jung Yeon Hwang;Dong Hoon Lee;,https://doi.org/10.1007/978-3-540-24632-9_10
+pkc/pkc2004,2004,None,New Security Results on Encrypted Key Exchange.,Emmanuel Bresson;Olivier Chevassut;David Pointcheval;,https://doi.org/10.1007/978-3-540-24632-9_11
+pkc/pkc2004,2004,None,New Results on the Hardness of Diffie-Hellman Bits.,Maria Isabel Gonzalez Vasco;Mats Näslund;Igor E. Shparlinski;,https://doi.org/10.1007/978-3-540-24632-9_12
+pkc/pkc2004,2004,None,Short Exponent Diffie-Hellman Problems.,Takeshi Koshiba;Kaoru Kurosawa;,https://doi.org/10.1007/978-3-540-24632-9_13
+pkc/pkc2004,2004,None,Efficient Signcryption with Key Privacy from Gap Diffie-Hellman Groups.,Benoît Libert;Jean-Jacques Quisquater;,https://doi.org/10.1007/978-3-540-24632-9_14
+pkc/pkc2004,2004,None,"Algebraic Attacks over GF(2k), Application to HFE Challenge 2 and Sflash-v2.",Nicolas Courtois;,https://doi.org/10.1007/978-3-540-24632-9_15
+pkc/pkc2004,2004,None,Secret Exponent Attacks on RSA-type Schemes with Moduli N= prq.,Alexander May;,https://doi.org/10.1007/978-3-540-24632-9_16
+pkc/pkc2004,2004,None,"General Group Authentication Codes and Their Relation to ""Unconditionally-Secure Signatures"".",Reihaneh Safavi-Naini;Luke McAven;Moti Yung;,https://doi.org/10.1007/978-3-540-24632-9_17
+pkc/pkc2004,2004,None,From Digital Signature to ID-based Identification/Signature.,Kaoru Kurosawa;Swee-Huay Heng;,https://doi.org/10.1007/978-3-540-24632-9_18
+pkc/pkc2004,2004,None,Identity-Based Threshold Decryption.,Joonsang Baek;Yuliang Zheng;,https://doi.org/10.1007/978-3-540-24632-9_19
+pkc/pkc2004,2004,None,An Efficient Signature Scheme from Bilinear Pairings and Its Applications.,Fangguo Zhang;Reihaneh Safavi-Naini;Willy Susilo;,https://doi.org/10.1007/978-3-540-24632-9_20
+pkc/pkc2004,2004,None,An RSA Family of Trap-Door Permutations with a Common Domain and Its Applications.,Ryotaro Hayashi;Tatsuaki Okamoto;Keisuke Tanaka;,https://doi.org/10.1007/978-3-540-24632-9_21
+pkc/pkc2004,2004,None,A New Variant of the Matsumoto-Imai Cryptosystem through Perturbation.,Jintai Ding;,https://doi.org/10.1007/978-3-540-24632-9_22
+pkc/pkc2004,2004,None,"Efficient, Verifiable Shuffle Decryption and Its Requirement of Unlinkability.",Jun Furukawa;,https://doi.org/10.1007/978-3-540-24632-9_23
+pkc/pkc2004,2004,None,A Point Compression Method for Elliptic Curves Defined over GF(2 n).,Brian King;,https://doi.org/10.1007/978-3-540-24632-9_24
+pkc/pkc2004,2004,None,On the Optimal Parameter Choice for Elliptic Curve Cryptosystems Using Isogeny.,Toru Akishita;Tsuyoshi Takagi;,https://doi.org/10.1007/978-3-540-24632-9_25
+pkc/pkc2004,2004,None,On the Security of Multiple Encryption or CCA-security+CCA-security=CCA-security?,Rui Zhang;Goichiro Hanaoka;Junji Shikata;Hideki Imai;,https://doi.org/10.1007/978-3-540-24632-9_26
+pkc/pkc2004,2004,None,QuasiModo: Efficient Certificate Validation and Revocation.,Farid F. Elwailly;Craig Gentry;Zulfikar Ramzan;,https://doi.org/10.1007/978-3-540-24632-9_27
+pkc/pkc2004,2004,None,A Distributed Online Certificate Status Protocol with a Single Public Key.,Satoshi Koga;Kouichi Sakurai;,https://doi.org/10.1007/978-3-540-24632-9_28
+pkc/pkc2004,2004,None,A First Approach to Provide Anonymity in Attribute Certificates.,Vicente Benjumea;Javier Lopez;José A. Montenegro;José M. Troya;,https://doi.org/10.1007/978-3-540-24632-9_29
+pkc/pkc2004,2004,None,A Nonuniform Algorithm for the Hidden Number Problem in Subgroups.,Igor E. Shparlinski;Arne Winterhof;,https://doi.org/10.1007/978-3-540-24632-9_30
+pkc/pkc2004,2004,None,Cryptographic Randomized Response Techniques.,Andris Ambainis;Markus Jakobsson;Helger Lipmaa;,https://doi.org/10.1007/978-3-540-24632-9_31
+pkc/pkc2004,2004,None,"A Correct, Private, and Efficient Mix Network.",Kun Peng;Colin Boyd;Ed Dawson;Kapalee Viswanathan;,https://doi.org/10.1007/978-3-540-24632-9_32

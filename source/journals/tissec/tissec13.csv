@@ -1,0 +1,41 @@
+tissec/tissec13,October 2009,Number 1,Introduction to ACM TISSEC special issue on CCS 2005.,Catherine A. Meadows;,http://doi.acm.org/10.1145/1609956.1609957
+tissec/tissec13,October 2009,Number 1,Automated trust negotiation using cryptographic credentials.,Jiangtao Li;Ninghui Li;William H. Winsborough;,http://doi.acm.org/10.1145/1609956.1609958
+tissec/tissec13,October 2009,Number 1,Keyboard acoustic emanations revisited.,Li Zhuang;Feng Zhou;J. D. Tygar;,http://doi.acm.org/10.1145/1609956.1609959
+tissec/tissec13,October 2009,Number 1,"Control-flow integrity principles, implementations, and applications.",Martín Abadi;Mihai Budiu;Úlfar Erlingsson;Jay Ligatti;,http://doi.acm.org/10.1145/1609956.1609960
+tissec/tissec13,October 2009,Number 1,Maintaining control while delegating trust: Integrity constraints in trust management.,Sandro Etalle;William H. Winsborough;,http://doi.acm.org/10.1145/1609956.1609961
+tissec/tissec13,October 2009,Number 1,Enforcing access control in Web-based social networks.,Barbara Carminati;Elena Ferrari;Andrea Perego;,http://doi.acm.org/10.1145/1609956.1609962
+tissec/tissec13,October 2009,Number 1,Defining strong privacy for RFID.,Ari Juels;Stephen A. Weis;,http://doi.acm.org/10.1145/1609956.1609963
+tissec/tissec13,October 2009,Number 1,Compromising anonymous communication systems using blind source separation.,Ye Zhu;Riccardo Bettati;,http://doi.acm.org/10.1145/1609956.1609964
+tissec/tissec13,October 2009,Number 1,Efficient and secure protocols for privacy-preserving set operations.,Yingpeng Sang;Hong Shen;,http://doi.acm.org/10.1145/1609956.1609965
+tissec/tissec13,October 2009,Number 1,Cryptanalysis of the random number generator of the Windows operating system.,Leo Dorrendorf;Zvi Gutterman;Benny Pinkas;,http://doi.acm.org/10.1145/1609956.1609966
+tissec/tissec13,February 2010,Number 2,Guest editorial: Special issue on computer and communications security.,Sabrina De Capitani di Vimercati;Paul F. Syverson;,http://doi.acm.org/10.1145/1698750.1698751
+tissec/tissec13,February 2010,Number 2,"Stealthy malware detection and monitoring through VMM-based ""out-of-the-box"" semantic view reconstruction.",Xuxian Jiang;Xinyuan Wang;Dongyan Xu;,http://doi.acm.org/10.1145/1698750.1698752
+tissec/tissec13,February 2010,Number 2,How much anonymity does network latency leak?,Nicholas Hopper;Eugene Y. Vasserman;Eric Chan-Tin;,http://doi.acm.org/10.1145/1698750.1698753
+tissec/tissec13,February 2010,Number 2,CANDID: Dynamic candidate evaluations for automatic prevention of SQL injection attacks.,Prithvi Bisht;Parthasarathy Madhusudan;V. N. Venkatakrishnan;,http://doi.acm.org/10.1145/1698750.1698754
+tissec/tissec13,February 2010,Number 2,New payload attribution methods for network forensic investigations.,Miroslav Ponec;Paul Giura;Joel Wein;Hervé Brönnimann;,http://doi.acm.org/10.1145/1698750.1698755
+tissec/tissec13,February 2010,Number 2,Split-ballot voting: Everlasting privacy with distributed trust.,Tal Moran;Moni Naor;,http://doi.acm.org/10.1145/1698750.1698756
+tissec/tissec13,February 2010,Number 2,Authenticated error-correcting codes with applications to multicast authentication.,Anna Lysyanskaya;Roberto Tamassia;Nikos Triandopoulos;,http://doi.acm.org/10.1145/1698750.1698757
+tissec/tissec13,February 2010,Number 2,Deterring voluntary trace disclosure in re-encryption mix-networks.,XiaoFeng Wang;Philippe Golle;Markus Jakobsson;Alex Tsow;,http://doi.acm.org/10.1145/1698750.1698758
+tissec/tissec13,July 2010,Number 3,Editorial ESORICS 2007.,Joachim Biskup;Javier Lopez;,http://doi.acm.org/10.1145/1805974.1805975
+tissec/tissec13,July 2010,Number 3,A logic for state-modifying authorization policies.,Moritz Y. Becker;Sebastian Nanz;,http://doi.acm.org/10.1145/1805974.1805976
+tissec/tissec13,July 2010,Number 3,Security of multithreaded programs by compilation.,Gilles Barthe;Tamara Rezk;Alejandro Russo;Andrei Sabelfeld;,http://doi.acm.org/10.1145/1805974.1895977
+tissec/tissec13,July 2010,Number 3,Combining fragmentation and encryption to protect privacy in data storage.,Valentina Ciriani;Sabrina De Capitani di Vimercati;Sara Foresti;Sushil Jajodia;Stefano Paraboschi;Pierangela Samarati;,http://doi.acm.org/10.1145/1805974.1805978
+tissec/tissec13,July 2010,Number 3,Editorial SACMAT 2007.,Bhavani M. Thuraisingham;,http://doi.acm.org/10.1145/1805974.1805979
+tissec/tissec13,July 2010,Number 3,Privacy-aware role-based access control.,Qun Ni;Elisa Bertino;Jorge Lobo;Carolyn Brodie;Clare-Marie Karat;John Karat;Alberto Trombetta;,http://doi.acm.org/10.1145/1805974.1805980
+tissec/tissec13,July 2010,Number 3,On the consistency of distributed proofs with hidden subtrees.,Adam J. Lee;Kazuhiro Minami;Marianne Winslett;,http://doi.acm.org/10.1145/1805974.1805981
+tissec/tissec13,July 2010,Number 3,A logical specification and analysis for SELinux MLS policy.,Boniface Hicks;Sandra Julieta Rueda;Luke St. Clair;Trent Jaeger;Patrick D. McDaniel;,http://doi.acm.org/10.1145/1805974.1805982
+tissec/tissec13,July 2010,Number 3,The role mining problem: A formal perspective.,Jaideep Vaidya;Vijayalakshmi Atluri;Qi Guo;,http://doi.acm.org/10.1145/1805974.1895983
+tissec/tissec13,July 2010,Number 3,A framework to enforce access control over data streams.,Barbara Carminati;Elena Ferrari;Jianneng Cao;Kian-Lee Tan;,http://doi.acm.org/10.1145/1805974.1805984
+tissec/tissec13,December 2010,Number 4,Pairing-Based Onion Routing with Improved Forward Secrecy.,Aniket Kate;Gregory M. Zaverucha;Ian Goldberg;,http://doi.acm.org/10.1145/1880022.1880023
+tissec/tissec13,December 2010,Number 4,Storage-Based Intrusion Detection.,Adam G. Pennington;John Linwood Griffin;John S. Bucy;John D. Strunk;Gregory R. Ganger;,http://doi.acm.org/10.1145/1880022.1880024
+tissec/tissec13,December 2010,Number 4,Attribute-Based Messaging: Access Control and Confidentiality.,Rakeshbabu Bobba;Omid Fatemieh;Fariba Khan;Arindam Khan;Carl A. Gunter;Himanshu Khurana;Manoj Prabhakaran;,http://doi.acm.org/10.1145/1880022.1880025
+tissec/tissec13,December 2010,Number 4,Authenticated Index Structures for Aggregation Queries.,Feifei Li;Marios Hadjieleftheriou;George Kollios;Leonid Reyzin;,http://doi.acm.org/10.1145/1880022.1880026
+tissec/tissec13,December 2010,Number 4,A Simple and Generic Construction of Authenticated Encryption with Associated Data.,Palash Sarkar;,http://doi.acm.org/10.1145/1880022.1880027
+tissec/tissec13,December 2010,Number 4,MPSS: Mobile Proactive Secret Sharing.,David A. Schultz;Barbara Liskov;Moses Liskov;,http://doi.acm.org/10.1145/1880022.1880028
+tissec/tissec13,December 2010,Number 4,Uncovering Spoken Phrases in Encrypted Voice over IP Conversations.,Charles V. Wright;Lucas Ballard;Scott E. Coull;Fabian Monrose;Gerald M. Masson;,http://doi.acm.org/10.1145/1880022.1880029
+tissec/tissec13,December 2010,Number 4,Mining Roles with Multiple Objectives.,Ian Molloy;Hong Chen;Tiancheng Li;Qihua Wang;Ninghui Li;Elisa Bertino;Seraphin B. Calo;Jorge Lobo;,http://doi.acm.org/10.1145/1880022.1880030
+tissec/tissec13,December 2010,Number 4,Key Evolution Systems in Untrusted Update Environments.,Benoît Libert;Jean-Jacques Quisquater;Moti Yung;,http://doi.acm.org/10.1145/1880022.1880031
+tissec/tissec13,December 2010,Number 4,Robust Decentralized Virtual Coordinate Systems in Adversarial Environments.,David Zage;Cristina Nita-Rotaru;,http://doi.acm.org/10.1145/1880022.1880032
+tissec/tissec13,December 2010,Number 4,BLAC: Revoking Repeatedly Misbehaving Anonymous Users without Relying on TTPs.,Patrick P. Tsang;Man Ho Au;Apu Kapadia;Sean W. Smith;,http://doi.acm.org/10.1145/1880022.1880033
+tissec/tissec13,December 2010,Number 4,Satisfiability and Resiliency in Workflow Authorization Systems.,Qihua Wang;Ninghui Li;,http://doi.acm.org/10.1145/1880022.1880034
+tissec/tissec13,December 2010,Number 4,Identity Escrow Protocol and Anonymity Analysis in the Applied Pi-Calculus.,Aybek Mukhamedov;Mark Dermot Ryan;,http://doi.acm.org/10.1145/1880022.1880035

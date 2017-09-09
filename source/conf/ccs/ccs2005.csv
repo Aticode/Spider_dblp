@@ -1,0 +1,42 @@
+ccs/ccs2005,2005,Keynote address,Homeland security: cyber security R&D initiatives.,W. Douglas Maughan;,http://doi.acm.org/10.1145/1102120.1102122
+ccs/ccs2005,2005,Formal analysis of crypto protocols,A modular correctness proof of IEEE 802.11i and TLS.,Changhua He;Mukund Sundararajan;Anupam Datta;Ante Derek;John C. Mitchell;,http://doi.acm.org/10.1145/1102120.1102124
+ccs/ccs2005,2005,Formal analysis of crypto protocols,Deciding security of protocols against off-line guessing attacks.,Mathieu Baudet;,http://doi.acm.org/10.1145/1102120.1102125
+ccs/ccs2005,2005,Formal analysis of crypto protocols,Secrecy types for a simulatable cryptographic library.,Peeter Laud;,http://doi.acm.org/10.1145/1102120.1102126
+ccs/ccs2005,2005,Trust management,Preventing attribute information leakage in automated trust negotiation.,Keith Irwin;Ting Yu;,http://doi.acm.org/10.1145/1102120.1102128
+ccs/ccs2005,2005,Trust management,Automated trust negotiation using cryptographic credentials.,Jiangtao Li;Ninghui Li;William H. Winsborough;,http://doi.acm.org/10.1145/1102120.1102129
+ccs/ccs2005,2005,Trust management,Secure collaboration in mediator-free environments.,Mohamed Shehab;Elisa Bertino;Arif Ghafoor;,http://doi.acm.org/10.1145/1102120.1102130
+ccs/ccs2005,2005,Privacy and anonymity,Applications of secure electronic voting to automated privacy-preserving troubleshooting.,Qiang Huang;David Jao;Helen J. Wang;,http://doi.acm.org/10.1145/1102120.1102132
+ccs/ccs2005,2005,Privacy and anonymity,Tracking anonymous peer-to-peer VoIP calls on the internet.,Xinyuan Wang;Shiping Chen;Sushil Jajodia;,http://doi.acm.org/10.1145/1102120.1102133
+ccs/ccs2005,2005,Privacy and anonymity,Untraceable RFID tags via insubvertible encryption.,Giuseppe Ateniese;Jan Camenisch;Breno de Medeiros;,http://doi.acm.org/10.1145/1102120.1102134
+ccs/ccs2005,2005,Privacy and anonymity,Obfuscated databases and group privacy.,Arvind Narayanan;Vitaly Shmatikov;,http://doi.acm.org/10.1145/1102120.1102135
+ccs/ccs2005,2005,Authentication,New approaches for deniable authentication.,Mario Di Raimondo;Rosario Gennaro;,http://doi.acm.org/10.1145/1102120.1102137
+ccs/ccs2005,2005,Authentication,On authenticated computing and RSA-based authentication.,Jean-Pierre Seifert;,http://doi.acm.org/10.1145/1102120.1102138
+ccs/ccs2005,2005,Authentication,Aggregated path authentication for efficient BGP security.,Meiyuan Zhao;Sean W. Smith;David M. Nicol;,http://doi.acm.org/10.1145/1102120.1102139
+ccs/ccs2005,2005,Authentication,Improving Brumley and Boneh timing attack on unprotected SSL implementations.,Onur Aciiçmez;Werner Schindler;Çetin Kaya Koç;,http://doi.acm.org/10.1145/1102120.1102140
+ccs/ccs2005,2005,Access control,CPOL: high-performance policy evaluation.,Kevin Borders;Xin Zhao;Atul Prakash;,http://doi.acm.org/10.1145/1102120.1102142
+ccs/ccs2005,2005,Access control,Understanding and developing role-based administrative models.,Jason Crampton;,http://doi.acm.org/10.1145/1102120.1102143
+ccs/ccs2005,2005,Access control,PeerAccess: a logic for distributed authorization.,Marianne Winslett;Charles C. Zhang;Piero A. Bonatti;,http://doi.acm.org/10.1145/1102120.1102144
+ccs/ccs2005,2005,"Key management, key exchange, & pseudo-random generation",Modeling insider attacks on group key-exchange protocols.,Jonathan Katz;Ji Sun Shin;,http://doi.acm.org/10.1145/1102120.1102146
+ccs/ccs2005,2005,"Key management, key exchange, & pseudo-random generation",Dynamic and efficient key management for access hierarchies.,Mikhail J. Atallah;Keith B. Frikken;Marina Blanton;,http://doi.acm.org/10.1145/1102120.1102147
+ccs/ccs2005,2005,"Key management, key exchange, & pseudo-random generation",A model and architecture for pseudo-random generation with applications to /dev/random.,Boaz Barak;Shai Halevi;,http://doi.acm.org/10.1145/1102120.1102148
+ccs/ccs2005,2005,Intrusion detection and prevention,Fast and automated generation of attack signatures: a basis for building self-protecting servers.,Zhenkai Liang;R. Sekar;,http://doi.acm.org/10.1145/1102120.1102150
+ccs/ccs2005,2005,Intrusion detection and prevention,Automatic diagnosis and response to memory corruption vulnerabilities.,Jun Xu;Peng Ning;Chongkyung Kil;Yan Zhai;Christopher Bookholt;,http://doi.acm.org/10.1145/1102120.1102151
+ccs/ccs2005,2005,Intrusion detection and prevention,On deriving unknown vulnerabilities from zero-day polymorphic and metamorphic worm exploits.,Jedidiah R. Crandall;Zhendong Su;Shyhtsun Felix Wu;Frederic T. Chong;,http://doi.acm.org/10.1145/1102120.1102152
+ccs/ccs2005,2005,Intrusion detection and prevention,Countering DoS attacks with stateless multipath overlays.,Angelos Stavrou;Angelos D. Keromytis;,http://doi.acm.org/10.1145/1102120.1102153
+ccs/ccs2005,2005,Security for diffuse computing,A framework for concrete reputation-systems with applications to history-based access control.,Karl Krukow;Mogens Nielsen;Vladimiro Sassone;,http://doi.acm.org/10.1145/1102120.1102155
+ccs/ccs2005,2005,Security for diffuse computing,An auctioning reputation system based on anomaly.,Shai Rubin;Mihai Christodorescu;Vinod Ganapathy;Jonathon T. Giffin;Louis Kruger;Hao Wang;Nicholas Kidd;,http://doi.acm.org/10.1145/1102120.1102156
+ccs/ccs2005,2005,Security for diffuse computing,On the cost-ineffectiveness of redundancy in commercial P2P computing.,Matthew Yurkewych;Brian Neil Levine;Arnold L. Rosenberg;,http://doi.acm.org/10.1145/1102120.1102157
+ccs/ccs2005,2005,Security for diffuse computing,Securing publish-subscribe overlay services with EventGuard.,Mudhakar Srivatsa;Ling Liu;,http://doi.acm.org/10.1145/1102120.1102158
+ccs/ccs2005,2005,Cryptography,Password authenticated key exchange using hidden smooth subgroups.,Craig Gentry;Philip D. MacKenzie;Zulfikar Ramzan;,http://doi.acm.org/10.1145/1102120.1102160
+ccs/ccs2005,2005,Cryptography,"Proxy re-signatures: new definitions, algorithms, and applications.",Giuseppe Ateniese;Susan Hohenberger;,http://doi.acm.org/10.1145/1102120.1102161
+ccs/ccs2005,2005,Cryptography,Direct chosen ciphertext security from identity-based techniques.,Xavier Boyen;Qixiang Mei;Brent Waters;,http://doi.acm.org/10.1145/1102120.1102162
+ccs/ccs2005,2005,Automated analysis,Automatic placement of authorization hooks in the linux security modules framework.,Vinod Ganapathy;Trent Jaeger;Somesh Jha;,http://doi.acm.org/10.1145/1102120.1102164
+ccs/ccs2005,2005,Automated analysis,Control-flow integrity.,Martín Abadi;Mihai Budiu;Úlfar Erlingsson;Jay Ligatti;,http://doi.acm.org/10.1145/1102120.1102165
+ccs/ccs2005,2005,Automated analysis,Preventing format-string attacks via automatic and efficient dynamic checking.,Michael F. Ringenburg;Dan Grossman;,http://doi.acm.org/10.1145/1102120.1102166
+ccs/ccs2005,2005,Attacking passwords and bringing down the network,Fast dictionary attacks on passwords using time-space tradeoff.,Arvind Narayanan;Vitaly Shmatikov;,http://doi.acm.org/10.1145/1102120.1102168
+ccs/ccs2005,2005,Attacking passwords and bringing down the network,Keyboard acoustic emanations revisited.,Li Zhuang;Feng Zhou;J. D. Tygar;,http://doi.acm.org/10.1145/1102120.1102169
+ccs/ccs2005,2005,Attacking passwords and bringing down the network,Misbehaving TCP receivers can cause internet-wide congestion collapse.,Rob Sherwood;Bobby Bhattacharjee;Ryan Braud;,http://doi.acm.org/10.1145/1102120.1102170
+ccs/ccs2005,2005,Attacking passwords and bringing down the network,Exploiting open functionality in SMS-capable cellular networks.,William Enck;Patrick Traynor;Patrick D. McDaniel;Thomas F. La Porta;,http://doi.acm.org/10.1145/1102120.1102171
+ccs/ccs2005,2005,Industry track invited talks,Security market: incentives for disclosure of vulnerabilities.,Peter P. Swire;,http://doi.acm.org/10.1145/1102120.1102173
+ccs/ccs2005,2005,Industry track invited talks,Identity-based encryption from algorithm to enterprise deployment.,Guido Appenzeller;,http://doi.acm.org/10.1145/1102120.1102174
+ccs/ccs2005,2005,Industry track invited talks,Biometrics hit the mainstream: an analysis of security and privacy implications.,Vance Bjorn;,http://doi.acm.org/10.1145/1102120.1102175

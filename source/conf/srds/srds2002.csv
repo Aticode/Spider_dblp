@@ -1,0 +1,52 @@
+srds/srds2002,2002,Security,Efficient Byzantine-Resilient Reliable Multicast on a Hybrid Failure Model.,Miguel Correia;Lau Cheuk Lung;Nuno Ferreira Neves;Paulo Veríssimo;,https://doi.org/10.1109/RELDIS.2002.1180168
+srds/srds2002,2002,Security,A Fault-Tolerant Approach to Secure Information Retrieval.,Erica Y. Yang;Jie Xu;Keith H. Bennett;,https://doi.org/10.1109/RELDIS.2002.1180169
+srds/srds2002,2002,Security,Tolerance to Unbounded Byzantine Faults.,Mikhail Nesterenko;Anish Arora;,https://doi.org/10.1109/RELDIS.2002.1180170
+srds/srds2002,2002,Networking,Implementing Quality of Service in Web Servers.,Carlos Montez;Joni da Silva Fraga;,https://doi.org/10.1109/RELDIS.2002.1180171
+srds/srds2002,2002,Networking,Fault-Tolerant Virtual Private Networks within An Autonomous System.,Junghee Han;G. Robert Malan;Farnam Jahanian;,https://doi.org/10.1109/RELDIS.2002.1180172
+srds/srds2002,2002,Networking,Collaborative Networking in an Uncooperative Internet.,Robbert van Renesse;Dan Dumitriu;,https://doi.org/10.1109/RELDIS.2002.1180173
+srds/srds2002,2002,Stabilization,Fault-Local Stabilization: The Shortest Path Tree.,Joffroy Beauquier;Thomas Hérault;,https://doi.org/10.1109/RELDIS.2002.1180174
+srds/srds2002,2002,Stabilization,Random Walk for Self-Stabilizing Group Communication in Ad-Hoc Networks.,Shlomi Dolev;Elad Schiller;Jennifer L. Welch;,https://doi.org/10.1109/RELDIS.2002.1180175
+srds/srds2002,2002,Stabilization,Service Time Optimal Self-Stabilizing Token Circulation Protocol on Anonymous Unidrectional Rings.,Colette Johnen;,https://doi.org/10.1109/RELDIS.2002.1180176
+srds/srds2002,2002,Replication,An Indulgent Uniform Total Order Algorithm with Optimistic Delivery.,Pedro Vicente;Luís E. T. Rodrigues;,https://doi.org/10.1109/RELDIS.2002.1180177
+srds/srds2002,2002,Replication,A Unified Proof of Minimum Time Complexity for Reaching Consensus and Uniform Consensus - An Oracle-Based Approach.,Jun (Jim) Xu;,https://doi.org/10.1109/RELDIS.2002.1180178
+srds/srds2002,2002,Replication,Active Software Replication through a Three-Tier Approach.,Roberto Baldoni;Carlo Marchetti;Alessandro Termini;,https://doi.org/10.1109/RELDIS.2002.1180179
+srds/srds2002,2002,Replication,Efficient Distributed Precision Control in Symmetric Replication Environments.,Ugur Çetintemel;Peter J. Keleher;,https://doi.org/10.1109/RELDIS.2002.1180180
+srds/srds2002,2002,Fault Recovery,Availability Models with Age-Dependent Checkpointing.,Tadashi Dohi;Naoto Kaio;Kishor S. Trivedi;,https://doi.org/10.1109/RELDIS.2002.1180181
+srds/srds2002,2002,Fault Recovery,Heterogeneous Checkpointing for Multithreaded Applications.,Feras Karablieh;Rida A. Bazzi;,https://doi.org/10.1109/RELDIS.2002.1180182
+srds/srds2002,2002,Fault Recovery,"Non-Intrusive, Parallel Recovery of Replicated Data.",Ricardo Jiménez-Peris;Marta Patiño-Martínez;Gustavo Alonso;,https://doi.org/10.1109/RELDIS.2002.1180183
+srds/srds2002,2002,Fault Recovery,On Node State Reconstruction for Fault Tolerant Distributed Algorithms.,Michael Okun;Amnon Barak;,https://doi.org/10.1109/RELDIS.2002.1180184
+srds/srds2002,2002,Large Scale Group Communication,Probabilistic Atomic Broadcast.,Pascal Felber;Fernando Pedone;,https://doi.org/10.1109/RELDIS.2002.1180186
+srds/srds2002,2002,Large Scale Group Communication,Efficient Epidemic-Style Protocols for Reliable and Scalable Multicast.,Indranil Gupta;Anne-Marie Kermarrec;Ayalvadi J. Ganesh;,https://doi.org/10.1109/RELDIS.2002.1180187
+srds/srds2002,2002,Large Scale Group Communication,Optimistic Total Order in Wide Area Networks.,António Luís Pinto Ferreira de Sousa;José Orlando Pereira;Francisco Moura;Rui Carlos Oliveira;,https://doi.org/10.1109/RELDIS.2002.1180188
+srds/srds2002,2002,Stabilization II,Self-Stabilizing Local Mutual Exclusion on Networks in which Process Identifiers are not Distinct.,Hirotsugu Kakugawa;Masafumi Yamashita;,https://doi.org/10.1109/RELDIS.2002.1180189
+srds/srds2002,2002,Stabilization II,A Lower Bound on Dynamic k-Stabilization in Asynchronous Systems.,Christophe Genolini;Sébastien Tixeuil;,https://doi.org/10.1109/RELDIS.2002.1180190
+srds/srds2002,2002,Networking,Asynchronous Resource Discovery in Peer to Peer Networks.,Shay Kutten;David Peleg;,https://doi.org/10.1109/RELDIS.2002.1180191
+srds/srds2002,2002,Networking,An Analysis of Fault Detection Latency Bounds of the SNS Scheme Incorporated into an Ethernet Based Middleware System.,Juqiang Liu;K. H. Kim;Moon-hae Kim;,https://doi.org/10.1109/RELDIS.2002.1180192
+srds/srds2002,2002,Short Papers,Broadcasting Messages in Fault-Tolerant Distributed Systems: The Benefit of Handling Input-Triggered and Output-Triggered Suspicions Differently.,Bernadette Charron-Bost;Xavier Défago;André Schiper;,https://doi.org/10.1109/RELDIS.2002.1180193
+srds/srds2002,2002,Short Papers,Loose Synchronization of Multithreaded Replicas.,Claudio Basile;Keith Whisnant;Zbigniew Kalbarczyk;Ravishankar K. Iyer;,https://doi.org/10.1109/RELDIS.2002.1180194
+srds/srds2002,2002,Short Papers,The Performance of Checkpointing and Replication Schemes for Fault Tolerant Mobile Agent Systems.,Taesoon Park;Ilsoo Byun;Hyunjoo Kim;Heon Young Yeom;,https://doi.org/10.1109/RELDIS.2002.1180195
+srds/srds2002,2002,Short Papers,Optimistic Byzantine Agreement.,Klaus Kursawe;,https://doi.org/10.1109/RELDIS.2002.1180196
+srds/srds2002,2002,Short Papers,Modeling Communication Delays in Distributed Systems Using Time Series.,Raul Ceretta Nunes;Ingrid Jansch-Pôrto;,https://doi.org/10.1109/RELDIS.2002.1180197
+srds/srds2002,2002,Object-Based Systems,Dependability of CORBA Systems: Service Characterization by Fault Injection.,Eric Marsden;Jean-Charles Fabre;Jean Arlat;,https://doi.org/10.1109/RELDIS.2002.1180198
+srds/srds2002,2002,Object-Based Systems,Analysis of Inspection-Based Preventive Maintenance in Operational Software Systems.,Kalyanaraman Vaidyanathan;Selvamuthu Dharmaraja;Kishor S. Trivedi;,https://doi.org/10.1109/RELDIS.2002.1180199
+srds/srds2002,2002,Object-Based Systems,Implementation of Threshold-based Diagnostic Mechanisms for COTS-Based Applications.,Luigi Romano;Andrea Bondavalli;Silvano Chiaradonna;Domenico Cotroneo;,https://doi.org/10.1109/RELDIS.2002.1180200
+srds/srds2002,2002,Object-Based Systems,The Guardian Model for Exception Handling in Distributed Systems.,Robert Miller;Anand R. Tripathi;,https://doi.org/10.1109/RELDIS.2002.1180201
+srds/srds2002,2002,Workshop on Reliable Peer-to-Peer Distributed Systems,Workshop on Reliable Peer-to-Peer Distributed Systems.,Özalp Babaoglu;Anne-Marie Kermarrec;Robbert van Renesse;Luís E. T. Rodrigues;Maarten van Steen;Amin Vadhat;,None
+srds/srds2002,2002,Reliable Peer-to-Peer File Systems,Using File-Grain Connectivity to Implement a Peer-to-Peer File System.,Dmitry Brodsky;Alex Brodsky;Jody Pomkoski;Shihao Gong;Michael J. Feeley;Norman C. Hutchinson;,https://doi.org/10.1109/RELDIS.2002.1180203
+srds/srds2002,2002,Reliable Peer-to-Peer File Systems,Building a Reliable Mutable File System on Peer-to-Peer Storage.,Christopher A. Stein;Michael J. Tucker;Margo I. Seltzer;,https://doi.org/10.1109/RELDIS.2002.1180204
+srds/srds2002,2002,Reliable Peer-to-Peer File Systems,Reperasure: Replication Protocol Using Erasure-Code in Peer-to-Peer Storage Network.,Zheng Zhang;Qiao Lian;,https://doi.org/10.1109/RELDIS.2002.1180205
+srds/srds2002,2002,Reliable Routing and Discovery,"Improving Object Search Using Hints, Gossip, and Supernodes.",Håvard D. Johansen;Dag Johansen;,https://doi.org/10.1109/RELDIS.2002.1180206
+srds/srds2002,2002,Reliable Routing and Discovery,A Search for Routing Strategies in a Peer-to-Peer Network Using Genetic Programming.,Michael Iles;Dwight Deugo;,https://doi.org/10.1109/RELDIS.2002.1180207
+srds/srds2002,2002,Reliable Routing and Discovery,Implementing IPv6 as a Peer-to-Peer Overlay Network.,Lidong Zhou;Robbert van Renesse;Michael A. Marsh;,https://doi.org/10.1109/RELDIS.2002.1180208
+srds/srds2002,2002,Failure Management,Optimistic Byzantine Agreement.,Klaus Kursawe;,https://doi.org/10.1109/RELDIS.2002.1180209
+srds/srds2002,2002,Failure Management,Power-Aware Epidemics.,Robbert van Renesse;,https://doi.org/10.1109/RELDIS.2002.1180210
+srds/srds2002,2002,Failure Management,Introspective Failure Analysis: Avoiding Correlated Failures in Peer-to-Peer Systems.,Hakim Weatherspoon;Tal Moscovitz;John Kubiatowicz;,https://doi.org/10.1109/RELDIS.2002.1180211
+srds/srds2002,2002,Workshop on Self-Repairing and Self-Configurable Distributed Systems,Message from the RCDS Co-Chairs.,Xavier Défago;Fernando Pedone;,None
+srds/srds2002,2002,Keynote Speakers,From Byzantine Agreement to Practical Survivability.,Dahlia Malkhi;,https://doi.org/10.1109/RELDIS.2002.1180213
+srds/srds2002,2002,Keynote Speakers,OBIGrid: Towards a New Distributed Platform for Bioinformatics.,Akihiko Konagaya;,https://doi.org/10.1109/RELDIS.2002.1180214
+srds/srds2002,2002,Self-Stabilization,Self-Stabilizing Distributed File Systems.,Shlomi Dolev;Ronen I. Kat;,https://doi.org/10.1109/RELDIS.2002.1180215
+srds/srds2002,2002,Self-Stabilization,A Self-Stabilizing Algorithm for Finding Cliques in Distributed Systems.,Hiroko Ishii;Hirotsugu Kakugawa;,https://doi.org/10.1109/RELDIS.2002.1180216
+srds/srds2002,2002,Self-Stabilization,A Self-Stabilizing Algorithm for the Steiner Tree Problem.,Sayaka Kamei;Hirotsugu Kakugawa;,https://doi.org/10.1109/RELDIS.2002.1180217
+srds/srds2002,2002,Large-Scale Distributed Systems,Failure Detectors for Large-Scale Distributed Systems.,Naohiro Hayashibara;Adel Cherif;Takuya Katayama;,https://doi.org/10.1109/RELDIS.2002.1180218
+srds/srds2002,2002,Large-Scale Distributed Systems,Management of Mobile Agent Systems using Social Insect Metaphors.,Tony White;Bernard Pagurek;Dwight Deugo;,https://doi.org/10.1109/RELDIS.2002.1180219
+srds/srds2002,2002,Large-Scale Distributed Systems,Self-Organizing Formation Algorithm for Active Elements.,Kenichi Fujibayashi;Satoshi Murata;Ken Sugawara;Masayuki Yamamura;,https://doi.org/10.1109/RELDIS.2002.1180220

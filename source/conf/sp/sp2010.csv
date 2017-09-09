@@ -1,0 +1,34 @@
+sp/sp2010,2010,Invited Papers,Reflections on the 30th Anniversary of the IEEE Symposium on Security and Privacy.,Peter G. Neumann;Matt Bishop;Sean Peisert;Marv Schaefer;,https://doi.org/10.1109/SP.2010.43
+sp/sp2010,2010,Invited Papers,History of US Government Investments in Cybersecurity Research: A Personal Perspective.,Carl E. Landwehr;,https://doi.org/10.1109/SP.2010.41
+sp/sp2010,2010,Invited Papers,"Crossing the ""Valley of Death"": Transitioning Research into Commercial Products - A Personal Perspective.",W. Douglas Maughan;,https://doi.org/10.1109/SP.2010.40
+sp/sp2010,2010,Malware Analysis,Inspector Gadget: Automated Extraction of Proprietary Gadgets from Malware Binaries.,Clemens Kolbitsch;Thorsten Holz;Christopher Kruegel;Engin Kirda;,https://doi.org/10.1109/SP.2010.10
+sp/sp2010,2010,Malware Analysis,Synthesizing Near-Optimal Malware Specifications from Suspicious Behaviors.,Matt Fredrikson;Somesh Jha;Mihai Christodorescu;Reiner Sailer;Xifeng Yan;,https://doi.org/10.1109/SP.2010.11
+sp/sp2010,2010,Malware Analysis,Identifying Dormant Functionality in Malware Programs.,Paolo Milani Comparetti;Guido Salvaneschi;Engin Kirda;Clemens Kolbitsch;Christopher Kruegel;Stefano Zanero;,https://doi.org/10.1109/SP.2010.12
+sp/sp2010,2010,Information Flow,Reconciling Belief and Vulnerability in Information Flow.,Sardaouna Hamadou;Vladimiro Sassone;Catuscia Palamidessi;,https://doi.org/10.1109/SP.2010.13
+sp/sp2010,2010,Information Flow,Towards Static Flow-Based Declassification for Legacy and Untrusted Programs.,Bruno P. S. Rocha;Sruthi Bandhakavi;Jerry den Hartog;William H. Winsborough;Sandro Etalle;,https://doi.org/10.1109/SP.2010.14
+sp/sp2010,2010,Information Flow,Noninterference through Secure Multi-execution.,Dominique Devriese;Frank Piessens;,https://doi.org/10.1109/SP.2010.15
+sp/sp2010,2010,Information Flow,Object Capabilities and Isolation of Untrusted Web Applications.,Sergio Maffeis;John C. Mitchell;Ankur Taly;,https://doi.org/10.1109/SP.2010.16
+sp/sp2010,2010,Root of Trust,TrustVisor: Efficient TCB Reduction and Attestation.,Jonathan M. McCune;Yanlin Li;Ning Qu;Zongwei Zhou;Anupam Datta;Virgil D. Gligor;Adrian Perrig;,https://doi.org/10.1109/SP.2010.17
+sp/sp2010,2010,Root of Trust,Overcoming an Untrusted Computing Base: Detecting and Removing Malicious Hardware Automatically.,Matthew Hicks;Murph Finnicum;Samuel T. King;Milo M. K. Martin;Jonathan M. Smith;,https://doi.org/10.1109/SP.2010.18
+sp/sp2010,2010,Root of Trust,Tamper Evident Microprocessors.,Adam Waksman;Simha Sethumadhavan;,https://doi.org/10.1109/SP.2010.19
+sp/sp2010,2010,Information Abuse,"Side-Channel Leaks in Web Applications: A Reality Today, a Challenge Tomorrow.",Shuo Chen;Rui Wang;XiaoFeng Wang;Kehuan Zhang;,https://doi.org/10.1109/SP.2010.20
+sp/sp2010,2010,Information Abuse,Investigation of Triangular Spamming: A Stealthy and Efficient Spamming Technique.,Zhiyun Qian;Zhuoqing Morley Mao;Yinglian Xie;Fang Yu;,https://doi.org/10.1109/SP.2010.42
+sp/sp2010,2010,Information Abuse,A Practical Attack to De-anonymize Social Network Users.,Gilbert Wondracek;Thorsten Holz;Engin Kirda;Christopher Kruegel;,https://doi.org/10.1109/SP.2010.21
+sp/sp2010,2010,Information Abuse,SCiFI - A System for Secure Face Identification.,Margarita Osadchy;Benny Pinkas;Ayman Jarrous;Boaz Moskovich;,https://doi.org/10.1109/SP.2010.39
+sp/sp2010,2010,Network Security,Round-Efficient Broadcast Authentication Protocols for Fixed Topology Classes.,Haowen Chan;Adrian Perrig;,https://doi.org/10.1109/SP.2010.22
+sp/sp2010,2010,Network Security,Revocation Systems with Very Small Private Keys.,Allison B. Lewko;Amit Sahai;Brent Waters;,https://doi.org/10.1109/SP.2010.23
+sp/sp2010,2010,Network Security,Authenticating Primary Users' Signals in Cognitive Radio Networks via Integrated Cryptographic and Wireless Link Signatures.,Yao Liu;Peng Ning;Huaiyu Dai;,https://doi.org/10.1109/SP.2010.24
+sp/sp2010,2010,Systematization of Knowledge,Outside the Closed World: On Using Machine Learning for Network Intrusion Detection.,Robin Sommer;Vern Paxson;,https://doi.org/10.1109/SP.2010.25
+sp/sp2010,2010,Systematization of Knowledge,All You Ever Wanted to Know about Dynamic Taint Analysis and Forward Symbolic Execution (but Might Have Been Afraid to Ask).,Edward J. Schwartz;Thanassis Avgerinos;David Brumley;,https://doi.org/10.1109/SP.2010.26
+sp/sp2010,2010,Systematization of Knowledge,State of the Art: Automated Black-Box Web Application Vulnerability Testing.,Jason Bau;Elie Bursztein;Divij Gupta;John C. Mitchell;,https://doi.org/10.1109/SP.2010.27
+sp/sp2010,2010,Secure Systems,A Proof-Carrying File System.,Deepak Garg;Frank Pfenning;,https://doi.org/10.1109/SP.2010.28
+sp/sp2010,2010,Secure Systems,Scalable Parametric Verification of Secure Systems: How to Verify Reference Monitors without Worrying about Data Structure Size.,Jason Franklin;Sagar Chaki;Anupam Datta;Arvind Seshadri;,https://doi.org/10.1109/SP.2010.29
+sp/sp2010,2010,Secure Systems,HyperSafe: A Lightweight Approach to Provide Lifetime Hypervisor Control-Flow Integrity.,Zhi Wang;Xuxian Jiang;,https://doi.org/10.1109/SP.2010.30
+sp/sp2010,2010,Systematization of Knowledge,How Good Are Humans at Solving CAPTCHAs? A Large Scale Evaluation.,Elie Bursztein;Steven Bethard;Celine Fabry;John C. Mitchell;Daniel Jurafsky;,https://doi.org/10.1109/SP.2010.31
+sp/sp2010,2010,Systematization of Knowledge,Bootstrapping Trust in Commodity Computers.,Bryan Parno;Jonathan M. McCune;Adrian Perrig;,https://doi.org/10.1109/SP.2010.32
+sp/sp2010,2010,Analyzing Deployed Systems,Chip and PIN is Broken.,Steven J. Murdoch;Saar Drimer;Ross J. Anderson;Mike Bond;,https://doi.org/10.1109/SP.2010.33
+sp/sp2010,2010,Analyzing Deployed Systems,Experimental Security Analysis of a Modern Automobile.,Karl Koscher;Alexei Czeskis;Franziska Roesner;Shwetak Patel;Tadayoshi Kohno;Stephen Checkoway;Damon McCoy;Brian Kantor;Danny Anderson;Hovav Shacham;Stefan Savage;,https://doi.org/10.1109/SP.2010.34
+sp/sp2010,2010,Analyzing Deployed Systems,On the Incoherencies in Web Browser Access Control Policies.,Kapil Singh;Alexander Moshchuk;Helen J. Wang;Wenke Lee;,https://doi.org/10.1109/SP.2010.35
+sp/sp2010,2010,Language-Based Security,ConScript: Specifying and Enforcing Fine-Grained Security Policies for JavaScript in the Browser.,Leo A. Meyerovich;V. Benjamin Livshits;,https://doi.org/10.1109/SP.2010.36
+sp/sp2010,2010,Language-Based Security,TaintScope: A Checksum-Aware Directed Fuzzing Tool for Automatic Software Vulnerability Detection.,Tielei Wang;Tao Wei;Guofei Gu;Wei Zou;,https://doi.org/10.1109/SP.2010.37
+sp/sp2010,2010,Language-Based Security,A Symbolic Execution Framework for JavaScript.,Prateek Saxena;Devdatta Akhawe;Steve Hanna;Feng Mao;Stephen McCamant;Dawn Song;,https://doi.org/10.1109/SP.2010.38

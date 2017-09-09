@@ -1,0 +1,11 @@
+ccs/storagess2006,2006,Studies and surveys,A statistical analysis of disclosed storage security breaches.,Ragib Hasan;William Yurcik;,http://doi.acm.org/10.1145/1179559.1179561
+ccs/storagess2006,2006,Studies and surveys,Long-term threats to secure archives.,Mark W. Storer;Kevin M. Greenan;Ethan L. Miller;,http://doi.acm.org/10.1145/1179559.1179562
+ccs/storagess2006,2006,Scaling security,"Design, implementation and evaluation of security in iSCSI-based network storage systems.",Shiva Chaitanya;Kevin R. B. Butler;Anand Sivasubramaniam;Patrick D. McDaniel;Murali Vilayannur;,http://doi.acm.org/10.1145/1179559.1179564
+ccs/storagess2006,2006,Scaling security,"Scalable security for large, high performance storage systems.",Andrew W. Leung;Ethan L. Miller;,http://doi.acm.org/10.1145/1179559.1179565
+ccs/storagess2006,2006,Protection and trust,Access control for a replica management database.,Justin M. Wozniak;Paul Brenner;Douglas Thain;,http://doi.acm.org/10.1145/1179559.1179567
+ccs/storagess2006,2006,Protection and trust,Using device diversity to protect data against batch-correlated disk failures.,Jehan-François Pâris;Darrell D. E. Long;,http://doi.acm.org/10.1145/1179559.1179568
+ccs/storagess2006,2006,Protection and trust,Limiting trust in the storage stack.,Lakshmi N. Bairavasundaram;Meenali Rungta;Andrea C. Arpaci-Dusseau;Remzi H. Arpaci-Dusseau;,http://doi.acm.org/10.1145/1179559.1179569
+ccs/storagess2006,2006,Secure deletion,"Secure deletion myths, issues, and solutions.",Nikolai Joukov;Harry Papaxenopoulos;Erez Zadok;,http://doi.acm.org/10.1145/1179559.1179571
+ccs/storagess2006,2006,Secure deletion,Secure deletion from inverted indexes on compliance storage.,Soumyadeb Mitra;Marianne Winslett;,http://doi.acm.org/10.1145/1179559.1179572
+ccs/storagess2006,2006,Redundancy,Using free web storage for data backup.,Avishay Traeger;Nikolai Joukov;Josef Sipek;Erez Zadok;,http://doi.acm.org/10.1145/1179559.1179574
+ccs/storagess2006,2006,Redundancy,The case for semantic aware remote replication.,Xiaotao Liu;Gal Niv;Prashant J. Shenoy;K. K. Ramakrishnan;Jacobus E. van der Merwe;,http://doi.acm.org/10.1145/1179559.1179575

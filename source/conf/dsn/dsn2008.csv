@@ -1,0 +1,69 @@
+dsn/dsn2008,2008,None,Message from the conference general chair and coordinator.,Philip Koopman;Henrique Madeira;,https://doi.org/10.1109/DSN.2008.4630051
+dsn/dsn2008,2008,None,Message from the DCCS program chair.,Neeraj Suri;,https://doi.org/10.1109/DSN.2008.4630052
+dsn/dsn2008,2008,None,Message from the PDS program chair.,Kimberly Keeton;,https://doi.org/10.1109/DSN.2008.4630053
+dsn/dsn2008,2008,None,Dependability on the last frontier.,Alex Hills;,https://doi.org/10.1109/DSN.2008.4630063
+dsn/dsn2008,2008,None,Automotive Enhanced Vision Systems - Issues arising from placing users in the loop.,Thomas Seder;,https://doi.org/10.1109/DSN.2008.4630064
+dsn/dsn2008,2008,Hardware and Diagnosis,Coverage of a microarchitecture-level fault check regimen in a superscalar processor.,Vimal K. Reddy;Eric Rotenberg;,https://doi.org/10.1109/DSN.2008.4630065
+dsn/dsn2008,2008,Hardware and Diagnosis,Analysis and solutions to issue queue process variation.,Niranjan Soundararajan;Aditya Yanamandra;Chrysostomos Nicopoulos;Narayanan Vijaykrishnan;Anand Sivasubramaniam;Mary Jane Irwin;,https://doi.org/10.1109/DSN.2008.4630066
+dsn/dsn2008,2008,Hardware and Diagnosis,Trace-based microarchitecture-level diagnosis of permanent hardware faults.,Man-Lap Li;Pradeep Ramachandran;Swarup Kumar Sahoo;Sarita V. Adve;Vikram S. Adve;Yuanyuan Zhou;,https://doi.org/10.1109/DSN.2008.4630067
+dsn/dsn2008,2008,Modeling 1,A study of cognitive resilience in a JPEG compressor.,Damian Nowroth;Ilia Polian;Bernd Becker;,https://doi.org/10.1109/DSN.2008.4630068
+dsn/dsn2008,2008,Modeling 1,Scheduling algorithms for unpredictably heterogeneous CMP architectures.,Jonathan A. Winter;David H. Albonesi;,https://doi.org/10.1109/DSN.2008.4630069
+dsn/dsn2008,2008,Modeling 1,Automated duplicate detection for bug tracking systems.,Nicholas Jalbert;Westley Weimer;,https://doi.org/10.1109/DSN.2008.4630070
+dsn/dsn2008,2008,Hardware Reliability,Validation of hardware error recovery mechanisms for the SPARC64 V microprocessor.,Hisashige Ando;Ryuji Kan;Yoshiharu Tosaka;Keiji Takahisa;Kichiji Hatanaka;,https://doi.org/10.1109/DSN.2008.4630071
+dsn/dsn2008,2008,Hardware Reliability,Using likely program invariants to detect hardware errors.,Swarup Kumar Sahoo;Man-Lap Li;Pradeep Ramachandran;Sarita V. Adve;Vikram S. Adve;Yuanyuan Zhou;,https://doi.org/10.1109/DSN.2008.4630072
+dsn/dsn2008,2008,Hardware Reliability,Detouring: Translating software to circumvent hard faults in simple cores.,Albert Meixner;Daniel J. Sorin;,https://doi.org/10.1109/DSN.2008.4630073
+dsn/dsn2008,2008,Practical Experience Reports,Towards assessing the security of DBMS configurations.,Afonso Araújo Neto;Marco Vieira;,https://doi.org/10.1109/DSN.2008.4630074
+dsn/dsn2008,2008,Practical Experience Reports,Experiences with formal specification of fault-tolerant file systems.,Roxana Geambasu;Andrew Birrell;John MacCormick;,https://doi.org/10.1109/DSN.2008.4630075
+dsn/dsn2008,2008,Practical Experience Reports,Using an assurance case to support independent assessment of the transition to a new GPS ground control system.,Elisabeth A. Nguyen;William S. Greenwell;Myron Hecht;,https://doi.org/10.1109/DSN.2008.4630076
+dsn/dsn2008,2008,Panel,Silent Data Corruption - Myth or reality?,Cristian Constantinescu;Ishwar Parulkar;R. Harper;Sarah Michalak;,https://doi.org/10.1109/DSN.2008.4630077
+dsn/dsn2008,2008,Tools and Practical Experience Reports,End-system tools for enhancing email reliability.,Tim Moors;Patrick Chu;,https://doi.org/10.1109/DSN.2008.4630078
+dsn/dsn2008,2008,Tools and Practical Experience Reports,Tempest: Towards early identification of failure-prone binaries.,Thirumalesh Bhat;Nachiappan Nagappan;,https://doi.org/10.1109/DSN.2008.4630079
+dsn/dsn2008,2008,Tools and Practical Experience Reports,Statistical Fault Injection.,Pradeep Ramachandran;Prabhakar Kudva;Jeffrey W. Kellington;John Schumann;Pia Sanda;,https://doi.org/10.1109/DSN.2008.4630080
+dsn/dsn2008,2008,Soft-Errors,An accurate flip-flop selection technique for reducing logic SER.,Eric L. Hill;Mikko H. Lipasti;Kewal K. Saluja;,https://doi.org/10.1109/DSN.2008.4630081
+dsn/dsn2008,2008,Soft-Errors,Combined circuit and microarchitecture techniques for effective soft error robustness in SMT processors.,Xin Fu;Tao Li;José A. B. Fortes;,https://doi.org/10.1109/DSN.2008.4630082
+dsn/dsn2008,2008,Storage and Server Dependability,Reliability of flat XOR-based erasure codes on heterogeneous devices.,Kevin M. Greenan;Ethan L. Miller;Jay J. Wylie;,https://doi.org/10.1109/DSN.2008.4630083
+dsn/dsn2008,2008,Storage and Server Dependability,ConfErr: A tool for assessing resilience to human configuration errors.,Lorenzo Keller;Prasang Upadhyaya;George Candea;,https://doi.org/10.1109/DSN.2008.4630084
+dsn/dsn2008,2008,Storage and Server Dependability,Enhanced server fault-tolerance for improved user experience.,Manish Marwah;Shivakant Mishra;Christof Fetzer;,https://doi.org/10.1109/DSN.2008.4630085
+dsn/dsn2008,2008,Intrusion Tolerance,Towards an understanding of anti-virtualization and anti-debugging behavior in modern malware.,Xu Chen;Jonathon Andersen;Zhuoqing Morley Mao;Michael Bailey;Jose Nazario;,https://doi.org/10.1109/DSN.2008.4630086
+dsn/dsn2008,2008,Intrusion Tolerance,Security through redundant data diversity.,Anh Nguyen-Tuong;David Evans;John C. Knight;Benjamin Cox;Jack W. Davidson;,https://doi.org/10.1109/DSN.2008.4630087
+dsn/dsn2008,2008,Intrusion Tolerance,Byzantine replication under attack.,Yair Amir;Brian A. Coan;Jonathan Kirsch;John Lane;,https://doi.org/10.1109/DSN.2008.4630088
+dsn/dsn2008,2008,Dynamic Systems and Replication,A robust and lightweight stable leader election service for dynamic systems.,Nicolas Schiper;Sam Toueg;,https://doi.org/10.1109/DSN.2008.4630089
+dsn/dsn2008,2008,Dynamic Systems and Replication,A fast restart mechanism for checkpoint/recovery protocols in networked environments.,Yawei Li;Zhiling Lan;,https://doi.org/10.1109/DSN.2008.4630090
+dsn/dsn2008,2008,Dynamic Systems and Replication,Tempest: Soft state replication in the service tier.,Tudor Marian;Mahesh Balakrishnan;Ken Birman;Robbert van Renesse;,https://doi.org/10.1109/DSN.2008.4630091
+dsn/dsn2008,2008,Security 2,AGIS: Towards automatic generation of infection signatures.,Zhuowei Li;XiaoFeng Wang;Zhenkai Liang;Michael K. Reiter;,https://doi.org/10.1109/DSN.2008.4630092
+dsn/dsn2008,2008,Security 2,Convicting exploitable software vulnerabilities: An efficient input provenance based approach.,Zhiqiang Lin;Xiangyu Zhang;Dongyan Xu;,https://doi.org/10.1109/DSN.2008.4630093
+dsn/dsn2008,2008,Security 2,Mapping software faults with web security vulnerabilities.,José Fonseca;Marco Vieira;,https://doi.org/10.1109/DSN.2008.4630094
+dsn/dsn2008,2008,Distributed Protocols,A fault-tolerant directory-based cache coherence protocol for CMP architectures.,Ricardo Fernández Pascual;José M. García;Manuel E. Acacio;José Duato;,https://doi.org/10.1109/DSN.2008.4630095
+dsn/dsn2008,2008,Distributed Protocols,Probabilistic quorum systems in wireless ad hoc networks.,Roy Friedman;Gabriel Kliot;Chen Avin;,https://doi.org/10.1109/DSN.2008.4630096
+dsn/dsn2008,2008,Distributed Protocols,BAR primer.,Allen Clement;Harry C. Li;Jeff Napper;Jean-Philippe Martin;Lorenzo Alvisi;Michael Dahlin;,https://doi.org/10.1109/DSN.2008.4630097
+dsn/dsn2008,2008,Networks,Improving dependability of network configuration through policy classification.,Sihyung Lee;Tina Wong;Hyong S. Kim;,https://doi.org/10.1109/DSN.2008.4630098
+dsn/dsn2008,2008,Networks,Traffic grooming in WDM mesh networks with guaranteed survivability.,Ataul Bari;Quazi Rahman;Arunita Jaekel;Subir Bandyopadhyay;,https://doi.org/10.1109/DSN.2008.4630099
+dsn/dsn2008,2008,Networks,Implementation and evaluation of a distributed and cooperative load-balancing mechanism for dependable volunteer computing.,Yoshitomo Murata;Tsutomu Inaba;Hiroyuki Takizawa;Hiroaki Kobayashi;,https://doi.org/10.1109/DSN.2008.4630100
+dsn/dsn2008,2008,Self-Managing Systems,"An integrated approach to resource pool management: Policies, efficiency and quality metrics.",Daniel Gmach;Jerry Rolia;Ludmila Cherkasova;Guillaume Belrose;Tom Turicchi;Alfons Kemper;,https://doi.org/10.1109/DSN.2008.4630101
+dsn/dsn2008,2008,Self-Managing Systems,Scheduling for performance and availability in systems with temporal dependent workloads.,Ningfang Mi;Giuliano Casale;Evgenia Smirni;,https://doi.org/10.1109/DSN.2008.4630102
+dsn/dsn2008,2008,Self-Managing Systems,Hot-spot prediction and alleviation in distributed stream processing applications.,Thomas Repantis;Vana Kalogeraki;,https://doi.org/10.1109/DSN.2008.4630103
+dsn/dsn2008,2008,Security 1,On localization attacks to Internet Threat Monitors: An information-theoretic framework.,Wei Yu;Nan Zhang;Xinwen Fu;Riccardo Bettati;Wei Zhao;,https://doi.org/10.1109/DSN.2008.4630104
+dsn/dsn2008,2008,Security 1,Automatic security assessment of critical cyber-infrastructures.,Zahid Anwar;Ravinder Shankesi;Roy H. Campbell;,https://doi.org/10.1109/DSN.2008.4630105
+dsn/dsn2008,2008,Security 1,Evaluating email's feasibility for botnet command and control.,Kapil Singh;Abhinav Srivastava;Jonathon T. Giffin;Wenke Lee;,https://doi.org/10.1109/DSN.2008.4630106
+dsn/dsn2008,2008,Practical Experience Reports and Demos,Scaling file systems to support petascale clusters: A dependability analysis to support informed design choices.,Shravan Gaonkar;Eric Rozier;Anthony Tong;William H. Sanders;,https://doi.org/10.1109/DSN.2008.4630107
+dsn/dsn2008,2008,Practical Experience Reports and Demos,WS-DREAM: A distributed reliability assessment Mechanism for Web Services.,Zibin Zheng;Michael R. Lyu;,https://doi.org/10.1109/DSN.2008.4630108
+dsn/dsn2008,2008,Practical Experience Reports and Demos,A log mining approach to failure analysis of enterprise telephony systems.,Chinghway Lim;Navjot Singh;Shalini Yajnik;,https://doi.org/10.1109/DSN.2008.4630109
+dsn/dsn2008,2008,Practical Experience Reports and Demos,Integration and evaluation of Multi-Instance-Precommit schemes within postgreSQL.,Paolo Romano;Francesco Quaglia;,https://doi.org/10.1109/DSN.2008.4630110
+dsn/dsn2008,2008,Networks and Mobile Systems,Toward an understanding of the processing delay of peer-to-peer relay nodes.,Kuan-Ta Chen;Jing-Kai Lou;,https://doi.org/10.1109/DSN.2008.4630111
+dsn/dsn2008,2008,Networks and Mobile Systems,TCP covert timing channels: Design and detection.,Xiapu Luo;Edmond W. W. Chan;Rocky K. C. Chang;,https://doi.org/10.1109/DSN.2008.4630112
+dsn/dsn2008,2008,Networks and Mobile Systems,A smart triggering scheme to reduce service interruption during heterogeneous handovers.,Huaiyu Liu;Christian Maciocco;Vijay Kesavan;Andy Lock Yen Low;,https://doi.org/10.1109/DSN.2008.4630113
+dsn/dsn2008,2008,Panel,On representing knowledge in the dependability domain: a panel discussion.,Algirdas Avizienis;,https://doi.org/10.1109/DSN.2008.4630114
+dsn/dsn2008,2008,Evaluation and Measurement,Evaluating availability under quasi-heavy-tailed repair times.,Sei Kato;Takayuki Osogami;,https://doi.org/10.1109/DSN.2008.4630115
+dsn/dsn2008,2008,Evaluation and Measurement,Anomaly? application change? or workload change? towards automated detection of application performance anomaly and change.,Ludmila Cherkasova;Kivanc M. Ozonat;Ningfang Mi;Julie Symons;Evgenia Smirni;,https://doi.org/10.1109/DSN.2008.4630116
+dsn/dsn2008,2008,Evaluation and Measurement,Survivability quantification of communication services.,Poul E. Heegaard;Kishor S. Trivedi;,https://doi.org/10.1109/DSN.2008.4630117
+dsn/dsn2008,2008,Error Detection,SymPLFIED: Symbolic program-level fault injection and error detection framework.,Karthik Pattabiraman;Nithin Nakka;Zbigniew Kalbarczyk;Ravishankar K. Iyer;,https://doi.org/10.1109/DSN.2008.4630118
+dsn/dsn2008,2008,Error Detection,A characterization of instruction-level error derating and its implications for error detection.,Jeffrey J. Cook;Craig B. Zilles;,https://doi.org/10.1109/DSN.2008.4630119
+dsn/dsn2008,2008,Storage Systems,Enhancing data availability in disk drives through background activities.,Ningfang Mi;Alma Riska;Evgenia Smirni;Erik Riedel;,https://doi.org/10.1109/DSN.2008.4630120
+dsn/dsn2008,2008,Storage Systems,Analyzing the effects of disk-pointer corruption.,Lakshmi N. Bairavasundaram;Meenali Rungta;Nitin Agrawal;Andrea C. Arpaci-Dusseau;Remzi H. Arpaci-Dusseau;Michael M. Swift;,https://doi.org/10.1109/DSN.2008.4630121
+dsn/dsn2008,2008,Modeling 2,Architectural dependability evaluation with Arcade.,Hichem Boudali;Pepijn Crouzen;Boudewijn R. Haverkort;Matthias Kuntz;Mariëlle Stoelinga;,https://doi.org/10.1109/DSN.2008.4630122
+dsn/dsn2008,2008,Modeling 2,An information-theoretic approach to detecting performance anomalies and changes for large-scale distributed web services.,Kivanc M. Ozonat;,https://doi.org/10.1109/DSN.2008.4630123
+dsn/dsn2008,2008,Modeling 2,A recurrence-relation-based reward model for performability evaluation of embedded systems.,Ann T. Tai;Kam S. Tso;William H. Sanders;,https://doi.org/10.1109/DSN.2008.4630124
+dsn/dsn2008,2008,Workshops,International Workshop on Resilience Assessment and Dependability Benchmarking (RADB 2008).,Andrea Bondavalli;István Majzik;Aad P. A. van Moorsel;,https://doi.org/10.1109/DSN.2008.4630125
+dsn/dsn2008,2008,Workshops,Workshop on compiler and architectural techniques for application reliability and security (CATARS).,Karthik Pattabiraman;Shuo Chen;Zbigniew Kalbarczyk;,https://doi.org/10.1109/DSN.2008.4630126
+dsn/dsn2008,2008,Workshops,Second workshop on dependable and secure nanocomputing.,Jean Arlat;Cristian Constantinescu;Ravishankar K. Iyer;Michael Nicolaidis;,https://doi.org/10.1109/DSN.2008.4630127
+dsn/dsn2008,2008,Workshops,Workshop on Architecting Dependable Systems (WADS 2008).,Rogério de Lemos;Jean-Charles Fabre;Cristina Gacek;,https://doi.org/10.1109/DSN.2008.4630128

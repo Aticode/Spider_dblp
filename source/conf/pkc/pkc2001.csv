@@ -1,0 +1,30 @@
+pkc/pkc2001,2001,None,On the Security of Williams Based Public Key Encryption Scheme.,Siguna Müller;,https://doi.org/10.1007/3-540-44586-2_1
+pkc/pkc2001,2001,None,Semantically Secure McEliece Public-Key Cryptosystems-Conversions for McEliece PKC.,Kazukuni Kobara;Hideki Imai;,https://doi.org/10.1007/3-540-44586-2_2
+pkc/pkc2001,2001,None,IND-CCA Public Key Schemes Equivalent to Factoring n=pq.,Kaoru Kurosawa;Wakaha Ogata;Toshihiko Matsuo;Shuichi Makishima;,https://doi.org/10.1007/3-540-44586-2_3
+pkc/pkc2001,2001,None,"Identification, Signature and Signcryption Using High Order Residues Modulo an RSA Composite.",Yuliang Zheng;,https://doi.org/10.1007/3-540-44586-2_4
+pkc/pkc2001,2001,None,On the Security of Lenstra's Variant of DSA without Long Inversions.,Arjen K. Lenstra;Igor E. Shparlinski;,https://doi.org/10.1007/3-540-44586-2_5
+pkc/pkc2001,2001,None,Fast Irreducibility and Subgroup Membership Testing in XTR.,Arjen K. Lenstra;Eric R. Verheul;,https://doi.org/10.1007/3-540-44586-2_6
+pkc/pkc2001,2001,None,A New Aspect for Security Notions: Secure Randomness in Public-Key Encryption Schemes.,Takeshi Koshiba;,https://doi.org/10.1007/3-540-44586-2_7
+pkc/pkc2001,2001,None,The Gap-Problems: A New Class of Problems for the Security of Cryptographic Schemes.,Tatsuaki Okamoto;David Pointcheval;,https://doi.org/10.1007/3-540-44586-2_8
+pkc/pkc2001,2001,None,"A Generalisation, a Simplification and Some Applications of Paillier's Probabilistic Public-Key System.",Ivan Damgård;Mads Jurik;,https://doi.org/10.1007/3-540-44586-2_9
+pkc/pkc2001,2001,None,Marking: A Privacy Protecting Approach Against Blackmailing.,Dennis Kügler;Holger Vogt;,https://doi.org/10.1007/3-540-44586-2_10
+pkc/pkc2001,2001,None,Cryptanalysis of Two Sparse Polynomial Based Public Key Cryptosystems.,Feng Bao;Robert H. Deng;Willi Geiselmann;Claus-Peter Schnorr;Rainer Steinwandt;Hongjun Wu;,https://doi.org/10.1007/3-540-44586-2_11
+pkc/pkc2001,2001,None,Cryptanalysis of PKP: A New Approach.,Éliane Jaulmes;Antoine Joux;,https://doi.org/10.1007/3-540-44586-2_12
+pkc/pkc2001,2001,None,Cryptanalysis of a Digital Signature Scheme on ID-Based Key-Sharing Infrastructures.,Hongjun Wu;Feng Bao;Robert H. Deng;,https://doi.org/10.1007/3-540-44586-2_13
+pkc/pkc2001,2001,None,Loopholes in Two Public Key Cryptosystems Using the Modular Group.,Rainer Steinwandt;,https://doi.org/10.1007/3-540-44586-2_14
+pkc/pkc2001,2001,None,Efficient Revocation in Group Signatures.,Emmanuel Bresson;Jacques Stern;,https://doi.org/10.1007/3-540-44586-2_15
+pkc/pkc2001,2001,None,A Public-Key Traitor Tracing Scheme with Revocation Using Dynamic Shares.,Wen-Guey Tzeng;Zhi-Jia Tzeng;,https://doi.org/10.1007/3-540-44586-2_16
+pkc/pkc2001,2001,None,Efficient Asymmetric Self-Enforcement Scheme with Public Traceability.,Hirotaka Komaki;Yuji Watanabe;Goichiro Hanaoka;Hideki Imai;,https://doi.org/10.1007/3-540-44586-2_17
+pkc/pkc2001,2001,None,Adaptive Security for the Additive-Sharing Based Proactive RSA.,Yair Frankel;Philip D. MacKenzie;Moti Yung;,https://doi.org/10.1007/3-540-44586-2_18
+pkc/pkc2001,2001,None,Robust Forward-Secure Signature Schemes with Proactive Security.,Wen-Guey Tzeng;Zhi-Jia Tzeng;,https://doi.org/10.1007/3-540-44586-2_19
+pkc/pkc2001,2001,None,Equitability in Retroactive Data Confiscation versus Proactive Key Escrow.,Yvo Desmedt;Mike Burmester;Jennifer Seberry;,https://doi.org/10.1007/3-540-44586-2_20
+pkc/pkc2001,2001,None,A PVSS as Hard as Discrete Log and Shareholder Separability.,Adam L. Young;Moti Yung;,https://doi.org/10.1007/3-540-44586-2_21
+pkc/pkc2001,2001,None,One Round Threshold Discrete-Log Key Generation without Private Channels.,Pierre-Alain Fouque;Jacques Stern;,https://doi.org/10.1007/3-540-44586-2_22
+pkc/pkc2001,2001,None,Remarks on Mix-Network Based on Permutation Networks.,Masayuki Abe;Fumitaka Hoshino;,https://doi.org/10.1007/3-540-44586-2_23
+pkc/pkc2001,2001,None,New Key Recovery in WAKE Protocol.,Chong Hee Kim;Pil Joong Lee;,https://doi.org/10.1007/3-540-44586-2_24
+pkc/pkc2001,2001,None,Redundant Representation of Finite Fields.,Willi Geiselmann;Harald Lukhaub;,https://doi.org/10.1007/3-540-44586-2_25
+pkc/pkc2001,2001,None,Compact Encoding of Non-adjacent Forms with Applications to Elliptic Curve Cryptography.,Marc Joye;Christophe Tymen;,https://doi.org/10.1007/3-540-44586-2_26
+pkc/pkc2001,2001,None,Efficient Implementation of Elliptic Curve Cryptosystems on the TI MSP 430x33x Family of Microcontrollers.,Jorge Guajardo;Rainer Blümel;Uwe Krieger;Christof Paar;,https://doi.org/10.1007/3-540-44586-2_27
+pkc/pkc2001,2001,None,Secure Server-Aided Signature Generation.,Markus Jakobsson;Susanne Wetzel;,https://doi.org/10.1007/3-540-44586-2_28
+pkc/pkc2001,2001,None,Efficient Long-Term Validation of Digital Signatures.,Arne Ansper;Ahto Buldas;Meelis Roos;Jan Willemson;,https://doi.org/10.1007/3-540-44586-2_29
+pkc/pkc2001,2001,None,A Novel Systolic Architecture for Efficient RSA Implementation.,Nikos K. Moshopoulos;Kiamal Z. Pekmestzi;,https://doi.org/10.1007/3-540-44586-2_30

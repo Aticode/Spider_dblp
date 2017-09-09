@@ -1,0 +1,36 @@
+ccs/ccs2003,2003,Keynote,Privacy cognizant information systems.,Rakesh Agrawal;,http://doi.acm.org/10.1145/948109.948111
+ccs/ccs2003,2003,DOS protection,DoS protection for UDP-based protocols.,Charlie Kaufman;Radia J. Perlman;Bill Sommerfeld;,http://doi.acm.org/10.1145/948109.948113
+ccs/ccs2003,2003,DOS protection,Using graphic turing tests to counter automated DDoS attacks against web servers.,William G. Morein;Angelos Stavrou;Debra L. Cook;Angelos D. Keromytis;Vishal Misra;Dan Rubenstein;,http://doi.acm.org/10.1145/948109.948114
+ccs/ccs2003,2003,DOS protection,Robust correlation of encrypted attack traffic through stepping stones by manipulation of interpacket delays.,Xinyuan Wang;Douglas S. Reeves;,http://doi.acm.org/10.1145/948109.948115
+ccs/ccs2003,2003,DOS protection,Hop-count filtering: an effective defense against spoofed DDoS traffic.,Cheng Jin;Haining Wang;Kang G. Shin;,http://doi.acm.org/10.1145/948109.948116
+ccs/ccs2003,2003,Sensor networks,A pairwise key pre-distribution scheme for wireless sensor networks.,Wenliang Du;Jing Deng;Yunghsiang S. Han;Pramod K. Varshney;,http://doi.acm.org/10.1145/948109.948118
+ccs/ccs2003,2003,Sensor networks,Establishing pairwise keys in distributed sensor networks.,Donggang Liu;Peng Ning;,http://doi.acm.org/10.1145/948109.948119
+ccs/ccs2003,2003,Sensor networks,LEAP: efficient security mechanisms for large-scale distributed sensor networks.,Sencun Zhu;Sanjeev Setia;Sushil Jajodia;,http://doi.acm.org/10.1145/948109.948120
+ccs/ccs2003,2003,Sensor networks,XML access control using static analysis.,Makoto Murata;Akihiko Tozawa;Michiharu Kudo;Satoshi Hada;,http://doi.acm.org/10.1145/948109.948122
+ccs/ccs2003,2003,Sensor networks,"On permissions, inheritance and role hierarchies.",Jason Crampton;,http://doi.acm.org/10.1145/948109.948123
+ccs/ccs2003,2003,Sensor networks,Balancing confidentiality and efficiency in untrusted relational DBMSs.,Ernesto Damiani;Sabrina De Capitani di Vimercati;Sushil Jajodia;Stefano Paraboschi;Pierangela Samarati;,http://doi.acm.org/10.1145/948109.948124
+ccs/ccs2003,2003,Privacy/anonymity,The blocker tag: selective blocking of RFID tags for consumer privacy.,Ari Juels;Ronald L. Rivest;Michael Szydlo;,http://doi.acm.org/10.1145/948109.948126
+ccs/ccs2003,2003,Privacy/anonymity,Receiver anonymity via incomparable public keys.,Brent R. Waters;Edward W. Felten;Amit Sahai;,http://doi.acm.org/10.1145/948109.948127
+ccs/ccs2003,2003,Privacy/anonymity,k-anonymous message transmission.,Luis von Ahn;Andrew Bortz;Nicholas J. Hopper;,http://doi.acm.org/10.1145/948109.948128
+ccs/ccs2003,2003,Authentication and signature schemes,"On the performance, feasibility, and use of forward-secure signatures.",Eric Cronin;Sugih Jamin;Tal Malkin;Patrick D. McDaniel;,http://doi.acm.org/10.1145/948109.948130
+ccs/ccs2003,2003,Authentication and signature schemes,Print signatures for document authentication.,Baoshi Zhu;Jiankang Wu;Mohan S. Kankanhalli;,http://doi.acm.org/10.1145/948109.948131
+ccs/ccs2003,2003,Authentication and signature schemes,Efficiency improvements for signature schemes with tight security reductions.,Jonathan Katz;Nan Wang;,http://doi.acm.org/10.1145/948109.948132
+ccs/ccs2003,2003,Authentication and signature schemes,Origin authentication in interdomain routing.,William Aiello;John Ioannidis;Patrick D. McDaniel;,http://doi.acm.org/10.1145/948109.948133
+ccs/ccs2003,2003,Information warfare,"Incentive-based modeling and inference of attacker intent, objectives, and strategies.",Peng Liu;Wanyu Zang;,http://doi.acm.org/10.1145/948109.948135
+ccs/ccs2003,2003,Information warfare,Monitoring and early warning for internet worms.,Cliff Changchun Zou;Lixin Gao;Weibo Gong;Donald F. Towsley;,http://doi.acm.org/10.1145/948109.948136
+ccs/ccs2003,2003,Information warfare,Learning attack strategies from intrusion alerts.,Peng Ning;Dingbang Xu;,http://doi.acm.org/10.1145/948109.948137
+ccs/ccs2003,2003,Cryptographic protocols/ network security,Automatic generation of two-party computations.,Philip D. MacKenzie;Alina Oprea;Michael K. Reiter;,http://doi.acm.org/10.1145/948109.948139
+ccs/ccs2003,2003,Cryptographic protocols/ network security,A composable cryptographic library with nested operations.,Michael Backes;Birgit Pfitzmann;Michael Waidner;,http://doi.acm.org/10.1145/948109.948140
+ccs/ccs2003,2003,Cryptographic protocols/ network security,Efficient self-healing group key distribution with revocation capability.,Donggang Liu;Peng Ning;Kun Sun;,http://doi.acm.org/10.1145/948109.948141
+ccs/ccs2003,2003,Cryptographic protocols/ network security,Security proofs for an efficient password-based key exchange.,Emmanuel Bresson;Olivier Chevassut;David Pointcheval;,http://doi.acm.org/10.1145/948109.948142
+ccs/ccs2003,2003,Intrusion detection,Anomaly detection of web-based attacks.,Christopher Krügel;Giovanni Vigna;,http://doi.acm.org/10.1145/948109.948144
+ccs/ccs2003,2003,Intrusion detection,Enhancing byte-level network intrusion detection signatures with context.,Robin Sommer;Vern Paxson;,http://doi.acm.org/10.1145/948109.948145
+ccs/ccs2003,2003,Intrusion detection,Countering code-injection attacks with instruction-set randomization.,Gaurav S. Kc;Angelos D. Keromytis;Vassilis Prevelakis;,http://doi.acm.org/10.1145/948109.948146
+ccs/ccs2003,2003,Intrusion detection,Randomized instruction set emulation to disrupt binary code injection attacks.,Elena Gabriela Barrantes;David H. Ackley;Trek S. Palmer;Darko Stefanovic;Dino Dai Zovi;,http://doi.acm.org/10.1145/948109.948147
+ccs/ccs2003,2003,Emerging applications,Obfuscation of executable code to improve resistance to static disassembly.,Cullen Linn;Saumya K. Debray;,http://doi.acm.org/10.1145/948109.948149
+ccs/ccs2003,2003,Emerging applications,PPay: micropayments for peer-to-peer systems.,Beverly Yang;Hector Garcia-Molina;,http://doi.acm.org/10.1145/948109.948150
+ccs/ccs2003,2003,Emerging applications,A new CRT-RSA algorithm secure against bellcore attacks.,Johannes Blömer;Martin Otto;Jean-Pierre Seifert;,http://doi.acm.org/10.1145/948109.948151
+ccs/ccs2003,2003,Analysis and verification,"MECA: an extensible, expressive system and language for statically checking security properties.",Junfeng Yang;Ted Kremenek;Yichen Xie;Dawson R. Engler;,http://doi.acm.org/10.1145/948109.948153
+ccs/ccs2003,2003,Analysis and verification,CDiff: a new reduction technique for constraint-based analysis of security protocols.,David A. Basin;Sebastian Mödersheim;Luca Viganò;,http://doi.acm.org/10.1145/948109.948154
+ccs/ccs2003,2003,Analysis and verification,Buffer overrun detection using linear programming and static analysis.,Vinod Ganapathy;Somesh Jha;David Chandler;David Melski;David Vitek;,http://doi.acm.org/10.1145/948109.948155
+ccs/ccs2003,2003,Analysis and verification,Cryptographic tamper evidence.,Gene Itkis;,http://doi.acm.org/10.1145/948109.948156

@@ -1,0 +1,29 @@
+fse/fse2005,2005,New Designs,A New MAC Construction ALRED and a Specific Instance ALPHA-MAC.,Joan Daemen;Vincent Rijmen;,https://doi.org/10.1007/11502760_1
+fse/fse2005,2005,New Designs,New Applications of T-Functions in Block Ciphers and Hash Functions.,Alexander Klimov;Adi Shamir;,https://doi.org/10.1007/11502760_2
+fse/fse2005,2005,New Designs,The Poly1305-AES Message-Authentication Code.,Daniel J. Bernstein;,https://doi.org/10.1007/11502760_3
+fse/fse2005,2005,Stream Ciphers,Narrow T-Functions.,Magnus Daum;,https://doi.org/10.1007/11502760_4
+fse/fse2005,2005,Stream Ciphers,A New Class of Single Cycle T-Functions.,Jin Hong;Dong Hoon Lee;Yongjin Yeom;Daewan Han;,https://doi.org/10.1007/11502760_5
+fse/fse2005,2005,Stream Ciphers,F-FCSR: Design of a New Class of Stream Ciphers.,François Arnault;Thierry P. Berger;,https://doi.org/10.1007/11502760_6
+fse/fse2005,2005,Boolean Functions,Cryptographically Significant Boolean Functions: Construction and Analysis in Terms of Algebraic Immunity.,Deepak Kumar Dalai;Kishan Chand Gupta;Subhamoy Maitra;,https://doi.org/10.1007/11502760_7
+fse/fse2005,2005,Boolean Functions,The ANF of the Composition of Addition and Multiplication mod 2n with a Boolean Function.,An Braeken;Igor A. Semaev;,https://doi.org/10.1007/11502760_8
+fse/fse2005,2005,Block Ciphers,New Combined Attacks on Block Ciphers.,Eli Biham;Orr Dunkelman;Nathan Keller;,https://doi.org/10.1007/11502760_9
+fse/fse2005,2005,Block Ciphers,Small Scale Variants of the AES.,Carlos Cid;Sean Murphy;Matthew J. B. Robshaw;,https://doi.org/10.1007/11502760_10
+fse/fse2005,2005,Stream Ciphers,Unbiased Random Sequences from Quasigroup String Transformations.,Smile Markovski;Danilo Gligoroski;Ljupco Kocarev;,https://doi.org/10.1007/11502760_11
+fse/fse2005,2005,Stream Ciphers,A New Distinguisher for Clock Controlled Stream Ciphers.,Håkan Englund;Thomas Johansson;,https://doi.org/10.1007/11502760_12
+fse/fse2005,2005,Stream Ciphers,Analysis of the Bit-Search Generator and Sequence Compression Techniques.,Aline Gouget;Hervé Sibert;Côme Berbain;Nicolas Courtois;Blandine Debraize;Chris J. Mitchell;,https://doi.org/10.1007/11502760_13
+fse/fse2005,2005,Stream Ciphers,Some Attacks on the Bit-Search Generator.,Martin Hell;Thomas Johansson;,https://doi.org/10.1007/11502760_14
+fse/fse2005,2005,Hash Functions,SMASH - A Cryptographic Hash Function.,Lars R. Knudsen;,https://doi.org/10.1007/11502760_15
+fse/fse2005,2005,Hash Functions,Security Analysis of a 2/3-Rate Double Length Compression Function in the Black-Box Model.,Mridul Nandi;Wonil Lee;Kouichi Sakurai;Sangjin Lee;,https://doi.org/10.1007/11502760_16
+fse/fse2005,2005,Hash Functions,Preimage and Collision Attacks on MD2.,Lars R. Knudsen;John Erik Mathiassen;,https://doi.org/10.1007/11502760_17
+fse/fse2005,2005,Modes of Operation,How to Enhance the Security of the 3GPP Confidentiality and Integrity Algorithms.,Tetsu Iwata;Kaoru Kurosawa;,https://doi.org/10.1007/11502760_18
+fse/fse2005,2005,Modes of Operation,Two-Pass Authenticated Encryption Faster Than Generic Composition.,Stefan Lucks;,https://doi.org/10.1007/11502760_19
+fse/fse2005,2005,Modes of Operation,Padding Oracle Attacks on CBC-Mode Encryption with Secret and Random IVs.,Arnold K. L. Yau;Kenneth G. Paterson;Chris J. Mitchell;,https://doi.org/10.1007/11502760_20
+fse/fse2005,2005,Stream Ciphers,Analysis of the Non-linear Part of Mugi.,Alex Biryukov;Adi Shamir;,https://doi.org/10.1007/11502760_21
+fse/fse2005,2005,Stream Ciphers,Two Attacks Against the HBB Stream Cipher.,Antoine Joux;Frédéric Muller;,https://doi.org/10.1007/11502760_22
+fse/fse2005,2005,Stream Ciphers,Two Linear Distinguishing Attacks on VMPC and RC4A and Weakness of RC4 Family of Stream Ciphers.,Alexander Maximov;,https://doi.org/10.1007/11502760_23
+fse/fse2005,2005,Stream Ciphers,Impossible Fault Analysis of RC4 and Differential Fault Analysis of RC4.,Eli Biham;Louis Granboulan;Phong Q. Nguyen;,https://doi.org/10.1007/11502760_24
+fse/fse2005,2005,Block Ciphers,Related-Key Rectangle Attacks on Reduced Versions of SHACAL-1 and AES-192.,Seokhie Hong;Jongsung Kim;Sangjin Lee;Bart Preneel;,https://doi.org/10.1007/11502760_25
+fse/fse2005,2005,Block Ciphers,New Attacks Against Reduced-Round Versions of IDEA.,Pascal Junod;,https://doi.org/10.1007/11502760_26
+fse/fse2005,2005,Implementations,How to Maximize Software Performance of Symmetric Primitives on Pentium III and 4 Processors.,Mitsuru Matsui;Sayaka Fukuda;,https://doi.org/10.1007/11502760_27
+fse/fse2005,2005,Implementations,A Side-Channel Analysis Resistant Description of the AES S-Box.,Elisabeth Oswald;Stefan Mangard;Norbert Pramstaller;Vincent Rijmen;,https://doi.org/10.1007/11502760_28
+fse/fse2005,2005,Implementations,DPA Attacks and S-Boxes.,Emmanuel Prouff;,https://doi.org/10.1007/11502760_29

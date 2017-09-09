@@ -1,0 +1,31 @@
+fse/fse2014,2014,Designs,Direct Construction of Recursive MDS Diffusion Layers Using Shortened BCH Codes.,Daniel Augot;Matthieu Finiasz;,https://doi.org/10.1007/978-3-662-46706-0_1
+fse/fse2014,2014,Designs,LS-Designs: Bitslice Encryption for Efficient Masked Software Implementations.,Vincent Grosso;Gaëtan Leurent;François-Xavier Standaert;Kerem Varici;,https://doi.org/10.1007/978-3-662-46706-0_2
+fse/fse2014,2014,Designs,SPRING: Fast Pseudorandom Functions from Rounded Ring Products.,Abhishek Banerjee;Hai Brenner;Gaëtan Leurent;Chris Peikert;Alon Rosen;,https://doi.org/10.1007/978-3-662-46706-0_3
+fse/fse2014,2014,Cryptanalysis,Match Box Meet-in-the-Middle Attack Against KATAN.,Thomas Fuhr;Brice Minaud;,https://doi.org/10.1007/978-3-662-46706-0_4
+fse/fse2014,2014,Cryptanalysis,"Collision Spectrum, Entropy Loss, T-Sponges, and Cryptanalysis of GLUON-64.",Léo Perrin;Dmitry Khovratovich;,https://doi.org/10.1007/978-3-662-46706-0_5
+fse/fse2014,2014,Cryptanalysis,"Improved All-Subkeys Recovery Attacks on FOX, KATAN and SHACAL-2 Block Ciphers.",Takanori Isobe;Kyoji Shibutani;,https://doi.org/10.1007/978-3-662-46706-0_6
+fse/fse2014,2014,Cryptanalysis,Improved Single-Key Attacks on 9-Round AES-192/256.,Leibo Li;Keting Jia;Xiaoyun Wang;,https://doi.org/10.1007/978-3-662-46706-0_7
+fse/fse2014,2014,Authenticated Encryption,CLOC: Authenticated Encryption for Short Input.,Tetsu Iwata;Kazuhiko Minematsu;Jian Guo;Sumio Morioka;,https://doi.org/10.1007/978-3-662-46706-0_8
+fse/fse2014,2014,Authenticated Encryption,APE: Authenticated Permutation-Based Encryption for Lightweight Cryptography.,Elena Andreeva;Begül Bilgin;Andrey Bogdanov;Atul Luykx;Bart Mennink;Nicky Mouha;Kan Yasuda;,https://doi.org/10.1007/978-3-662-46706-0_9
+fse/fse2014,2014,Authenticated Encryption,COBRA: A Parallelizable Authenticated Online Cipher Without Block Cipher Inverse.,Elena Andreeva;Atul Luykx;Bart Mennink;Kan Yasuda;,https://doi.org/10.1007/978-3-662-46706-0_10
+fse/fse2014,2014,Authenticated Encryption,Pipelineable On-line Encryption.,Farzaneh Abed;Scott R. Fluhrer;Christian Forler;Eik List;Stefan Lucks;David A. McGrew;Jakob Wenzel;,https://doi.org/10.1007/978-3-662-46706-0_11
+fse/fse2014,2014,Authenticated Encryption,Cryptanalysis of FIDES.,Itai Dinur;Jérémy Jean;,https://doi.org/10.1007/978-3-662-46706-0_12
+fse/fse2014,2014,Foundations and Theory,Security Analysis of Key-Alternating Feistel Ciphers.,Rodolphe Lampe;Yannick Seurin;,https://doi.org/10.1007/978-3-662-46706-0_13
+fse/fse2014,2014,Foundations and Theory,The Related-Key Analysis of Feistel Constructions.,Manuel Barbosa;Pooya Farshim;,https://doi.org/10.1007/978-3-662-46706-0_14
+fse/fse2014,2014,Foundations and Theory,The Indistinguishability of the XOR of k Permutations.,Benoit Cogliati;Rodolphe Lampe;Jacques Patarin;,https://doi.org/10.1007/978-3-662-46706-0_15
+fse/fse2014,2014,Foundations and Theory,Impact of ANSI X9.24-1: 2009 Key Check Value on ISO/IEC 9797-1: 2011 MACs.,Tetsu Iwata;Lei Wang;,https://doi.org/10.1007/978-3-662-46706-0_16
+fse/fse2014,2014,Stream Ciphers,Plaintext Recovery Attacks Against WPA/TKIP.,Kenneth G. Paterson;Bertram Poettering;Jacob C. N. Schuldt;,https://doi.org/10.1007/978-3-662-46706-0_17
+fse/fse2014,2014,Stream Ciphers,Dependence in IV-Related Bytes of RC4 Key Enhances Vulnerabilities in WPA.,Sourav Sen Gupta;Subhamoy Maitra;Willi Meier;Goutam Paul;Santanu Sarkar;,https://doi.org/10.1007/978-3-662-46706-0_18
+fse/fse2014,2014,Cryptanalysis,Probabilistic Slide Cryptanalysis and Its Applications to LED-64 and Zorro.,Hadi Soleimany;,https://doi.org/10.1007/978-3-662-46706-0_19
+fse/fse2014,2014,Cryptanalysis,Improved Linear Sieving Techniques with Applications to Step-Reduced LED-64.,Itai Dinur;Orr Dunkelman;Nathan Keller;Adi Shamir;,https://doi.org/10.1007/978-3-662-46706-0_20
+fse/fse2014,2014,Cryptanalysis,Differential-Linear Cryptanalysis Revisited.,Céline Blondeau;Gregor Leander;Kaisa Nyberg;,https://doi.org/10.1007/978-3-662-46706-0_21
+fse/fse2014,2014,Cryptanalysis,Improved Slender-Set Linear Cryptanalysis.,Guo-qiang Liu;Chen-Hui Jin;Chuan-Da Qi;,https://doi.org/10.1007/978-3-662-46706-0_22
+fse/fse2014,2014,Cryptanalysis,Cryptanalysis of KLEIN.,Virginie Lallemand;María Naya-Plasencia;,https://doi.org/10.1007/978-3-662-46706-0_23
+fse/fse2014,2014,Hash Functions,Branching Heuristics in Differential Collision Search with Applications to SHA-512.,Maria Eichlseder;Florian Mendel;Martin Schläffer;,https://doi.org/10.1007/978-3-662-46706-0_24
+fse/fse2014,2014,Hash Functions,On the Minimum Number of Multiplications Necessary for Universal Hash Functions.,Mridul Nandi;,https://doi.org/10.1007/978-3-662-46706-0_25
+fse/fse2014,2014,Hash Functions,Collision Attack on 5 Rounds of Grøstl.,Florian Mendel;Vincent Rijmen;Martin Schläffer;,https://doi.org/10.1007/978-3-662-46706-0_26
+fse/fse2014,2014,Cryptanalysis,Differential Cryptanalysis of Round-Reduced Simon and Speck.,Farzaneh Abed;Eik List;Stefan Lucks;Jakob Wenzel;,https://doi.org/10.1007/978-3-662-46706-0_27
+fse/fse2014,2014,Cryptanalysis,Differential Analysis of Block Ciphers SIMON and SPECK.,Alex Biryukov;Arnab Roy;Vesselin Velichkov;,https://doi.org/10.1007/978-3-662-46706-0_28
+fse/fse2014,2014,Cryptanalysis,Equivalent Key Recovery Attacks Against HMAC and NMAC with Whirlpool Reduced to 7 Rounds.,Jian Guo;Yu Sasaki;Lei Wang;Meiqin Wang;Long Wen;,https://doi.org/10.1007/978-3-662-46706-0_29
+fse/fse2014,2014,Cryptanalysis,Multiple Differential Cryptanalysis of Round-Reduced PRINCE.,Anne Canteaut;Thomas Fuhr;Henri Gilbert;María Naya-Plasencia;Jean-René Reinhard;,https://doi.org/10.1007/978-3-662-46706-0_30
+fse/fse2014,2014,Advanced Constructions,Efficient Fuzzy Search on Encrypted Data.,Alexandra Boldyreva;Nathan Chenette;,https://doi.org/10.1007/978-3-662-46706-0_31

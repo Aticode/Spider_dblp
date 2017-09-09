@@ -1,0 +1,27 @@
+eurocrypt/eurocrypt87,1987,Sequences and Linear Complexity,In Memoriam Tore Herlestam (1929 - 1986).,James L. Massey;,https://doi.org/10.1007/3-540-39118-5_1
+eurocrypt/eurocrypt87,1987,Sequences and Linear Complexity,Alternating Step Generators Controlled by De Bruijn Sequences.,Christoph G. Günther;,https://doi.org/10.1007/3-540-39118-5_2
+eurocrypt/eurocrypt87,1987,Sequences and Linear Complexity,Generation of Binary Sequences with Controllable Complexity and Ideal r-Tupel Distribution.,Thomas Siegenthaler;Amstein Walthert Kleiner;Réjane Forré;,https://doi.org/10.1007/3-540-39118-5_3
+eurocrypt/eurocrypt87,1987,Sequences and Linear Complexity,Some Remarks on the Cross Correlation Analysis of Pseudo Random Generators.,Sibylle Mund;Dieter Gollmann;Thomas Beth;,https://doi.org/10.1007/3-540-39118-5_4
+eurocrypt/eurocrypt87,1987,Sequences and Linear Complexity,Sequences With Almost Perfect Linear Complexity Profile.,Harald Niederreiter;,https://doi.org/10.1007/3-540-39118-5_5
+eurocrypt/eurocrypt87,1987,Sequences and Linear Complexity,When Shift Registers Clock Themselves.,Rainer A. Rueppel;,https://doi.org/10.1007/3-540-39118-5_6
+eurocrypt/eurocrypt87,1987,Sequences and Linear Complexity,Finite State Machine Modelling of Cryptographic Systems in Loops.,Franz Pichler;,https://doi.org/10.1007/3-540-39118-5_7
+eurocrypt/eurocrypt87,1987,Hardware Topics,Random Sources for Cryptographic Systems.,Gordon B. Agnew;,https://doi.org/10.1007/3-540-39118-5_8
+eurocrypt/eurocrypt87,1987,Hardware Topics,Physical Protection of Cryptographic Devices.,Andrew J. Clark;,https://doi.org/10.1007/3-540-39118-5_9
+eurocrypt/eurocrypt87,1987,Hardware Topics,The RSA Cryptography Processor.,Holger Sedlak;,https://doi.org/10.1007/3-540-39118-5_10
+eurocrypt/eurocrypt87,1987,Public Key Topics,Extension of Brickell's Algorithm for Breaking High Density Knapsacks.,F. Jorissen;Joos Vandewalle;René Govaerts;,https://doi.org/10.1007/3-540-39118-5_11
+eurocrypt/eurocrypt87,1987,Public Key Topics,On Privacy Homomorphisms (Extended Abstract).,Ernest F. Brickell;Yacov Yacobi;,https://doi.org/10.1007/3-540-39118-5_12
+eurocrypt/eurocrypt87,1987,Public Key Topics,An Improved Protocol for Demonstrating Possession of Discrete Logarithms and Some Generalizations.,David Chaum;Jan-Hendrik Evertse;Jeroen van de Graaf;,https://doi.org/10.1007/3-540-39118-5_13
+eurocrypt/eurocrypt87,1987,Public Key Topics,A Public Key Analog Cryptosystem.,George I. Davida;Gilbert G. Walter;,https://doi.org/10.1007/3-540-39118-5_14
+eurocrypt/eurocrypt87,1987,Authentication and Secure Transactions,Message Authentication with Arbitration of Transmitter/Receiver Disputes.,Gustavus J. Simmons;,https://doi.org/10.1007/3-540-39118-5_15
+eurocrypt/eurocrypt87,1987,Authentication and Secure Transactions,Perfect and Essentially Perfect Authentication Schemes.,Albrecht Beutelspacher;,https://doi.org/10.1007/3-540-39118-5_16
+eurocrypt/eurocrypt87,1987,Authentication and Secure Transactions,Message Authentication and Dynamic Passwords.,H. J. Beker;G. M. Cole;,https://doi.org/10.1007/3-540-39118-5_17
+eurocrypt/eurocrypt87,1987,Authentication and Secure Transactions,IC-Cards in High-Security Applications.,Ingrid Schaumüller-Bichl;,https://doi.org/10.1007/3-540-39118-5_18
+eurocrypt/eurocrypt87,1987,Hash Functions and Signatures,Collision Free Hash Functions and Public Key Signature Schemes.,Ivan Damgård;,https://doi.org/10.1007/3-540-39118-5_19
+eurocrypt/eurocrypt87,1987,Hash Functions and Signatures,Hash-Functions Using Modulo-N Operations.,Marc Girault;,https://doi.org/10.1007/3-540-39118-5_20
+eurocrypt/eurocrypt87,1987,Hash Functions and Signatures,Blinding for Unanticipated Signatures.,David Chaum;,https://doi.org/10.1007/3-540-39118-5_21
+eurocrypt/eurocrypt87,1987,Symmetric Ciphers:Theory,"Non-Expanding, Key-Minimal, Robustly-Perfect, Linear and Bilinear Ciphers.",James L. Massey;Ueli M. Maurer;Muzhong Wang;,https://doi.org/10.1007/3-540-39118-5_22
+eurocrypt/eurocrypt87,1987,Symmetric Ciphers:Theory,Linear Structures in Blockciphers.,Jan-Hendrik Evertse;,https://doi.org/10.1007/3-540-39118-5_23
+eurocrypt/eurocrypt87,1987,Symmetric Ciphers:Theory,Fast Data Encipherment Algorithm FEAL.,Akihiro Shimizu;Shoji Miyaguchi;,https://doi.org/10.1007/3-540-39118-5_24
+eurocrypt/eurocrypt87,1987,Symmetric Ciphers:Application,Modes of Blockcipher Algorithms and their Protection Against Active Eavesdropping.,Cees J. A. Jansen;Dick E. Boekee;,https://doi.org/10.1007/3-540-39118-5_25
+eurocrypt/eurocrypt87,1987,Symmetric Ciphers:Application,Security Considerations in the Design and Implementation of a new DES chip.,Ingrid Verbauwhede;Frank Hoornaert;Joos Vandewalle;Hugo De Man;,https://doi.org/10.1007/3-540-39118-5_26
+eurocrypt/eurocrypt87,1987,Symmetric Ciphers:Application,High-Performance Interface Architectures for Cryptographic Hardware.,David P. Anderson;P. Venkat Rangan;,https://doi.org/10.1007/3-540-39118-5_27

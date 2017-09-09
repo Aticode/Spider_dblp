@@ -1,0 +1,32 @@
+ches/ches2005,2005,Side Channels,Resistance of Randomized Projective Coordinates Against Power Analysis.,William Dupuy;Sébastien Kunz-Jacques;,https://doi.org/10.1007/11545262_1
+ches/ches2005,2005,Side Channels,Templates as Master Keys.,Dakshi Agrawal;Josyula R. Rao;Pankaj Rohatgi;Kai Schramm;,https://doi.org/10.1007/11545262_2
+ches/ches2005,2005,Side Channels,A Stochastic Model for Differential Side Channel Cryptanalysis.,Werner Schindler;Kerstin Lemke;Christof Paar;,https://doi.org/10.1007/11545262_3
+ches/ches2005,2005,Arithmetic for Cryptanalysis,A New Baby-Step Giant-Step Algorithm and Some Applications to Cryptanalysis.,Jean-Sébastien Coron;David Lefranc;Guillaume Poupard;,https://doi.org/10.1007/11545262_4
+ches/ches2005,2005,Arithmetic for Cryptanalysis,Further Hidden Markov Model Cryptanalysis.,P. J. Green;Richard Noad;Nigel P. Smart;,https://doi.org/10.1007/11545262_5
+ches/ches2005,2005,Low Resources,Energy-Efficient Software Implementation of Long Integer Modular Arithmetic.,Johann Großschädl;Roberto Maria Avanzi;Erkay Savas;Stefan Tillich;,https://doi.org/10.1007/11545262_6
+ches/ches2005,2005,Low Resources,Short Memory Scalar Multiplication on Koblitz Curves.,Katsuyuki Okeya;Tsuyoshi Takagi;Camille Vuillaume;,https://doi.org/10.1007/11545262_7
+ches/ches2005,2005,Low Resources,Hardware/Software Co-design for Hyperelliptic Curve Cryptography (HECC) on the 8051µP.,Lejla Batina;David Hwang;Alireza Hodjat;Bart Preneel;Ingrid Verbauwhede;,https://doi.org/10.1007/11545262_8
+ches/ches2005,2005,Special Purpose Hardware,SHARK: A Realizable Special Hardware Sieving Device for Factoring 1024-Bit Integers.,Jens Franke;Thorsten Kleinjung;Christof Paar;Jan Pelzl;Christine Priplata;Colin Stahlke;,https://doi.org/10.1007/11545262_9
+ches/ches2005,2005,Special Purpose Hardware,"Scalable Hardware for Sparse Systems of Linear Equations, with Applications to Integer Factorization.",Willi Geiselmann;Adi Shamir;Rainer Steinwandt;Eran Tromer;,https://doi.org/10.1007/11545262_10
+ches/ches2005,2005,Special Purpose Hardware,Design of Testable Random Bit Generators.,Marco Bucci;Raimondo Luzzi;,https://doi.org/10.1007/11545262_11
+ches/ches2005,2005,Hardware Attacks and Countermeasures,Successfully Attacking Masked AES Hardware Implementations.,Stefan Mangard;Norbert Pramstaller;Elisabeth Oswald;,https://doi.org/10.1007/11545262_12
+ches/ches2005,2005,Hardware Attacks and Countermeasures,Masked Dual-Rail Pre-charge Logic: DPA-Resistance Without Routing Constraints.,Thomas Popp;Stefan Mangard;,https://doi.org/10.1007/11545262_13
+ches/ches2005,2005,Hardware Attacks and Countermeasures,Masking at Gate Level in the Presence of Glitches.,Wieland Fischer;Berndt M. Gammel;,https://doi.org/10.1007/11545262_14
+ches/ches2005,2005,Arithmetic for Cryptography,Bipartite Modular Multiplication.,Marcelo E. Kaihara;Naofumi Takagi;,https://doi.org/10.1007/11545262_15
+ches/ches2005,2005,Arithmetic for Cryptography,Fast Truncated Multiplication for Cryptographic Applications.,Laszlo Hars;,https://doi.org/10.1007/11545262_16
+ches/ches2005,2005,Arithmetic for Cryptography,Using an RSA Accelerator for Modular Inversion.,Martin Seysen;,https://doi.org/10.1007/11545262_17
+ches/ches2005,2005,Arithmetic for Cryptography,Comparison of Bit and Word Level Algorithms for Evaluating Unstructured Functions over Finite Rings.,Berk Sunar;David Cyganski;,https://doi.org/10.1007/11545262_18
+ches/ches2005,2005,Side Channel II (EM),EM Analysis of Rijndael and ECC on a Wireless Java-Based PDA.,Catherine H. Gebotys;Simon Ho;C. C. Tiu;,https://doi.org/10.1007/11545262_19
+ches/ches2005,2005,Side Channel II (EM),Security Limits for Compromising Emanations.,Markus G. Kuhn;,https://doi.org/10.1007/11545262_20
+ches/ches2005,2005,Side Channel II (EM),Security Evaluation Against Electromagnetic Analysis at Design Time.,Huiyun Li;A. Theodore Markettos;Simon W. Moore;,https://doi.org/10.1007/11545262_21
+ches/ches2005,2005,Side Channel,On Second-Order Differential Power Analysis.,Marc Joye;Pascal Paillier;Berry Schoenmakers;,https://doi.org/10.1007/11545262_22
+ches/ches2005,2005,Side Channel,Improved Higher-Order Side-Channel Attacks with FPGA Experiments.,Eric Peeters;François-Xavier Standaert;Nicolas Donckers;Jean-Jacques Quisquater;,https://doi.org/10.1007/11545262_23
+ches/ches2005,2005,Trusted Computing,Secure Data Management in Trusted Computing.,Ulrich Kühn;Klaus Kursawe;Stefan Lucks;Ahmad-Reza Sadeghi;Christian Stüble;,https://doi.org/10.1007/11545262_24
+ches/ches2005,2005,Hardware Attacks and Countermeasures,Data Remanence in Flash Memory Devices.,Sergei P. Skorobogatov;,https://doi.org/10.1007/11545262_25
+ches/ches2005,2005,Hardware Attacks and Countermeasures,Prototype IC with WDDL and Differential Routing - DPA Resistance Assessment.,Kris Tiri;David D. Hwang;Alireza Hodjat;Bo-Cheng Lai;Shenglin Yang;Patrick Schaumont;Ingrid Verbauwhede;,https://doi.org/10.1007/11545262_26
+ches/ches2005,2005,Hardware Attacks and Countermeasures,DPA Leakage Models for CMOS Logic Circuits.,Daisuke Suzuki;Minoru Saeki;Tetsuya Ichikawa;,https://doi.org/10.1007/11545262_27
+ches/ches2005,2005,Hardware Attacks and Countermeasures,"The ""Backend Duplication"" Method.",Sylvain Guilley;Philippe Hoogvorst;Yves Mathieu;Renaud Pacalet;,https://doi.org/10.1007/11545262_28
+ches/ches2005,2005,Efficient Hardware,Hardware Acceleration of the Tate Pairing in Characteristic Three.,Philipp Grabher;Dan Page;,https://doi.org/10.1007/11545262_29
+ches/ches2005,2005,Efficient Hardware,Efficient Hardware for the Tate Pairing Calculation in Characteristic Three.,Tim Kerins;William P. Marnane;Emanuel M. Popovici;Paulo S. L. M. Barreto;,https://doi.org/10.1007/11545262_30
+ches/ches2005,2005,Efficient Hardware,AES on FPGA from the Fastest to the Smallest.,Tim Good;Mohammed Benaissa;,https://doi.org/10.1007/11545262_31
+ches/ches2005,2005,Efficient Hardware,A Very Compact S-Box for AES.,David Canright;,https://doi.org/10.1007/11545262_32

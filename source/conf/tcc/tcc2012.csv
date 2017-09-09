@@ -1,0 +1,36 @@
+tcc/tcc2012,2012,Secure Computation,Computing on Authenticated Data.,Jae Hyun Ahn;Dan Boneh;Jan Camenisch;Susan Hohenberger;Abhi Shelat;Brent Waters;,https://doi.org/10.1007/978-3-642-28914-9_1
+tcc/tcc2012,2012,Secure Computation,Identifying Cheaters without an Honest Majority.,Yuval Ishai;Rafail Ostrovsky;Hakan Seyalioglu;,https://doi.org/10.1007/978-3-642-28914-9_2
+tcc/tcc2012,2012,Secure Computation,"On the Security of the ""Free-XOR"" Technique.",Seung Geol Choi;Jonathan Katz;Ranjit Kumaresan;Hong-Sheng Zhou;,https://doi.org/10.1007/978-3-642-28914-9_3
+tcc/tcc2012,2012,Secure Computation,Secure Two-Party Computation with Low Communication.,Ivan Damgård;Sebastian Faust;Carmit Hazay;,https://doi.org/10.1007/978-3-642-28914-9_4
+tcc/tcc2012,2012,(Blind) Signatures and Threshold Encryption,Non-interactive CCA-Secure Threshold Cryptosystems with Adaptive Security: New Framework and Constructions.,Benoît Libert;Moti Yung;,https://doi.org/10.1007/978-3-642-28914-9_5
+tcc/tcc2012,2012,(Blind) Signatures and Threshold Encryption,Round-Optimal Privacy-Preserving Protocols with Smooth Projective Hash Functions.,Olivier Blazy;David Pointcheval;Damien Vergnaud;,https://doi.org/10.1007/978-3-642-28914-9_6
+tcc/tcc2012,2012,(Blind) Signatures and Threshold Encryption,On the Instantiability of Hash-and-Sign RSA Signatures.,Yevgeniy Dodis;Iftach Haitner;Aris Tentes;,https://doi.org/10.1007/978-3-642-28914-9_7
+tcc/tcc2012,2012,(Blind) Signatures and Threshold Encryption,"Beyond the Limitation of Prime-Order Bilinear Groups, and Round Optimal Blind Signatures.",Jae Hong Seo;Jung Hee Cheon;,https://doi.org/10.1007/978-3-642-28914-9_8
+tcc/tcc2012,2012,Zero-Knowledge and Security Models,On Efficient Zero-Knowledge PCPs.,Yuval Ishai;Mohammad Mahmoody;Amit Sahai;,https://doi.org/10.1007/978-3-642-28914-9_9
+tcc/tcc2012,2012,Zero-Knowledge and Security Models,Progression-Free Sets and Sublinear Pairing-Based Non-Interactive Zero-Knowledge Arguments.,Helger Lipmaa;,https://doi.org/10.1007/978-3-642-28914-9_10
+tcc/tcc2012,2012,Zero-Knowledge and Security Models,Point Obfuscation and 3-Round Zero-Knowledge.,Nir Bitansky;Omer Paneth;,https://doi.org/10.1007/978-3-642-28914-9_11
+tcc/tcc2012,2012,Zero-Knowledge and Security Models,Confidentiality and Integrity: A Constructive Perspective.,Ueli Maurer;Andreas Rüedlinger;Björn Tackmann;,https://doi.org/10.1007/978-3-642-28914-9_12
+tcc/tcc2012,2012,Leakage-Resilience,Leakage-Resilient Circuits without Computational Assumptions.,Stefan Dziembowski;Sebastian Faust;,https://doi.org/10.1007/978-3-642-28914-9_13
+tcc/tcc2012,2012,Leakage-Resilience,A Parallel Repetition Theorem for Leakage Resilience.,Zvika Brakerski;Yael Tauman Kalai;,https://doi.org/10.1007/978-3-642-28914-9_14
+tcc/tcc2012,2012,Leakage-Resilience,Leakage-Tolerant Interactive Protocols.,Nir Bitansky;Ran Canetti;Shai Halevi;,https://doi.org/10.1007/978-3-642-28914-9_15
+tcc/tcc2012,2012,Hash Functions,On the Public Indifferentiability and Correlation Intractability of the 6-Round Feistel Construction.,Avradip Mandal;Jacques Patarin;Yannick Seurin;,https://doi.org/10.1007/978-3-642-28914-9_16
+tcc/tcc2012,2012,Hash Functions,Collisions Are Not Incidental: A Compression Function Exploiting Discrete Geometry.,Dimitar Jetchev;Onur Özen;Martijn Stam;,https://doi.org/10.1007/978-3-642-28914-9_17
+tcc/tcc2012,2012,Differential Privacy,Lower Bounds in Differential Privacy.,Anindya De;,https://doi.org/10.1007/978-3-642-28914-9_18
+tcc/tcc2012,2012,Differential Privacy,Iterative Constructions and Private Data Release.,Anupam Gupta;Aaron Roth;Jonathan Ullman;,https://doi.org/10.1007/978-3-642-28914-9_19
+tcc/tcc2012,2012,Pseudorandomness,From Non-adaptive to Adaptive Pseudorandom Functions.,Itay Berman;Iftach Haitner;,https://doi.org/10.1007/978-3-642-28914-9_20
+tcc/tcc2012,2012,Pseudorandomness,Hardness Preserving Constructions of Pseudorandom Functions.,Abhishek Jain;Krzysztof Pietrzak;Aris Tentes;,https://doi.org/10.1007/978-3-642-28914-9_21
+tcc/tcc2012,2012,Pseudorandomness,Computational Extractors and Pseudorandomness.,Dana Dachman-Soled;Rosario Gennaro;Hugo Krawczyk;Tal Malkin;,https://doi.org/10.1007/978-3-642-28914-9_22
+tcc/tcc2012,2012,Dedicated Encryption,Functional Re-encryption and Collusion-Resistant Obfuscation.,Nishanth Chandran;Melissa Chase;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-642-28914-9_23
+tcc/tcc2012,2012,Dedicated Encryption,How to Delegate and Verify in Public: Verifiable Computation from Attribute-Based Encryption.,Bryan Parno;Mariana Raykova;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-642-28914-9_24
+tcc/tcc2012,2012,Dedicated Encryption,On Black-Box Reductions between Predicate Encryption Schemes.,Vipul Goyal;Virendra Kumar;Satyanarayana V. Lokam;Mohammad Mahmoody;,https://doi.org/10.1007/978-3-642-28914-9_25
+tcc/tcc2012,2012,Security Amplification,Lossy Functions Do Not Amplify Well.,Krzysztof Pietrzak;Alon Rosen;Gil Segev;,https://doi.org/10.1007/978-3-642-28914-9_26
+tcc/tcc2012,2012,Security Amplification,Counterexamples to Hardness Amplification beyond Negligible.,Yevgeniy Dodis;Abhishek Jain;Tal Moran;Daniel Wichs;,https://doi.org/10.1007/978-3-642-28914-9_27
+tcc/tcc2012,2012,Resettable and Parallel Zero Knowledge,Resettable Statistical Zero Knowledge.,Sanjam Garg;Rafail Ostrovsky;Ivan Visconti;Akshay Wadia;,https://doi.org/10.1007/978-3-642-28914-9_28
+tcc/tcc2012,2012,Resettable and Parallel Zero Knowledge,The Knowledge Tightness of Parallel Zero-Knowledge.,Kai-Min Chung;Rafael Pass;Wei-Lung Dustin Tseng;,https://doi.org/10.1007/978-3-642-28914-9_29
+tcc/tcc2012,2012,Resettable and Parallel Zero Knowledge,Simultaneously Resettable Arguments of Knowledge.,Chongwon Cho;Rafail Ostrovsky;Alessandra Scafuro;Ivan Visconti;,https://doi.org/10.1007/978-3-642-28914-9_30
+tcc/tcc2012,2012,Dedicated Encryption,Subspace LWE.,Krzysztof Pietrzak;,https://doi.org/10.1007/978-3-642-28914-9_31
+tcc/tcc2012,2012,Dedicated Encryption,Bounded-Collusion IBE from Key Homomorphism.,Shafi Goldwasser;Allison B. Lewko;David A. Wilson;,https://doi.org/10.1007/978-3-642-28914-9_32
+tcc/tcc2012,2012,Dedicated Encryption,A Unified Approach to Deterministic Encryption: New Constructions and a Connection to Computational Entropy.,Benjamin Fuller;Adam O'Neill;Leonid Reyzin;,https://doi.org/10.1007/978-3-642-28914-9_33
+tcc/tcc2012,2012,Pseudorandomness,A Dichotomy for Local Small-Bias Generators.,Benny Applebaum;Andrej Bogdanov;Alon Rosen;,https://doi.org/10.1007/978-3-642-28914-9_34
+tcc/tcc2012,2012,Pseudorandomness,"Randomness Condensers for Efficiently Samplable, Seed-Dependent Sources.",Yevgeniy Dodis;Thomas Ristenpart;Salil P. Vadhan;,https://doi.org/10.1007/978-3-642-28914-9_35
+tcc/tcc2012,2012,Pseudorandomness,Uniqueness Is a Different Story: Impossibility of Verifiable Random Functions from Trapdoor Permutations.,Dario Fiore;Dominique Schröder;,https://doi.org/10.1007/978-3-642-28914-9_36

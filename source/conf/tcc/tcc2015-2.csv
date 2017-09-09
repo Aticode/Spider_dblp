@@ -1,0 +1,26 @@
+tcc/tcc2015-2,2015,Pseudorandom Functions and Applications,Constrained Key-Homomorphic PRFs from Standard Lattice Assumptions - Or: How to Secretly Embed a Circuit in Your PRF.,Zvika Brakerski;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-662-46497-7_1
+tcc/tcc2015-2,2015,Pseudorandom Functions and Applications,Key-Homomorphic Constrained Pseudorandom Functions.,Abhishek Banerjee;Georg Fuchsbauer;Chris Peikert;Krzysztof Pietrzak;Sophie Stevens;,https://doi.org/10.1007/978-3-662-46497-7_2
+tcc/tcc2015-2,2015,Pseudorandom Functions and Applications,Aggregate Pseudorandom Functions and Connections to Learning.,Aloni Cohen;Shafi Goldwasser;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-662-46497-7_3
+tcc/tcc2015-2,2015,Pseudorandom Functions and Applications,Oblivious Polynomial Evaluation and Secure Set-Intersection from Algebraic PRFs.,Carmit Hazay;,https://doi.org/10.1007/978-3-662-46497-7_4
+tcc/tcc2015-2,2015,Pseudorandom Functions and Applications,Verifiable Random Functions from Weaker Assumptions.,Tibor Jager;,https://doi.org/10.1007/978-3-662-46497-7_5
+tcc/tcc2015-2,2015,Proofs and Verifiable Computation,Multi-Client Verifiable Computation with Stronger Security Guarantees.,S. Dov Gordon;Jonathan Katz;Feng-Hao Liu;Elaine Shi;Hong-Sheng Zhou;,https://doi.org/10.1007/978-3-662-46497-7_6
+tcc/tcc2015-2,2015,Proofs and Verifiable Computation,Public Verification of Private Effort.,Giulia Alberini;Tal Moran;Alon Rosen;,https://doi.org/10.1007/978-3-662-46497-7_7
+tcc/tcc2015-2,2015,Proofs and Verifiable Computation,Primary-Secondary-Resolver Membership Proof Systems.,Moni Naor;Asaf Ziv;,https://doi.org/10.1007/978-3-662-46497-7_8
+tcc/tcc2015-2,2015,Proofs and Verifiable Computation,Tight Parallel Repetition Theorems for Public-Coin Arguments Using KL-Divergence.,Kai-Min Chung;Rafael Pass;,https://doi.org/10.1007/978-3-662-46497-7_9
+tcc/tcc2015-2,2015,Proofs and Verifiable Computation,Stretching Groth-Sahai: NIZK Proofs of Partial Satisfiability.,Carla Ràfols;,https://doi.org/10.1007/978-3-662-46497-7_10
+tcc/tcc2015-2,2015,Differential Privacy,Outlier Privacy.,Edward Lui;Rafael Pass;,https://doi.org/10.1007/978-3-662-46497-7_11
+tcc/tcc2015-2,2015,Functional Encryption,Function-Private Functional Encryption in the Private-Key Setting.,Zvika Brakerski;Gil Segev;,https://doi.org/10.1007/978-3-662-46497-7_12
+tcc/tcc2015-2,2015,Functional Encryption,Functional Encryption for Randomized Functionalities.,Vipul Goyal;Abhishek Jain;Venkata Koppula;Amit Sahai;,https://doi.org/10.1007/978-3-662-46497-7_13
+tcc/tcc2015-2,2015,Functional Encryption,Functional Encryption for Randomized Functionalities in the Private-Key Setting from Minimal Assumptions.,Ilan Komargodski;Gil Segev;Eylon Yogev;,https://doi.org/10.1007/978-3-662-46497-7_14
+tcc/tcc2015-2,2015,Obfuscation,Separations in Circular Security for Arbitrary Length Key Cycles.,Venkata Koppula;Kim Ramchen;Brent Waters;,https://doi.org/10.1007/978-3-662-46497-7_15
+tcc/tcc2015-2,2015,Obfuscation,ZAPs and Non-Interactive Witness Indistinguishability from Indistinguishability Obfuscation.,Nir Bitansky;Omer Paneth;,https://doi.org/10.1007/978-3-662-46497-7_16
+tcc/tcc2015-2,2015,Obfuscation,Random-Oracle Uninstantiability from Indistinguishability Obfuscation.,Christina Brzuska;Pooya Farshim;Arno Mittelbach;,https://doi.org/10.1007/978-3-662-46497-7_17
+tcc/tcc2015-2,2015,Obfuscation,On Obfuscation with Random Oracles.,Ran Canetti;Yael Tauman Kalai;Omer Paneth;,https://doi.org/10.1007/978-3-662-46497-7_18
+tcc/tcc2015-2,2015,Obfuscation,Obfuscation of Probabilistic Circuits and Applications.,Ran Canetti;Huijia Lin;Stefano Tessaro;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-662-46497-7_19
+tcc/tcc2015-2,2015,Obfuscation,Graph-Induced Multilinear Maps from Lattices.,Craig Gentry;Sergey Gorbunov;Shai Halevi;,https://doi.org/10.1007/978-3-662-46497-7_20
+tcc/tcc2015-2,2015,Obfuscation,Obfuscating Circuits via Composite-Order Graded Encoding.,Benny Applebaum;Zvika Brakerski;,https://doi.org/10.1007/978-3-662-46497-7_21
+tcc/tcc2015-2,2015,Obfuscation,Adaptively Secure Two-Party Computation from Indistinguishability Obfuscation.,Ran Canetti;Shafi Goldwasser;Oxana Poburinnaya;,https://doi.org/10.1007/978-3-662-46497-7_22
+tcc/tcc2015-2,2015,Obfuscation,"Adaptively Secure, Universally Composable, Multiparty Computation in Constant Rounds.",Dana Dachman-Soled;Jonathan Katz;Vanishree Rao;,https://doi.org/10.1007/978-3-662-46497-7_23
+tcc/tcc2015-2,2015,Obfuscation,Two-Round Adaptively Secure MPC from Indistinguishability Obfuscation.,Sanjam Garg;Antigoni Polychroniadou;,https://doi.org/10.1007/978-3-662-46497-7_24
+tcc/tcc2015-2,2015,Obfuscation,Obfuscation-Based Non-black-box Simulation and Four Message Concurrent Zero Knowledge for NP.,Omkant Pandey;Manoj Prabhakaran;Amit Sahai;,https://doi.org/10.1007/978-3-662-46497-7_25
+tcc/tcc2015-2,2015,Obfuscation,Public-Coin Differing-Inputs Obfuscation and Its Applications.,Yuval Ishai;Omkant Pandey;Amit Sahai;,https://doi.org/10.1007/978-3-662-46497-7_26

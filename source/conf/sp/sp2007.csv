@@ -1,0 +1,29 @@
+sp/sp2007,2007,Network Security,Accurate Real-time Identification of IP Prefix Hijacking.,Xin Hu;Zhuoqing Morley Mao;,https://doi.org/10.1109/SP.2007.7
+sp/sp2007,2007,Network Security,DSSS-Based Flow Marking Technique for Invisible Traceback.,Wei Yu;Xinwen Fu;Steve Graham;Dong Xuan;Wei Zhao;,https://doi.org/10.1109/SP.2007.14
+sp/sp2007,2007,Network Security,On the Safety and Efficiency of Firewall Policy Deployment.,Charles C. Zhang;Marianne Winslett;Carl A. Gunter;,https://doi.org/10.1109/SP.2007.32
+sp/sp2007,2007,Authentication,The Emperor's New Security Indicators.,Stuart E. Schechter;Rachna Dhamija;Andy Ozment;Ian Fischer;,https://doi.org/10.1109/SP.2007.35
+sp/sp2007,2007,Authentication,Cryptanalysis of a Cognitive Authentication Scheme (Extended Abstract).,Philippe Golle;David A. Wagner;,https://doi.org/10.1109/SP.2007.13
+sp/sp2007,2007,Authentication,A Systematic Approach to Uncover Security Flaws in GUI Logic.,José Meseguer;Ralf Sasse;Helen J. Wang;Yi-Min Wang;,https://doi.org/10.1109/SP.2007.6
+sp/sp2007,2007,Authentication,Extended Abstract: Forward-Secure Sequential Aggregate Authentication.,Di Ma;Gene Tsudik;,https://doi.org/10.1109/SP.2007.18
+sp/sp2007,2007,Authentication,Extended Abstract: Provable-Security Analysis of Authenticated Encryption in Kerberos.,Alexandra Boldyreva;Virendra Kumar;,https://doi.org/10.1109/SP.2007.19
+sp/sp2007,2007,Privacy,Endorsed E-Cash.,Jan Camenisch;Anna Lysyanskaya;Mira Meyerovich;,https://doi.org/10.1109/SP.2007.15
+sp/sp2007,2007,Privacy,Network Flow Watermarking Attack on Low-Latency Anonymous Communication Systems.,Xinyuan Wang;Shiping Chen;Sushil Jajodia;,https://doi.org/10.1109/SP.2007.30
+sp/sp2007,2007,Privacy,Improving the Robustness of Private Information Retrieval.,Ian Goldberg;,https://doi.org/10.1109/SP.2007.23
+sp/sp2007,2007,Access Control and Audit,Beyond Stack Inspection: A Unified Access-Control and Information-Flow Security Model.,Marco Pistoia;Anindya Banerjee;David A. Naumann;,https://doi.org/10.1109/SP.2007.10
+sp/sp2007,2007,Access Control and Audit,Usable Mandatory Integrity Protection for Operating Systems.,Ninghui Li;Ziqing Mao;Hong Chen;,https://doi.org/10.1109/SP.2007.37
+sp/sp2007,2007,Access Control and Audit,Enforcing Semantic Integrity on Untrusted Clients in Networked Virtual Environments.,Somesh Jha;Stefan Katzenbeisser;Christian Schallhart;Helmut Veith;Stephen Chenney;,https://doi.org/10.1109/SP.2007.16
+sp/sp2007,2007,Information Flow,Information Flow in the Peer-Reviewing Process.,Michael Backes;Markus Dürmuth;Dominique Unruh;,https://doi.org/10.1109/SP.2007.24
+sp/sp2007,2007,Information Flow,A Cryptographic Decentralized Label Model.,Jeffrey A. Vaughan;Steve Zdancewic;,https://doi.org/10.1109/SP.2007.5
+sp/sp2007,2007,Information Flow,"Gradual Release: Unifying Declassification, Encryption and Key Release Policies.",Aslan Askarov;Andrei Sabelfeld;,https://doi.org/10.1109/SP.2007.22
+sp/sp2007,2007,Information Flow,Fuzzy Multi-Level Security: An Experiment on Quantified Risk-Adaptive Access Control.,Pau-Chen Cheng;Pankaj Rohatgi;Claudia Keser;Paul A. Karger;Grant M. Wagner;Angela Schuett Reninger;,https://doi.org/10.1109/SP.2007.21
+sp/sp2007,2007,Host Security,Exploring Multiple Execution Paths for Malware Analysis.,Andreas Moser;Christopher Krügel;Engin Kirda;,https://doi.org/10.1109/SP.2007.17
+sp/sp2007,2007,Host Security,Lurking in the Shadows: Identifying Systemic Threats to Kernel Data.,Arati Baliga;Pandurang Kamat;Liviu Iftode;,https://doi.org/10.1109/SP.2007.25
+sp/sp2007,2007,Host Security,ShieldGen: Automatic Data Patch Generation for Unknown Vulnerabilities with Informed Probing.,Weidong Cui;Marcus Peinado;Helen J. Wang;Michael E. Locasto;,https://doi.org/10.1109/SP.2007.34
+sp/sp2007,2007,Host Security,Minimal TCB Code Execution.,Jonathan M. McCune;Bryan Parno;Adrian Perrig;Michael K. Reiter;Arvind Seshadri;,https://doi.org/10.1109/SP.2007.27
+sp/sp2007,2007,Host Security,Using Rescue Points to Navigate Software Recovery.,Stelios Sidiroglou;Oren Laadan;Angelos D. Keromytis;Jason Nieh;,https://doi.org/10.1109/SP.2007.38
+sp/sp2007,2007,Hardware and Replication,Moats and Drawbridges: An Isolation Primitive for Reconfigurable Hardware Based Systems.,Ted Huffmire;Brett Brotherton;Gang Wang;Timothy Sherwood;Ryan Kastner;Timothy E. Levin;Thuy D. Nguyen;Cynthia E. Irvine;,https://doi.org/10.1109/SP.2007.28
+sp/sp2007,2007,Hardware and Replication,Trojan Detection using IC Fingerprinting.,Dakshi Agrawal;Selçuk Baktir;Deniz Karakoyunlu;Pankaj Rohatgi;Berk Sunar;,https://doi.org/10.1109/SP.2007.36
+sp/sp2007,2007,Hardware and Replication,On the Optimal Communication Complexity of Multiphase Protocols for Perfect Communication.,Kannan Srinathan;N. R. Prasad;C. Pandu Rangan;,https://doi.org/10.1109/SP.2007.31
+sp/sp2007,2007,Encryption,Ciphertext-Policy Attribute-Based Encryption.,John Bethencourt;Amit Sahai;Brent Waters;,https://doi.org/10.1109/SP.2007.11
+sp/sp2007,2007,Encryption,Attacking the IPsec Standards in Encryption-only Configurations.,Jean Paul Degabriele;Kenneth G. Paterson;,https://doi.org/10.1109/SP.2007.8
+sp/sp2007,2007,Encryption,Multi-Dimensional Range Query over Encrypted Data.,Elaine Shi;John Bethencourt;Hubert T.-H. Chan;Dawn Xiaodong Song;Adrian Perrig;,https://doi.org/10.1109/SP.2007.29

@@ -1,0 +1,24 @@
+crypto/crypto2016-1,2016,Provable Security for Symmetric Cryptography,Key-Alternating Ciphers and Key-Length Extension: Exact Bounds and Multi-user Security.,Viet Tung Hoang;Stefano Tessaro;,https://doi.org/10.1007/978-3-662-53018-4_1
+crypto/crypto2016-1,2016,Provable Security for Symmetric Cryptography,Counter-in-Tweak: Authenticated Encryption Modes for Tweakable Block Ciphers.,Thomas Peyrin;Yannick Seurin;,https://doi.org/10.1007/978-3-662-53018-4_2
+crypto/crypto2016-1,2016,Provable Security for Symmetric Cryptography,XPX: Generalized Tweakable Even-Mansour with Improved Security Guarantees.,Bart Mennink;,https://doi.org/10.1007/978-3-662-53018-4_3
+crypto/crypto2016-1,2016,Provable Security for Symmetric Cryptography,Indifferentiability of 8-Round Feistel Networks.,Yuanxi Dai;John P. Steinberger;,https://doi.org/10.1007/978-3-662-53018-4_4
+crypto/crypto2016-1,2016,Provable Security for Symmetric Cryptography,"EWCDM: An Efficient, Beyond-Birthday Secure, Nonce-Misuse Resistant MAC.",Benoît Cogliati;Yannick Seurin;,https://doi.org/10.1007/978-3-662-53018-4_5
+crypto/crypto2016-1,2016,Asymmetric Cryptography and Cryptanalysis,A Subfield Lattice Attack on Overstretched NTRU Assumptions - Cryptanalysis of Some FHE and Graded Encoding Schemes.,Martin R. Albrecht;Shi Bai;Léo Ducas;,https://doi.org/10.1007/978-3-662-53018-4_6
+crypto/crypto2016-1,2016,Asymmetric Cryptography and Cryptanalysis,A Practical Cryptanalysis of the Algebraic Eraser.,Adi Ben-Zvi;Simon R. Blackburn;Boaz Tsaban;,https://doi.org/10.1007/978-3-662-53018-4_7
+crypto/crypto2016-1,2016,Asymmetric Cryptography and Cryptanalysis,Lattice-Based Fully Dynamic Multi-key FHE with Short Ciphertexts.,Zvika Brakerski;Renen Perlman;,https://doi.org/10.1007/978-3-662-53018-4_8
+crypto/crypto2016-1,2016,Asymmetric Cryptography and Cryptanalysis,Cryptography with Auxiliary Input and Trapdoor from Constant-Noise LPN.,Yu Yu;Jiang Zhang;,https://doi.org/10.1007/978-3-662-53018-4_9
+crypto/crypto2016-1,2016,Cryptography in Theory and Practice,The Multi-user Security of Authenticated Encryption: AES-GCM in TLS 1.3.,Mihir Bellare;Björn Tackmann;,https://doi.org/10.1007/978-3-662-53018-4_10
+crypto/crypto2016-1,2016,Cryptography in Theory and Practice,A Modular Treatment of Cryptographic APIs: The Symmetric-Key Case.,Thomas Shrimpton;Martijn Stam;Bogdan Warinschi;,https://doi.org/10.1007/978-3-662-53018-4_11
+crypto/crypto2016-1,2016,Cryptography in Theory and Practice,Encryption Switching Protocols.,Geoffroy Couteau;Thomas Peters;David Pointcheval;,https://doi.org/10.1007/978-3-662-53018-4_12
+crypto/crypto2016-1,2016,Compromised Systems,Message Transmission with Reverse Firewalls - Secure Communication on Corrupted Machines.,Yevgeniy Dodis;Ilya Mironov;Noah Stephens-Davidowitz;,https://doi.org/10.1007/978-3-662-53018-4_13
+crypto/crypto2016-1,2016,Compromised Systems,Big-Key Symmetric Encryption: Resisting Key Exfiltration.,Mihir Bellare;Daniel Kane;Phillip Rogaway;,https://doi.org/10.1007/978-3-662-53018-4_14
+crypto/crypto2016-1,2016,Compromised Systems,Backdoors in Pseudorandom Number Generators: Possibility and Impossibility Results.,Jean Paul Degabriele;Kenneth G. Paterson;Jacob C. N. Schuldt;Joanne Woodage;,https://doi.org/10.1007/978-3-662-53018-4_15
+crypto/crypto2016-1,2016,Symmetric Cryptanalysis,A 2^70 Attack on the Full MISTY1.,Achiya Bar-On;Nathan Keller;,https://doi.org/10.1007/978-3-662-53018-4_16
+crypto/crypto2016-1,2016,Symmetric Cryptanalysis,Cryptanalysis of the FLIP Family of Stream Ciphers.,Sébastien Duval;Virginie Lallemand;Yann Rotella;,https://doi.org/10.1007/978-3-662-53018-4_17
+crypto/crypto2016-1,2016,Crypto 2016 Award Papers,The Magic of ELFs.,Mark Zhandry;,https://doi.org/10.1007/978-3-662-53018-4_18
+crypto/crypto2016-1,2016,Crypto 2016 Award Papers,Breaking the Circuit Size Barrier for Secure Computation Under DDH.,Elette Boyle;Niv Gilboa;Yuval Ishai;,https://doi.org/10.1007/978-3-662-53018-4_19
+crypto/crypto2016-1,2016,Algorithmic Number Theory,Extended Tower Number Field Sieve: A New Complexity for the Medium Prime Case.,Taechan Kim;Razvan Barbulescu;,https://doi.org/10.1007/978-3-662-53018-4_20
+crypto/crypto2016-1,2016,Algorithmic Number Theory,Efficient Algorithms for Supersingular Isogeny Diffie-Hellman.,Craig Costello;Patrick Longa;Michael Naehrig;,https://doi.org/10.1007/978-3-662-53018-4_21
+crypto/crypto2016-1,2016,Symmetric Primitives,New Insights on AES-Like SPN Ciphers.,Bing Sun;Meicheng Liu;Jian Guo;Longjiang Qu;Vincent Rijmen;,https://doi.org/10.1007/978-3-662-53018-4_22
+crypto/crypto2016-1,2016,Symmetric Primitives,Lightweight Multiplication in GF(2^n) with Applications to MDS Matrices.,Christof Beierle;Thorsten Kranz;Gregor Leander;,https://doi.org/10.1007/978-3-662-53018-4_23
+crypto/crypto2016-1,2016,Symmetric Primitives,Another View of the Division Property.,Christina Boura;Anne Canteaut;,https://doi.org/10.1007/978-3-662-53018-4_24

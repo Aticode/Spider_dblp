@@ -1,0 +1,38 @@
+crypto/crypto94,1994,Block Ciphers:Differential and Linear Cryptanaysis,The First Experimental Cryptanalysis of the Data Encryption Standard.,Mitsuru Matsui;,https://doi.org/10.1007/3-540-48658-5_1
+crypto/crypto94,1994,Block Ciphers:Differential and Linear Cryptanaysis,Linear Cryptanalysis of the Fast Data Encipherment Algorithm.,Kazuo Ohta;Kazumaro Aoki;,https://doi.org/10.1007/3-540-48658-5_2
+crypto/crypto94,1994,Block Ciphers:Differential and Linear Cryptanaysis,Differential-Linear Cryptanalysis.,Susan K. Langford;Martin E. Hellman;,https://doi.org/10.1007/3-540-48658-5_3
+crypto/crypto94,1994,Block Ciphers:Differential and Linear Cryptanaysis,Linear Cryptanalysis Using Multiple Approximations.,Burton S. Kaliski Jr.;Matthew J. B. Robshaw;,https://doi.org/10.1007/3-540-48658-5_4
+crypto/crypto94,1994,Schemes Based on New Problems,Hashing with SL_2.,Jean-Pierre Tillich;Gilles Zémor;,https://doi.org/10.1007/3-540-48658-5_5
+crypto/crypto94,1994,Schemes Based on New Problems,Design of Elliptic Curves with Controllable Lower Boundary of Extension Degree for Reduction Attacks.,Jinhui Chao;Kazuo Tanada;Shigeo Tsujii;,https://doi.org/10.1007/3-540-48658-5_6
+crypto/crypto94,1994,Schemes Based on New Problems,Cryptographic Protocols Based on Discrete Logarithms in Real-quadratic Orders.,Ingrid Biehl;Johannes A. Buchmann;Christoph Thiel;,https://doi.org/10.1007/3-540-48658-5_7
+crypto/crypto94,1994,Signatures,Designated Confirmer Signatures and Public-Key Encryption are Equivalent.,Tatsuaki Okamoto;,https://doi.org/10.1007/3-540-48658-5_8
+crypto/crypto94,1994,Signatures,"Directed Acyclic Graphs, One-way Functions and Digital Signatures.",Daniel Bleichenbacher;Ueli M. Maurer;,https://doi.org/10.1007/3-540-48658-5_9
+crypto/crypto94,1994,Signatures,An Identity-Based Signature Scheme with Bounded Life-Span.,Olivier Delos;Jean-Jacques Quisquater;,https://doi.org/10.1007/3-540-48658-5_10
+crypto/crypto94,1994,Implementation and Hardware Aspects,More Flexible Exponentiation with Precomputation.,Chae Hoon Lim;Pil Joong Lee;,https://doi.org/10.1007/3-540-48658-5_11
+crypto/crypto94,1994,Implementation and Hardware Aspects,A Parallel Permutation Multiplier for a PGM Crypto-chip.,Tamás Horváth;Spyros S. Magliveras;Tran van Trung;,https://doi.org/10.1007/3-540-48658-5_12
+crypto/crypto94,1994,Implementation and Hardware Aspects,Cryptographic Randomness from Air Turbulence in Disk Drives.,Don Davis;Ross Ihaka;Philip Fenstermacher;,https://doi.org/10.1007/3-540-48658-5_13
+crypto/crypto94,1994,Authentication and Secret Sharing,Cryptanalysis of the Gemmell and Naor Multiround Authentication Protocol.,Christian Gehrmann;,https://doi.org/10.1007/3-540-48658-5_14
+crypto/crypto94,1994,Authentication and Secret Sharing,LFSR-based Hashing and Authentication.,Hugo Krawczyk;,https://doi.org/10.1007/3-540-48658-5_15
+crypto/crypto94,1994,Authentication and Secret Sharing,New Bound on Authentication Code with Arbitration.,Kaoru Kurosawa;,https://doi.org/10.1007/3-540-48658-5_16
+crypto/crypto94,1994,Authentication and Secret Sharing,Multi-Secret Sharing Schemes.,Carlo Blundo;Alfredo De Santis;Giovanni Di Crescenzo;Antonio Giorgio Gaggia;Ugo Vaccaro;,https://doi.org/10.1007/3-540-48658-5_17
+crypto/crypto94,1994,Zero Knowledge,Designing Identification Schemes with Keys of Short Size.,Jacques Stern;,https://doi.org/10.1007/3-540-48658-5_18
+crypto/crypto94,1994,Zero Knowledge,Proofs of Partial Knowledge and Simplified Design of Witness Hiding Protocols.,Ronald Cramer;Ivan Damgård;Berry Schoenmakers;,https://doi.org/10.1007/3-540-48658-5_19
+crypto/crypto94,1994,Zero Knowledge,Language Dependent Secure Bit Commitment.,Toshiya Itoh;Yuji Ohta;Hiroki Shizuya;,https://doi.org/10.1007/3-540-48658-5_20
+crypto/crypto94,1994,Zero Knowledge,On the Length of Cryptographic Hash-Values Used in Identification Schemes.,Marc Girault;Jacques Stern;,https://doi.org/10.1007/3-540-48658-5_21
+crypto/crypto94,1994,Sigantures,Incremental Cryptography: The Case of Hashing and Signing.,Mihir Bellare;Oded Goldreich;Shafi Goldwasser;,https://doi.org/10.1007/3-540-48658-5_22
+crypto/crypto94,1994,Sigantures,An Efficient Existentially Unforgeable Signature Scheme and its Applications.,Cynthia Dwork;Moni Naor;,https://doi.org/10.1007/3-540-48658-5_23
+crypto/crypto94,1994,Combinatorics and its Applications,Bounds for Resilient Functions and Orthogonal Arrays.,Jürgen Bierbrauer;K. Gopalakrishnan;Douglas R. Stinson;,https://doi.org/10.1007/3-540-48658-5_24
+crypto/crypto94,1994,Combinatorics and its Applications,Tracing Traitors.,Benny Chor;Amos Fiat;Moni Naor;,https://doi.org/10.1007/3-540-48658-5_25
+crypto/crypto94,1994,Number Theory,Towards the Equivalence of Breaking the Diffie-Hellman Protocol and Computing Discrete Algorithms.,Ueli M. Maurer;,https://doi.org/10.1007/3-540-48658-5_26
+crypto/crypto94,1994,Number Theory,Fast Generation of Provable Primes Using Search in Arithmetic Progressions.,Preda Mihailescu;,https://doi.org/10.1007/3-540-48658-5_27
+crypto/crypto94,1994,Cryptanaysis and Protocol Failures,Attack on the Cryptographic Scheme NIKS-TAS.,Don Coppersmith;,https://doi.org/10.1007/3-540-48658-5_28
+crypto/crypto94,1994,Cryptanaysis and Protocol Failures,On the Risk of Opening Distributed Keys.,Mike Burmester;,https://doi.org/10.1007/3-540-48658-5_29
+crypto/crypto94,1994,Cryptanaysis and Protocol Failures,Cryptanalysis of Cryptosystems Based on Remote Chaos Replication.,Thomas Beth;Dejan E. Lazic;A. Mathias;,https://doi.org/10.1007/3-540-48658-5_30
+crypto/crypto94,1994,Pseudo-Random Generation,A Fourier Transform Approach to the Linear Complexity of Nonlinearly Filtered Sequences.,James L. Massey;Shirlei Serconek;,https://doi.org/10.1007/3-540-48658-5_31
+crypto/crypto94,1994,Block Ciphers:Design and Cryptanaysis,The Security of Cipher Block Chaining.,Mihir Bellare;Joe Kilian;Phillip Rogaway;,https://doi.org/10.1007/3-540-48658-5_32
+crypto/crypto94,1994,Block Ciphers:Design and Cryptanaysis,A Chosen Plaintext Attack of the 16-round Khufu Cryptosystem.,Henri Gilbert;Pascal Chauvaud;,https://doi.org/10.1007/3-540-48658-5_33
+crypto/crypto94,1994,Block Ciphers:Design and Cryptanaysis,Ciphertext Only Attack for One-way Function of the MAP Using One Ciphertext.,Yukiyasu Tsunoo;Eiji Okamoto;Tomohiko Uyematsu;,https://doi.org/10.1007/3-540-48658-5_34
+crypto/crypto94,1994,Block Ciphers:Design and Cryptanaysis,Pitfalls in Designing Substitution Boxes (Extended Abstract).,Jennifer Seberry;Xian-Mo Zhang;Yuliang Zheng;,https://doi.org/10.1007/3-540-48658-5_35
+crypto/crypto94,1994,Secure Computations and Protocols,A Randomnesss-Rounds Tradeoff in Private Computation.,Eyal Kushilevitz;Adi Rosén;,https://doi.org/10.1007/3-540-48658-5_36
+crypto/crypto94,1994,Secure Computations and Protocols,Secure Voting Using Partially Compatible Homomorphisms.,Kazue Sako;Joe Kilian;,https://doi.org/10.1007/3-540-48658-5_37
+crypto/crypto94,1994,Secure Computations and Protocols,Maintaining Security in the Presence of Transient Faults.,Ran Canetti;Amir Herzberg;,https://doi.org/10.1007/3-540-48658-5_38

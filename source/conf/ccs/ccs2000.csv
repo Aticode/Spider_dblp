@@ -1,0 +1,32 @@
+ccs/ccs2000,2000,Certificate Management,Evaluating certificate status information mechanisms.,John Iliadis;Diomidis Spinellis;Dimitris Gritzalis;Bart Preneel;Sokratis K. Katsikas;,http://doi.acm.org/10.1145/352600.352603
+ccs/ccs2000,2000,Certificate Management,Accountable certificate management using undeniable attestations.,Ahto Buldas;Peeter Laud;Helger Lipmaa;,http://doi.acm.org/10.1145/352600.352604
+ccs/ccs2000,2000,Certificate Management,Efficient fault-tolerant certificate revocation.,Rebecca N. Wright;Patrick Lincoln;Jonathan K. Millen;,http://doi.acm.org/10.1145/352600.352605
+ccs/ccs2000,2000,Privacy and Anonymity,Timing attacks on Web privacy.,Edward W. Felten;Michael A. Schneider;,http://doi.acm.org/10.1145/352600.352606
+ccs/ccs2000,2000,Privacy and Anonymity,A protocol for anonymous communication over the Internet.,Clay Shields;Brian Neil Levine;,http://doi.acm.org/10.1145/352600.352607
+ccs/ccs2000,2000,Privacy and Anonymity,A secure execution framework for Java.,Manfred Hauswirth;Clemens Kerer;Roman Kurmanowytsch;,http://doi.acm.org/10.1145/352600.352608
+ccs/ccs2000,2000,Privacy and Anonymity,User privacy issues regarding certificates and the TLS protocol: the design and implementation of the SPSL protocol.,Pino Persiano;Ivan Visconti;,http://doi.acm.org/10.1145/352600.352609
+ccs/ccs2000,2000,Electronic Commerce,Distribution chain security.,Glenn Durfee;Matthew K. Franklin;,http://doi.acm.org/10.1145/352600.352610
+ccs/ccs2000,2000,Electronic Commerce,Threshold-based identity recovery for privacy enhanced applications.,Joachim Biskup;Ulrich Flegel;,http://doi.acm.org/10.1145/352600.352611
+ccs/ccs2000,2000,Electronic Commerce,Reducing the round complexity of a sealed-bid auction protocol with an off-line TTP.,Yuji Watanabe;Hideki Imai;,http://doi.acm.org/10.1145/352600.352612
+ccs/ccs2000,2000,Electronic Commerce,XML document security based on provisional authorization.,Michiharu Kudo;Satoshi Hada;,http://doi.acm.org/10.1145/352600.352613
+ccs/ccs2000,2000,Invited Talk,Security: the state of the practice (invited talk).,Ravi Ganesan;,http://doi.acm.org/10.1145/352600.352614
+ccs/ccs2000,2000,Panel,Which PKI (public key infrastructure) is the right one? (panel session).,Carlisle M. Adams;Mike Burmester;Yvo Desmedt;Michael K. Reiter;Philip Zimmermann;,http://doi.acm.org/10.1145/352600.352615
+ccs/ccs2000,2000,Cryptography and Steganography,Multi-round passive attacks on server-aided RSA protocols.,Johannes Merkle;,http://doi.acm.org/10.1145/352600.352616
+ccs/ccs2000,2000,Cryptography and Steganography,Simple forward-secure signatures from any signature scheme.,Hugo Krawczyk;,http://doi.acm.org/10.1145/352600.352617
+ccs/ccs2000,2000,Cryptography and Steganography,Moiré cryptography.,Yvo Desmedt;Tri Van Le;,http://doi.acm.org/10.1145/352600.352618
+ccs/ccs2000,2000,Cryptography and Steganography,Funkspiel schemes: an alternative to conventional tamper resistance.,Johan Håstad;Jakob Jonsson;Ari Juels;Moti Yung;,http://doi.acm.org/10.1145/352600.352619
+ccs/ccs2000,2000,Access Control,Regulating service access and information release on the Web.,Piero A. Bonatti;Pierangela Samarati;,http://doi.acm.org/10.1145/352600.352620
+ccs/ccs2000,2000,Access Control,An authorization model for temporal data.,Avigdor Gal;Vijayalakshmi Atluri;,http://doi.acm.org/10.1145/352600.352621
+ccs/ccs2000,2000,Access Control,An access control model for simplifying constraint expression.,Jonathon Tidswell;Trent Jaeger;,http://doi.acm.org/10.1145/352600.352622
+ccs/ccs2000,2000,Access Control,A modular approach to composing access control policies.,Piero A. Bonatti;Sabrina De Capitani di Vimercati;Pierangela Samarati;,http://doi.acm.org/10.1145/352600.352623
+ccs/ccs2000,2000,Systems Security,Operating system enhancements to prevent the misuse of system calls.,Massimo Bernaschi;Emanuele Gabrielli;Luigi V. Mancini;,http://doi.acm.org/10.1145/352600.352624
+ccs/ccs2000,2000,Systems Security,Using router stamping to identify the source of IP packets.,Thomas W. Doeppner Jr.;Philip N. Klein;Andrew Koyfman;,http://doi.acm.org/10.1145/352600.352627
+ccs/ccs2000,2000,Systems Security,Implementing a distributed firewall.,Sotiris Ioannidis;Angelos D. Keromytis;Steven M. Bellovin;Jonathan M. Smith;,http://doi.acm.org/10.1145/352600.353052
+ccs/ccs2000,2000,Systems Security,Security enhanced mobile agents.,Vijay Varadharajan;,http://doi.acm.org/10.1145/352600.352632
+ccs/ccs2000,2000,Internet Security and Composition,PRUNES: an efficient and complete strategy for automated trust negotiation over the Internet.,Ting Yu;Xiaosong Ma;Marianne Winslett;,http://doi.acm.org/10.1145/352600.352633
+ccs/ccs2000,2000,Internet Security and Composition,Cross-domain one-shot authorization using smart cards.,Richard Au;Mark Looi;Paul Ashley;,http://doi.acm.org/10.1145/352600.352635
+ccs/ccs2000,2000,Internet Security and Composition,New constructions for multicast re-keying schemes using perfect hash families.,Reihaneh Safavi-Naini;Huaxiong Wang;,http://doi.acm.org/10.1145/352600.352637
+ccs/ccs2000,2000,Internet Security and Composition,Simple and fault-tolerant key agreement for dynamic collaborative groups.,Yongdae Kim;Adrian Perrig;Gene Tsudik;,http://doi.acm.org/10.1145/352600.352638
+ccs/ccs2000,2000,Internet Security and Composition,Composition and integrity preservation of secure reactive systems.,Birgit Pfitzmann;Michael Waidner;,http://doi.acm.org/10.1145/352600.352639
+ccs/ccs2000,2000,Tutorials,Network security and IPsec (tutorial).,John Ioannidis;Angelos D. Keromytis;,http://doi.acm.org/10.1145/352600.352601
+ccs/ccs2000,2000,Tutorials,Electronic payment technologies.,Yair Frankel;,http://doi.acm.org/10.1145/352600.352602

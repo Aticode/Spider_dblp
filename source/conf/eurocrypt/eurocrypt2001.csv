@@ -1,0 +1,32 @@
+eurocrypt/eurocrypt2001,2001,Elliptic Curves,A Memory Efficient Version of Satoh's Algorithm.,Frederik Vercauteren;Bart Preneel;Joos Vandewalle;,https://doi.org/10.1007/3-540-44987-6_1
+eurocrypt/eurocrypt2001,2001,Elliptic Curves,Finding Secure Curves with the Satoh-FGH Algorithm and an Early-Abort Strategy.,Mireille Fouquet;Pierrick Gaudry;Robert Harley;,https://doi.org/10.1007/3-540-44987-6_2
+eurocrypt/eurocrypt2001,2001,Elliptic Curves,How Secure Are Elliptic Curves over Composite Extension Fields?,Nigel P. Smart;,https://doi.org/10.1007/3-540-44987-6_3
+eurocrypt/eurocrypt2001,2001,Commitments,Efficient and Non-interactive Non-malleable Commitment.,Giovanni Di Crescenzo;Jonathan Katz;Rafail Ostrovsky;Adam D. Smith;,https://doi.org/10.1007/3-540-44987-6_4
+eurocrypt/eurocrypt2001,2001,Commitments,How to Convert the Flavor of a Quantum Bit Commitment.,Claude Crépeau;Frédéric Légaré;Louis Salvail;,https://doi.org/10.1007/3-540-44987-6_5
+eurocrypt/eurocrypt2001,2001,Anonymity,Cryptographic Counters and Applications to Electronic Voting.,Jonathan Katz;Steven Myers;Rafail Ostrovsky;,https://doi.org/10.1007/3-540-44987-6_6
+eurocrypt/eurocrypt2001,2001,Anonymity,An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation.,Jan Camenisch;Anna Lysyanskaya;,https://doi.org/10.1007/3-540-44987-6_7
+eurocrypt/eurocrypt2001,2001,Anonymity,Priced Oblivious Transfer: How to Sell Digital Goods.,William Aiello;Yuval Ishai;Omer Reingold;,https://doi.org/10.1007/3-540-44987-6_8
+eurocrypt/eurocrypt2001,2001,Signatures and Hash Functions,A Secure Three-Move Blind Signature Scheme for Polynomially Many Signatures.,Masayuki Abe;,https://doi.org/10.1007/3-540-44987-6_9
+eurocrypt/eurocrypt2001,2001,Signatures and Hash Functions,Practical Threshold RSA Signatures without a Trusted Dealer.,Ivan Damgård;Maciej Koprowski;,https://doi.org/10.1007/3-540-44987-6_10
+eurocrypt/eurocrypt2001,2001,Signatures and Hash Functions,Hash Functions: From Merkle-Damgård to Shoup.,Ilya Mironov;,https://doi.org/10.1007/3-540-44987-6_11
+eurocrypt/eurocrypt2001,2001,XTR and NTRU,Key Recovery and Message Attacks on NTRU-Composite.,Craig Gentry;,https://doi.org/10.1007/3-540-44987-6_12
+eurocrypt/eurocrypt2001,2001,XTR and NTRU,Evidence that XTR Is More Secure than Supersingular Elliptic Curve Cryptosystems.,Eric R. Verheul;,https://doi.org/10.1007/3-540-44987-6_13
+eurocrypt/eurocrypt2001,2001,XTR and NTRU,NSS: An NTRU Lattice-Based Signature Scheme.,Jeffrey Hoffstein;Jill Pipher;Joseph H. Silverman;,https://doi.org/10.1007/3-540-44987-6_14
+eurocrypt/eurocrypt2001,2001,Assumptions,The Bit Security of Paillier's Encryption Scheme and Its Applications.,Dario Catalano;Rosario Gennaro;Nick Howgrave-Graham;,https://doi.org/10.1007/3-540-44987-6_15
+eurocrypt/eurocrypt2001,2001,Assumptions,Assumptions Related to Discrete Logarithms: Why Subtleties Make a Real Difference.,Ahmad-Reza Sadeghi;Michael Steiner;,https://doi.org/10.1007/3-540-44987-6_16
+eurocrypt/eurocrypt2001,2001,Multiparty Protocols,On Adaptive vs. Non-adaptive Security of Multiparty Protocols.,Ran Canetti;Ivan Damgård;Stefan Dziembowski;Yuval Ishai;Tal Malkin;,https://doi.org/10.1007/3-540-44987-6_17
+eurocrypt/eurocrypt2001,2001,Multiparty Protocols,Multiparty Computation from Threshold Homomorphic Encryption.,Ronald Cramer;Ivan Damgård;Jesper Buus Nielsen;,https://doi.org/10.1007/3-540-44987-6_18
+eurocrypt/eurocrypt2001,2001,Multiparty Protocols,On Perfect and Adaptive Security in Exposure-Resilient Cryptography.,Yevgeniy Dodis;Amit Sahai;Adam D. Smith;,https://doi.org/10.1007/3-540-44987-6_19
+eurocrypt/eurocrypt2001,2001,Block Ciphers,Cryptanalysis of Reduced-Round MISTY.,Ulrich Kühn;,https://doi.org/10.1007/3-540-44987-6_20
+eurocrypt/eurocrypt2001,2001,Block Ciphers,The Rectangle Attack - Rectangling the Serpent.,Eli Biham;Orr Dunkelman;Nathan Keller;,https://doi.org/10.1007/3-540-44987-6_21
+eurocrypt/eurocrypt2001,2001,Primitives,Efficient Amplification of the Security of Weak Pseudo-random Function Generators.,Steven Myers;,https://doi.org/10.1007/3-540-44987-6_22
+eurocrypt/eurocrypt2001,2001,Primitives,Min-round Resettable Zero-Knowledge in the Public-Key Model.,Silvio Micali;Leonid Reyzin;,https://doi.org/10.1007/3-540-44987-6_23
+eurocrypt/eurocrypt2001,2001,Symmetric Ciphers,Structural Cryptanalysis of SASAS.,Alex Biryukov;Adi Shamir;,https://doi.org/10.1007/3-540-44987-6_24
+eurocrypt/eurocrypt2001,2001,Symmetric Ciphers,Hyper-bent Functions.,Amr M. Youssef;Guang Gong;,https://doi.org/10.1007/3-540-44987-6_25
+eurocrypt/eurocrypt2001,2001,Symmetric Ciphers,New Method for Upper Bounding the Maximum Average Linear Hull Probability for SPNs.,Liam Keliher;Henk Meijer;Stafford E. Tavares;,https://doi.org/10.1007/3-540-44987-6_26
+eurocrypt/eurocrypt2001,2001,Key Exchange and Multicast,Lower Bounds for Multicast Message Authentication.,Dan Boneh;Glenn Durfee;Matthew K. Franklin;,https://doi.org/10.1007/3-540-44987-6_27
+eurocrypt/eurocrypt2001,2001,Key Exchange and Multicast,Analysis of Key-Exchange Protocols and Their Use for Building Secure Channels.,Ran Canetti;Hugo Krawczyk;,https://doi.org/10.1007/3-540-44987-6_28
+eurocrypt/eurocrypt2001,2001,Key Exchange and Multicast,Efficient Password-Authenticated Key Exchange Using Human-Memorable Passwords.,Jonathan Katz;Rafail Ostrovsky;Moti Yung;,https://doi.org/10.1007/3-540-44987-6_29
+eurocrypt/eurocrypt2001,2001,Authentication and Identification,Identification Protocols Secure against Reset Attacks.,Mihir Bellare;Marc Fischlin;Shafi Goldwasser;Silvio Micali;,https://doi.org/10.1007/3-540-44987-6_30
+eurocrypt/eurocrypt2001,2001,Authentication and Identification,Does Encryption with Redundancy Provide Authenticity?,Jee Hea An;Mihir Bellare;,https://doi.org/10.1007/3-540-44987-6_31
+eurocrypt/eurocrypt2001,2001,Authentication and Identification,Encryption Modes with Almost Free Message Integrity.,Charanjit S. Jutla;,https://doi.org/10.1007/3-540-44987-6_32

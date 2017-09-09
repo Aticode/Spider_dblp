@@ -1,0 +1,35 @@
+ches/ches2006,2006,Side Channels,Template Attacks in Principal Subspaces.,Cédric Archambeau;Eric Peeters;François-Xavier Standaert;Jean-Jacques Quisquater;,https://doi.org/10.1007/11894063_1
+ches/ches2006,2006,Side Channels,Templates vs. Stochastic Methods.,Benedikt Gierlichs;Kerstin Lemke-Rust;Christof Paar;,https://doi.org/10.1007/11894063_2
+ches/ches2006,2006,Side Channels,Towards Security Limits in Side-Channel Attacks.,François-Xavier Standaert;Eric Peeters;Cédric Archambeau;Jean-Jacques Quisquater;,https://doi.org/10.1007/11894063_3
+ches/ches2006,2006,Low Resources,HIGHT: A New Block Cipher Suitable for Low-Resource Device.,Deukjo Hong;Jaechul Sung;Seokhie Hong;Jongin Lim;Sangjin Lee;Bonseok Koo;Changhoon Lee;Donghoon Chang;Jesang Lee;Kitae Jeong;Hyun Kim;Jongsung Kim;Seongtaek Chee;,https://doi.org/10.1007/11894063_4
+ches/ches2006,2006,Invited Talk,Integer Factoring Utilizing PC Cluster.,Kazumaro Aoki;,https://doi.org/10.1007/11894063_5
+ches/ches2006,2006,Hardware Attacks and Countermeasures,Optically Enhanced Position-Locked Power Analysis.,Sergei P. Skorobogatov;,https://doi.org/10.1007/11894063_6
+ches/ches2006,2006,Hardware Attacks and Countermeasures,Pinpointing the Side-Channel Leakage of Masked AES Hardware Implementations.,Stefan Mangard;Kai Schramm;,https://doi.org/10.1007/11894063_7
+ches/ches2006,2006,Hardware Attacks and Countermeasures,A Generalized Method of Differential Fault Attack Against AES Cryptosystem.,Amir Moradi;Mohammad T. Manzuri Shalmani;Mahmoud Salmasizadeh;,https://doi.org/10.1007/11894063_8
+ches/ches2006,2006,Special Purpose Hardware,Breaking Ciphers with COPACOBANA - A Cost-Optimized Parallel Code Breaker.,Sandeep S. Kumar;Christof Paar;Jan Pelzl;Gerd Pfeiffer;Manfred Schimmler;,https://doi.org/10.1007/11894063_9
+ches/ches2006,2006,Special Purpose Hardware,Implementing the Elliptic Curve Method of Factoring in Reconfigurable Hardware.,Kris Gaj;Soonhak Kwon;Patrick Baier;Paul Kohlbrenner;Hoang Le;Mohammed Khaleeluddin;Ramakrishna Bachimanchi;,https://doi.org/10.1007/11894063_10
+ches/ches2006,2006,Efficient Algorithms for Embedded Processors,Implementing Cryptographic Pairings on Smartcards.,Michael Scott;Neil Costigan;Wesam Abdulwahab;,https://doi.org/10.1007/11894063_11
+ches/ches2006,2006,Efficient Algorithms for Embedded Processors,SPA-Resistant Scalar Multiplication on Hyperelliptic Curve Cryptosystems Combining Divisor Decomposition Technique and Joint Regular Form.,Toru Akishita;Masanobu Katagi;Izuru Kitamura;,https://doi.org/10.1007/11894063_12
+ches/ches2006,2006,Efficient Algorithms for Embedded Processors,Fast Generation of Prime Numbers on Portable Devices: An Update.,Marc Joye;Pascal Paillier;,https://doi.org/10.1007/11894063_13
+ches/ches2006,2006,Side Channels,A Proposition for Correlation Power Analysis Enhancement.,Thanh-Ha Le;Jessy Clédière;Cécile Canovas;Bruno Robisson;Christine Servière;Jean-Louis Lacoume;,https://doi.org/10.1007/11894063_14
+ches/ches2006,2006,Side Channels,High-Resolution Side-Channel Attack Using Phase-Based Waveform Matching.,Naofumi Homma;Sei Nagashima;Yuichi Imai;Takafumi Aoki;Akashi Satoh;,https://doi.org/10.1007/11894063_15
+ches/ches2006,2006,Side Channels,Cache-Collision Timing Attacks Against AES.,Joseph Bonneau;Ilya Mironov;,https://doi.org/10.1007/11894063_16
+ches/ches2006,2006,Side Channels,Provably Secure S-Box Implementation Based on Fourier Transform.,Emmanuel Prouff;Christophe Giraud;Sébastien Aumônier;,https://doi.org/10.1007/11894063_17
+ches/ches2006,2006,Invited Talk,The Outer Limits of RFID Security.,Ari Juels;,https://doi.org/10.1007/11894063_18
+ches/ches2006,2006,Hardware Attacks and Countermeasures,Three-Phase Dual-Rail Pre-charge Logic.,Marco Bucci;Luca Giancane;Raimondo Luzzi;Alessandro Trifiletti;,https://doi.org/10.1007/11894063_19
+ches/ches2006,2006,Hardware Attacks and Countermeasures,Dual-Rail Random Switching Logic: A Countermeasure to Reduce Side Channel Leakage.,Zhimin Chen;Yujie Zhou;,https://doi.org/10.1007/11894063_20
+ches/ches2006,2006,Hardware Attacks and Countermeasures,Security Evaluation of DPA Countermeasures Using Dual-Rail Pre-charge Logic Style.,Daisuke Suzuki;Minoru Saeki;,https://doi.org/10.1007/11894063_21
+ches/ches2006,2006,Efficient Hardware,Instruction Set Extensions for Efficient AES Implementation on 32-bit Processors.,Stefan Tillich;Johann Großschädl;,https://doi.org/10.1007/11894063_22
+ches/ches2006,2006,Efficient Hardware,NanoCMOS-Molecular Realization of Rijndael.,Massoud Masoumi;Farshid Raissi;Mahmoud Ahmadian;,https://doi.org/10.1007/11894063_23
+ches/ches2006,2006,Efficient Hardware,Improving SHA-2 Hardware Implementations.,Ricardo Chaves;Georgi Kuzmanov;Leonel Sousa;Stamatis Vassiliadis;,https://doi.org/10.1007/11894063_24
+ches/ches2006,2006,Trusted Computing,Offline Hardware/Software Authentication for Reconfigurable Platforms.,Eric Simpson;Patrick Schaumont;,https://doi.org/10.1007/11894063_25
+ches/ches2006,2006,Side Channels,Why One Should Also Secure RSA Public Key Elements.,Eric Brier;Benoît Chevallier-Mames;Mathieu Ciet;Christophe Clavier;,https://doi.org/10.1007/11894063_26
+ches/ches2006,2006,Side Channels,Power Attack on Small RSA Public Exponent.,Pierre-Alain Fouque;Sébastien Kunz-Jacques;Gwenaëlle Martinet;Frédéric Muller;Frédéric Valette;,https://doi.org/10.1007/11894063_27
+ches/ches2006,2006,Side Channels,Unified Point Addition Formulæ and Side-Channel Attacks.,Douglas Stebila;Nicolas Thériault;,https://doi.org/10.1007/11894063_28
+ches/ches2006,2006,Hardware Attacks and Countermeasures,Read-Proof Hardware from Protective Coatings.,Pim Tuyls;Geert Jan Schrijen;Boris Skoric;Jan van Geloven;Nynke Verhaegh;Rob Wolters;,https://doi.org/10.1007/11894063_29
+ches/ches2006,2006,Hardware Attacks and Countermeasures,Path Swapping Method to Improve DPA Resistance of Quasi Delay Insensitive Asynchronous Circuits.,G. Fraidy Bouesse;Gilles Sicard;Marc Renaudin;,https://doi.org/10.1007/11894063_30
+ches/ches2006,2006,Hardware Attacks and Countermeasures,Automated Design of Cryptographic Devices Resistant to Multiple Side-Channel Attacks.,Konrad J. Kulikowski;Alexander B. Smirnov;Alexander Taubin;,https://doi.org/10.1007/11894063_31
+ches/ches2006,2006,Invited Talk,Challenges for Trusted Computing.,Ahmad-Reza Sadeghi;,https://doi.org/10.1007/11894063_32
+ches/ches2006,2006,Efficient Hardware,Superscalar Coprocessor for High-Speed Curve-Based Cryptography.,Kazuo Sakiyama;Lejla Batina;Bart Preneel;Ingrid Verbauwhede;,https://doi.org/10.1007/11894063_33
+ches/ches2006,2006,Efficient Hardware,Hardware/Software Co-design of Elliptic Curve Cryptography on an 8051 Microcontroller.,Manuel Koschuch;Joachim Lechner;Andreas Weitzer;Johann Großschädl;Alexander Szekely;Stefan Tillich;Johannes Wolkerstorfer;,https://doi.org/10.1007/11894063_34
+ches/ches2006,2006,Efficient Hardware,FPGA Implementation of Point Multiplication on Koblitz Curves Using Kleinian Integers.,Vassil S. Dimitrov;Kimmo U. Järvinen;M. J. Jacobson;W. F. Chan;Zhun Huang;,https://doi.org/10.1007/11894063_35

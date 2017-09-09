@@ -1,0 +1,29 @@
+csfw/csf2014,2014,Software Security,Declarative Policies for Capability Control.,Christos Dimoulas;Scott Moore;Aslan Askarov;Stephen Chong;,https://doi.org/10.1109/CSF.2014.9
+csfw/csf2014,2014,Software Security,Portable Software Fault Isolation.,Joshua A. Kroll;Gordon Stewart;Andrew W. Appel;,https://doi.org/10.1109/CSF.2014.10
+csfw/csf2014,2014,Software Security,Certificates for Verifiable Forensics.,Radha Jagadeesan;C. M. Lubinski;Corin Pitcher;James Riely;Charles Winebrinner;,https://doi.org/10.1109/CSF.2014.11
+csfw/csf2014,2014,Software Security,Information Flow Monitoring as Abstract Interpretation for Relational Logic.,Andrey Chudnov;George Kuan;David A. Naumann;,https://doi.org/10.1109/CSF.2014.12
+csfw/csf2014,2014,Information Flow,On Dynamic Flow-Sensitive Floating-Label Systems.,Pablo Buiras;Deian Stefan;Alejandro Russo;,https://doi.org/10.1109/CSF.2014.13
+csfw/csf2014,2014,Information Flow,Noninterference under Weak Memory Models.,Heiko Mantel;Matthias Perner;Jens Sauer;,https://doi.org/10.1109/CSF.2014.14
+csfw/csf2014,2014,Usable Security,Who's Afraid of Which Bad Wolf? A Survey of IT Security Risk Awareness.,Marian Harbach;Sascha Fahl;Matthew Smith;,https://doi.org/10.1109/CSF.2014.15
+csfw/csf2014,2014,Usable Security,How Task Familiarity and Cognitive Predispositions Impact Behavior in a Security Game of Timing.,Jens Grossklags;David Reitter;,https://doi.org/10.1109/CSF.2014.16
+csfw/csf2014,2014,Cryptography,Attribute-Based Encryption for Access Control Using Elementary Operations.,Jason Crampton;Alexandre Pinto;,https://doi.org/10.1109/CSF.2014.17
+csfw/csf2014,2014,Cryptography,Automated Analysis and Synthesis of Block-Cipher Modes of Operation.,Alex J. Malozemoff;Jonathan Katz;Matthew D. Green;,https://doi.org/10.1109/CSF.2014.18
+csfw/csf2014,2014,Cryptography,Certified Synthesis of Efficient Batch Verifiers.,Joseph A. Akinyele;Gilles Barthe;Benjamin Grégoire;Benedikt Schmidt;Pierre-Yves Strub;,https://doi.org/10.1109/CSF.2014.19
+csfw/csf2014,2014,Cryptography,A Peered Bulletin Board for Robust Use in Verifiable Voting Systems.,Chris Culnane;Steve A. Schneider;,https://doi.org/10.1109/CSF.2014.20
+csfw/csf2014,2014,Cryptography,From Input Private to Universally Composable Secure Multi-party Computation Primitives.,Dan Bogdanov;Peeter Laud;Sven Laur;Pille Pullonen;,https://doi.org/10.1109/CSF.2014.21
+csfw/csf2014,2014,Cryptography,Malleable Signatures: New Definitions and Delegatable Anonymous Credentials.,Melissa Chase;Markulf Kohlweiss;Anna Lysyanskaya;Sarah Meiklejohn;,https://doi.org/10.1109/CSF.2014.22
+csfw/csf2014,2014,Protocol Verification,Decidability for Lightweight Diffie-Hellman Protocols.,Daniel J. Dougherty;Joshua D. Guttman;,https://doi.org/10.1109/CSF.2014.23
+csfw/csf2014,2014,Protocol Verification,Modeling Diffie-Hellman Derivability for Automated Analysis.,Moses Liskov;F. Javier Thayer;,https://doi.org/10.1109/CSF.2014.24
+csfw/csf2014,2014,Protocol Verification,Actor Key Compromise: Consequences and Countermeasures.,David A. Basin;Cas J. F. Cremers;Marko Horvat;,https://doi.org/10.1109/CSF.2014.25
+csfw/csf2014,2014,Protocol Verification,A Sound Abstraction of the Parsing Problem.,Sebastian Mödersheim;Georgios Katsoris;,https://doi.org/10.1109/CSF.2014.26
+csfw/csf2014,2014,Information Flow,Compositional Information-Flow Security for Interactive Systems.,Willard Rafnsson;Andrei Sabelfeld;,https://doi.org/10.1109/CSF.2014.27
+csfw/csf2014,2014,Information Flow,Stateful Declassification Policies for Event-Driven Programs.,Mathy Vanhoef;Willem De Groef;Dominique Devriese;Frank Piessens;Tamara Rezk;,https://doi.org/10.1109/CSF.2014.28
+csfw/csf2014,2014,Information Flow,"Additive and Multiplicative Notions of Leakage, and Their Capacities.",Mário S. Alvim;Konstantinos Chatzikokolakis;Annabelle McIver;Carroll Morgan;Catuscia Palamidessi;Geoffrey Smith;,https://doi.org/10.1109/CSF.2014.29
+csfw/csf2014,2014,Network Security,The Complexity of Estimating Systematic Risk in Networks.,Benjamin Johnson;Aron Laszka;Jens Grossklags;,https://doi.org/10.1109/CSF.2014.30
+csfw/csf2014,2014,Network Security,Automated Generation of Attack Trees.,Roberto Vigo;Flemming Nielson;Hanne Riis Nielson;,https://doi.org/10.1109/CSF.2014.31
+csfw/csf2014,2014,Network Security,Mignis: A Semantic Based Tool for Firewall Configuration.,Pedro Adão;Claudio Bozzato;G. Dei Rossi;Riccardo Focardi;Flaminia L. Luccio;,https://doi.org/10.1109/CSF.2014.32
+csfw/csf2014,2014,Network Security,Provably Sound Browser-Based Enforcement of Web Session Integrity.,Michele Bugliesi;Stefano Calzavara;Riccardo Focardi;Wilayat Khan;Mauro Tempesta;,https://doi.org/10.1109/CSF.2014.33
+csfw/csf2014,2014,Privacy,TUC: Time-Sensitive and Modular Analysis of Anonymous Communication.,Michael Backes;Praveen Manoharan;Esfandiar Mohammadi;,https://doi.org/10.1109/CSF.2014.34
+csfw/csf2014,2014,Privacy,Differential Privacy: An Economic Method for Choosing Epsilon.,Justin Hsu;Marco Gaboardi;Andreas Haeberlen;Sanjeev Khanna;Arjun Narayan;Benjamin C. Pierce;Aaron Roth;,https://doi.org/10.1109/CSF.2014.35
+csfw/csf2014,2014,Privacy,Proving Differential Privacy in Hoare Logic.,Gilles Barthe;Marco Gaboardi;Emilio Jesús Gallego Arias;Justin Hsu;César Kunz;Pierre-Yves Strub;,https://doi.org/10.1109/CSF.2014.36
+csfw/csf2014,2014,Privacy,Balancing Societal Security and Individual Privacy: Accountable Escrow System.,Jia Liu;Mark Dermot Ryan;Liqun Chen;,https://doi.org/10.1109/CSF.2014.37

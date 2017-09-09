@@ -1,0 +1,36 @@
+crypto/crypto2003,2003,Public Key Cryptanalysis,Factoring Large Number with the TWIRL Device.,Adi Shamir;Eran Tromer;,https://doi.org/10.1007/978-3-540-45146-4_1
+crypto/crypto2003,2003,Public Key Cryptanalysis,New Partial Key Exposure Attacks on RSA.,Johannes Blömer;Alexander May;,https://doi.org/10.1007/978-3-540-45146-4_2
+crypto/crypto2003,2003,Public Key Cryptanalysis,Algebraic Cryptanalysis of Hidden Field Equation (HFE) Cryptosystems Using Gröbner Bases.,Jean-Charles Faugère;Antoine Joux;,https://doi.org/10.1007/978-3-540-45146-4_3
+crypto/crypto2003,2003,Alternate Adversary Models,On Constructing Locally Computable Extractors and Cryptosystems in the Bounded Storage Model.,Salil P. Vadhan;,https://doi.org/10.1007/978-3-540-45146-4_4
+crypto/crypto2003,2003,Alternate Adversary Models,Unconditional Authenticity and Privacy from an Arbitrarily Weak Secret.,Renato Renner;Stefan Wolf;,https://doi.org/10.1007/978-3-540-45146-4_5
+crypto/crypto2003,2003,Invited Talk,On Cryptographic Assumptions and Challenges.,Moni Naor;,https://doi.org/10.1007/978-3-540-45146-4_6
+crypto/crypto2003,2003,Protocols,Scalable Protocols for Authenticated Group Key Exchange.,Jonathan Katz;Moti Yung;,https://doi.org/10.1007/978-3-540-45146-4_7
+crypto/crypto2003,2003,Protocols,Practical Verifiable Encryption and Decryption of Discrete Logarithms.,Jan Camenisch;Victor Shoup;,https://doi.org/10.1007/978-3-540-45146-4_8
+crypto/crypto2003,2003,Protocols,Extending Oblivious Transfers Efficiently.,Yuval Ishai;Joe Kilian;Kobbi Nissim;Erez Petrank;,https://doi.org/10.1007/978-3-540-45146-4_9
+crypto/crypto2003,2003,Symmetric Key Cryptanalysis,Algebraic Attacks on Combiners with Memory.,Frederik Armknecht;Matthias Krause;,https://doi.org/10.1007/978-3-540-45146-4_10
+crypto/crypto2003,2003,Symmetric Key Cryptanalysis,Fast Algebraic Attacks on Stream Ciphers with Linear Feedback.,Nicolas Courtois;,https://doi.org/10.1007/978-3-540-45146-4_11
+crypto/crypto2003,2003,Symmetric Key Cryptanalysis,Cryptanalysis of SAFER++.,Alex Biryukov;Christophe De Cannière;Gustaf Dellkrantz;,https://doi.org/10.1007/978-3-540-45146-4_12
+crypto/crypto2003,2003,Public Key Cryptanalysis,A Polynomial Time Algorithm for the Braid Diffie-Hellman Conjugacy Problem.,Jung Hee Cheon;Byungheup Jun;,https://doi.org/10.1007/978-3-540-45146-4_13
+crypto/crypto2003,2003,Public Key Cryptanalysis,The Impact of Decryption Failures on the Security of NTRU Encryption.,Nick Howgrave-Graham;Phong Q. Nguyen;David Pointcheval;John Proos;Joseph H. Silverman;Ari Singer;William Whyte;,https://doi.org/10.1007/978-3-540-45146-4_14
+crypto/crypto2003,2003,Universal Composability,Universally Composable Efficient Multiparty Computation from Threshold Homomorphic Encryption.,Ivan Damgård;Jesper Buus Nielsen;,https://doi.org/10.1007/978-3-540-45146-4_15
+crypto/crypto2003,2003,Universal Composability,Universal Composition with Joint State.,Ran Canetti;Tal Rabin;,https://doi.org/10.1007/978-3-540-45146-4_16
+crypto/crypto2003,2003,Zero-Knowledge,Statistical Zero-Knowledge Proofs with Efficient Provers: Lattice Problems and More.,Daniele Micciancio;Salil P. Vadhan;,https://doi.org/10.1007/978-3-540-45146-4_17
+crypto/crypto2003,2003,Zero-Knowledge,Derandomization in Cryptography.,Boaz Barak;Shien Jin Ong;Salil P. Vadhan;,https://doi.org/10.1007/978-3-540-45146-4_18
+crypto/crypto2003,2003,Zero-Knowledge,On Deniability in the Common Reference String and Random Oracle Model.,Rafael Pass;,https://doi.org/10.1007/978-3-540-45146-4_19
+crypto/crypto2003,2003,Algebraic Geometry,Primality Proving via One Round in ECPP and One Iteration in AKS.,Qi Cheng;,https://doi.org/10.1007/978-3-540-45146-4_20
+crypto/crypto2003,2003,Algebraic Geometry,Torus-Based Cryptography.,Karl Rubin;Alice Silverberg;,https://doi.org/10.1007/978-3-540-45146-4_21
+crypto/crypto2003,2003,Public Key Constructions,Efficient Universal Padding Techniques for Multiplicative Trapdoor One-Way Permutation.,Yuichi Komano;Kazuo Ohta;,https://doi.org/10.1007/978-3-540-45146-4_22
+crypto/crypto2003,2003,Public Key Constructions,Multipurpose Identity-Based Signcryption (A Swiss Army Knife for Identity-Based Cryptography).,Xavier Boyen;,https://doi.org/10.1007/978-3-540-45146-4_23
+crypto/crypto2003,2003,Invited Talk,SIGMA: The 'SIGn-and-MAc' Approach to Authenticated Diffie-Hellman and Its Use in the IKE-Protocols.,Hugo Krawczyk;,https://doi.org/10.1007/978-3-540-45146-4_24
+crypto/crypto2003,2003,New Problems,On Memory-Bound Functions for Fighting Spam.,Cynthia Dwork;Andrew V. Goldberg;Moni Naor;,https://doi.org/10.1007/978-3-540-45146-4_25
+crypto/crypto2003,2003,New Problems,Lower and Upper Bounds on Obtaining History Independence.,Niv Buchbinder;Erez Petrank;,https://doi.org/10.1007/978-3-540-45146-4_26
+crypto/crypto2003,2003,New Problems,Private Circuits: Securing Hardware against Probing Attacks.,Yuval Ishai;Amit Sahai;David A. Wagner;,https://doi.org/10.1007/978-3-540-45146-4_27
+crypto/crypto2003,2003,Symmetric Key Constructions,A Tweakable Enciphering Mode.,Shai Halevi;Phillip Rogaway;,https://doi.org/10.1007/978-3-540-45146-4_28
+crypto/crypto2003,2003,Symmetric Key Constructions,A Message Authentication Code Based on Unimodular Matrix Groups.,Matthew Cary;Ramarathnam Venkatesan;,https://doi.org/10.1007/978-3-540-45146-4_29
+crypto/crypto2003,2003,Symmetric Key Constructions,Luby-Rackoff: 7 Rounds Are Enough for 2n(1-epsilon)Security.,Jacques Patarin;,https://doi.org/10.1007/978-3-540-45146-4_30
+crypto/crypto2003,2003,New Models,Weak Key Authenticity and the Computational Completeness of Formal Encryption.,Omer Horvitz;Virgil D. Gligor;,https://doi.org/10.1007/978-3-540-45146-4_31
+crypto/crypto2003,2003,New Models,Plaintext Awareness via Key Registration.,Jonathan Herzog;Moses Liskov;Silvio Micali;,https://doi.org/10.1007/978-3-540-45146-4_32
+crypto/crypto2003,2003,New Models,Relaxing Chosen-Ciphertext Security.,Ran Canetti;Hugo Krawczyk;Jesper Buus Nielsen;,https://doi.org/10.1007/978-3-540-45146-4_33
+crypto/crypto2003,2003,Symmetric Key Cryptanalysis,Password Interception in a SSL/TLS Channel.,Brice Canvel;Alain P. Hiltgen;Serge Vaudenay;Martin Vuagnoux;,https://doi.org/10.1007/978-3-540-45146-4_34
+crypto/crypto2003,2003,Symmetric Key Cryptanalysis,Instant Ciphertext-Only Cryptanalysis of GSM Encrypted Communication.,Elad Barkan;Eli Biham;Nathan Keller;,https://doi.org/10.1007/978-3-540-45146-4_35
+crypto/crypto2003,2003,Symmetric Key Cryptanalysis,Making a Faster Cryptanalytic Time-Memory Trade-Off.,Philippe Oechslin;,https://doi.org/10.1007/978-3-540-45146-4_36

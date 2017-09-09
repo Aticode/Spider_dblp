@@ -1,0 +1,17 @@
+pkc/pkc2016-2,2016,Cryptanalysis,Algebraic Approaches for the Elliptic Curve Discrete Logarithm Problem over Prime Fields.,Christophe Petit;Michiel Kosters;Ange Messeng;,https://doi.org/10.1007/978-3-662-49387-8_1
+pkc/pkc2016-2,2016,Cryptanalysis,Degenerate Curve Attacks - Extending Invalid Curve Attacks to Edwards Curves and Other Models.,Samuel Neves;Mehdi Tibouchi;,https://doi.org/10.1007/978-3-662-49387-8_2
+pkc/pkc2016-2,2016,Cryptanalysis,Easing Coppersmith Methods Using Analytic Combinatorics: Applications to Public-Key Cryptography with Weak Pseudorandomness.,Fabrice Benhamouda;Céline Chevalier;Adrian Thillard;Damien Vergnaud;,https://doi.org/10.1007/978-3-662-49387-8_3
+pkc/pkc2016-2,2016,Cryptanalysis,How to Generalize RSA Cryptanalyses.,Atsushi Takayasu;Noboru Kunihiro;,https://doi.org/10.1007/978-3-662-49387-8_4
+pkc/pkc2016-2,2016,Leakage-Resilient and Circularly Secure Encryption,Leakage-Resilient Public-Key Encryption from Obfuscation.,Dana Dachman-Soled;S. Dov Gordon;Feng-Hao Liu;Adam O'Neill;Hong-Sheng Zhou;,https://doi.org/10.1007/978-3-662-49387-8_5
+pkc/pkc2016-2,2016,Leakage-Resilient and Circularly Secure Encryption,"On Generic Constructions of Circularly-Secure, Leakage-Resilient Public-Key Encryption Schemes.",Mohammad Hajiabadi;Bruce M. Kapron;Venkatesh Srinivasan;,https://doi.org/10.1007/978-3-662-49387-8_6
+pkc/pkc2016-2,2016,Leakage-Resilient and Circularly Secure Encryption,KDM-Security via Homomorphic Smooth Projective Hashing.,Hoeteck Wee;,https://doi.org/10.1007/978-3-662-49387-8_7
+pkc/pkc2016-2,2016,Protocols,Asynchronous Secure Multiparty Computation in Constant Time.,Ran Cohen;,https://doi.org/10.1007/978-3-662-49387-8_8
+pkc/pkc2016-2,2016,Protocols,Adaptively Secure Multi-Party Computation from LWE (via Equivocal FHE).,Ivan Damgård;Antigoni Polychroniadou;Vanishree Rao;,https://doi.org/10.1007/978-3-662-49387-8_9
+pkc/pkc2016-2,2016,Protocols,Universally Composable Direct Anonymous Attestation.,Jan Camenisch;Manu Drijvers;Anja Lehmann;,https://doi.org/10.1007/978-3-662-49387-8_10
+pkc/pkc2016-2,2016,Protocols,Universally Composable Authentication and Key-Exchange with Global PKI.,Ran Canetti;Daniel Shahaf;Margarita Vald;,https://doi.org/10.1007/978-3-662-49387-8_11
+pkc/pkc2016-2,2016,Protocols,Very-Efficient Simulatable Flipping of Many Coins into a Well - (and a New Universally-Composable Commitment Scheme).,Luís T. A. N. Brandão;,https://doi.org/10.1007/978-3-662-49387-8_12
+pkc/pkc2016-2,2016,Protocols,Robust Secret Sharing Schemes Against Local Adversaries.,Allison Bishop;Valerio Pastro;,https://doi.org/10.1007/978-3-662-49387-8_13
+pkc/pkc2016-2,2016,Primitives,Reducing Depth in Constrained PRFs: From Bit-Fixing to \mathbf NC^1.,Nishanth Chandran;Srinivasan Raghuraman;Dhinakaran Vinayagamurthy;,https://doi.org/10.1007/978-3-662-49387-8_14
+pkc/pkc2016-2,2016,Primitives,Non-Malleable Functions and Their Applications.,Yu Chen;Baodong Qin;Jiang Zhang;Yi Deng;Sherman S. M. Chow;,https://doi.org/10.1007/978-3-662-49387-8_15
+pkc/pkc2016-2,2016,Primitives,On Public Key Encryption from Noisy Codewords.,Eli Ben-Sasson;Iddo Bentov;Ivan Damgård;Yuval Ishai;Noga Ron-Zewi;,https://doi.org/10.1007/978-3-662-49387-8_16
+pkc/pkc2016-2,2016,Primitives,Indistinguishability Obfuscation with Non-trivial Efficiency.,Huijia Lin;Rafael Pass;Karn Seth;Sidharth Telang;,https://doi.org/10.1007/978-3-662-49387-8_17

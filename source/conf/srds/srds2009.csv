@@ -1,0 +1,30 @@
+srds/srds2009,2009,Replication,Relaxed Atomic Broadcast: State-Machine Replication Using Bounded Memory.,Omid Shahmirzadi;Sergio Mena;André Schiper;,https://doi.org/10.1109/SRDS.2009.25
+srds/srds2009,2009,Replication,When and How to Change Quorums on Wide Area Networks.,Michael G. Merideth;Florian Oprea;Michael K. Reiter;,https://doi.org/10.1109/SRDS.2009.35
+srds/srds2009,2009,Replication,Multithreading-Enabled Active Replication for Event Stream Processing Operators.,Andrey Brito;Christof Fetzer;Pascal Felber;,https://doi.org/10.1109/SRDS.2009.37
+srds/srds2009,2009,Replication,Performance Evaluation of a Metaprotocol for Database Replication Adaptability.,María Idoia Ruiz-Fuertes;Francesc D. Muñoz-Escoí;,https://doi.org/10.1109/SRDS.2009.34
+srds/srds2009,2009,Distributed Services,Reliable and Highly Available Distributed Publish/Subscribe Service.,Reza Sherafat Kazemzadeh;Hans-Arno Jacobsen;,https://doi.org/10.1109/SRDS.2009.32
+srds/srds2009,2009,Distributed Services,Resource-Aware Migratory Services in Wide-Area Shared Computing Environments.,Anand Tripathi;Vinit Padhye;Devdatta Kulkarni;,https://doi.org/10.1109/SRDS.2009.39
+srds/srds2009,2009,Distributed Services,Model-Based Validation for Internet Services.,Andrew Tjang;Fábio Oliveira;Ricardo Bianchini;Richard P. Martin;Thu D. Nguyen;,https://doi.org/10.1109/SRDS.2009.24
+srds/srds2009,2009,Security,"The Effects of Threading, Infection Time, and Multiple-Attacker Collaboration on Malware Propagation.",Yu Zhang;Bharat K. Bhargava;Philipp Hurni;,https://doi.org/10.1109/SRDS.2009.17
+srds/srds2009,2009,Security,Designing System-Level Defenses against Cellphone Malware.,Liang Xie;Xinwen Zhang;Ashwin Chaugule;Trent Jaeger;Sencun Zhu;,https://doi.org/10.1109/SRDS.2009.21
+srds/srds2009,2009,Security,"PolyVaccine: Protecting Web Servers against Zero-Day, Polymorphic and Metamorphic Exploits.",Luis Campo-Giralte;Ricardo Jiménez-Peris;Marta Patiño-Martínez;,https://doi.org/10.1109/SRDS.2009.15
+srds/srds2009,2009,Security,Fault Localization for Firewall Policies.,JeeHyun Hwang;Tao Xie;Fei Chen;Alex X. Liu;,https://doi.org/10.1109/SRDS.2009.38
+srds/srds2009,2009,Security,DToken: A Lightweight and Traceable Delegation Architecture for Distributed Systems.,Erica Y. Yang;Brian Matthews;,https://doi.org/10.1109/SRDS.2009.31
+srds/srds2009,2009,Fault Tolerance,Constraint Based Automated Synthesis of Nonmasking and Stabilizing Fault-Tolerance.,Fuad Abujarad;Sandeep S. Kulkarni;,https://doi.org/10.1109/SRDS.2009.11
+srds/srds2009,2009,Fault Tolerance,Communication-Based Prevention of Non-P-Pattern.,Yi-Wei Ci;Zhan Zhang;De-Cheng Zuo;Zhibo Wu;Xiao-Zong Yang;,https://doi.org/10.1109/SRDS.2009.29
+srds/srds2009,2009,Fault Tolerance,Spin One's Wheels? Byzantine Fault Tolerance with a Spinning Primary.,Giuliana Santos Veronese;Miguel Correia;Alysson Neves Bessani;Lau Cheuk Lung;,https://doi.org/10.1109/SRDS.2009.36
+srds/srds2009,2009,Distributed Algorithms,A Self-Stabilizing O(n)-Round k-Clustering Algorithm.,Ajoy Kumar Datta;Stéphane Devismes;Lawrence L. Larmore;,https://doi.org/10.1109/SRDS.2009.13
+srds/srds2009,2009,Distributed Algorithms,A Partition-Tolerant Manycast Algorithm for Disaster Area Networks.,Mikael Asplund;Simin Nadjm-Tehrani;,https://doi.org/10.1109/SRDS.2009.16
+srds/srds2009,2009,Distributed Algorithms,Genuine versus Non-Genuine Atomic Multicast Protocols for Wide Area Networks: An Empirical Study.,Nicolas Schiper;Pierre Sutra;Fernando Pedone;,https://doi.org/10.1109/SRDS.2009.12
+srds/srds2009,2009,Wireless Sensor Networks,A Holistic Solution to Pursuer-Evader Tracking in Sensor Networks.,Xuming Lu;Murat Demirbas;Chunming Qiao;,https://doi.org/10.1109/SRDS.2009.18
+srds/srds2009,2009,Wireless Sensor Networks,PEQ: A Privacy-Preserving Scheme for Exact Query Evaluation in Distributed Sensor Data Networks.,Hai Trong Vu;Thuc D. Nguyen;Neeraj Mittal;S. Venkatesan;,https://doi.org/10.1109/SRDS.2009.14
+srds/srds2009,2009,Wireless Sensor Networks,On Consistent Neighborhood Views in Wireless Sensor Networks.,Arshad Jhumka;Luca Mottola;,https://doi.org/10.1109/SRDS.2009.19
+srds/srds2009,2009,Wireless Sensor Networks,TASK: Template-Based Key Assignment for Confidential Communication in Wireless Networks.,Ramon Novales;Neeraj Mittal;,https://doi.org/10.1109/SRDS.2009.30
+srds/srds2009,2009,Wireless Sensor Networks,ZoneTrust: Fast Zone-Based Node Compromise Detection and Revocation in Sensor Networks Using Sequential Analysis.,Jun-Won Ho;Matthew K. Wright;Sajal K. Das;,https://doi.org/10.1109/SRDS.2009.23
+srds/srds2009,2009,Network Protocols,The Blocking Option in Routing Protocols.,Yan Li;Mohamed G. Gouda;,https://doi.org/10.1109/SRDS.2009.10
+srds/srds2009,2009,Network Protocols,X-BOT: A Protocol for Resilient Optimization of Unstructured Overlays.,Joao Carlos Antunes Leitao;Joao Pedro da Silva Ferreira Moura Marques;Jose Orlando Roque Nascimento Pereira;Luis Eduardo Teixeira Rodrigues;,https://doi.org/10.1109/SRDS.2009.20
+srds/srds2009,2009,Network Protocols,A Framework for Distributed Monitoring and Root Cause Analysis for Large IP Networks.,Dipyaman Banerjee;Venkateshwara Madduri;Mudhakar Srivatsa;,https://doi.org/10.1109/SRDS.2009.22
+srds/srds2009,2009,Database and Storage,On the Cost of Database Clusters Reconfiguration.,Ricardo Manuel Pereira Vilaça;José Orlando Pereira;Rui Carlos Oliveira;José Enrique Armendáriz-Iñigo;José Ramón González de Mendívil;,https://doi.org/10.1109/SRDS.2009.27
+srds/srds2009,2009,Database and Storage,Location-Aware Cache-Coherence Protocols for Distributed Transactional Contention Management in Metric-Space Networks.,Bo Zhang;Binoy Ravindran;,https://doi.org/10.1109/SRDS.2009.33
+srds/srds2009,2009,Database and Storage,Co-scheduling of Disk Head Time in Cluster-Based Storage.,Matthew Wachs;Gregory R. Ganger;,https://doi.org/10.1109/SRDS.2009.28
+srds/srds2009,2009,Database and Storage,Assessment and Improvement of Hang Detection in the Linux Operating System.,Domenico Cotroneo;Roberto Natella;Stefano Russo;,https://doi.org/10.1109/SRDS.2009.26

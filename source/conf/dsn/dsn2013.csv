@@ -1,0 +1,72 @@
+dsn/dsn2013,2013,None,Performability analysis of RAID10 versus RAID6.,Fumio Machida;Jianwen Xiang;Kumiko Tadano;Yoshiharu Maeno;Takashi Horikawa;,https://doi.org/10.1109/DSN.2013.6575339
+dsn/dsn2013,2013,None,EagleEye: Towards mandatory security monitoring in virtualized datacenter environment.,Yu-Sung Wu;Pei-Keng Sun;Chun-Chi Huang;Sung-Jer Lu;Syu-Fang Lai;Yi-Yung Chen;,https://doi.org/10.1109/DSN.2013.6575300
+dsn/dsn2013,2013,None,Application-driven TCP recovery and non-stop BGP.,Robert Surton;Ken Birman;Robbert van Renesse;,https://doi.org/10.1109/DSN.2013.6575313
+dsn/dsn2013,2013,None,PHYS: Profiled-HYbrid Sampling for soft error reliability benchmarking.,Jinho Suh;Murali Annavaram;Michel Dubois;,https://doi.org/10.1109/DSN.2013.6575352
+dsn/dsn2013,2013,None,"The Third International Workshop on Dependability of Clouds, Data Centers and Virtual Machine Technology DCDV 2013.",Jogesh K. Muppala;Matti A. Hiltunen;Roy Campbell;Paulo Veríssimo;,https://doi.org/10.1109/DSN.2013.6575319
+dsn/dsn2013,2013,None,Towards secure monitoring and control systems: Diversify!,Domenico Cotroneo;Antonio Pecchia;Stefano Russo;,https://doi.org/10.1109/DSN.2013.6575341
+dsn/dsn2013,2013,None,Evasive bots masquerading as human beings on the web.,Jing Jin;Jeff Offutt;Nan Zheng;Feng Mao;Aaron Koehl;Haining Wang;,https://doi.org/10.1109/DSN.2013.6575366
+dsn/dsn2013,2013,None,Redefining web browser principals with a Configurable Origin Policy.,Yinzhi Cao;Vaibhav Rastogi;Zhichun Li;Yan Chen;Alexander Moshchuk;,https://doi.org/10.1109/DSN.2013.6575317
+dsn/dsn2013,2013,None,Security implications of memory deduplication in a virtualized environment.,Jidong Xiao;Zhang Xu;Hai Huang;Haining Wang;,https://doi.org/10.1109/DSN.2013.6575349
+dsn/dsn2013,2013,None,Lilliput meets brobdingnagian: Data center systems management through mobile devices.,Saurabh Bagchi;Fahad A. Arshad;Jan S. Rellermeyer;Thomas H. Osiecki;Michael Kistler;Ahmed Gheith;,https://doi.org/10.1109/DSN.2013.6575327
+dsn/dsn2013,2013,None,simFI: From single to simultaneous software fault injections.,Stefan Winter;Michael Tretter;Benjamin Sattler;Neeraj Suri;,https://doi.org/10.1109/DSN.2013.6575310
+dsn/dsn2013,2013,None,Increasing network resiliency by optimally assigning diverse variants to routing nodes.,Andrew Newell;Daniel Obenshain;Thomas Tantillo;Cristina Nita-Rotaru;Yair Amir;,https://doi.org/10.1109/DSN.2013.6575305
+dsn/dsn2013,2013,None,SIDE: Isolated and efficient execution of unmodified device drivers.,Yifeng Sun;Tzi-cker Chiueh;,https://doi.org/10.1109/DSN.2013.6575348
+dsn/dsn2013,2013,None,Design of event-based Intrusion Detection System on OpenFlow Network.,Yung-Li Hu;Wei-Bing Su;Li-ying Wu;Yennun Huang;Sy-Yen Kuo;,https://doi.org/10.1109/DSN.2013.6575335
+dsn/dsn2013,2013,None,Analysis of bugs in Apache Virtual Computing Lab.,Flavio Frattini;Rahul Ghosh;Marcello Cinque;Andy Rindos;Kishor S. Trivedi;,https://doi.org/10.1109/DSN.2013.6575324
+dsn/dsn2013,2013,None,Guaranteeing Proper-Temporal-Embedding safety rules in wireless CPS: A hybrid formal modeling approach.,Feng Tan;Yufei Wang;Qixin Wang;Lei Bu;Rong Zheng;Neeraj Suri;,https://doi.org/10.1109/DSN.2013.6575357
+dsn/dsn2013,2013,None,Lightweight message tracing for debugging wireless sensor networks.,Vinaitheerthan Sundaram;Patrick Eugster;,https://doi.org/10.1109/DSN.2013.6575302
+dsn/dsn2013,2013,None,Hector: Detecting Resource-Release Omission Faults in error-handling code for systems software.,Suman Saha;Jean-Pierre Lozi;Gaël Thomas;Julia L. Lawall;Gilles Muller;,https://doi.org/10.1109/DSN.2013.6575307
+dsn/dsn2013,2013,None,Stress balancing to mitigate NBTI effects in register files.,Hussam Amrouch;Thomas Ebi;Jörg Henkel;,https://doi.org/10.1109/DSN.2013.6575315
+dsn/dsn2013,2013,None,Towards SDN enabled network control delegation in clouds.,Muhammad Salman Malik;Mirko Montanari;Jun Ho Huh;Rakesh B. Bobba;Roy H. Campbell;,https://doi.org/10.1109/DSN.2013.6575320
+dsn/dsn2013,2013,None,Distal: A framework for implementing fault-tolerant distributed algorithms.,Martin Biely;Pamela Delgado;Zarko Milosevic;André Schiper;,https://doi.org/10.1109/DSN.2013.6575306
+dsn/dsn2013,2013,None,An algorithmic approach to error localization and partial recomputation for low-overhead fault tolerance.,Joseph Sloan;Rakesh Kumar;Greg Bronevetsky;,https://doi.org/10.1109/DSN.2013.6575309
+dsn/dsn2013,2013,None,Message from the general chair.,András Pataricza;,https://doi.org/10.1109/DSN.2013.6575288
+dsn/dsn2013,2013,None,Fitting second-order acyclic Marked Markovian Arrival Processes.,Andrea Sansottera;Giuliano Casale;Paolo Cremonesi;,https://doi.org/10.1109/DSN.2013.6575347
+dsn/dsn2013,2013,None,Fault detection and localization in distributed systems using invariant relationships.,Abhishek B. Sharma;Haifeng Chen;Min Ding;Kenji Yoshihira;Guofei Jiang;,https://doi.org/10.1109/DSN.2013.6575304
+dsn/dsn2013,2013,None,Consistency or latency? A quantitative analysis of replication systems based on replicated state machines.,Xu Wang;Hailong Sun;Ting Deng;Jinpeng Huai;,https://doi.org/10.1109/DSN.2013.6575361
+dsn/dsn2013,2013,None,Improving SSD reliability with RAID via Elastic Striping and Anywhere Parity.,Jaeho Kim;Jongmin Lee;Jongmoo Choi;Donghee Lee;Sam H. Noh;,https://doi.org/10.1109/DSN.2013.6575359
+dsn/dsn2013,2013,None,DRIP: A framework for purifying trojaned kernel drivers.,Zhongshu Gu;William N. Sumner;Zhui Deng;Xiangyu Zhang;Dongyan Xu;,https://doi.org/10.1109/DSN.2013.6575342
+dsn/dsn2013,2013,None,SPECTRE: A dependable introspection framework via System Management Mode.,Fengwei Zhang;Kevin Leach;Kun Sun;Angelos Stavrou;,https://doi.org/10.1109/DSN.2013.6575343
+dsn/dsn2013,2013,None,Fault-tolerance characteristics of data center network topologies using fault regions.,Yang Liu;Jogesh K. Muppala;,https://doi.org/10.1109/DSN.2013.6575321
+dsn/dsn2013,2013,None,Implementing the ADVISE security modeling formalism in Möbius.,Michael D. Ford;Ken Keefe;Elizabeth LeMay;William H. Sanders;Carol Muehrcke;,https://doi.org/10.1109/DSN.2013.6575362
+dsn/dsn2013,2013,None,FTSPM: A Fault-Tolerant ScratchPad Memory.,Amir Mahdi Hosseini Monazzah;Hamed Farbeh;Seyed Ghassem Miremadi;Mahdi Fazeli;Hossein Asadi;,https://doi.org/10.1109/DSN.2013.6575351
+dsn/dsn2013,2013,None,Lumpability of fluid models with heterogeneous agent types.,Giulio Iacobelli;Mirco Tribastone;,https://doi.org/10.1109/DSN.2013.6575346
+dsn/dsn2013,2013,None,Message from the DCCS program chair.,George Candea;,https://doi.org/10.1109/DSN.2013.6575289
+dsn/dsn2013,2013,None,Locality matters: Reducing Internet traffic graphs using location analysis.,Andreas Berger;Stefan Ruehrup;Wilfried N. Gansterer;Oliver Jung;,https://doi.org/10.1109/DSN.2013.6575365
+dsn/dsn2013,2013,None,Reading between the lines of failure logs: Understanding how HPC systems fail.,Nosayba El-Sayed;Bianca Schroeder;,https://doi.org/10.1109/DSN.2013.6575356
+dsn/dsn2013,2013,None,A practical characterization of a NASA SpaceCube application through fault emulation and laser testing.,John Paul Walters;Kenneth M. Zick;Matthew French;,https://doi.org/10.1109/DSN.2013.6575354
+dsn/dsn2013,2013,None,Intrusion detection and honeypots in nested virtualization environments.,Michael Beham;Marius Vlad;Hans P. Reiser;,https://doi.org/10.1109/DSN.2013.6575329
+dsn/dsn2013,2013,None,CloudPD: Problem determination and diagnosis in shared dynamic clouds.,Bikash Sharma;Praveen Jayachandran;Akshat Verma;Chita R. Das;,https://doi.org/10.1109/DSN.2013.6575298
+dsn/dsn2013,2013,None,Geo-replicated storage with scalable deferred update replication.,Daniele Sciascia;Fernando Pedone;,https://doi.org/10.1109/DSN.2013.6575360
+dsn/dsn2013,2013,None,State-of-the-practice in data center virtualization: Toward a better understanding of VM usage.,Robert Birke;Andrej Podzimek;Lydia Y. Chen;Evgenia Smirni;,https://doi.org/10.1109/DSN.2013.6575350
+dsn/dsn2013,2013,None,WirelessHART modeling and performance evaluation.,Anne Remke;Xian Wu;,https://doi.org/10.1109/DSN.2013.6575358
+dsn/dsn2013,2013,None,Generative software-based memory error detection and correction for operating system data structures.,Christoph Borchert;Horst Schirmeier;Olaf Spinczyk;,https://doi.org/10.1109/DSN.2013.6575308
+dsn/dsn2013,2013,None,Increasing the trustworthiness of commodity hardware through software.,Kevin Elphinstone;Yanyan Shen;,https://doi.org/10.1109/DSN.2013.6575328
+dsn/dsn2013,2013,None,Manipulating semantic values in kernel data structures: Attack assessments and implications.,Aravind Prakash;Eknath Venkataramani;Heng Yin;Zhiqiang Lin;,https://doi.org/10.1109/DSN.2013.6575344
+dsn/dsn2013,2013,None,Seamless kernel updates.,Maxim Siniavine;Ashvin Goel;,https://doi.org/10.1109/DSN.2013.6575312
+dsn/dsn2013,2013,None,Addressing memory exhaustion failures in Virtual Machines in a cloud environment.,Jose Antonio Navas Molina;Shivakant Mishra;,https://doi.org/10.1109/DSN.2013.6575330
+dsn/dsn2013,2013,None,Availability study on cloud computing environments: Live migration as a rejuvenation mechanism.,Matheus D'Eça Torquato de Melo;Paulo Romero Martins Maciel;Jean Araujo;Rubens de S. Matos;Carlos Araújo;,https://doi.org/10.1109/DSN.2013.6575322
+dsn/dsn2013,2013,None,Mitigating access-driven timing channels in clouds using StopWatch.,Peng Li;Debin Gao;Michael K. Reiter;,https://doi.org/10.1109/DSN.2013.6575299
+dsn/dsn2013,2013,None,Evaluating Xilinx SEU Controller Macro for fault injection.,Jose Luis Nunes;João Carlos Cunha;Raul Barbosa;Mário Zenha Rela;,https://doi.org/10.1109/DSN.2013.6575336
+dsn/dsn2013,2013,None,Network traffic anomaly detection based on growing hierarchical SOM.,Shin-Ying Huang;Yennun Huang;,https://doi.org/10.1109/DSN.2013.6575338
+dsn/dsn2013,2013,None,Why is my smartphone slow? On the fly diagnosis of underperformance on the mobile Internet.,Chaitrali Amrutkar;Matti A. Hiltunen;Trevor Jim;Kaustubh R. Joshi;Oliver Spatscheck;Patrick Traynor;Shobha Venkataraman;,https://doi.org/10.1109/DSN.2013.6575301
+dsn/dsn2013,2013,None,An adaptive approach to dependable circuits for a digital power control.,Aromhack Saysanasongkham;Kenta Imai;Masayuki Arai;Satoshi Fukumoto;Keiji Wada;,https://doi.org/10.1109/DSN.2013.6575333
+dsn/dsn2013,2013,None,Modeling and analysing operation processes for dependability.,Xiwei Xu;Liming Zhu;Jim Zhanwen Li;Len Bass;Qinghua Lu;Min Fu;,https://doi.org/10.1109/DSN.2013.6575337
+dsn/dsn2013,2013,None,The architecture of a resilience infrastructure for computing and communication systems.,Algirdas Avizienis;,https://doi.org/10.1109/DSN.2013.6575340
+dsn/dsn2013,2013,None,Operating SECDED-based caches at ultra-low voltage with FLAIR.,Moinuddin K. Qureshi;Zeshan Chishti;,https://doi.org/10.1109/DSN.2013.6575314
+dsn/dsn2013,2013,None,DATAFLASKS: An epidemic dependable key-value substrate.,Francisco Maia;Miguel Matos;Ricardo Manuel Pereira Vilaça;José Orlando Pereira;Rui Oliveira;Etienne Riviere;,https://doi.org/10.1109/DSN.2013.6575326
+dsn/dsn2013,2013,None,Model-based performance analysis of local re-execution scheme in offloading system.,Qiushi Wang;Huaming Wu;Katinka Wolter;,https://doi.org/10.1109/DSN.2013.6575325
+dsn/dsn2013,2013,None,Automating the debugging of datacenter applications with ADDA.,Cristian Zamfir;Gautam Altekar;Ion Stoica;,https://doi.org/10.1109/DSN.2013.6575303
+dsn/dsn2013,2013,None,A review of cloud deployment models for e-learning systems.,Engin Leloglu;Tolga Ayav;Burak Galip Aslan;,https://doi.org/10.1109/DSN.2013.6575331
+dsn/dsn2013,2013,None,A view on the past and future of fault injection.,Nuno Silva;Ricardo Barbosa;João Carlos Cunha;Marco Vieira;,https://doi.org/10.1109/DSN.2013.6575332
+dsn/dsn2013,2013,None,An empirical investigation of fault repairs and mitigations in space mission system software.,Javier Alonso;Michael Grottke;Allen P. Nikora;Kishor S. Trivedi;,https://doi.org/10.1109/DSN.2013.6575355
+dsn/dsn2013,2013,None,Complementing static and dynamic analysis approaches for better network defense.,Himanshu Pareek;N. Sarat Chandra Babu;,https://doi.org/10.1109/DSN.2013.6575334
+dsn/dsn2013,2013,None,A logic for model-checking mean-field models.,Anna Kolesnichenko;Pieter-Tjerk de Boer;Anne Remke;Boudewijn R. Haverkort;,https://doi.org/10.1109/DSN.2013.6575345
+dsn/dsn2013,2013,None,Detecting malicious landing pages in Malware Distribution Networks.,Gang Wang;Jack W. Stokes;Cormac Herley;David Felstead;,https://doi.org/10.1109/DSN.2013.6575316
+dsn/dsn2013,2013,None,Chasing the optimum in replicated in-memory transactional platforms via protocol adaptation.,Maria Couceiro;Pedro Ruivo;Paolo Romano;Luís E. T. Rodrigues;,https://doi.org/10.1109/DSN.2013.6575311
+dsn/dsn2013,2013,None,Dependability models for designing disaster tolerant cloud computing systems.,Bruno Silva;Paulo Romero Martins Maciel;Eduardo Tavares;Armin Zimmermann;,https://doi.org/10.1109/DSN.2013.6575323
+dsn/dsn2013,2013,None,Uniform node sampling service robust against collusions of malicious nodes.,Emmanuelle Anceaume;Yann Busnel;Bruno Sericola;,https://doi.org/10.1109/DSN.2013.6575363
+dsn/dsn2013,2013,None,Message from the PDS program chair.,Peter Kemper;,https://doi.org/10.1109/DSN.2013.6575290
+dsn/dsn2013,2013,None,Error detector placement for soft computation.,Anna Thomas;Karthik Pattabiraman;,https://doi.org/10.1109/DSN.2013.6575353
+dsn/dsn2013,2013,None,Practical automated vulnerability monitoring using program state invariants.,Cristiano Giuffrida;Lorenzo Cavallaro;Andrew S. Tanenbaum;,https://doi.org/10.1109/DSN.2013.6575318
+dsn/dsn2013,2013,None,Crossing the threshold: Detecting network malfeasance via sequential hypothesis testing.,Srinivas Krishnan;Teryl Taylor;Fabian Monrose;John McHugh;,https://doi.org/10.1109/DSN.2013.6575364

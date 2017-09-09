@@ -1,0 +1,27 @@
+pkc/pkc2002,2002,Encryption Schemes,New Semantically Secure Public-Key Cryptosystems from the RSA-Primitive.,Kouichi Sakurai;Tsuyoshi Takagi;,https://doi.org/10.1007/3-540-45664-3_1
+pkc/pkc2002,2002,Encryption Schemes,Optimal Chosen-Ciphertext Secure Encryption of Arbitrary-Length Messages.,Jean-Sébastien Coron;Helena Handschuh;Marc Joye;Pascal Paillier;David Pointcheval;Christophe Tymen;,https://doi.org/10.1007/3-540-45664-3_2
+pkc/pkc2002,2002,Encryption Schemes,On Sufficient Randomness for Secure Public-Key Cryptosystems.,Takeshi Koshiba;,https://doi.org/10.1007/3-540-45664-3_3
+pkc/pkc2002,2002,Encryption Schemes,Multi-recipient Public-Key Encryption with Shortened Ciphertext.,Kaoru Kurosawa;,https://doi.org/10.1007/3-540-45664-3_4
+pkc/pkc2002,2002,Signature Schemes,Efficient and Unconditionally Secure Digital Signatures and a Security Analysis of a Multireceiver Authentication Code.,Goichiro Hanaoka;Junji Shikata;Yuliang Zheng;Hideki Imai;,https://doi.org/10.1007/3-540-45664-3_5
+pkc/pkc2002,2002,Signature Schemes,Formal Proofs for the Security of Signcryption.,Joonsang Baek;Ron Steinfeld;Yuliang Zheng;,https://doi.org/10.1007/3-540-45664-3_6
+pkc/pkc2002,2002,Signature Schemes,A Provably Secure Restrictive Partially Blind Signature Scheme.,Greg Maitland;Colin Boyd;,https://doi.org/10.1007/3-540-45664-3_7
+pkc/pkc2002,2002,Protocols,M+1-st Price Auction Using Homomorphic Encryption.,Masayuki Abe;Koutarou Suzuki;,https://doi.org/10.1007/3-540-45664-3_8
+pkc/pkc2002,2002,Protocols,Client/Server Tradeoffs for Online Elections.,Ivan Damgård;Mads Jurik;,https://doi.org/10.1007/3-540-45664-3_9
+pkc/pkc2002,2002,Protocols,Self-tallying Elections and Perfect Ballot Secrecy.,Aggelos Kiayias;Moti Yung;,https://doi.org/10.1007/3-540-45664-3_10
+pkc/pkc2002,2002,Protocols,Efficient 1-Out-n Oblivious Transfer Schemes.,Wen-Guey Tzeng;,https://doi.org/10.1007/3-540-45664-3_11
+pkc/pkc2002,2002,Protocols,Linear Code Implies Public-Key Traitor Tracing.,Kaoru Kurosawa;Takuya Yoshida;,https://doi.org/10.1007/3-540-45664-3_12
+pkc/pkc2002,2002,Protocols,Design and Security Analysis of Anonymous Group Identification Protocols.,Chan H. Lee;Xiaotie Deng;Huafei Zhu;,https://doi.org/10.1007/3-540-45664-3_13
+pkc/pkc2002,2002,Protocols,On the Security of the Threshold Scheme Based on the Chinese Remainder Theorem.,Michaël Quisquater;Bart Preneel;Joos Vandewalle;,https://doi.org/10.1007/3-540-45664-3_14
+pkc/pkc2002,2002,Cryptanalysis,Solving Underdefined Systems of Multivariate Quadratic Equations.,Nicolas Courtois;Louis Goubin;Willi Meier;Jean-Daniel Tacier;,https://doi.org/10.1007/3-540-45664-3_15
+pkc/pkc2002,2002,Cryptanalysis,Selective Forgery of RSA Signatures with Fixed-Pattern Padding.,Arjen K. Lenstra;Igor E. Shparlinski;,https://doi.org/10.1007/3-540-45664-3_16
+pkc/pkc2002,2002,Cryptanalysis,New Chosen-Plaintext Attacks on the One-Wayness of the Modified McEliece PKC Proposed at Asiacrypt 2000.,Kazukuni Kobara;Hideki Imai;,https://doi.org/10.1007/3-540-45664-3_17
+pkc/pkc2002,2002,Side Channels,SPA-Based Adaptive Chosen-Ciphertext Attack on RSA Implementation.,Roman Novak;,https://doi.org/10.1007/3-540-45664-3_18
+pkc/pkc2002,2002,Side Channels,A Combined Timing and Power Attack.,Werner Schindler;,https://doi.org/10.1007/3-540-45664-3_19
+pkc/pkc2002,2002,Side Channels,A Fast Parallel Elliptic Curve Multiplication Resistant against Side Channel Attacks.,Tetsuya Izu;Tsuyoshi Takagi;,https://doi.org/10.1007/3-540-45664-3_20
+pkc/pkc2002,2002,Invited Talk,"New European Schemes for Signature, Integrity and Encryption (NESSIE): A Status Report.",Bart Preneel;,https://doi.org/10.1007/3-540-45664-3_21
+pkc/pkc2002,2002,ECC Implementations,An Improved Method of Multiplication on Certain Elliptic Curves.,Young-Ho Park;Sangho Oh;Sangjin Lee;Jongin Lim;Maenghee Sung;,https://doi.org/10.1007/3-540-45664-3_22
+pkc/pkc2002,2002,ECC Implementations,An Alternate Decomposition of an Integer for Faster Point Multiplication on Certain Elliptic Curves.,Young-Ho Park;Sangtae Jeong;Chang Han Kim;Jongin Lim;,https://doi.org/10.1007/3-540-45664-3_23
+pkc/pkc2002,2002,ECC Implementations,Weierstraß Elliptic Curves and Side-Channel Attacks.,Eric Brier;Marc Joye;,https://doi.org/10.1007/3-540-45664-3_24
+pkc/pkc2002,2002,Applications,One-Way Cross-Trees and Their Applications.,Marc Joye;Sung-Ming Yen;,https://doi.org/10.1007/3-540-45664-3_25
+pkc/pkc2002,2002,Applications,RSA Key Generation with Verifiable Randomness.,Ari Juels;Jorge Guajardo;,https://doi.org/10.1007/3-540-45664-3_26
+pkc/pkc2002,2002,Applications,New Minimal Modified Radix-r Representation with Applications to Smart Cards.,Marc Joye;Sung-Ming Yen;,https://doi.org/10.1007/3-540-45664-3_27

@@ -1,0 +1,28 @@
+fse/fse2015,2015,Block Cipher Cryptanalysis,Differential Analysis and Meet-in-the-Middle Attack Against Round-Reduced TWINE.,Alex Biryukov;Patrick Derbez;Léo Perrin;,https://doi.org/10.1007/978-3-662-48116-5_1
+fse/fse2015,2015,Block Cipher Cryptanalysis,Improved Higher-Order Differential Attacks on MISTY1.,Achiya Bar-On;,https://doi.org/10.1007/978-3-662-48116-5_2
+fse/fse2015,2015,Block Cipher Cryptanalysis,Meet-in-the-Middle Technique for Truncated Differential and Its Applications to CLEFIA and Camellia.,Leibo Li;Keting Jia;Xiaoyun Wang;Xiaoyang Dong;,https://doi.org/10.1007/978-3-662-48116-5_3
+fse/fse2015,2015,Understanding Attacks,Protecting Against Multidimensional Linear and Truncated Differential Cryptanalysis by Decorrelation.,Céline Blondeau;Asli Bay;Serge Vaudenay;,https://doi.org/10.1007/978-3-662-48116-5_4
+fse/fse2015,2015,Understanding Attacks,"Analysis of Impossible, Integral and Zero-Correlation Attacks on Type-II Generalized Feistel Networks Using the Matrix Method.",Céline Blondeau;Marine Minier;,https://doi.org/10.1007/978-3-662-48116-5_5
+fse/fse2015,2015,Implementation Issues,Simpler and More Efficient Rank Estimation for Side-Channel Security Assessment.,Cezary Glowacz;Vincent Grosso;Romain Poussier;Joachim Schüth;François-Xavier Standaert;,https://doi.org/10.1007/978-3-662-48116-5_6
+fse/fse2015,2015,Implementation Issues,Conversion from Arithmetic to Boolean Masking with Logarithmic Complexity.,Jean-Sébastien Coron;Johann Großschädl;Mehdi Tibouchi;Praveen Kumar Vadnala;,https://doi.org/10.1007/978-3-662-48116-5_7
+fse/fse2015,2015,Implementation Issues,Comb to Pipeline: Fast Software Encryption Revisited.,Andrey Bogdanov;Martin M. Lauridsen;Elmar Tischhauser;,https://doi.org/10.1007/978-3-662-48116-5_8
+fse/fse2015,2015,More Block Cipher Cryptanalysis,Security of the AES with a Secret S-Box.,Tyge Tiessen;Lars R. Knudsen;Stefan Kölbl;Martin M. Lauridsen;,https://doi.org/10.1007/978-3-662-48116-5_9
+fse/fse2015,2015,More Block Cipher Cryptanalysis,Meet-in-the-Middle Attacks and Structural Analysis of Round-Reduced PRINCE.,Patrick Derbez;Léo Perrin;,https://doi.org/10.1007/978-3-662-48116-5_10
+fse/fse2015,2015,More Block Cipher Cryptanalysis,Linear Distinguishers in the Key-less Setting: Application to PRESENT.,Martin M. Lauridsen;Christian Rechberger;,https://doi.org/10.1007/978-3-662-48116-5_11
+fse/fse2015,2015,Cryptanalysis of Authenticated Encryption Schemes,Differential-Linear Cryptanalysis of ICEPOLE.,Tao Huang;Ivan Tjuawinata;Hongjun Wu;,https://doi.org/10.1007/978-3-662-48116-5_12
+fse/fse2015,2015,Cryptanalysis of Authenticated Encryption Schemes,Cryptanalysis of JAMBU.,Thomas Peyrin;Siang Meng Sim;Lei Wang;Guoyan Zhang;,https://doi.org/10.1007/978-3-662-48116-5_13
+fse/fse2015,2015,Cryptanalysis of Authenticated Encryption Schemes,Related-Key Forgeries for Prøst-OTR.,Christoph Dobraunig;Maria Eichlseder;Florian Mendel;,https://doi.org/10.1007/978-3-662-48116-5_14
+fse/fse2015,2015,Cryptanalysis of Authenticated Encryption Schemes,Practical Cryptanalysis of the Open Smart Grid Protocol.,Philipp Jovanovic;Samuel Neves;,https://doi.org/10.1007/978-3-662-48116-5_15
+fse/fse2015,2015,Proofs,Relaxing Full-Codebook Security: A Refined Analysis of Key-Length Extension Schemes.,Peter Gazi;Jooyoung Lee;Yannick Seurin;John P. Steinberger;Stefano Tessaro;,https://doi.org/10.1007/978-3-662-48116-5_16
+fse/fse2015,2015,Proofs,The Related-Key Security of Iterated Even-Mansour Ciphers.,Pooya Farshim;Gordon Procter;,https://doi.org/10.1007/978-3-662-48116-5_17
+fse/fse2015,2015,Proofs,Security of Keyed Sponge Constructions Using a Modular Proof Approach.,Elena Andreeva;Joan Daemen;Bart Mennink;Gilles Van Assche;,https://doi.org/10.1007/978-3-662-48116-5_18
+fse/fse2015,2015,Proofs,GCM Security Bounds Reconsidered.,Yuichi Niwa;Keisuke Ohashi;Kazuhiko Minematsu;Tetsu Iwata;,https://doi.org/10.1007/978-3-662-48116-5_19
+fse/fse2015,2015,Design,Boosting OMD for Almost Free Authentication of Associated Data.,Reza Reyhanitabar;Serge Vaudenay;Damian Vizár;,https://doi.org/10.1007/978-3-662-48116-5_20
+fse/fse2015,2015,Design,Optimally Secure Tweakable Blockciphers.,Bart Mennink;,https://doi.org/10.1007/978-3-662-48116-5_21
+fse/fse2015,2015,Lightweight,On Lightweight Stream Ciphers with Shorter Internal States.,Frederik Armknecht;Vasily Mikhalev;,https://doi.org/10.1007/978-3-662-48116-5_22
+fse/fse2015,2015,Lightweight,Lightweight MDS Involution Matrices.,Siang Meng Sim;Khoongming Khoo;Frédérique E. Oggier;Thomas Peyrin;,https://doi.org/10.1007/978-3-662-48116-5_23
+fse/fse2015,2015,Lightweight,"A New Classification of 4-bit Optimal S-boxes and Its Application to PRESENT, RECTANGLE and SPONGENT.",Wentao Zhang;Zhenzhen Bao;Vincent Rijmen;Meicheng Liu;,https://doi.org/10.1007/978-3-662-48116-5_24
+fse/fse2015,2015,Cryptanalysis of Hash Functions and Stream Ciphers,Rotational Cryptanalysis of ARX Revisited.,Dmitry Khovratovich;Ivica Nikolic;Josef Pieprzyk;Przemyslaw Sokolowski;Ron Steinfeld;,https://doi.org/10.1007/978-3-662-48116-5_25
+fse/fse2015,2015,Cryptanalysis of Hash Functions and Stream Ciphers,Internal Differential Boomerangs: Practical Analysis of the Round-Reduced Keccak- f f Permutation.,Jérémy Jean;Ivica Nikolic;,https://doi.org/10.1007/978-3-662-48116-5_26
+fse/fse2015,2015,Cryptanalysis of Hash Functions and Stream Ciphers,New Linear Correlations Related to State Information of RC4 PRGA Using IV in WPA.,Ryoma Ito;Atsuko Miyaji;,https://doi.org/10.1007/978-3-662-48116-5_27
+fse/fse2015,2015,Mass Surveillance,A More Cautious Approach to Security Against Mass Surveillance.,Jean Paul Degabriele;Pooya Farshim;Bertram Poettering;,https://doi.org/10.1007/978-3-662-48116-5_28

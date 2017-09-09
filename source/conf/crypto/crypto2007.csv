@@ -1,0 +1,34 @@
+crypto/crypto2007,2007,Cryptanalysis,Practical Cryptanalysis of SFLASH.,Vivien Dubois;Pierre-Alain Fouque;Adi Shamir;Jacques Stern;,https://doi.org/10.1007/978-3-540-74143-5_1
+crypto/crypto2007,2007,Cryptanalysis,Full Key-Recovery Attacks on HMAC/NMAC-MD4 and NMAC-MD5.,Pierre-Alain Fouque;Gaëtan Leurent;Phong Q. Nguyen;,https://doi.org/10.1007/978-3-540-74143-5_2
+crypto/crypto2007,2007,Secure Searching,How Should We Solve Search Problems Privately?,Amos Beimel;Tal Malkin;Kobbi Nissim;Enav Weinreb;,https://doi.org/10.1007/978-3-540-74143-5_3
+crypto/crypto2007,2007,Secure Searching,Public Key Encryption That Allows PIR Queries.,Dan Boneh;Eyal Kushilevitz;Rafail Ostrovsky;William E. Skeith III;,https://doi.org/10.1007/978-3-540-74143-5_4
+crypto/crypto2007,2007,Invited Talk,Information Security Economics - and Beyond.,Ross J. Anderson;Tyler Moore;,https://doi.org/10.1007/978-3-540-74143-5_5
+crypto/crypto2007,2007,Theory,Cryptography with Constant Input Locality.,Benny Applebaum;Yuval Ishai;Eyal Kushilevitz;,https://doi.org/10.1007/978-3-540-74143-5_6
+crypto/crypto2007,2007,Theory,Universally-Composable Two-Party Computation in Two Rounds.,Omer Horvitz;Jonathan Katz;,https://doi.org/10.1007/978-3-540-74143-5_7
+crypto/crypto2007,2007,Theory,Indistinguishability Amplification.,Ueli M. Maurer;Krzysztof Pietrzak;Renato Renner;,https://doi.org/10.1007/978-3-540-74143-5_8
+crypto/crypto2007,2007,Lattices,A Hybrid Lattice-Reduction and Meet-in-the-Middle Attack Against NTRU.,Nick Howgrave-Graham;,https://doi.org/10.1007/978-3-540-74143-5_9
+crypto/crypto2007,2007,Lattices,Improved Analysis of Kannan's Shortest Lattice Vector Algorithm.,Guillaume Hanrot;Damien Stehlé;,https://doi.org/10.1007/978-3-540-74143-5_10
+crypto/crypto2007,2007,Random Oracles,Domain Extension of Public Random Functions: Beyond the Birthday Barrier.,Ueli M. Maurer;Stefano Tessaro;,https://doi.org/10.1007/978-3-540-74143-5_11
+crypto/crypto2007,2007,Random Oracles,Random Oracles and Auxiliary Input.,Dominique Unruh;,https://doi.org/10.1007/978-3-540-74143-5_12
+crypto/crypto2007,2007,Hash Functions,Security-Amplifying Combiners for Collision-Resistant Hash Functions.,Marc Fischlin;Anja Lehmann;,https://doi.org/10.1007/978-3-540-74143-5_13
+crypto/crypto2007,2007,Hash Functions,Hash Functions and the (Amplified) Boomerang Attack.,Antoine Joux;Thomas Peyrin;,https://doi.org/10.1007/978-3-540-74143-5_14
+crypto/crypto2007,2007,Hash Functions,Amplifying Collision Resistance: A Complexity-Theoretic Treatment.,Ran Canetti;Ronald L. Rivest;Madhu Sudan;Luca Trevisan;Salil P. Vadhan;Hoeteck Wee;,https://doi.org/10.1007/978-3-540-74143-5_15
+crypto/crypto2007,2007,Theory,How Many Oblivious Transfers Are Needed for Secure Multiparty Computation?,Danny Harnik;Yuval Ishai;Eyal Kushilevitz;,https://doi.org/10.1007/978-3-540-74143-5_16
+crypto/crypto2007,2007,Theory,Simulatable VRFs with Applications to Multi-theorem NIZK.,Melissa Chase;Anna Lysyanskaya;,https://doi.org/10.1007/978-3-540-74143-5_17
+crypto/crypto2007,2007,Theory,Cryptography in the Multi-string Model.,Jens Groth;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-540-74143-5_18
+crypto/crypto2007,2007,Quantum Cryptography,Secure Identification and QKD in the Bounded-Quantum-Storage Model.,Ivan Damgård;Serge Fehr;Louis Salvail;Christian Schaffner;,https://doi.org/10.1007/978-3-540-74143-5_19
+crypto/crypto2007,2007,Quantum Cryptography,A Tight High-Order Entropic Quantum Uncertainty Relation with Applications.,Ivan Damgård;Serge Fehr;Renato Renner;Louis Salvail;Christian Schaffner;,https://doi.org/10.1007/978-3-540-74143-5_20
+crypto/crypto2007,2007,Cryptanalysis,Finding Small Roots of Bivariate Integer Polynomial Equations: A Direct Approach.,Jean-Sébastien Coron;,https://doi.org/10.1007/978-3-540-74143-5_21
+crypto/crypto2007,2007,Cryptanalysis,A Polynomial Time Attack on RSA with Private CRT-Exponents Smaller Than N 0.073.,Ellen Jochemsz;Alexander May;,https://doi.org/10.1007/978-3-540-74143-5_22
+crypto/crypto2007,2007,Encryption,Invertible Universal Hashing and the TET Encryption Mode.,Shai Halevi;,https://doi.org/10.1007/978-3-540-74143-5_23
+crypto/crypto2007,2007,Encryption,Reducing Trust in the PKG in Identity Based Cryptosystems.,Vipul Goyal;,https://doi.org/10.1007/978-3-540-74143-5_24
+crypto/crypto2007,2007,Encryption,Pirate Evolution: How to Make the Most of Your Traitor Keys.,Aggelos Kiayias;Serdar Pehlivanoglu;,https://doi.org/10.1007/978-3-540-74143-5_25
+crypto/crypto2007,2007,Protocol Analysis,A Security Analysis of the NIST SP 800-90 Elliptic Curve Random Number Generator.,Daniel R. L. Brown;Kristian Gjøsteen;,https://doi.org/10.1007/978-3-540-74143-5_26
+crypto/crypto2007,2007,Protocol Analysis,A Generalization of DDH with Applications to Protocol Analysis and Computational Soundness.,Emmanuel Bresson;Yassine Lakhnech;Laurent Mazaré;Bogdan Warinschi;,https://doi.org/10.1007/978-3-540-74143-5_27
+crypto/crypto2007,2007,Protocol Analysis,Chernoff-Type Direct Product Theorems.,Russell Impagliazzo;Ragesh Jaiswal;Valentine Kabanets;,https://doi.org/10.1007/978-3-540-74143-5_28
+crypto/crypto2007,2007,Public-Key Encryption,Rerandomizable RCCA Encryption.,Manoj Prabhakaran;Mike Rosulek;,https://doi.org/10.1007/978-3-540-74143-5_29
+crypto/crypto2007,2007,Public-Key Encryption,Deterministic and Efficiently Searchable Encryption.,Mihir Bellare;Alexandra Boldyreva;Adam O'Neill;,https://doi.org/10.1007/978-3-540-74143-5_30
+crypto/crypto2007,2007,Public-Key Encryption,Secure Hybrid Encryption from Weakened Key Encapsulation.,Dennis Hofheinz;Eike Kiltz;,https://doi.org/10.1007/978-3-540-74143-5_31
+crypto/crypto2007,2007,Multi-party Computation,Scalable and Unconditionally Secure Multiparty Computation.,Ivan Damgård;Jesper Buus Nielsen;,https://doi.org/10.1007/978-3-540-74143-5_32
+crypto/crypto2007,2007,Multi-party Computation,On Secure Multi-party Computation in Black-Box Groups.,Yvo Desmedt;Josef Pieprzyk;Ron Steinfeld;Huaxiong Wang;,https://doi.org/10.1007/978-3-540-74143-5_33
+crypto/crypto2007,2007,Multi-party Computation,A Note on Secure Computation of the Moore-Penrose Pseudoinverse and Its Application to Secure Linear Algebra.,Ronald Cramer;Eike Kiltz;Carles Padró;,https://doi.org/10.1007/978-3-540-74143-5_34

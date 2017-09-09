@@ -1,0 +1,42 @@
+eurocrypt/eurocrypt93,1993,Authentication,On the Relation between A-Codes and Codes Correcting Independent Errors.,Thomas Johansson;Gregory Kabatianskii;Ben J. M. Smeets;,https://doi.org/10.1007/3-540-48285-7_1
+eurocrypt/eurocrypt93,1993,Authentication,Optimal Authentication Systems.,Reihaneh Safavi-Naini;L. Tombak;,https://doi.org/10.1007/3-540-48285-7_2
+eurocrypt/eurocrypt93,1993,Public Key,Factoring Integers Using SIMD Sieves.,Brandon Dixon;Arjen K. Lenstra;,https://doi.org/10.1007/3-540-48285-7_3
+eurocrypt/eurocrypt93,1993,Public Key,A New Elliptic Curve Based Analogue of RSA.,N. Demytko;,https://doi.org/10.1007/3-540-48285-7_4
+eurocrypt/eurocrypt93,1993,Public Key,Weakness of a Public-Key Cryptosystem Based on Factorizations of Finite Groups.,Simon R. Blackburn;Sean Murphy;Jacques Stern;,https://doi.org/10.1007/3-540-48285-7_5
+eurocrypt/eurocrypt93,1993,Block Ciphers,Differentially Uniform Mappings for Cryptography.,Kaisa Nyberg;,https://doi.org/10.1007/3-540-48285-7_6
+eurocrypt/eurocrypt93,1993,Block Ciphers,On Almost Perfect Nonlinear Permutations.,Thomas Beth;Cunsheng Ding;,https://doi.org/10.1007/3-540-48285-7_7
+eurocrypt/eurocrypt93,1993,Block Ciphers,Two New Classes of Bent Functions.,Claude Carlet;,https://doi.org/10.1007/3-540-48285-7_8
+eurocrypt/eurocrypt93,1993,Block Ciphers,Boolean Functions Satisfying a Higher Order Strict Avalanche Criterion.,Thomas W. Cusick;,https://doi.org/10.1007/3-540-48285-7_9
+eurocrypt/eurocrypt93,1993,Secret Sharing,Size of Shares and Probability of Cheating in Threshold Schemes.,Marco Carpentieri;Alfredo De Santis;Ugo Vaccaro;,https://doi.org/10.1007/3-540-48285-7_10
+eurocrypt/eurocrypt93,1993,Secret Sharing,Nonperfect Secret Sharing Schemes and Matroids.,Kaoru Kurosawa;Koji Okada;Keiichi Sakano;Wakaha Ogata;Shigeo Tsujii;,https://doi.org/10.1007/3-540-48285-7_11
+eurocrypt/eurocrypt93,1993,Stream Ciphers,From the Memoirs of a Norwegian Cryptologist.,Ernst S. Selmer;,https://doi.org/10.1007/3-540-48285-7_12
+eurocrypt/eurocrypt93,1993,Stream Ciphers,On the Linear Complexity of Products of Shift-Register Sequences.,Rainer Göttfert;Harald Niederreiter;,https://doi.org/10.1007/3-540-48285-7_13
+eurocrypt/eurocrypt93,1993,Stream Ciphers,Resynchronization Weaknesses in Synchronous Stream Ciphers.,Joan Daemen;René Govaerts;Joos Vandewalle;,https://doi.org/10.1007/3-540-48285-7_14
+eurocrypt/eurocrypt93,1993,Stream Ciphers,Blind Synchronization of m-Sequnces with Even Span.,Richard A. Games;Joseph J. Rushanan;,https://doi.org/10.1007/3-540-48285-7_15
+eurocrypt/eurocrypt93,1993,Stream Ciphers,On Constructions and Nonlinearity of Correlation Immune Functions (Extended Abstract).,Jennifer Seberry;Xian-Mo Zhang;Yuliang Zheng;,https://doi.org/10.1007/3-540-48285-7_16
+eurocrypt/eurocrypt93,1993,Digital Signature,Practical and Provably Secure Release of a Secret and Exchange of Signatures.,Ivan Damgård;,https://doi.org/10.1007/3-540-48285-7_17
+eurocrypt/eurocrypt93,1993,Digital Signature,Subliminal Communication is Easy Using the DSA.,Gustavus J. Simmons;,https://doi.org/10.1007/3-540-48285-7_18
+eurocrypt/eurocrypt93,1993,Digital Signature,Can O.S.S. be Repaired? Proposal for a New Practical Signature Scheme.,David Naccache;,https://doi.org/10.1007/3-540-48285-7_19
+eurocrypt/eurocrypt93,1993,Protocols,On a Limitation of BAN Logic.,Colin Boyd;Wenbo Mao;,https://doi.org/10.1007/3-540-48285-7_20
+eurocrypt/eurocrypt93,1993,Protocols,Efficient Anonymous Channel and All/Nothing Election Scheme.,Choonsik Park;Kazutomo Itoh;Kaoru Kurosawa;,https://doi.org/10.1007/3-540-48285-7_21
+eurocrypt/eurocrypt93,1993,Protocols,Untransferable Rights in a Client-Independent Server Environment.,Josep Domingo-Ferrer;,https://doi.org/10.1007/3-540-48285-7_22
+eurocrypt/eurocrypt93,1993,Protocols,Interactive Hashing Simplifies Zero-Knowledge Protocol Design.,Rafail Ostrovsky;Ramarathnam Venkatesan;Moti Yung;,https://doi.org/10.1007/3-540-48285-7_23
+eurocrypt/eurocrypt93,1993,Hash Functions,One-Way Accumulators: A Decentralized Alternative to Digital Sinatures (Extended Abstract).,Josh Cohen Benaloh;Michael de Mare;,https://doi.org/10.1007/3-540-48285-7_24
+eurocrypt/eurocrypt93,1993,Hash Functions,The Breaking of the AR Hash Function.,Ivan Damgård;Lars R. Knudsen;,https://doi.org/10.1007/3-540-48285-7_25
+eurocrypt/eurocrypt93,1993,Hash Functions,Collisions for the Compressin Function of MD5.,Bert den Boer;Antoon Bosselaers;,https://doi.org/10.1007/3-540-48285-7_26
+eurocrypt/eurocrypt93,1993,Hash Functions,How to Find and Avoid Collisions for the Knapsack Hash Function.,Jacques Patarin;,https://doi.org/10.1007/3-540-48285-7_27
+eurocrypt/eurocrypt93,1993,Payment Systems,Single Term Off-Line Coins.,Niels Ferguson;,https://doi.org/10.1007/3-540-48285-7_28
+eurocrypt/eurocrypt93,1993,Payment Systems,Improved Privacy in Wallets with Observers (Extended Abstract).,Ronald Cramer;Torben P. Pedersen;,https://doi.org/10.1007/3-540-48285-7_29
+eurocrypt/eurocrypt93,1993,Payment Systems,Distance-Bounding Protocols (Extended Abstract).,Stefan Brands;David Chaum;,https://doi.org/10.1007/3-540-48285-7_30
+eurocrypt/eurocrypt93,1993,Cryptanalysis,On the Distribution of Characteristics in Bijective Mappings.,Luke O'Connor;,https://doi.org/10.1007/3-540-48285-7_31
+eurocrypt/eurocrypt93,1993,Cryptanalysis,On the Security of the IDEA Block Cipher.,Willi Meier;,https://doi.org/10.1007/3-540-48285-7_32
+eurocrypt/eurocrypt93,1993,Cryptanalysis,Linear Cryptanalysis Method for DES Cipher.,Mitsuru Matsui;,https://doi.org/10.1007/3-540-48285-7_33
+eurocrypt/eurocrypt93,1993,Cryptanalysis,New Types of Cryptanalytic Attacks Using related Keys (Extended Abstract).,Eli Biham;,https://doi.org/10.1007/3-540-48285-7_34
+eurocrypt/eurocrypt93,1993,Protocols,Secret-Key Reconciliation by Public Discussion.,Gilles Brassard;Louis Salvail;,https://doi.org/10.1007/3-540-48285-7_35
+eurocrypt/eurocrypt93,1993,Protocols,"Global, Unpredictable Bit Generation Without Broadcast.",Donald Beaver;Nicol So;,https://doi.org/10.1007/3-540-48285-7_36
+eurocrypt/eurocrypt93,1993,Rump Session,On Schnorr's Preprocessing for Digital Signature Schemes.,Peter de Rooij;,https://doi.org/10.1007/3-540-48285-7_37
+eurocrypt/eurocrypt93,1993,Rump Session,Cryptanalysis of the Chang-Wu-Chen Key Distribution System.,Mike Burmester;,https://doi.org/10.1007/3-540-48285-7_38
+eurocrypt/eurocrypt93,1993,Rump Session,"An Alternate Explanation of two BAN-logic ""failures"".",Paul C. van Oorschot;,https://doi.org/10.1007/3-540-48285-7_39
+eurocrypt/eurocrypt93,1993,Rump Session,The Consequences of Trust in Shared Secret Schemes.,Gustavus J. Simmons;,https://doi.org/10.1007/3-540-48285-7_40
+eurocrypt/eurocrypt93,1993,Rump Session,Markov Ciphers and Alternating Groups.,G. Hornauer;W. Stephan;Ralph Wernsdorf;,https://doi.org/10.1007/3-540-48285-7_41
+eurocrypt/eurocrypt93,1993,Rump Session,On Key Distribution and Authentication in Mobile Radio Networks.,Choonsik Park;Kaoru Kurosawa;Tatsuaki Okamoto;Shigeo Tsujii;,https://doi.org/10.1007/3-540-48285-7_42

@@ -1,0 +1,45 @@
+eurocrypt/eurocrypt92,1992,Secret Sharing,Graph Decompositions and Secret Sharing Schemes.,Carlo Blundo;Alfredo De Santis;Douglas R. Stinson;Ugo Vaccaro;,https://doi.org/10.1007/3-540-47555-9_1
+eurocrypt/eurocrypt92,1992,Secret Sharing,Classification of Ideal Homomorphic Threshold Schemes over Finite Abelian Groups (Extended Abstract).,Yair Frankel;Yvo Desmedt;,https://doi.org/10.1007/3-540-47555-9_2
+eurocrypt/eurocrypt92,1992,Hash Functions,FFT Hashing is not Collision-free.,Thierry Baritaud;Henri Gilbert;Marc Girault;,https://doi.org/10.1007/3-540-47555-9_3
+eurocrypt/eurocrypt92,1992,Hash Functions,"FFT-Hash II, Efficient Cryptographic Hashing.",Claus-Peter Schnorr;,https://doi.org/10.1007/3-540-47555-9_4
+eurocrypt/eurocrypt92,1992,Hash Functions,Hash Function Based on Block Ciphers.,Xuejia Lai;James L. Massey;,https://doi.org/10.1007/3-540-47555-9_5
+eurocrypt/eurocrypt92,1992,Hash Functions,Differential Cryptanalysis Mod 2^32 with Applications to MD5.,Thomas A. Berson;,https://doi.org/10.1007/3-540-47555-9_6
+eurocrypt/eurocrypt92,1992,Block Ciphers,A New Method for Known Plaintext Attack of FEAL Cipher.,Mitsuru Matsui;Atsuhiro Yamagishi;,https://doi.org/10.1007/3-540-47555-9_7
+eurocrypt/eurocrypt92,1992,Block Ciphers,On the Construction of Highly Nonlinear Permutations.,Kaisa Nyberg;,https://doi.org/10.1007/3-540-47555-9_8
+eurocrypt/eurocrypt92,1992,Block Ciphers,The One-Round Functions of the DES Generate the Alternating Group.,Ralph Wernsdorf;,https://doi.org/10.1007/3-540-47555-9_9
+eurocrypt/eurocrypt92,1992,Stream Ciphers,Correlation via Linear Sequential Circuit Approximation of Combiners with memory.,Jovan Dj. Golic;,https://doi.org/10.1007/3-540-47555-9_10
+eurocrypt/eurocrypt92,1992,Stream Ciphers,Convergence of a Bayesian Iterative Error-Correction Procedure on a Noisy Shift register Sequence.,Miodrag J. Mihaljevic;Jovan Dj. Golic;,https://doi.org/10.1007/3-540-47555-9_11
+eurocrypt/eurocrypt92,1992,Stream Ciphers,Suffix Tree and String Complexity.,Luke O'Connor;Tim Snider;,https://doi.org/10.1007/3-540-47555-9_12
+eurocrypt/eurocrypt92,1992,Public Key,Attacks on Protocols for Server-Aided RSA Computation.,Birgit Pfitzmann;Michael Waidner;,https://doi.org/10.1007/3-540-47555-9_13
+eurocrypt/eurocrypt92,1992,Public Key,Public-Key Cryptosystems with Very Small Key Length.,Greg Harper;Alfred Menezes;Scott A. Vanstone;,https://doi.org/10.1007/3-540-47555-9_14
+eurocrypt/eurocrypt92,1992,Public Key,Resource Requirements for the Application of Addition Chains in Modulo Exponentiation.,Jörg Sauerbrey;Andreas Dietel;,https://doi.org/10.1007/3-540-47555-9_15
+eurocrypt/eurocrypt92,1992,Factoring,Massively Parallel Elliptic Curve Factorin.,Brandon Dixon;Arjen K. Lenstra;,https://doi.org/10.1007/3-540-47555-9_16
+eurocrypt/eurocrypt92,1992,Panel,The Eurocrypt '92 Controversial Issue: Trapdoor Primes and Moduli (Panel).,Yvo Desmedt;Peter Landrock;Arjen K. Lenstra;Kevin S. McCurley;Andrew M. Odlyzko;Rainer A. Rueppel;Miles E. Smid;,https://doi.org/10.1007/3-540-47555-9_17
+eurocrypt/eurocrypt92,1992,Public Key,Fast Exponentiation with Precomputation (Extended Abstract).,Ernest F. Brickell;Daniel M. Gordon;Kevin S. McCurley;David Bruce Wilson;,https://doi.org/10.1007/3-540-47555-9_18
+eurocrypt/eurocrypt92,1992,Public Key,Batch Diffie-Hellman Key Agreement Systems and their Application to Portable Communications.,Michael J. Beller;Yacov Yacobi;,https://doi.org/10.1007/3-540-47555-9_19
+eurocrypt/eurocrypt92,1992,Public Key,High-Speed Implementation Methods for RSA Scheme.,Keiichi Iwamura;Tsutomu Matsumoto;Hideki Imai;,https://doi.org/10.1007/3-540-47555-9_20
+eurocrypt/eurocrypt92,1992,Pseudo-random Permutation Generators,A Simplified and Generalized Treatment of Luby-Rackoff Pseudorandom Permutation Generator.,Ueli M. Maurer;,https://doi.org/10.1007/3-540-47555-9_21
+eurocrypt/eurocrypt92,1992,Pseudo-random Permutation Generators,How to Construct Pseudorandom and Super Pseudorandom Permutations from one Single Pseudorandom Function.,Jacques Patarin;,https://doi.org/10.1007/3-540-47555-9_22
+eurocrypt/eurocrypt92,1992,Pseudo-random Permutation Generators,A Construction for Super Pseudorandom Permutations from A Single Pseudorandom Function.,Babak Sadeghiyan;Josef Pieprzyk;,https://doi.org/10.1007/3-540-47555-9_23
+eurocrypt/eurocrypt92,1992,Complexity Theory and Cryptography,"How to Break a ""Secure"" Oblivious Transfer Protocol.",Donald Beaver;,https://doi.org/10.1007/3-540-47555-9_24
+eurocrypt/eurocrypt92,1992,Complexity Theory and Cryptography,Uniform Results in Polynomial-Time Security.,Paul Barbaroux;,https://doi.org/10.1007/3-540-47555-9_25
+eurocrypt/eurocrypt92,1992,Complexity Theory and Cryptography,Cryptographic Protocols Provably Secure Against Dynamic Adversaries.,Donald Beaver;Stuart Haber;,https://doi.org/10.1007/3-540-47555-9_26
+eurocrypt/eurocrypt92,1992,Zero-Knowledge,Secure Bit Commitment Function against Divertibility.,Kazuo Ohta;Tatsuaki Okamoto;Atsushi Fujioka;,https://doi.org/10.1007/3-540-47555-9_27
+eurocrypt/eurocrypt92,1992,Zero-Knowledge,Non-Interactive Circuit Based Proofs and Non-Interactive Perfect Zero-knowledge with Proprocessing.,Ivan Damgård;,https://doi.org/10.1007/3-540-47555-9_28
+eurocrypt/eurocrypt92,1992,Zero-Knowledge,Tools for Proving Zero Knowledge.,Ingrid Biehl;Johannes A. Buchmann;Bernd Meyer;Christian Thiel;Christoph Thiel;,https://doi.org/10.1007/3-540-47555-9_29
+eurocrypt/eurocrypt92,1992,Digital Signatures and Electronic Cash,How to Make Efficient Fail-stop Signatures.,Eugène van Heyst;Torben P. Pedersen;,https://doi.org/10.1007/3-540-47555-9_30
+eurocrypt/eurocrypt92,1992,Digital Signatures and Electronic Cash,"Which new RSA Signatures can be Computed from RSA Signatures, Obtained in a Specific Interactive Protocol?",Jan-Hendrik Evertse;Eugène van Heyst;,https://doi.org/10.1007/3-540-47555-9_31
+eurocrypt/eurocrypt92,1992,Digital Signatures and Electronic Cash,Transferred Cash Grows in Size.,David Chaum;Torben P. Pedersen;,https://doi.org/10.1007/3-540-47555-9_32
+eurocrypt/eurocrypt92,1992,Complexity Theory and Cryptography,Local Randomness in Candidate One-Way Functions.,Harald Niederreiter;Claus-Peter Schnorr;,https://doi.org/10.1007/3-540-47555-9_33
+eurocrypt/eurocrypt92,1992,Complexity Theory and Cryptography,How Intractable Is the Discrete Logarithm for a General Finite Group?,Tatsuaki Okamoto;Kouichi Sakurai;Hiroki Shizuya;,https://doi.org/10.1007/3-540-47555-9_34
+eurocrypt/eurocrypt92,1992,Complexity Theory and Cryptography,Factoring with an Oracle.,Ueli M. Maurer;,https://doi.org/10.1007/3-540-47555-9_35
+eurocrypt/eurocrypt92,1992,Applications,Secure Audio Teleconferencing: A Practical Solution.,Rafi Heiman;,https://doi.org/10.1007/3-540-47555-9_36
+eurocrypt/eurocrypt92,1992,Selected Papers from the Rump Session,Secure Conference Key Distribution Schemes for Conspiracy Attack.,Kenji Koyama;,https://doi.org/10.1007/3-540-47555-9_37
+eurocrypt/eurocrypt92,1992,Selected Papers from the Rump Session,A Note on Discrete Logorithms with Special Structure.,Rafi Heiman;,https://doi.org/10.1007/3-540-47555-9_38
+eurocrypt/eurocrypt92,1992,Selected Papers from the Rump Session,A Remark on a Non-interactive Public-Key Distribution System.,Ueli M. Maurer;Yacov Yacobi;,https://doi.org/10.1007/3-540-47555-9_39
+eurocrypt/eurocrypt92,1992,Selected Papers from the Rump Session,Security Bounds for Parallel Versions of Identification Protocols (Extended Abstract).,Lidong Chen;Ivan Damgård;,https://doi.org/10.1007/3-540-47555-9_40
+eurocrypt/eurocrypt92,1992,Selected Papers from the Rump Session,Information-Theoretic Bounds for Authentication Frauds.,Andrea Sgarro;,https://doi.org/10.1007/3-540-47555-9_41
+eurocrypt/eurocrypt92,1992,Selected Papers from the Rump Session,A Generalized Correlation Attack with a Probabilistic Constrained Edit Distance.,Jovan Dj. Golic;Slobodan V. Petrovic;,https://doi.org/10.1007/3-540-47555-9_42
+eurocrypt/eurocrypt92,1992,Selected Papers from the Rump Session,Systolic-Arrays for Modular Exponentiation Using Montgomery Method (Extended Abstract).,Keiichi Iwamura;Tsutomu Matsumoto;Hideki Imai;,https://doi.org/10.1007/3-540-47555-9_43
+eurocrypt/eurocrypt92,1992,Selected Papers from the Rump Session,On the Development of a Fast Elliptic Curve Cryptosystem.,Gordon B. Agnew;Ronald C. Mullin;Scott A. Vanstone;,https://doi.org/10.1007/3-540-47555-9_44
+eurocrypt/eurocrypt92,1992,Selected Papers from the Rump Session,A Montgomery-Suitable Fiat-Shamir-like Authenication Scheme.,David Naccache;,https://doi.org/10.1007/3-540-47555-9_45

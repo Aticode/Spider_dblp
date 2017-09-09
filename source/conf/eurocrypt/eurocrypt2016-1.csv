@@ -1,0 +1,31 @@
+eurocrypt/eurocrypt2016-1,2016,None,Tightly CCA-Secure Encryption Without Pairings.,Romain Gay;Dennis Hofheinz;Eike Kiltz;Hoeteck Wee;,https://doi.org/10.1007/978-3-662-49890-3_1
+eurocrypt/eurocrypt2016-1,2016,None,Indistinguishability Obfuscation from Constant-Degree Graded Encoding Schemes.,Huijia Lin;,https://doi.org/10.1007/978-3-662-49890-3_2
+eurocrypt/eurocrypt2016-1,2016,None,Essentially Optimal Robust Secret Sharing with Maximal Corruptions.,Allison Bishop;Valerio Pastro;Rajmohan Rajaraman;Daniel Wichs;,https://doi.org/10.1007/978-3-662-49890-3_3
+eurocrypt/eurocrypt2016-1,2016,None,Provably Robust Sponge-Based PRNGs and KDFs.,Peter Gazi;Stefano Tessaro;,https://doi.org/10.1007/978-3-662-49890-3_4
+eurocrypt/eurocrypt2016-1,2016,None,Reusable Fuzzy Extractors for Low-Entropy Distributions.,Ran Canetti;Benjamin Fuller;Omer Paneth;Leonid Reyzin;Adam D. Smith;,https://doi.org/10.1007/978-3-662-49890-3_5
+eurocrypt/eurocrypt2016-1,2016,None,Provably Weak Instances of Ring-LWE Revisited.,Wouter Castryck;Ilia Iliashenko;Frederik Vercauteren;,https://doi.org/10.1007/978-3-662-49890-3_6
+eurocrypt/eurocrypt2016-1,2016,None,Faster Algorithms for Solving LPN.,Bin Zhang;Lin Jiao;Mingsheng Wang;,https://doi.org/10.1007/978-3-662-49890-3_7
+eurocrypt/eurocrypt2016-1,2016,None,Provable Security Evaluation of Structures Against Impossible Differential and Zero Correlation Linear Cryptanalysis.,Bing Sun;Meicheng Liu;Jian Guo;Vincent Rijmen;Ruilin Li;,https://doi.org/10.1007/978-3-662-49890-3_8
+eurocrypt/eurocrypt2016-1,2016,None,Polytopic Cryptanalysis.,Tyge Tiessen;,https://doi.org/10.1007/978-3-662-49890-3_9
+eurocrypt/eurocrypt2016-1,2016,None,From Improved Leakage Detection to the Detection of Points of Interests in Leakage Traces.,François Durvaux;François-Xavier Standaert;,https://doi.org/10.1007/978-3-662-49890-3_10
+eurocrypt/eurocrypt2016-1,2016,None,Improved Masking for Tweakable Blockciphers with Applications to Authenticated Encryption.,Robert Granger;Philipp Jovanovic;Bart Mennink;Samuel Neves;,https://doi.org/10.1007/978-3-662-49890-3_11
+eurocrypt/eurocrypt2016-1,2016,None,Sanitization of FHE Ciphertexts.,Léo Ducas;Damien Stehlé;,https://doi.org/10.1007/978-3-662-49890-3_12
+eurocrypt/eurocrypt2016-1,2016,None,Towards Stream Ciphers for Efficient FHE with Low-Noise Ciphertexts.,Pierrick Méaux;Anthony Journault;François-Xavier Standaert;Claude Carlet;,https://doi.org/10.1007/978-3-662-49890-3_13
+eurocrypt/eurocrypt2016-1,2016,None,Improved Differential-Linear Cryptanalysis of 7-Round Chaskey with Partitioning.,Gaëtan Leurent;,https://doi.org/10.1007/978-3-662-49890-3_14
+eurocrypt/eurocrypt2016-1,2016,None,"Reverse-Engineering the S-Box of Streebog, Kuznyechik and STRIBOBr1.",Alex Biryukov;Léo Perrin;Aleksei Udovenko;,https://doi.org/10.1007/978-3-662-49890-3_15
+eurocrypt/eurocrypt2016-1,2016,None,Complete Addition Formulas for Prime Order Elliptic Curves.,Joost Renes;Craig Costello;Lejla Batina;,https://doi.org/10.1007/978-3-662-49890-3_16
+eurocrypt/eurocrypt2016-1,2016,None,New Complexity Trade-Offs for the (Multiple) Number Field Sieve Algorithm in Non-Prime Fields.,Palash Sarkar;Shashank Singh;,https://doi.org/10.1007/978-3-662-49890-3_17
+eurocrypt/eurocrypt2016-1,2016,None,Freestart Collision for Full SHA-1.,Marc Stevens;Pierre Karpman;Thomas Peyrin;,https://doi.org/10.1007/978-3-662-49890-3_18
+eurocrypt/eurocrypt2016-1,2016,None,New Attacks on the Concatenation and XOR Hash Combiners.,Itai Dinur;,https://doi.org/10.1007/978-3-662-49890-3_19
+eurocrypt/eurocrypt2016-1,2016,None,Cryptanalysis of the New CLT Multilinear Map over the Integers.,Jung Hee Cheon;Pierre-Alain Fouque;Changmin Lee;Brice Minaud;Hansol Ryu;,https://doi.org/10.1007/978-3-662-49890-3_20
+eurocrypt/eurocrypt2016-1,2016,None,Cryptanalysis of GGH Map.,Yupu Hu;Huiwen Jia;,https://doi.org/10.1007/978-3-662-49890-3_21
+eurocrypt/eurocrypt2016-1,2016,None,Hash-Function Based PRFs: AMAC and Its Multi-User Security.,Mihir Bellare;Daniel J. Bernstein;Stefano Tessaro;,https://doi.org/10.1007/978-3-662-49890-3_22
+eurocrypt/eurocrypt2016-1,2016,None,On the Influence of Message Length in PMAC's Security Bounds.,Atul Luykx;Bart Preneel;Alan Szepieniec;Kan Yasuda;,https://doi.org/10.1007/978-3-662-49890-3_23
+eurocrypt/eurocrypt2016-1,2016,None,Lucky Microseconds: A Timing Attack on Amazon's s2n Implementation of TLS.,Martin R. Albrecht;Kenneth G. Paterson;,https://doi.org/10.1007/978-3-662-49890-3_24
+eurocrypt/eurocrypt2016-1,2016,None,An Analysis of OpenSSL's Random Number Generator.,Falko Strenzke;,https://doi.org/10.1007/978-3-662-49890-3_25
+eurocrypt/eurocrypt2016-1,2016,None,Safely Exporting Keys from Secure Channels - On the Security of EAP-TLS and TLS Key Exporters.,Christina Brzuska;Håkon Jacobsen;Douglas Stebila;,https://doi.org/10.1007/978-3-662-49890-3_26
+eurocrypt/eurocrypt2016-1,2016,None,Valiant's Universal Circuit is Practical.,Ágnes Kiss;Thomas Schneider;,https://doi.org/10.1007/978-3-662-49890-3_27
+eurocrypt/eurocrypt2016-1,2016,None,Nonce-Based Cryptography: Retaining Security When Randomness Fails.,Mihir Bellare;Björn Tackmann;,https://doi.org/10.1007/978-3-662-49890-3_28
+eurocrypt/eurocrypt2016-1,2016,None,Honey Encryption Beyond Message Recovery Security.,Joseph Jaeger;Thomas Ristenpart;Qiang Tang;,https://doi.org/10.1007/978-3-662-49890-3_29
+eurocrypt/eurocrypt2016-1,2016,None,Improved Progressive BKZ Algorithms and Their Precise Cost Estimation by Sharp Simulator.,Yoshinori Aono;Yuntao Wang;Takuya Hayashi;Tsuyoshi Takagi;,https://doi.org/10.1007/978-3-662-49890-3_30
+eurocrypt/eurocrypt2016-1,2016,None,"Practical, Predictable Lattice Basis Reduction.",Daniele Micciancio;Michael Walter;,https://doi.org/10.1007/978-3-662-49890-3_31

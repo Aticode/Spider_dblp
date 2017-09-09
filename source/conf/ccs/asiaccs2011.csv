@@ -1,0 +1,61 @@
+ccs/asiaccs2011,2011,Keynotes,Improved Nguyen-Vidick heuristic sieve algorithm for shortest vector problem.,Xiaoyun Wang;Mingjie Liu;Chengliang Tian;Jingguo Bi;,http://doi.acm.org/10.1145/1966913.1966915
+ccs/asiaccs2011,2011,Keynotes,Towards mechanisms for detection and prevention of data exfiltration by insiders: keynote talk paper.,Elisa Bertino;Gabriel Ghinita;,http://doi.acm.org/10.1145/1966913.1966916
+ccs/asiaccs2011,2011,Software security,Automatic construction of jump-oriented programming shellcode (on the x86).,Ping Chen;Xiao Xing;Bing Mao;Li Xie;Xiaobin Shen;Xinchun Yin;,http://doi.acm.org/10.1145/1966913.1966918
+ccs/asiaccs2011,2011,Software security,Jump-oriented programming: a new class of code-reuse attack.,Tyler K. Bletsch;Xuxian Jiang;Vincent W. Freeh;Zhenkai Liang;,http://doi.acm.org/10.1145/1966913.1966919
+ccs/asiaccs2011,2011,Software security,ROPdefender: a detection tool to defend against return-oriented programming attacks.,Lucas Davi;Ahmad-Reza Sadeghi;Marcel Winandy;,http://doi.acm.org/10.1145/1966913.1966920
+ccs/asiaccs2011,2011,Applied cryptography -,Identity-based online/offline key encapsulation and encryption.,Sherman S. M. Chow;Joseph K. Liu;Jianying Zhou;,http://doi.acm.org/10.1145/1966913.1966922
+ccs/asiaccs2011,2011,Applied cryptography -,Compact identity-based encryption without strong symmetric cipher.,Joonsang Baek;Jianying Zhou;,http://doi.acm.org/10.1145/1966913.1966923
+ccs/asiaccs2011,2011,Applied cryptography -,Strongly secure certificateless key exchange without pairing.,Guomin Yang;Chik How Tan;,http://doi.acm.org/10.1145/1966913.1966924
+ccs/asiaccs2011,2011,Applied cryptography -,"Examining indistinguishability-based security models for key exchange protocols: the case of CK, CK-HMQV, and eCK.",Cas Cremers;,http://doi.acm.org/10.1145/1966913.1966925
+ccs/asiaccs2011,2011,Network security,Enhancing the trust of internet routing with lightweight route attestation.,Qi Li;Mingwei Xu;Jianping Wu;Xinwen Zhang;Patrick P. C. Lee;Ke Xu;,http://doi.acm.org/10.1145/1966913.1966927
+ccs/asiaccs2011,2011,Network security,"Network scan detection with LQS: a lightweight, quick and stateful algorithm.",Mansour Alsaleh;Paul C. van Oorschot;,http://doi.acm.org/10.1145/1966913.1966928
+ccs/asiaccs2011,2011,Network security,An integrated approach to cryptographic mitigation of denial-of-service attacks.,Jothi Rangasamy;Douglas Stebila;Colin Boyd;Juanma González Nieto;,http://doi.acm.org/10.1145/1966913.1966929
+ccs/asiaccs2011,2011,Network security,Boosting the scalability of botnet detection using adaptive traffic sampling.,Junjie Zhang;Xiapu Luo;Roberto Perdisci;Guofei Gu;Wenke Lee;Nick Feamster;,http://doi.acm.org/10.1145/1966913.1966930
+ccs/asiaccs2011,2011,Access control,Tracer: enforcing mandatory access control in commodity OS with the support of light-weight intrusion detection and tracing.,Zhiyong Shan;Xin Wang;Tzi-cker Chiueh;,http://doi.acm.org/10.1145/1966913.1966932
+ccs/asiaccs2011,2011,Access control,Confidentiality-preserving proof theories for distributed proof systems.,Kazuhiro Minami;Nikita Borisov;Marianne Winslett;Adam J. Lee;,http://doi.acm.org/10.1145/1966913.1966933
+ccs/asiaccs2011,2011,Access control,PUF ROKs: a hardware approach to read-once keys.,Michael S. Kirkpatrick;Sam Kerr;Elisa Bertino;,http://doi.acm.org/10.1145/1966913.1966934
+ccs/asiaccs2011,2011,Access control,Efficient symbolic automated analysis of administrative attribute-based RBAC-policies.,Francesco Alberti;Alessandro Armando;Silvio Ranise;,http://doi.acm.org/10.1145/1966913.1966935
+ccs/asiaccs2011,2011,Access control,An efficient mobile PACE implementation.,Alexander Wiesmaier;Moritz Horsch;Johannes Braun;Franziskus Kiefer;Detlef Hühnlein;Falko Strenzke;Johannes A. Buchmann;,http://doi.acm.org/10.1145/1966913.1966936
+ccs/asiaccs2011,2011,Malware,WebPatrol: automated collection and replay of web-based malware scenarios.,Kevin Zhijie Chen;Guofei Gu;Jianwei Zhuge;Jose Nazario;Xinhui Han;,http://doi.acm.org/10.1145/1966913.1966938
+ccs/asiaccs2011,2011,Malware,"Malware propagation in online social networks: nature, dynamics, and defense implications.",Guanhua Yan;Guanling Chen;Stephan Eidenbenz;Nan Li;,http://doi.acm.org/10.1145/1966913.1966939
+ccs/asiaccs2011,2011,Malware,Characterizing kernel malware behavior with kernel data access patterns.,Junghwan Rhee;Zhiqiang Lin;Dongyan Xu;,http://doi.acm.org/10.1145/1966913.1966940
+ccs/asiaccs2011,2011,Malware,Detecting stealthy malware with inter-structure and imported signatures.,Bin Liang;Wei You;Wenchang Shi;Zhaohui Liang;,http://doi.acm.org/10.1145/1966913.1966941
+ccs/asiaccs2011,2011,Security protocols,Secure mobile subscription of sensor-encrypted data.,Cheng-Kang Chu;Wen Tao Zhu;Sherman S. M. Chow;Jianying Zhou;Robert H. Deng;,http://doi.acm.org/10.1145/1966913.1966943
+ccs/asiaccs2011,2011,Security protocols,Efficient audit-based compliance for relational data retention.,Ragib Hasan;Marianne Winslett;,http://doi.acm.org/10.1145/1966913.1966944
+ccs/asiaccs2011,2011,Security protocols,Mind how you answer me!: transparently authenticating the user of a smartphone when answering or placing a call.,Mauro Conti;Irina Zachia-Zlatea;Bruno Crispo;,http://doi.acm.org/10.1145/1966913.1966945
+ccs/asiaccs2011,2011,Applied cryptography -,Threshold ring signature without random oracles.,Tsz Hon Yuen;Joseph K. Liu;Man Ho Au;Willy Susilo;Jianying Zhou;,http://doi.acm.org/10.1145/1966913.1966947
+ccs/asiaccs2011,2011,Applied cryptography -,On the invisibility of designated confirmer signatures.,Fubiao Xia;Guilin Wang;Rui Xue;,http://doi.acm.org/10.1145/1966913.1966948
+ccs/asiaccs2011,2011,Applied cryptography -,Bounded vector signatures and their applications.,Lei Wei;Scott E. Coull;Michael K. Reiter;,http://doi.acm.org/10.1145/1966913.1966949
+ccs/asiaccs2011,2011,Applied cryptography -,Practical affiliation-hiding authentication from improved polynomial interpolation.,Mark Manulis;Bertram Poettering;,http://doi.acm.org/10.1145/1966913.1966950
+ccs/asiaccs2011,2011,Cryptanalysis and attacks,Extended cubes: enhancing the cube attack by extracting low-degree non-linear equations.,Shekh Faisal Abdul-Latip;Reza Reyhanitabar;Willy Susilo;Jennifer Seberry;,http://doi.acm.org/10.1145/1966913.1966952
+ccs/asiaccs2011,2011,Cryptanalysis and attacks,Attack on the GridCode one-time password.,Ian Molloy;Ninghui Li;,http://doi.acm.org/10.1145/1966913.1966953
+ccs/asiaccs2011,2011,Cryptanalysis and attacks,Rethinking about guessing attacks.,Zhiwei Li;Weichao Wang;,http://doi.acm.org/10.1145/1966913.1966954
+ccs/asiaccs2011,2011,Cryptanalysis and attacks,Formal modelling and automatic detection of resource exhaustion attacks.,Bogdan Groza;Marius Minea;,http://doi.acm.org/10.1145/1966913.1966955
+ccs/asiaccs2011,2011,System security,A software-based root-of-trust primitive on multicore platforms.,Qiang Yan;Jin Han;Yingjiu Li;Robert H. Deng;Tieyan Li;,http://doi.acm.org/10.1145/1966913.1966957
+ccs/asiaccs2011,2011,System security,An ontology- and Bayesian-based approach for determining threat probabilities.,Stefan Fenz;,http://doi.acm.org/10.1145/1966913.1966958
+ccs/asiaccs2011,2011,System security,"Attacks against process control systems: risk assessment, detection, and response.",Alvaro A. Cárdenas;Saurabh Amin;Zong-Syun Lin;Yu-Lun Huang;Chi-Yen Huang;Shankar Sastry;,http://doi.acm.org/10.1145/1966913.1966959
+ccs/asiaccs2011,2011,System security,Non-uniform distributions in quantitative information-flow.,Michael Backes;Matthias Berg;Boris Köpf;,http://doi.acm.org/10.1145/1966913.1966960
+ccs/asiaccs2011,2011,Short papers -,On the security of the identity-based encryption based on DHIES from ASIACCS 2010.,Willy Susilo;Joonsang Baek;,http://doi.acm.org/10.1145/1966913.1966962
+ccs/asiaccs2011,2011,Short papers -,How to design space efficient revocable IBE from non-monotonic ABE.,Huang Lin;Zhenfu Cao;Yuguang Fang;Muxin Zhou;Haojin Zhu;,http://doi.acm.org/10.1145/1966913.1966963
+ccs/asiaccs2011,2011,Short papers -,Multi-authority ciphertext-policy attribute-based encryption with accountability.,Jin Li;Qiong Huang;Xiaofeng Chen;Sherman S. M. Chow;Duncan S. Wong;Dongqing Xie;,http://doi.acm.org/10.1145/1966913.1966964
+ccs/asiaccs2011,2011,Short papers -,1-out-of-2 signature.,Miroslaw Kutylowski;Jun Shao;,http://doi.acm.org/10.1145/1966913.1966965
+ccs/asiaccs2011,2011,Short papers -,Self-certified ring signatures.,Nan Li;Yi Mu;Willy Susilo;Fuchun Guo;,http://doi.acm.org/10.1145/1966913.1966966
+ccs/asiaccs2011,2011,Short papers -,Server-aided signatures verification secure against collusion attack.,Sherman S. M. Chow;Man Ho Au;Willy Susilo;,http://doi.acm.org/10.1145/1966913.1966967
+ccs/asiaccs2011,2011,Short papers -,Quantified risk-adaptive access control for patient privacy protection in health information systems.,Qihua Wang;Hongxia Jin;,http://doi.acm.org/10.1145/1966913.1966969
+ccs/asiaccs2011,2011,Short papers -,EASiER: encryption-based access control in social networks with efficient revocation.,Sonia Jahid;Prateek Mittal;Nikita Borisov;,http://doi.acm.org/10.1145/1966913.1966970
+ccs/asiaccs2011,2011,Short papers -,Diesel: applying privilege separation to database access.,Adrienne Porter Felt;Matthew Finifter;Joel Weinberger;David A. Wagner;,http://doi.acm.org/10.1145/1966913.1966971
+ccs/asiaccs2011,2011,Short papers -,Separation of duties as a service.,David A. Basin;Samuel J. Burri;Günter Karjoth;,http://doi.acm.org/10.1145/1966913.1966972
+ccs/asiaccs2011,2011,Short papers -,Receipt-mode trust negotiation: efficient authorization through outsourced interactions.,Andrew K. Adams;Adam J. Lee;Daniel Mossé;,http://doi.acm.org/10.1145/1966913.1966973
+ccs/asiaccs2011,2011,Short papers -,Stronger security model of group key agreement.,Jianjie Zhao;Dawu Gu;M. Choudary Gorantla;,http://doi.acm.org/10.1145/1966913.1966975
+ccs/asiaccs2011,2011,Short papers -,Leakage resilient eCK-secure key exchange protocol without random oracles.,Daisuke Moriyama;Tatsuaki Okamoto;,http://doi.acm.org/10.1145/1966913.1966976
+ccs/asiaccs2011,2011,Short papers -,Efficient computational oblivious transfer using interactive hashing.,Kirill Morozov;George Savvides;,http://doi.acm.org/10.1145/1966913.1966977
+ccs/asiaccs2011,2011,Short papers -,Optimal message transmission protocols with flexible parameters.,Reihaneh Safavi-Naini;Mohammed Ashraful Tuhin;Hongsong Shi;,http://doi.acm.org/10.1145/1966913.1966978
+ccs/asiaccs2011,2011,Short papers -,How to search linear approximation for large non-surjective S-box.,Yue Sun;Meiqin Wang;Qiumei Sun;,http://doi.acm.org/10.1145/1966913.1966979
+ccs/asiaccs2011,2011,Short papers -,A new and extended fault analysis on RSA.,Cai-Sen Chen;Tao Wang;,http://doi.acm.org/10.1145/1966913.1966980
+ccs/asiaccs2011,2011,Short papers - IV,MLAS: multiple level authentication scheme for VANETs.,Tat Wing Chim;Lucas Chi Kwong Hui;Siu-Ming Yiu;Victor O. K. Li;,http://doi.acm.org/10.1145/1966913.1966982
+ccs/asiaccs2011,2011,Short papers - IV,On mouse dynamics as a behavioral biometric for authentication.,Zach Jorgensen;Ting Yu;,http://doi.acm.org/10.1145/1966913.1966983
+ccs/asiaccs2011,2011,Short papers - IV,On the effectiveness of anonymizing networks for web search privacy.,Sai Teja Peddinti;Nitesh Saxena;,http://doi.acm.org/10.1145/1966913.1966984
+ccs/asiaccs2011,2011,Short papers - IV,Self destructive tamper response for software protection.,Kazuomi Oishi;Tsutomu Matsumoto;,http://doi.acm.org/10.1145/1966913.1966985
+ccs/asiaccs2011,2011,Short papers - IV,Deriving common malware behavior through graph clustering.,Young Hee Park;Douglas S. Reeves;,http://doi.acm.org/10.1145/1966913.1966986
+ccs/asiaccs2011,2011,Short papers - IV,Towards a binary integrity system for windows.,Yongzheng Wu;Roland H. C. Yap;,http://doi.acm.org/10.1145/1966913.1966987
+ccs/asiaccs2011,2011,Short papers - IV,A statistical approach to botnet virulence estimation.,Julian L. Rrushi;Ehsan Mokhtari;Ali A. Ghorbani;,http://doi.acm.org/10.1145/1966913.1966988

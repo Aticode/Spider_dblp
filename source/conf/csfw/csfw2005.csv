@@ -1,0 +1,22 @@
+csfw/csfw2005,2005,Introduction,Preface.,,https://doi.org/10.1109/CSFW.2005.24
+csfw/csfw2005,2005,Introduction,Committees.,,https://doi.org/10.1109/CSFW.2005.11
+csfw/csfw2005,2005,Session 1:Information Flow and Security Goals,Practical Information-flow Control in Web-Based Information Systems.,Peng Li;Steve Zdancewic;,https://doi.org/10.1109/CSFW.2005.23
+csfw/csfw2005,2005,Session 1:Information Flow and Security Goals,Achieving Information Flow Security through Precise Control of Effects.,William L. Harrison;James Hook;,https://doi.org/10.1109/CSFW.2005.6
+csfw/csfw2005,2005,Session 1:Information Flow and Security Goals,Belief in Information Flow.,Michael R. Clarkson;Andrew C. Myers;Fred B. Schneider;,https://doi.org/10.1109/CSFW.2005.10
+csfw/csfw2005,2005,Session 2:Logic and Knowledge for Protocols,An Encapsulated Authentication Logic for Reasoning about Key Distribution Protocols.,Iliano Cervesato;Catherine A. Meadows;Dusko Pavlovic;,https://doi.org/10.1109/CSFW.2005.7
+csfw/csfw2005,2005,Session 2:Logic and Knowledge for Protocols,Deciding Knowledge in Security Protocols under (Many More) Equational Theories.,Martín Abadi;Véronique Cortier;,https://doi.org/10.1109/CSFW.2005.14
+csfw/csfw2005,2005,Session 3:Protocol Case Studies,A Cryptographically Sound Dolev-Yao Style Security Proof of an Electronic Payment System.,Michael Backes;Markus Dürmuth;,https://doi.org/10.1109/CSFW.2005.5
+csfw/csfw2005,2005,Session 3:Protocol Case Studies,Compositional Analysis of Contract Signing Protocols.,Michael Backes;Anupam Datta;Ante Derek;John C. Mitchell;Mathieu Turuani;,https://doi.org/10.1109/CSFW.2005.12
+csfw/csfw2005,2005,Session 5:Protocol Verification Techniques,Analysis of Typed Analyses of Authentication Protocols.,Michele Bugliesi;Riccardo Focardi;Matteo Maffei;,https://doi.org/10.1109/CSFW.2005.8
+csfw/csfw2005,2005,Session 5:Protocol Verification Techniques,Temporal Rank Functions for Forward Secrecy.,Rob Delicata;Steve A. Schneider;,https://doi.org/10.1109/CSFW.2005.26
+csfw/csfw2005,2005,Session 5:Protocol Verification Techniques,Reconstruction of Attacks against Cryptographic Protocols.,Xavier Allamigeon;Bruno Blanchet;,https://doi.org/10.1109/CSFW.2005.25
+csfw/csfw2005,2005,Session 6:Computational and Formal Models,Polynomial Runtime in Simulatability Definitions.,Dennis Hofheinz;Jörn Müller-Quade;Dominique Unruh;,https://doi.org/10.1109/CSFW.2005.22
+csfw/csfw2005,2005,Session 6:Computational and Formal Models,Computational and Information-Theoretic Soundness and Completeness of Formal Encryption.,Pedro Adão;Gergei Bana;Andre Scedrov;,https://doi.org/10.1109/CSFW.2005.13
+csfw/csfw2005,2005,Session 7:Access Control and Languages,Nomad: A Security Model with Non Atomic Actions and Deadlines.,Frédéric Cuppens;Nora Cuppens-Boulahia;Thierry Sans;,https://doi.org/10.1109/CSFW.2005.20
+csfw/csfw2005,2005,Session 7:Access Control and Languages,Type Annotations to Improve Stack-Based Access Control.,Tian Zhao;John Tang Boyland;,https://doi.org/10.1109/CSFW.2005.27
+csfw/csfw2005,2005,Session 7:Access Control and Languages,Enforcing Secure Service Composition.,Massimo Bartoletti;Pierpaolo Degano;Gian Luigi Ferrari;,https://doi.org/10.1109/CSFW.2005.17
+csfw/csfw2005,2005,Session 9:Declassification,On Declassification and the Non-Disclosure Policy.,Ana Almeida Matos;Gérard Boudol;,https://doi.org/10.1109/CSFW.2005.21
+csfw/csfw2005,2005,Session 9:Declassification,Language-Based Information Erasure.,Stephen Chong;Andrew C. Myers;,https://doi.org/10.1109/CSFW.2005.19
+csfw/csfw2005,2005,Session 9:Declassification,Dimensions and Principles of Declassification.,Andrei Sabelfeld;David Sands;,https://doi.org/10.1109/CSFW.2005.15
+csfw/csfw2005,2005,Session 10:Availability and Denial of Service,End-to-End Availability Policies and Noninterference.,Lantian Zheng;Andrew C. Myers;,https://doi.org/10.1109/CSFW.2005.16
+csfw/csfw2005,2005,Session 10:Availability and Denial of Service,Game-Based Analysis of Denial-of-Service Prevention Protocols.,Ajay Mahimkar;Vitaly Shmatikov;,https://doi.org/10.1109/CSFW.2005.18

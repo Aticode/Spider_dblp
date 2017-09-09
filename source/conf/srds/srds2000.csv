@@ -1,0 +1,25 @@
+srds/srds2000,2000,Wireless Networks and Mobile Computing,Proxy-based Recovery for Applications on Wireless Hand-held Devices.,Bin Yao;W. Kent Fuchs;,https://doi.org/10.1109/RELDI.2000.885387
+srds/srds2000,2000,Wireless Networks and Mobile Computing,Modeling Fault-Tolerant Mobile Agent Execution as a Sequence of Agreement Problems.,Stefan Pleisch;André Schiper;,https://doi.org/10.1109/RELDI.2000.885388
+srds/srds2000,2000,Wireless Networks and Mobile Computing,Improvement of the QoS via an Adaptive and Dynamic Distribution of Applications in a Mobile Environment.,Françoise André;Anne-Marie Kermarrec;Frederic Le Mouel;,https://doi.org/10.1109/RELDI.2000.885389
+srds/srds2000,2000,Reliable Protocols,Reliable Broadcast in the Crash-Recovery Model.,Romain Boichat;Rachid Guerraoui;,https://doi.org/10.1109/RELDI.2000.885390
+srds/srds2000,2000,Reliable Protocols,Optimistic Virtual Synchrony.,Jeremy B. Sussman;Idit Keidar;Keith Marzullo;,https://doi.org/10.1109/RELDI.2000.885391
+srds/srds2000,2000,Reliable Protocols,Optimal Implementation of the Weakest Failure Detector for Solving Consensus.,Mikel Larrea;Antonio Fernández;Sergio Arévalo;,https://doi.org/10.1109/RELDI.2000.885392
+srds/srds2000,2000,Reliable Protocols,Semantically Reliable Multicast Protocols.,José Orlando Pereira;Rui Carlos Oliveira;Luís E. T. Rodrigues;,https://doi.org/10.1109/RELDI.2000.885393
+srds/srds2000,2000,Detection and Diagnosis,An Evolutionary Algorithm for Identifying Faults in t-Diagnosable Systems.,Mourad Elhadef;Béchir el Ayeb;,https://doi.org/10.1109/RELDI.2000.885395
+srds/srds2000,2000,Detection and Diagnosis,Detection of Livelocks in Communication Protocols by Means of a Polygon Time Structure.,Jerzy Brzezinski;Michal Sajkowski;,https://doi.org/10.1109/RELDI.2000.885396
+srds/srds2000,2000,Detection and Diagnosis,Consistent Detection of Global Predicates under a Weak Fault Assumption.,Felix C. Gärtner;Sven Kloppenburg;,https://doi.org/10.1109/RELDI.2000.885397
+srds/srds2000,2000,Invited Talk,Issues Insufficiently Resolved in Century 20 in the Fault-Tolerant Distributed Computing Field.,K. H. Kim;,https://doi.org/10.1109/RELDI.2000.885398
+srds/srds2000,2000,Real-Time,An Investigation of Membership and Clique Avoidance in TTP/C.,Günther Bauer;Michael Paulitsch;,https://doi.org/10.1109/RELDI.2000.885399
+srds/srds2000,2000,Real-Time,Continuous Clock Synchronization in Wireless Real-Time Applications.,Michael Mock;Reiner Frings;Edgar Nett;Spiro Trikaliotis;,https://doi.org/10.1109/RELDI.2000.885400
+srds/srds2000,2000,Fault Tolerance and Replication,High Availability of the Memory Hierarchy in a Cluster.,Christine Morin;Renaud Lottiaux;Anne-Marie Kermarrec;,https://doi.org/10.1109/RELDI.2000.885401
+srds/srds2000,2000,Fault Tolerance and Replication,Abstractions for Devising Byzantine-Resilient State Machine Replication.,Assia Doudou;Rachid Guerraoui;Benoît Garbinato;,https://doi.org/10.1109/RELDI.2000.885402
+srds/srds2000,2000,Fault Tolerance and Replication,Implementing a Reflective Fault-Tolerant CORBA System.,Marc-Olivier Killijian;Jean-Charles Fabre;,https://doi.org/10.1109/RELDI.2000.885403
+srds/srds2000,2000,Fault Tolerance and Replication,Deterministic Scheduling for Transactional Multithreaded Replicas.,Ricardo Jiménez-Peris;Marta Patiño-Martínez;Sergio Arévalo;,https://doi.org/10.1109/RELDI.2000.885404
+srds/srds2000,2000,Databases and Transactions,Pronto: A Fast Failover Protocol for Off-the-shelf Commercial Databases.,Fernando Pedone;Svend Frølund;,https://doi.org/10.1109/RELDI.2000.885405
+srds/srds2000,2000,Databases and Transactions,A Pragmatic Implementation of e-Transactions.,Svend Frølund;Rachid Guerraoui;,https://doi.org/10.1109/RELDI.2000.885406
+srds/srds2000,2000,Databases and Transactions,Using Multicast Communication to Reduce Deadlock in Replicated Databases.,JoAnne Holliday;Divyakant Agrawal;Amr El Abbadi;,https://doi.org/10.1109/RELDI.2000.885407
+srds/srds2000,2000,Databases and Transactions,Database Replication Techniques: A Three Parameter Classification.,Matthias Wiesmann;André Schiper;Fernando Pedone;Bettina Kemme;Gustavo Alonso;,https://doi.org/10.1109/RELDI.2000.885408
+srds/srds2000,2000,Dependability Evaluation,"Performance of Mobile, Single-Object, Replication Protocols.",Ugur Çetintemel;Peter J. Keleher;,https://doi.org/10.1109/RELDI.2000.885409
+srds/srds2000,2000,Dependability Evaluation,On the Use of Model Checking Techniques for Dependability Evaluation.,Boudewijn R. Haverkort;Holger Hermanns;Joost-Pieter Katoen;,https://doi.org/10.1109/RELDI.2000.885410
+srds/srds2000,2000,Dependability Evaluation,Performance Analysis of the CORBA Event Service using Stochastic Reward Nets.,Srinivasan Ramani;Kishor S. Trivedi;Balakrishnan Dasarathy;,https://doi.org/10.1109/RELDI.2000.885411
+srds/srds2000,2000,Dependability Evaluation,Dynamic Node Management and Measure Estimation in a State-Driven Fault Injector.,Ramesh Chandra;Michel Cukier;Ryan M. Lefever;William H. Sanders;,https://doi.org/10.1109/RELDI.2000.885412

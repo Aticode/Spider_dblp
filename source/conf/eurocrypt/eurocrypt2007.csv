@@ -1,0 +1,33 @@
+eurocrypt/eurocrypt2007,2007,None,Chosen-Prefix Collisions for MD5 and Colliding X.509 Certificates for Different Identities.,Marc Stevens;Arjen K. Lenstra;Benne de Weger;,https://doi.org/10.1007/978-3-540-72540-4_1
+eurocrypt/eurocrypt2007,2007,None,Non-trivial Black-Box Combiners for Collision-Resistant Hash-Functions Don't Exist.,Krzysztof Pietrzak;,https://doi.org/10.1007/978-3-540-72540-4_2
+eurocrypt/eurocrypt2007,2007,None,The Collision Intractability of MDC-2 in the Ideal-Cipher Model.,John P. Steinberger;,https://doi.org/10.1007/978-3-540-72540-4_3
+eurocrypt/eurocrypt2007,2007,None,An Efficient Protocol for Secure Two-Party Computation in the Presence of Malicious Adversaries.,Yehuda Lindell;Benny Pinkas;,https://doi.org/10.1007/978-3-540-72540-4_4
+eurocrypt/eurocrypt2007,2007,None,Revisiting the Efficiency of Malicious Two-Party Computation.,David P. Woodruff;,https://doi.org/10.1007/978-3-540-72540-4_5
+eurocrypt/eurocrypt2007,2007,None,Efficient Two-Party Secure Computation on Committed Inputs.,Stanislaw Jarecki;Vitaly Shmatikov;,https://doi.org/10.1007/978-3-540-72540-4_6
+eurocrypt/eurocrypt2007,2007,None,Universally Composable Multi-party Computation Using Tamper-Proof Hardware.,Jonathan Katz;,https://doi.org/10.1007/978-3-540-72540-4_7
+eurocrypt/eurocrypt2007,2007,None,Generic and Practical Resettable Zero-Knowledge in the Bare Public-Key Model.,Moti Yung;Yunlei Zhao;,https://doi.org/10.1007/978-3-540-72540-4_8
+eurocrypt/eurocrypt2007,2007,None,Instance-Dependent Verifiable Random Functions and Their Application to Simultaneous Resettability.,Yi Deng;Dongdai Lin;,https://doi.org/10.1007/978-3-540-72540-4_9
+eurocrypt/eurocrypt2007,2007,None,"Conditional Computational Entropy, or Toward Separating Pseudoentropy from Compressibility.",Chun-Yuan Hsiao;Chi-Jen Lu;Leonid Reyzin;,https://doi.org/10.1007/978-3-540-72540-4_10
+eurocrypt/eurocrypt2007,2007,None,Zero Knowledge and Soundness Are Symmetric.,Shien Jin Ong;Salil P. Vadhan;,https://doi.org/10.1007/978-3-540-72540-4_11
+eurocrypt/eurocrypt2007,2007,None,Mesh Signatures.,Xavier Boyen;,https://doi.org/10.1007/978-3-540-72540-4_12
+eurocrypt/eurocrypt2007,2007,None,The Power of Proofs-of-Possession: Securing Multiparty Signatures against Rogue-Key Attacks.,Thomas Ristenpart;Scott Yilek;,https://doi.org/10.1007/978-3-540-72540-4_13
+eurocrypt/eurocrypt2007,2007,None,Batch Verification of Short Signatures.,Jan Camenisch;Susan Hohenberger;Michael Østergaard Pedersen;,https://doi.org/10.1007/978-3-540-72540-4_14
+eurocrypt/eurocrypt2007,2007,None,Cryptanalysis of SFLASH with Slightly Modified Parameters.,Vivien Dubois;Pierre-Alain Fouque;Jacques Stern;,https://doi.org/10.1007/978-3-540-72540-4_15
+eurocrypt/eurocrypt2007,2007,None,"Differential Cryptanalysis of the Stream Ciphers Py, Py6 and Pypy.",Hongjun Wu;Bart Preneel;,https://doi.org/10.1007/978-3-540-72540-4_16
+eurocrypt/eurocrypt2007,2007,None,Secure Computation from Random Error Correcting Codes.,Hao Chen;Ronald Cramer;Shafi Goldwasser;Robbert de Haan;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-540-72540-4_17
+eurocrypt/eurocrypt2007,2007,None,Round-Efficient Secure Computation in Point-to-Point Networks.,Jonathan Katz;Chiu-Yuen Koo;,https://doi.org/10.1007/978-3-540-72540-4_18
+eurocrypt/eurocrypt2007,2007,None,Atomic Secure Multi-party Multiplication with Low Communication.,Ronald Cramer;Ivan Damgård;Robbert de Haan;,https://doi.org/10.1007/978-3-540-72540-4_19
+eurocrypt/eurocrypt2007,2007,None,Cryptanalysis of the Sidelnikov Cryptosystem.,Lorenz Minder;Amin Shokrollahi;,https://doi.org/10.1007/978-3-540-72540-4_20
+eurocrypt/eurocrypt2007,2007,None,Toward a Rigorous Variation of Coppersmith's Algorithm on Three Variables.,Aurélie Bauer;Antoine Joux;,https://doi.org/10.1007/978-3-540-72540-4_21
+eurocrypt/eurocrypt2007,2007,None,An L (1/3 + epsilon ) Algorithm for the Discrete Logarithm Problem for Low Degree Curves.,Andreas Enge;Pierrick Gaudry;,https://doi.org/10.1007/978-3-540-72540-4_22
+eurocrypt/eurocrypt2007,2007,None,General Ad Hoc Encryption from Exponent Inversion IBE.,Xavier Boyen;,https://doi.org/10.1007/978-3-540-72540-4_23
+eurocrypt/eurocrypt2007,2007,None,Non-interactive Proofs for Integer Multiplication.,Ivan Damgård;Rune Thorbek;,https://doi.org/10.1007/978-3-540-72540-4_24
+eurocrypt/eurocrypt2007,2007,None,Ate Pairing on Hyperelliptic Curves.,Robert Granger;Florian Hess;Roger Oyono;Nicolas Thériault;Frederik Vercauteren;,https://doi.org/10.1007/978-3-540-72540-4_25
+eurocrypt/eurocrypt2007,2007,None,Ideal Multipartite Secret Sharing Schemes.,Oriol Farràs;Jaume Martí-Farré;Carles Padró;,https://doi.org/10.1007/978-3-540-72540-4_26
+eurocrypt/eurocrypt2007,2007,None,Non-wafer-Scale Sieving Hardware for the NFS: Another Attempt to Cope with 1024-Bit.,Willi Geiselmann;Rainer Steinwandt;,https://doi.org/10.1007/978-3-540-72540-4_27
+eurocrypt/eurocrypt2007,2007,None,Divisible E-Cash Systems Can Be Truly Anonymous.,Sébastien Canard;Aline Gouget;,https://doi.org/10.1007/978-3-540-72540-4_28
+eurocrypt/eurocrypt2007,2007,None,A Fast and Key-Efficient Reduction of Chosen-Ciphertext to Known-Plaintext Security.,Ueli M. Maurer;Johan Sjödin;,https://doi.org/10.1007/978-3-540-72540-4_29
+eurocrypt/eurocrypt2007,2007,None,"Range Extension for Weak PRFs; The Good, the Bad, and the Ugly.",Krzysztof Pietrzak;Johan Sjödin;,https://doi.org/10.1007/978-3-540-72540-4_30
+eurocrypt/eurocrypt2007,2007,None,"Feistel Networks Made Public, and Applications.",Yevgeniy Dodis;Prashant Puniya;,https://doi.org/10.1007/978-3-540-72540-4_31
+eurocrypt/eurocrypt2007,2007,None,Oblivious-Transfer Amplification.,Jürg Wullschleger;,https://doi.org/10.1007/978-3-540-72540-4_32
+eurocrypt/eurocrypt2007,2007,None,Simulatable Adaptive Oblivious Transfer.,Jan Camenisch;Gregory Neven;Abhi Shelat;,https://doi.org/10.1007/978-3-540-72540-4_33

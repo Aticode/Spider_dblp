@@ -1,0 +1,20 @@
+srds/srds87,1987,Keynote Address,Reliability Issues in Distributed Operating Systems.,Andrew S. Tanenbaum;Robbert van Renesse;,None
+srds/srds87,1987,Communication and Control,A Reliable and Secure UNIX Connection Service.,Dennis Draheim;Barton P. Miller;Steven Snyder;,None
+srds/srds87,1987,Communication and Control,Preserving Context Information in an IPC Abstraction.,Larry L. Peterson;,None
+srds/srds87,1987,Communication and Control,"Adaptive, Reliable Software for Distributed and Parallel Real-Time Systems.",Karsten Schwan;Thomas E. Bihari;Ben A. Blake;,None
+srds/srds87,1987,Programming Support,Reliability in Distributed Programming Environments.,Gail E. Kaiser;Simon M. Kaplan;,None
+srds/srds87,1987,Programming Support,Bugnet: A Real Time Distributed Programmng Environments.,Stuart H. Jones;Robert H. Barkan;Larry D. Wittie;,None
+srds/srds87,1987,Programming Support,DTM - A Method for Testing Distributed Systems.,Dieter Haban;,None
+srds/srds87,1987,Replicated DataM,On Improving the Availability of Replicated Files.,Darrell D. E. Long;Jehan-François Pâris;,None
+srds/srds87,1987,Replicated DataM,Access Control in a Heterogeneous Distributed Database Management System.,Ching-Yi Wang;David L. Spooner;,None
+srds/srds87,1987,Replicated DataM,Independent Recovery.,Chung-Kuo Chang;Mohamed G. Gouda;,None
+srds/srds87,1987,Object Based Systems,Exploiting Type Inheritance Facilities to Implement Recoverability in Object Based Systems.,Graeme N. Dixon;Santosh K. Shrivastava;,None
+srds/srds87,1987,Object Based Systems,Fault Tolerant Computing in Object Based Distributed Operating Systems.,Mustaque Ahamad;Partha Dasgupta;Richard J. LeBlanc;C. Thomas Wilkes;,None
+srds/srds87,1987,Object Based Systems,Design and Implementation of Nested Transactions in Eden.,Calton Pu;Jerre D. Noe;,None
+srds/srds87,1987,Concurrency and Synchronization,Synchronization of Redundant Computation in a Distributed System.,N. Natarajan;Jian Tang;,None
+srds/srds87,1987,Concurrency and Synchronization,Fault Masking and Sequence Agreement by a Voting Protocol with low Message Number.,Klaus Echtle;,None
+srds/srds87,1987,Concurrency and Synchronization,Performance Characterization of Quorum-Consensus Allgorihms for Replicated Data.,Mustaque Ahamad;Mostafa H. Ammar;,None
+srds/srds87,1987,Invited Address,Representing Faulty Distributed Systems as Nondeterministic Sequential Systems.,K. Mani Chandy;,None
+srds/srds87,1987,Algorithms,Maintaining Availability of Replicated Data in a Dynamic Failure Environment.,Daniel Barbará;Hector Garcia-Molina;Boris Kogan;,None
+srds/srds87,1987,Algorithms,A Gracefully Degradable Algorithm for Byzantine Agreement.,Felicita Di Giandomenico;M. L. Guidotti;Fabrizio Grandoni;Luca Simoncini;,None
+srds/srds87,1987,Algorithms,"Early Stopping Algorithms for Distributed Agreement under Fail-Stop, Omission, and Timing Fault-Types.",Paul D. Ezhilchelvan;,None

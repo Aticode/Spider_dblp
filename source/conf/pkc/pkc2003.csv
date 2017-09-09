@@ -1,0 +1,26 @@
+pkc/pkc2003,2003,Diffie-Hellman Based Schemes,Efficient Construction of (Distributed) Verifiable Random Functions.,Yevgeniy Dodis;,https://doi.org/10.1007/3-540-36288-6_1
+pkc/pkc2003,2003,Diffie-Hellman Based Schemes,An Identity-Based Signature from Gap Diffie-Hellman Groups.,Jae Choon Cha;Jung Hee Cheon;,https://doi.org/10.1007/3-540-36288-6_2
+pkc/pkc2003,2003,Threshold Cryptography,"Threshold Signatures, Multisignatures and Blind Signatures Based on the Gap-Diffie-Hellman-Group Signature Scheme.",Alexandra Boldyreva;,https://doi.org/10.1007/3-540-36288-6_3
+pkc/pkc2003,2003,Threshold Cryptography,An Efficient Two-Party Public Key Cryptosystem Secure against Adaptive Chosen Ciphertext Attack.,Philip D. MacKenzie;,https://doi.org/10.1007/3-540-36288-6_4
+pkc/pkc2003,2003,Reduction Proofs,On the Bit Security of NTRUEncrypt.,Mats Näslund;Igor E. Shparlinski;William Whyte;,https://doi.org/10.1007/3-540-36288-6_5
+pkc/pkc2003,2003,Reduction Proofs,Equivalence between Semantic Security and Indistinguishability against Chosen Ciphertext Attacks.,Yodai Watanabe;Junji Shikata;Hideki Imai;,https://doi.org/10.1007/3-540-36288-6_6
+pkc/pkc2003,2003,Broadcast and Tracing,Randomness Re-use in Multi-recipient Encryption Schemeas.,Mihir Bellare;Alexandra Boldyreva;Jessica Staddon;,https://doi.org/10.1007/3-540-36288-6_7
+pkc/pkc2003,2003,Broadcast and Tracing,Public Key Trace and Revoke Scheme Secure against Adaptive Chosen Ciphertext Attack.,Yevgeniy Dodis;Nelly Fazio;,https://doi.org/10.1007/3-540-36288-6_8
+pkc/pkc2003,2003,Digital Signatures,The Cramer-Shoup Strong-RSASignature Scheme Revisited.,Marc Fischlin;,https://doi.org/10.1007/3-540-36288-6_9
+pkc/pkc2003,2003,Digital Signatures,Strong Key-Insulated Signature Schemes.,Yevgeniy Dodis;Jonathan Katz;Shouhuai Xu;Moti Yung;,https://doi.org/10.1007/3-540-36288-6_10
+pkc/pkc2003,2003,Specialized Multiparty Cryptography,A Verifiable Secret Shuffle of Homomorphic Encryptions.,Jens Groth;,https://doi.org/10.1007/3-540-36288-6_11
+pkc/pkc2003,2003,Specialized Multiparty Cryptography,Round-Optimal Contributory Conference Key Agreement.,Colin Boyd;Juan Manuel González Nieto;,https://doi.org/10.1007/3-540-36288-6_12
+pkc/pkc2003,2003,Cryptanalysis,Security Analysis of the MOR Cryptosystem.,Christian Tobias;,https://doi.org/10.1007/3-540-36288-6_13
+pkc/pkc2003,2003,Cryptanalysis,A Practical Attack on Some Braid Group Based Cryptographic Primitives.,Dennis Hofheinz;Rainer Steinwandt;,https://doi.org/10.1007/3-540-36288-6_14
+pkc/pkc2003,2003,Elliptic Curves:Implementation Attacks,A Refined Power-Analysis Attack on Elliptic Curve Cryptosystems.,Louis Goubin;,https://doi.org/10.1007/3-540-36288-6_15
+pkc/pkc2003,2003,Elliptic Curves:Implementation Attacks,Validation of Elliptic Curve Public Keys.,Adrian Antipa;Daniel R. L. Brown;Alfred Menezes;René Struik;Scott A. Vanstone;,https://doi.org/10.1007/3-540-36288-6_16
+pkc/pkc2003,2003,Elliptic Curves:Implementation Attacks,Exceptional Procedure Attack on Elliptic Curve Cryptosystems.,Tetsuya Izu;Tsuyoshi Takagi;,https://doi.org/10.1007/3-540-36288-6_17
+pkc/pkc2003,2003,Implementation and Hardware Issues,On Montgomery-Like Representationsfor Elliptic Curves over GF(2k).,Martijn Stam;,https://doi.org/10.1007/3-540-36288-6_18
+pkc/pkc2003,2003,Implementation and Hardware Issues,A Dedicated Sieving Hardware.,Willi Geiselmann;Rainer Steinwandt;,https://doi.org/10.1007/3-540-36288-6_19
+pkc/pkc2003,2003,Implementation and Hardware Issues,A Fast and Secure Implementation of Sflash.,Mehdi-Laurent Akkar;Nicolas Courtois;Romain Duteuil;Louis Goubin;,https://doi.org/10.1007/3-540-36288-6_20
+pkc/pkc2003,2003,New Public Key Schemes,A Practical Public Key Cryptosystem from Paillier and Rabin Schemes.,David Galindo;Sebastià Martín Molleví;Paz Morillo;Jorge Luis Villar;,https://doi.org/10.1007/3-540-36288-6_21
+pkc/pkc2003,2003,New Public Key Schemes,A Lattice Based Public Key Cryptosystem Using Polynomial Representations.,Seong-Hun Paeng;Bae Eun Jung;Kil-Chan Ha;,https://doi.org/10.1007/3-540-36288-6_22
+pkc/pkc2003,2003,Elliptic Curves:General Issues,The Security of DSA and ECDSA.,Serge Vaudenay;,https://doi.org/10.1007/3-540-36288-6_23
+pkc/pkc2003,2003,Elliptic Curves:General Issues,Side-Channel Attacks on Textbook RSA and ElGamal Encryption.,Ulrich Kühn;,https://doi.org/10.1007/3-540-36288-6_24
+pkc/pkc2003,2003,Elliptic Curves:General Issues,"On the Security of HFE, HFEv- and Quartz.",Nicolas Courtois;Magnus Daum;Patrick Felke;,https://doi.org/10.1007/3-540-36288-6_25
+pkc/pkc2003,2003,Elliptic Curves:General Issues,Generic Attacks and the Security of Quartz.,Nicolas Courtois;,https://doi.org/10.1007/3-540-36288-6_26

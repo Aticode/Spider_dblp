@@ -1,0 +1,40 @@
+eurocrypt/eurocrypt88,1988,Key Distribution,Key Agreements Based on Function Composition.,Rainer A. Rueppel;,https://doi.org/10.1007/3-540-45961-8_1
+eurocrypt/eurocrypt88,1988,Key Distribution,Security of Improved Identity-Based Conference Key Distribution Systems.,Kenji Koyama;Kazuo Ohta;,https://doi.org/10.1007/3-540-45961-8_2
+eurocrypt/eurocrypt88,1988,Authentication,Subliminal-Free Authentication and Signature (Extended Abstract).,Yvo Desmedt;,https://doi.org/10.1007/3-540-45961-8_3
+eurocrypt/eurocrypt88,1988,Authentication,Zero-Knowledge Proofs of Identity And Veracity of Transaction Receipts.,Gustavus J. Simmons;George B. Purdy;,https://doi.org/10.1007/3-540-45961-8_4
+eurocrypt/eurocrypt88,1988,Authentication,Authentication Codes with Multiple Arbiters (Extended Abstract).,Ernest F. Brickell;Douglas R. Stinson;,https://doi.org/10.1007/3-540-45961-8_5
+eurocrypt/eurocrypt88,1988,Authentication,Some Constructions for Authentication-Secrecy Codes.,Marijke De Soete;,https://doi.org/10.1007/3-540-45961-8_6
+eurocrypt/eurocrypt88,1988,Authentication,Efficient Zero-Knowledge Identification Scheme for Smart Cards.,Thomas Beth;,https://doi.org/10.1007/3-540-45961-8_7
+eurocrypt/eurocrypt88,1988,Signatures,A Smart Card Implementation of the Fiat-Shamir Identification Scheme.,Hans-Joachim Knobloch;,https://doi.org/10.1007/3-540-45961-8_8
+eurocrypt/eurocrypt88,1988,Signatures,"Manipulations and Errors, Detection and Localization.",Philippe Godlewski;Paul Camion;,https://doi.org/10.1007/3-540-45961-8_9
+eurocrypt/eurocrypt88,1988,Signatures,Privacy Protected Payments - Realization of a Protocol that Guarantees Payer Anonymity.,Svein J. Knapskog;,https://doi.org/10.1007/3-540-45961-8_10
+eurocrypt/eurocrypt88,1988,Signatures,A Practical Zero-Knowledge Protocol Fitted to Security Microprocessor Minimizing Both Transmission and Memory.,Louis C. Guillou;Jean-Jacques Quisquater;,https://doi.org/10.1007/3-540-45961-8_11
+eurocrypt/eurocrypt88,1988,Signatures,A Generalized Birthday Attack.,Marc Girault;Robert Cohen;Mireille Campana;,https://doi.org/10.1007/3-540-45961-8_12
+eurocrypt/eurocrypt88,1988,Protocols,An Interactive Data Exchange Protocol Based on Discrete Exponentiation.,Gordon B. Agnew;Ronald C. Mullin;Scott A. Vanstone;,https://doi.org/10.1007/3-540-45961-8_13
+eurocrypt/eurocrypt88,1988,Protocols,Anonymous and Verifiable Registration in Databases.,Jørgen Brandt;Ivan Damgård;Peter Landrock;,https://doi.org/10.1007/3-540-45961-8_14
+eurocrypt/eurocrypt88,1988,Protocols,Elections with Unconditionally-Secret Ballots and Disruption Equivalent to Breaking RSA.,David Chaum;,https://doi.org/10.1007/3-540-45961-8_15
+eurocrypt/eurocrypt88,1988,Protocols,Passports and Visas Versus IDS (Extended Abstract).,George I. Davida;Yvo Desmedt;,https://doi.org/10.1007/3-540-45961-8_16
+eurocrypt/eurocrypt88,1988,Complexity and Number Theory,The Probabilistic Theory of Linear Complexity.,Harald Niederreiter;,https://doi.org/10.1007/3-540-45961-8_17
+eurocrypt/eurocrypt88,1988,Complexity and Number Theory,A Probabilistic Primality test Based on the Properties of Certain Generalized Lucas Numbers.,Adina di Porto;Piero Filipponi;,https://doi.org/10.1007/3-540-45961-8_18
+eurocrypt/eurocrypt88,1988,Complexity and Number Theory,On the Construction of Random Number Generators and Random Function Generators.,Claus-Peter Schnorr;,https://doi.org/10.1007/3-540-45961-8_19
+eurocrypt/eurocrypt88,1988,Numerical Methods,Factorization of Large Integers on a Massively Parallel Computer.,James A. Davis;Diane B. Holdridge;,https://doi.org/10.1007/3-540-45961-8_20
+eurocrypt/eurocrypt88,1988,Numerical Methods,A Fast Modular Arithmetic Algorithm Using a Residue Table (Extended Abstract).,Shin-ichi Kawamura;Kyoko Hirano;,https://doi.org/10.1007/3-540-45961-8_21
+eurocrypt/eurocrypt88,1988,Numerical Methods,Fast Exponentiation in GF(2n).,Gordon B. Agnew;Ronald C. Mullin;Scott A. Vanstone;,https://doi.org/10.1007/3-540-45961-8_22
+eurocrypt/eurocrypt88,1988,Numerical Methods,Fast RSA-Hardware: Dream or Reality?,Frank Hoornaert;Marc Decroos;Joos Vandewalle;René Govaerts;,https://doi.org/10.1007/3-540-45961-8_23
+eurocrypt/eurocrypt88,1988,Cryptanalysis,Properties of the Euler Totient Function Modulo 24 and Some of its Cryptographic Implications.,Raouf N. Gorgui-Naguib;Satnam Singh Dlay;,https://doi.org/10.1007/3-540-45961-8_24
+eurocrypt/eurocrypt88,1988,Cryptanalysis,An Observation on the Security of McEliece's Public-Key Cryptosystem.,Pil Joong Lee;Ernest F. Brickell;,https://doi.org/10.1007/3-540-45961-8_25
+eurocrypt/eurocrypt88,1988,Cryptanalysis,How to Break Okamoto's Cryptosystem by Reducing Lattice Bases.,Brigitte Vallée;Marc Girault;Philippe Toffin;,https://doi.org/10.1007/3-540-45961-8_26
+eurocrypt/eurocrypt88,1988,Cryptanalysis,Cryptanalysis of F.E.A.L.,Bert den Boer;,https://doi.org/10.1007/3-540-45961-8_27
+eurocrypt/eurocrypt88,1988,Cryptanalysis,Fast Correlation Attacks on Stream Ciphers (Extended Abstract).,Willi Meier;Othmar Staffelbach;,https://doi.org/10.1007/3-540-45961-8_28
+eurocrypt/eurocrypt88,1988,Running-Key Ciphers,A New Class of Nonlinear Functions for Running-key Generators (Extended Abstract).,Shu Tezuka;,https://doi.org/10.1007/3-540-45961-8_29
+eurocrypt/eurocrypt88,1988,Running-Key Ciphers,Windmill Generators: A Generalization and an Observation of How Many There Are.,Ben J. M. Smeets;William G. Chambers;,https://doi.org/10.1007/3-540-45961-8_30
+eurocrypt/eurocrypt88,1988,Running-Key Ciphers,Lock-In Effect in Cascades of Clock-Controlled Shift-Registers.,William G. Chambers;Dieter Gollmann;,https://doi.org/10.1007/3-540-45961-8_31
+eurocrypt/eurocrypt88,1988,Running-Key Ciphers,Proof of Massey's Conjectured Algorithm.,Cunsheng Ding;,https://doi.org/10.1007/3-540-45961-8_32
+eurocrypt/eurocrypt88,1988,Running-Key Ciphers,Linear Recurring m-Arrays.,Dongdai Lin;Mulan Liu;,https://doi.org/10.1007/3-540-45961-8_33
+eurocrypt/eurocrypt88,1988,Cipher Theory and Threshold,Substantial Number of Cryptographic Keys and Its Application to Encryption Designs.,Eiji Okamoto;,https://doi.org/10.1007/3-540-45961-8_34
+eurocrypt/eurocrypt88,1988,Cipher Theory and Threshold,A Measure of Semiequivocation.,Andrea Sgarro;,https://doi.org/10.1007/3-540-45961-8_35
+eurocrypt/eurocrypt88,1988,Cipher Theory and Threshold,Some New Classes of Geometric Threshold Schemes.,Marijke De Soete;Klaus Vedder;,https://doi.org/10.1007/3-540-45961-8_36
+eurocrypt/eurocrypt88,1988,New Ciphers,A Universal Algorithm for Homophonic Coding.,Christoph G. Günther;,https://doi.org/10.1007/3-540-45961-8_37
+eurocrypt/eurocrypt88,1988,New Ciphers,A New Probabilistic Encryption Scheme.,He Jingmin;Lu Kaicheng;,https://doi.org/10.1007/3-540-45961-8_38
+eurocrypt/eurocrypt88,1988,New Ciphers,Public Quadratic Polynominal-Tuples for Efficient Signature-Verification and Message-Encryption.,Tsutomu Matsumoto;Hideki Imai;,https://doi.org/10.1007/3-540-45961-8_39
+eurocrypt/eurocrypt88,1988,New Ciphers,Some Applications of Multiple Key Ciphers.,Colin Boyd;,https://doi.org/10.1007/3-540-45961-8_40

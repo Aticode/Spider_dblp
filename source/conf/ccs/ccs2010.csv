@@ -1,0 +1,98 @@
+ccs/ccs2010,2010,Security analysis,Security analysis of India's electronic voting machines.,Scott Wolchok;Eric Wustrow;J. Alex Halderman;Hari K. Prasad;Arun Kankipati;Sai Krishna Sakhamuri;Vasavya Yagati;Rop Gonggrijp;,http://doi.acm.org/10.1145/1866307.1866309
+ccs/ccs2010,2010,Security analysis,Dissecting one click frauds.,Nicolas Christin;Sally S. Yanagihara;Keisuke Kamataki;,http://doi.acm.org/10.1145/1866307.1866310
+ccs/ccs2010,2010,Security analysis,@spam: the underground on 140 characters or less.,Chris Grier;Kurt Thomas;Vern Paxson;Chao Michael Zhang;,http://doi.acm.org/10.1145/1866307.1866311
+ccs/ccs2010,2010,System security,HyperSentry: enabling stealthy in-context measurement of hypervisor integrity.,Ahmed M. Azab;Peng Ning;Zhi Wang;Xuxian Jiang;Xiaolan Zhang;Nathan C. Skalsky;,http://doi.acm.org/10.1145/1866307.1866313
+ccs/ccs2010,2010,System security,Trail of bytes: efficient support for forensic analysis.,Srinivas Krishnan;Kevin Z. Snow;Fabian Monrose;,http://doi.acm.org/10.1145/1866307.1866314
+ccs/ccs2010,2010,System security,Survivable key compromise in software update systems.,Justin Samuel;Nick Mathewson;Justin Cappos;Roger Dingledine;,http://doi.acm.org/10.1145/1866307.1866315
+ccs/ccs2010,2010,Wireless and phone security,A methodology for empirical analysis of permission-based security models and its application to android.,David Barrera;Hilmi Günes Kayacik;Paul C. van Oorschot;Anil Somayaji;,http://doi.acm.org/10.1145/1866307.1866317
+ccs/ccs2010,2010,Wireless and phone security,Mobile location tracking in metro areas: malnets and others.,Nathaniel Husted;Steven Myers;,http://doi.acm.org/10.1145/1866307.1866318
+ccs/ccs2010,2010,Wireless and phone security,On pairing constrained wireless devices based on secrecy of auxiliary channels: the case of acoustic eavesdropping.,Tzipora Halevi;Nitesh Saxena;,http://doi.acm.org/10.1145/1866307.1866319
+ccs/ccs2010,2010,Wireless and phone security,PinDr0p: using single-ended audio features to determine call provenance.,Vijay A. Balasubramaniyan;Aamir Poonawalla;Mustaque Ahamad;Michael T. Hunter;Patrick Traynor;,http://doi.acm.org/10.1145/1866307.1866320
+ccs/ccs2010,2010,Applied cryptography,Building efficient fully collusion-resilient traitor tracing and revocation schemes.,Sanjam Garg;Abishek Kumarasubramanian;Amit Sahai;Brent Waters;,http://doi.acm.org/10.1145/1866307.1866322
+ccs/ccs2010,2010,Applied cryptography,Algebraic pseudorandom functions with improved efficiency from the augmented cascade.,Dan Boneh;Hart William Montgomery;Ananth Raghunathan;,http://doi.acm.org/10.1145/1866307.1866323
+ccs/ccs2010,2010,Applied cryptography,Practical leakage-resilient pseudorandom generators.,Yu Yu;François-Xavier Standaert;Olivier Pereira;Moti Yung;,http://doi.acm.org/10.1145/1866307.1866324
+ccs/ccs2010,2010,Applied cryptography,Practical leakage-resilient identity-based encryption from simple assumptions.,Sherman S. M. Chow;Yevgeniy Dodis;Yannis Rouselakis;Brent Waters;,http://doi.acm.org/10.1145/1866307.1866325
+ccs/ccs2010,2010,Passwords and CAPTCHAs,Testing metrics for password creation policies by attacking large sets of revealed passwords.,Matt Weir;Sudhir Aggarwal;Michael P. Collins;Henry Stern;,http://doi.acm.org/10.1145/1866307.1866327
+ccs/ccs2010,2010,Passwords and CAPTCHAs,The security of modern password expiration: an algorithmic framework and empirical analysis.,Yinqian Zhang;Fabian Monrose;Michael K. Reiter;,http://doi.acm.org/10.1145/1866307.1866328
+ccs/ccs2010,2010,Passwords and CAPTCHAs,Attacks and design of image recognition CAPTCHAs.,Bin B. Zhu;Jeff Yan;Qiujie Li;Chao Yang;Jia Liu;Ning Xu;Meng Yi;Kaiwei Cai;,http://doi.acm.org/10.1145/1866307.1866329
+ccs/ccs2010,2010,Sandboxing,Robusta: taming the native beast of the JVM.,Joseph Siefers;Gang Tan;Greg Morrisett;,http://doi.acm.org/10.1145/1866307.1866331
+ccs/ccs2010,2010,Sandboxing,Retaining sandbox containment despite bugs in privileged memory-safe code.,Justin Cappos;Armon Dadgar;Jeff Rasley;Justin Samuel;Ivan Beschastnikh;Cosmin Barsan;Arvind Krishnamurthy;Thomas E. Anderson;,http://doi.acm.org/10.1145/1866307.1866332
+ccs/ccs2010,2010,Sandboxing,A control point for reducing root abuse of file-system privileges.,Glenn Wurster;Paul C. van Oorschot;,http://doi.acm.org/10.1145/1866307.1866333
+ccs/ccs2010,2010,Attacks on secure hardware,Modeling attacks on physical unclonable functions.,Ulrich Rührmair;Frank Sehnke;Jan Sölter;Gideon Dror;Srinivas Devadas;Jürgen Schmidhuber;,http://doi.acm.org/10.1145/1866307.1866335
+ccs/ccs2010,2010,Attacks on secure hardware,"Dismantling SecureMemory, CryptoMemory and CryptoRF.",Flavio D. Garcia;Peter van Rossum;Roel Verdult;Ronny Wichers Schreur;,http://doi.acm.org/10.1145/1866307.1866336
+ccs/ccs2010,2010,Attacks on secure hardware,Attacking and fixing PKCS#11 security tokens.,Matteo Bortolozzo;Matteo Centenaro;Riccardo Focardi;Graham Steel;,http://doi.acm.org/10.1145/1866307.1866337
+ccs/ccs2010,2010,Information flow,An empirical study of privacy-violating information flows in JavaScript web applications.,Dongseok Jang;Ranjit Jhala;Sorin Lerner;Hovav Shacham;,http://doi.acm.org/10.1145/1866307.1866339
+ccs/ccs2010,2010,Information flow,DIFC programs by automatic instrumentation.,William R. Harris;Somesh Jha;Thomas W. Reps;,http://doi.acm.org/10.1145/1866307.1866340
+ccs/ccs2010,2010,Information flow,Predictive black-box mitigation of timing channels.,Aslan Askarov;Danfeng Zhang;Andrew C. Myers;,http://doi.acm.org/10.1145/1866307.1866341
+ccs/ccs2010,2010,Anonymity networks,In search of an anonymous and secure lookup: attacks on structured peer-to-peer anonymous communication systems.,Qiyan Wang;Prateek Mittal;Nikita Borisov;,http://doi.acm.org/10.1145/1866307.1866343
+ccs/ccs2010,2010,Anonymity networks,Recruiting new tor relays with BRAIDS.,Rob Jansen;Nicholas Hopper;Yongdae Kim;,http://doi.acm.org/10.1145/1866307.1866344
+ccs/ccs2010,2010,Anonymity networks,An improved algorithm for tor circuit scheduling.,Can Tang;Ian Goldberg;,http://doi.acm.org/10.1145/1866307.1866345
+ccs/ccs2010,2010,Anonymity networks,Dissent: accountable anonymous group messaging.,Henry Corrigan-Gibbs;Bryan Ford;,http://doi.acm.org/10.1145/1866307.1866346
+ccs/ccs2010,2010,Formal methods,Abstraction by set-membership: verifying security protocols and web services with databases.,Sebastian Mödersheim;,http://doi.acm.org/10.1145/1866307.1866348
+ccs/ccs2010,2010,Formal methods,Developing security protocols by refinement.,Christoph Sprenger;David A. Basin;,http://doi.acm.org/10.1145/1866307.1866349
+ccs/ccs2010,2010,Formal methods,Computational indistinguishability logic.,Gilles Barthe;Marion Daubignard;Bruce M. Kapron;Yassine Lakhnech;,http://doi.acm.org/10.1145/1866307.1866350
+ccs/ccs2010,2010,Formal methods,Computationally sound verification of source code.,Michael Backes;Matteo Maffei;Dominique Unruh;,http://doi.acm.org/10.1145/1866307.1866351
+ccs/ccs2010,2010,Malware,AccessMiner: using system-centric models for malware protection.,Andrea Lanzi;Davide Balzarotti;Christopher Kruegel;Mihai Christodorescu;Engin Kirda;,http://doi.acm.org/10.1145/1866307.1866353
+ccs/ccs2010,2010,Malware,Input generation via decomposition and re-stitching: finding bugs in Malware.,Juan Caballero;Pongsin Poosankam;Stephen McCamant;Domagoj Babic;Dawn Song;,http://doi.acm.org/10.1145/1866307.1866354
+ccs/ccs2010,2010,Malware,Inference and analysis of formal models of botnet command and control protocols.,Chia Yuan Cho;Domagoj Babic;Eui Chul Richard Shin;Dawn Song;,http://doi.acm.org/10.1145/1866307.1866355
+ccs/ccs2010,2010,Malware,BLADE: an attack-agnostic approach for preventing drive-by malware infections.,Long Lu;Vinod Yegneswaran;Phillip A. Porras;Wenke Lee;,http://doi.acm.org/10.1145/1866307.1866356
+ccs/ccs2010,2010,Applied cryptography,TASTY: tool for automating secure two-party computations.,Wilko Henecka;Stefan Kögl;Ahmad-Reza Sadeghi;Thomas Schneider;Immo Wehrenberg;,http://doi.acm.org/10.1145/1866307.1866358
+ccs/ccs2010,2010,Applied cryptography,Worry-free encryption: functional encryption with public keys.,Amit Sahai;Hakan Seyalioglu;,http://doi.acm.org/10.1145/1866307.1866359
+ccs/ccs2010,2010,Applied cryptography,"Synchronized aggregate signatures: new definitions, constructions and applications.",Jae Hyun Ahn;Matthew Green;Susan Hohenberger;,http://doi.acm.org/10.1145/1866307.1866360
+ccs/ccs2010,2010,Applied cryptography,Secure text processing with applications to private DNA matching.,Jonathan Katz;Lior Malka;,http://doi.acm.org/10.1145/1866307.1866361
+ccs/ccs2010,2010,Cryptographic protocols,On the (in)security of IPsec in MAC-then-encrypt configurations.,Jean Paul Degabriele;Kenneth G. Paterson;,http://doi.acm.org/10.1145/1866307.1866363
+ccs/ccs2010,2010,Cryptographic protocols,On the soundness of authenticate-then-encrypt: formalizing the malleability of symmetric encryption.,Ueli Maurer;Björn Tackmann;,http://doi.acm.org/10.1145/1866307.1866364
+ccs/ccs2010,2010,Cryptographic protocols,A new framework for efficient password-based authenticated key exchange.,Adam Groce;Jonathan Katz;,http://doi.acm.org/10.1145/1866307.1866365
+ccs/ccs2010,2010,Cryptographic protocols,Accountability: definition and relationship to verifiability.,Ralf Küsters;Tomasz Truderung;Andreas Vogt;,http://doi.acm.org/10.1145/1866307.1866366
+ccs/ccs2010,2010,Memory safety and binary code,Mimimorphism: a new approach to binary code obfuscation.,Zhenyu Wu;Steven Gianvecchio;Mengjun Xie;Haining Wang;,http://doi.acm.org/10.1145/1866307.1866368
+ccs/ccs2010,2010,Memory safety and binary code,Platform-independent programs.,Sang Kil Cha;Brian Pak;David Brumley;Richard Jay Lipton;,http://doi.acm.org/10.1145/1866307.1866369
+ccs/ccs2010,2010,Memory safety and binary code,Return-oriented programming without returns.,Stephen Checkoway;Lucas Davi;Alexandra Dmitrienko;Ahmad-Reza Sadeghi;Hovav Shacham;Marcel Winandy;,http://doi.acm.org/10.1145/1866307.1866370
+ccs/ccs2010,2010,Memory safety and binary code,DieHarder: securing the heap.,Gene Novark;Emery D. Berger;,http://doi.acm.org/10.1145/1866307.1866371
+ccs/ccs2010,2010,Web security,Symbolic security analysis of ruby-on-rails web applications.,Avik Chaudhuri;Jeffrey S. Foster;,http://doi.acm.org/10.1145/1866307.1866373
+ccs/ccs2010,2010,Web security,Sidebuster: automated detection and quantification of side-channel leaks in web application development.,Kehuan Zhang;Zhou Li;Rui Wang;XiaoFeng Wang;Shuo Chen;,http://doi.acm.org/10.1145/1866307.1866374
+ccs/ccs2010,2010,Web security,NoTamper: automatic blackbox detection of parameter tampering opportunities in web applications.,Prithvi Bisht;Timothy L. Hinrichs;Nazari Skrupsky;Radoslaw Bobrowicz;V. N. Venkatakrishnan;,http://doi.acm.org/10.1145/1866307.1866375
+ccs/ccs2010,2010,Web security,Protecting browsers from cross-origin CSS attacks.,Lin-Shung Huang;Zack Weinberg;Chris Evans;Collin Jackson;,http://doi.acm.org/10.1145/1866307.1866376
+ccs/ccs2010,2010,Demo presentations,A privacy recommendation wizard for users of social networking sites.,Lujun Fang;Heedo Kim;Kristen LeFevre;Aaron Tami;,http://doi.acm.org/10.1145/1866307.1866378
+ccs/ccs2010,2010,Demo presentations,SecTag: a multi-policy supported secure web tag framework.,Ruixuan Li;Meng Dong;Bin Liu;Jianfeng Lu;Xiaopu Ma;Kai Li;,http://doi.acm.org/10.1145/1866307.1866379
+ccs/ccs2010,2010,Demo presentations,Demonstrating cognitive packet network resilience to worm attacks.,Georgia Sakellari;Erol Gelenbe;,http://doi.acm.org/10.1145/1866307.1866380
+ccs/ccs2010,2010,Demo presentations,In God we trust all others we monitor.,Patrick Stewin;Jean-Pierre Seifert;,http://doi.acm.org/10.1145/1866307.1866381
+ccs/ccs2010,2010,Poster presentations,Enhancing resilience of probabilistic key pre-distribution schemes for WSNs through hash chaining.,Walid Bechkit;Abdelmadjid Bouabdallah;Yacine Challal;,http://doi.acm.org/10.1145/1866307.1866383
+ccs/ccs2010,2010,Poster presentations,TAPS: automatically preparing safe SQL queries.,Prithvi Bisht;A. Prasad Sistla;V. N. Venkatakrishnan;,http://doi.acm.org/10.1145/1866307.1866384
+ccs/ccs2010,2010,Poster presentations,XACML policy performance evaluation using a flexible load testing framework.,Bernard Butler;Brendan Jennings;Dmitri Botvich;,http://doi.acm.org/10.1145/1866307.1866385
+ccs/ccs2010,2010,Poster presentations,Protecting portable storage with host validation.,Kevin R. B. Butler;Stephen E. McLaughlin;Patrick D. McDaniel;,http://doi.acm.org/10.1145/1866307.1866386
+ccs/ccs2010,2010,Poster presentations,Virtual browser: a web-level sandbox to secure third-party JavaScript without sacrificing functionality.,Yinzhi Cao;Zhichun Li;Vaibhav Rastogi;Yan Chen;,http://doi.acm.org/10.1145/1866307.1866387
+ccs/ccs2010,2010,Poster presentations,CardSpace in the cloud.,David W. Chadwick;George Inman;Paul Coxwell;,http://doi.acm.org/10.1145/1866307.1866388
+ccs/ccs2010,2010,Poster presentations,Secure latency estimation with treeple.,Eric Chan-Tin;Nicholas Hopper;,http://doi.acm.org/10.1145/1866307.1866389
+ccs/ccs2010,2010,Poster presentations,TEE: a virtual DRTM based execution environment for secure cloud-end computing.,Weiqi Dai;Hai Jin;Deqing Zou;Shouhuai Xu;Weide Zheng;Lei Shi;,http://doi.acm.org/10.1145/1866307.1866390
+ccs/ccs2010,2010,Poster presentations,Laptop theft: a case study on the effectiveness of security mechanisms in open organizations.,Trajce Dimkov;Wolter Pieters;Pieter H. Hartel;,http://doi.acm.org/10.1145/1866307.1866391
+ccs/ccs2010,2010,Poster presentations,Information security for sensors by overwhelming random sequences and permutations.,Shlomi Dolev;Niv Gilboa;Marina Kopeetsky;Giuseppe Persiano;Paul G. Spirakis;,http://doi.acm.org/10.1145/1866307.1866392
+ccs/ccs2010,2010,Poster presentations,On verifying stateful dataflow processing services in large-scale cloud systems.,Juan Du;Xiaohui Gu;Ting Yu;,http://doi.acm.org/10.1145/1866307.1866393
+ccs/ccs2010,2010,Poster presentations,Assessing trust in uncertain information using Bayesian description logic.,Achille Fokoue;Mudhakar Srivatsa;Robert Young;,http://doi.acm.org/10.1145/1866307.1866394
+ccs/ccs2010,2010,Poster presentations,Timing attacks on PIN input devices.,Denis Foo Kune;Yongdae Kim;,http://doi.acm.org/10.1145/1866307.1866395
+ccs/ccs2010,2010,Poster presentations,Detecting and characterizing social spam campaigns.,Hongyu Gao;Jun Hu;Christo Wilson;Zhichun Li;Yan Chen;Ben Y. Zhao;,http://doi.acm.org/10.1145/1866307.1866396
+ccs/ccs2010,2010,Poster presentations,Fingerprinting websites using remote traffic analysis.,Xun Gong;Negar Kiyavash;Nikita Borisov;,http://doi.acm.org/10.1145/1866307.1866397
+ccs/ccs2010,2010,Poster presentations,Efficient sensor node authentication via 3GPP mobile communication networks.,Kyusuk Han;Jangseong Kim;Kwangjo Kim;Taeshik Shon;,http://doi.acm.org/10.1145/1866307.1866398
+ccs/ccs2010,2010,Poster presentations,Rendezvous tunnel for anonymous publishing.,Ofer Hermoni;Niv Gilboa;Eyal Felstaine;Yuval Elovici;Shlomi Dolev;,http://doi.acm.org/10.1145/1866307.1866399
+ccs/ccs2010,2010,Poster presentations,Exploiting social networking sites for spam.,Markus Huber;Martin Mulazzani;Edgar R. Weippl;Gerhard Kitzler;Sigrun Goluch;,http://doi.acm.org/10.1145/1866307.1866400
+ccs/ccs2010,2010,Poster presentations,An implementation of event and filter confidentiality in pub/sub systems and its application to e-health.,Mihaela Ion;Giovanni Russello;Bruno Crispo;,http://doi.acm.org/10.1145/1866307.1866401
+ccs/ccs2010,2010,Poster presentations,Privacy and robustness for data aggregation in wireless sensor networks.,Marian Kamal Iskander;Adam J. Lee;Daniel Mossé;,http://doi.acm.org/10.1145/1866307.1866402
+ccs/ccs2010,2010,Poster presentations,Designing router scheduling policies: a privacy perspective.,Sachin Kadloor;Xun Gong;Negar Kiyavash;Parv Venkitasubramaniam;,http://doi.acm.org/10.1145/1866307.1866403
+ccs/ccs2010,2010,Poster presentations,CRAFT: a new secure congestion control architecture.,Dongho Kim;Jerry T. Chiang;Yih-Chun Hu;Adrian Perrig;P. R. Kumar;,http://doi.acm.org/10.1145/1866307.1866404
+ccs/ccs2010,2010,Poster presentations,Dialog-based payload aggregation for intrusion detection.,Tobias Limmer;Falko Dressler;,http://doi.acm.org/10.1145/1866307.1866405
+ccs/ccs2010,2010,Poster presentations,Protecting location privacy against inference attacks.,Kazuhiro Minami;Nikita Borisov;,http://doi.acm.org/10.1145/1866307.1866406
+ccs/ccs2010,2010,Poster presentations,Designs to account for trust in social network-based sybil defenses.,Abedelaziz Mohaisen;Nicholas Hopper;Yongdae Kim;,http://doi.acm.org/10.1145/1866307.1866407
+ccs/ccs2010,2010,Poster presentations,"Secure encounter-based social networks: requirements, challenges, and designs.",Abedelaziz Mohaisen;Eugene Y. Vasserman;Max Schuchard;Denis Foo Kune;Yongdae Kim;,http://doi.acm.org/10.1145/1866307.1866408
+ccs/ccs2010,2010,Poster presentations,Secure online banking on untrusted computers.,Yanlin Peng;Wenji Chen;J. Morris Chang;Yong Guan;,http://doi.acm.org/10.1145/1866307.1866409
+ccs/ccs2010,2010,Poster presentations,iFriendU: leveraging 3-cliques to enhance infiltration attacks in online social networks.,Rahul Potharaju;Bogdan Carbunar;Cristina Nita-Rotaru;,http://doi.acm.org/10.1145/1866307.1866410
+ccs/ccs2010,2010,Poster presentations,Losing control of the internet: using the data plane to attack the control plane.,Max Schuchard;Abedelaziz Mohaisen;Denis Foo Kune;Nicholas Hopper;Yongdae Kim;Eugene Y. Vasserman;,http://doi.acm.org/10.1145/1866307.1866411
+ccs/ccs2010,2010,Poster presentations,Size-based scheduling: a recipe for DDOS?,Abdul Serwadda;Vir V. Phoha;Idris A. Rai;,http://doi.acm.org/10.1145/1866307.1866412
+ccs/ccs2010,2010,Poster presentations,User-friendly matching protocol for online social networks.,Qiang Tang;,http://doi.acm.org/10.1145/1866307.1866413
+ccs/ccs2010,2010,Poster presentations,Hierarchical attribute-based encryption for fine-grained access control in cloud storage services.,Guojun Wang;Qin Liu;Jie Wu;,http://doi.acm.org/10.1145/1866307.1866414
+ccs/ccs2010,2010,Poster presentations,Secure dynamic code generation against spraying.,Tao Wei;Tielei Wang;Lei Duan;Jing Luo;,http://doi.acm.org/10.1145/1866307.1866415
+ccs/ccs2010,2010,Poster presentations,Ad hoc broadcast encryption.,Qianhong Wu;Bo Qin;Lei Zhang;Josep Domingo-Ferrer;,http://doi.acm.org/10.1145/1866307.1866416
+ccs/ccs2010,2010,Poster presentations,Dynamic window based multihop authentication for WSN.,Lan Yao;Zhiliang Yu;Tie Zhang;Fuxiang Gao;,http://doi.acm.org/10.1145/1866307.1866417
+ccs/ccs2010,2010,Poster presentations,Spectrum based fraud detection in social networks.,Xiaowei Ying;Xintao Wu;Daniel Barbará;,http://doi.acm.org/10.1145/1866307.1866418
+ccs/ccs2010,2010,Poster presentations,A portable TPM based on USB key.,Dawei Zhang;Zhen Han;Guangwen Yan;,http://doi.acm.org/10.1145/1866307.1866419
+ccs/ccs2010,2010,Poster presentations,On efficient ciphertext-policy attribute based encryption and broadcast encryption: extended abstract.,Zhibin Zhou;Dijiang Huang;,http://doi.acm.org/10.1145/1866307.1866420
+ccs/ccs2010,2010,Poster presentations,Efficient provable data possession for hybrid clouds.,Yan Zhu;Huaixi Wang;Zexing Hu;Gail-Joon Ahn;Hongxin Hu;Stephen S. Yau;,http://doi.acm.org/10.1145/1866307.1866421
+ccs/ccs2010,2010,Poster presentations,A cloud based SIM DRM scheme for the mobile internet.,Peng Zou;Chaokun Wang;Zhang Liu;Jianmin Wang;Jia-Guang Sun;,http://doi.acm.org/10.1145/1866307.1866422

@@ -1,0 +1,31 @@
+tcc/tcc2007,2007,Encryption,Does Privacy Require True Randomness?,Carl Bosley;Yevgeniy Dodis;,https://doi.org/10.1007/978-3-540-70936-7_1
+tcc/tcc2007,2007,Encryption,Tackling Adaptive Corruptions in Multicast Encryption Protocols.,Saurabh Panjwani;,https://doi.org/10.1007/978-3-540-70936-7_2
+tcc/tcc2007,2007,Universally Composable Security,Long-Term Security and Universal Composability.,Jörn Müller-Quade;Dominique Unruh;,https://doi.org/10.1007/978-3-540-70936-7_3
+tcc/tcc2007,2007,Universally Composable Security,Universally Composable Security with Global Setup.,Ran Canetti;Yevgeniy Dodis;Rafael Pass;Shabsi Walfish;,https://doi.org/10.1007/978-3-540-70936-7_4
+tcc/tcc2007,2007,Arguments and Zero Knowledge,Parallel Repetition of Computationally Sound Protocols Revisited.,Krzysztof Pietrzak;Douglas Wikström;,https://doi.org/10.1007/978-3-540-70936-7_5
+tcc/tcc2007,2007,Arguments and Zero Knowledge,Lower Bounds for Non-interactive Zero-Knowledge.,Hoeteck Wee;,https://doi.org/10.1007/978-3-540-70936-7_6
+tcc/tcc2007,2007,Arguments and Zero Knowledge,Perfect NIZK with Adaptive Soundness.,Masayuki Abe;Serge Fehr;,https://doi.org/10.1007/978-3-540-70936-7_7
+tcc/tcc2007,2007,Notions of Security,Security Against Covert Adversaries: Efficient Protocols for Realistic Adversaries.,Yonatan Aumann;Yehuda Lindell;,https://doi.org/10.1007/978-3-540-70936-7_8
+tcc/tcc2007,2007,Notions of Security,On the Necessity of Rewinding in Secure Multiparty Computation.,Michael Backes;Jörn Müller-Quade;Dominique Unruh;,https://doi.org/10.1007/978-3-540-70936-7_9
+tcc/tcc2007,2007,Notions of Security,On Expected Probabilistic Polynomial-Time Adversaries: A Suggestion for Restricted Definitions and Their Benefits.,Oded Goldreich;,https://doi.org/10.1007/978-3-540-70936-7_10
+tcc/tcc2007,2007,Obfuscation,On Best-Possible Obfuscation.,Shafi Goldwasser;Guy N. Rothblum;,https://doi.org/10.1007/978-3-540-70936-7_11
+tcc/tcc2007,2007,Obfuscation,Obfuscation for Cryptographic Purposes.,Dennis Hofheinz;John Malone-Lee;Martijn Stam;,https://doi.org/10.1007/978-3-540-70936-7_12
+tcc/tcc2007,2007,Obfuscation,Securely Obfuscating Re-encryption.,Susan Hohenberger;Guy N. Rothblum;Abhi Shelat;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-540-70936-7_13
+tcc/tcc2007,2007,Secret Sharing and Multiparty Computation,Weakly-Private Secret Sharing Schemes.,Amos Beimel;Matthew K. Franklin;,https://doi.org/10.1007/978-3-540-70936-7_14
+tcc/tcc2007,2007,Secret Sharing and Multiparty Computation,"On Secret Sharing Schemes, Matroids and Polymatroids.",Jaume Martí-Farré;Carles Padró;,https://doi.org/10.1007/978-3-540-70936-7_15
+tcc/tcc2007,2007,Secret Sharing and Multiparty Computation,Secure Linear Algebra Using Linearly Recurrent Sequences.,Eike Kiltz;Payman Mohassel;Enav Weinreb;Matthew K. Franklin;,https://doi.org/10.1007/978-3-540-70936-7_16
+tcc/tcc2007,2007,Secret Sharing and Multiparty Computation,Towards Optimal and Efficient Perfectly Secure Message Transmission.,Matthias Fitzi;Matthew K. Franklin;Juan A. Garay;Harsha Vardhan Simhadri;,https://doi.org/10.1007/978-3-540-70936-7_17
+tcc/tcc2007,2007,Signatures and Watermarking,Concurrently-Secure Blind Signatures Without Random Oracles or Setup Assumptions.,Carmit Hazay;Jonathan Katz;Chiu-Yuen Koo;Yehuda Lindell;,https://doi.org/10.1007/978-3-540-70936-7_18
+tcc/tcc2007,2007,Signatures and Watermarking,Designated Confirmer Signatures Revisited.,Douglas Wikström;,https://doi.org/10.1007/978-3-540-70936-7_19
+tcc/tcc2007,2007,Signatures and Watermarking,From Weak to Strong Watermarking.,Nicholas Hopper;David Molnar;David A. Wagner;,https://doi.org/10.1007/978-3-540-70936-7_20
+tcc/tcc2007,2007,Private Approximation and Black-Box Reductions,Private Approximation of Clustering and Vertex Cover.,Amos Beimel;Renen Hallak;Kobbi Nissim;,https://doi.org/10.1007/978-3-540-70936-7_21
+tcc/tcc2007,2007,Private Approximation and Black-Box Reductions,Robuster Combiners for Oblivious Transfer.,Remo Meier;Bartosz Przydatek;Jürg Wullschleger;,https://doi.org/10.1007/978-3-540-70936-7_22
+tcc/tcc2007,2007,Private Approximation and Black-Box Reductions,"One-Way Permutations, Interactive Hashing and Statistically Hiding Commitments.",Hoeteck Wee;,https://doi.org/10.1007/978-3-540-70936-7_23
+tcc/tcc2007,2007,Private Approximation and Black-Box Reductions,Towards a Separation of Semantic and CCA Security for Public Key Encryption.,Yael Gertner;Tal Malkin;Steven Myers;,https://doi.org/10.1007/978-3-540-70936-7_24
+tcc/tcc2007,2007,Key Establishment,Unifying Classical and Quantum Key Distillation.,Matthias Christandl;Artur Ekert;Michal Horodecki;Pawel Horodecki;Jonathan Oppenheim;Renato Renner;,https://doi.org/10.1007/978-3-540-70936-7_25
+tcc/tcc2007,2007,Key Establishment,Intrusion-Resilient Key Exchange in the Bounded Retrieval Model.,David Cash;Yan Zong Ding;Yevgeniy Dodis;Wenke Lee;Richard J. Lipton;Shabsi Walfish;,https://doi.org/10.1007/978-3-540-70936-7_26
+tcc/tcc2007,2007,Key Establishment,(Password) Authenticated Key Establishment: From 2-Party to Group.,Michel Abdalla;Jens-Matthias Bohli;Maria Isabel Gonzalez Vasco;Rainer Steinwandt;,https://doi.org/10.1007/978-3-540-70936-7_27
+tcc/tcc2007,2007,Encryption,Multi-authority Attribute Based Encryption.,Melissa Chase;,https://doi.org/10.1007/978-3-540-70936-7_28
+tcc/tcc2007,2007,Encryption,"Conjunctive, Subset, and Range Queries on Encrypted Data.",Dan Boneh;Brent Waters;,https://doi.org/10.1007/978-3-540-70936-7_29
+tcc/tcc2007,2007,Encryption,How to Shuffle in Public.,Ben Adida;Douglas Wikström;,https://doi.org/10.1007/978-3-540-70936-7_30
+tcc/tcc2007,2007,Encryption,Evaluating Branching Programs on Encrypted Data.,Yuval Ishai;Anat Paskin;,https://doi.org/10.1007/978-3-540-70936-7_31

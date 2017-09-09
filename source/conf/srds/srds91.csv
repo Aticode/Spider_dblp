@@ -1,0 +1,21 @@
+srds/srds91,1991,Session 1:Checkpointing & Logging Algorithms,Checkpointing Multicomputer Applications.,Kai Li;Jeffrey F. Naughton;James S. Plank;,https://doi.org/10.1109/RELDIS.1991.145398
+srds/srds91,1991,Session 1:Checkpointing & Logging Algorithms,A Timestamp-Based Checkpointing Protocol for Long-Lived Distributed Computations.,Flaviu Cristian;Farnam Jahanian;,https://doi.org/10.1109/RELDIS.1991.145399
+srds/srds91,1991,Session 1:Checkpointing & Logging Algorithms,File System Measurements and their Application to the Design of Efficient Operation Logging Algorithm.,David F. Bacon;,https://doi.org/10.1109/RELDIS.1991.145400
+srds/srds91,1991,Session 2:Real Time,Masking Failures of Multidimensional Sensors.,Paul Chew;Keith Marzullo;,https://doi.org/10.1109/RELDIS.1991.145402
+srds/srds91,1991,Session 2:Real Time,A Statistical Clock Synchronization Algorithm for Anisotropic Networks.,D. Couvet;Gerard Florin;Stéphane Natkin;,https://doi.org/10.1109/RELDIS.1991.145403
+srds/srds91,1991,Session 2:Real Time,On the Testability of Distributed Real-Time Systems.,Werner Schütz;,https://doi.org/10.1109/RELDIS.1991.145404
+srds/srds91,1991,Session 3:Backward Recovery Schemes,Optimistic Failure Recovery for Very Large Networks.,Andy Lowry;James R. Russell;Arthur P. Goldberg;,https://doi.org/10.1109/RELDIS.1991.145407
+srds/srds91,1991,Session 3:Backward Recovery Schemes,Efficient Communication of Commitment-Dependency Information in the Programmer-Transparent Coordination (PTC) Scheme for Cooperative Recovery.,K. H. Kim;J. H. You;,https://doi.org/10.1109/RELDIS.1991.145408
+srds/srds91,1991,Session 3:Backward Recovery Schemes,Flexible Schemes for Application-Level Fault Tolerance.,Lorenzo Strigini;Felicita Di Giandomenico;,https://doi.org/10.1109/RELDIS.1991.145409
+srds/srds91,1991,Session 4:Replication & Parallelism,A Model for Interface Groups.,Michael H. Olsen;Ed Oskiewicz;John P. Warne;,https://doi.org/10.1109/RELDIS.1991.145411
+srds/srds91,1991,Session 4:Replication & Parallelism,Formalising Replicated Distributed Processing.,Maciej Koutny;Luigi V. Mancini;Giuseppe Pappalardo;,https://doi.org/10.1109/RELDIS.1991.145412
+srds/srds91,1991,Session 4:Replication & Parallelism,On Tolerating Faults in Naturally Redundant Algorithms.,Luiz A. Laranjeira;Miroslaw Malek;Roy M. Jenevein;,https://doi.org/10.1109/RELDIS.1991.145413
+srds/srds91,1991,Session 5:Dependability Modelling,Dependability Evaluation of Bus and Ring Communication Topologies for the Delta-4 Distributed Fault-Tolerant Architecture.,Karama Kanoun;David Powell;,https://doi.org/10.1109/RELDIS.1991.145415
+srds/srds91,1991,Session 5:Dependability Modelling,Flexible Handling of Diverse Dependability Requirements in MARS.,Heinz Kantz;,https://doi.org/10.1109/RELDIS.1991.145416
+srds/srds91,1991,Session 5:Dependability Modelling,Efficient Transient Simulation of Failure/Repair Markovian Models.,Juan A. Carrasco;,https://doi.org/10.1109/RELDIS.1991.145417
+srds/srds91,1991,Session 7:Dependability Assessment,Performability Evaluation of CASMA/CD and CASMA/DCR Protocols under Transient Fault Conditions.,Kevin H. Prodromides;William H. Sanders;,https://doi.org/10.1109/RELDIS.1991.145420
+srds/srds91,1991,Session 7:Dependability Assessment,A Study of the Reliablility of Internet Sites.,Darrell D. E. Long;John L. Carroll;C. J. Park;,https://doi.org/10.1109/RELDIS.1991.145421
+srds/srds91,1991,Session 8:Agreement,Ordered Broadcasts for Large Applications.,Tony P. Ng;,https://doi.org/10.1109/RELDIS.1991.145423
+srds/srds91,1991,Session 8:Agreement,Keeping Processes Under Surveillance.,Thomas Becker;,https://doi.org/10.1109/RELDIS.1991.145424
+srds/srds91,1991,Session 9:Garbage Collection,"A Fault-Tolerant, Scalable, Low-Overhead Distributed Garbage Detection Protocol.",Marc Shapiro;,https://doi.org/10.1109/RELDIS.1991.145426
+srds/srds91,1991,Session 9:Garbage Collection,Copying Garbage Collection for Distributed Object Stores.,Luigi V. Mancini;Vittoria Rotella;Simonetta Venosa;,https://doi.org/10.1109/RELDIS.1991.145427

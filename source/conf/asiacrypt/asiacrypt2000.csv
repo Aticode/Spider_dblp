@@ -1,0 +1,47 @@
+asiacrypt/asiacrypt2000,2000,Cryptanalysis,Cryptanalytic Time/Memory/Data Tradeoffs for Stream Ciphers.,Alex Biryukov;Adi Shamir;,https://doi.org/10.1007/3-540-44448-3_1
+asiacrypt/asiacrypt2000,2000,Cryptanalysis,Cryptanalysis of the RSA Schemes with Short Secret Exponent from Asiacrypt '99.,Glenn Durfee;Phong Q. Nguyen;,https://doi.org/10.1007/3-540-44448-3_2
+asiacrypt/asiacrypt2000,2000,Cryptanalysis,Why Textbook ElGamal and RSA Encryption Are Insecure.,Dan Boneh;Antoine Joux;Phong Q. Nguyen;,https://doi.org/10.1007/3-540-44448-3_3
+asiacrypt/asiacrypt2000,2000,Cryptanalysis,Cryptanalysis of the TTM Cryptosystem.,Louis Goubin;Nicolas Courtois;,https://doi.org/10.1007/3-540-44448-3_4
+asiacrypt/asiacrypt2000,2000,Cryptanalysis,Attacking and Repairing Batch Verification Schemes.,Colin Boyd;Chris Pavlovski;,https://doi.org/10.1007/3-540-44448-3_5
+asiacrypt/asiacrypt2000,2000,IACR Distinguished Lecture,Cryptography Everywhere.,Thomas A. Berson;,https://doi.org/10.1007/3-540-44448-3_6
+asiacrypt/asiacrypt2000,2000,Digital Signatures,Security of Signed ElGamal Encryption.,Claus-Peter Schnorr;Markus Jakobsson;,https://doi.org/10.1007/3-540-44448-3_7
+asiacrypt/asiacrypt2000,2000,Digital Signatures,From Fixed-Length to Arbitrary-Length RSA Padding Schemes.,Jean-Sébastien Coron;François Koeune;David Naccache;,https://doi.org/10.1007/3-540-44448-3_8
+asiacrypt/asiacrypt2000,2000,Digital Signatures,Towards Signature-Only Signature Schemes.,Adam L. Young;Moti Yung;,https://doi.org/10.1007/3-540-44448-3_9
+asiacrypt/asiacrypt2000,2000,Digital Signatures,A New Forward-Secure Digital Signature Scheme.,Michel Abdalla;Leonid Reyzin;,https://doi.org/10.1007/3-540-44448-3_10
+asiacrypt/asiacrypt2000,2000,Digital Signatures,Unconditionally Secure Digital Signature Schemes Admitting Transferability.,Goichiro Hanaoka;Junji Shikata;Yuliang Zheng;Hideki Imai;,https://doi.org/10.1007/3-540-44448-3_11
+asiacrypt/asiacrypt2000,2000,Protocols,Efficient Secure Multi-party Computation.,Martin Hirt;Ueli M. Maurer;Bartosz Przydatek;,https://doi.org/10.1007/3-540-44448-3_12
+asiacrypt/asiacrypt2000,2000,Protocols,Mix and Match: Secure Function Evaluation via Ciphertexts.,Markus Jakobsson;Ari Juels;,https://doi.org/10.1007/3-540-44448-3_13
+asiacrypt/asiacrypt2000,2000,Protocols,A Length-Invariant Hybrid Mix.,Miyako Ohkubo;Masayuki Abe;,https://doi.org/10.1007/3-540-44448-3_14
+asiacrypt/asiacrypt2000,2000,Protocols,Attack for Flash MIX.,Masashi Mitomo;Kaoru Kurosawa;,https://doi.org/10.1007/3-540-44448-3_15
+asiacrypt/asiacrypt2000,2000,Protocols,Distributed Oblivious Transfer.,Moni Naor;Benny Pinkas;,https://doi.org/10.1007/3-540-44448-3_16
+asiacrypt/asiacrypt2000,2000,Number Theoretic Algorithms,Key Improvements to XTR.,Arjen K. Lenstra;Eric R. Verheul;,https://doi.org/10.1007/3-540-44448-3_17
+asiacrypt/asiacrypt2000,2000,Number Theoretic Algorithms,Security of Cryptosystems Based on Class Groups of Imaginary Quadratic Orders.,Safuat Hamdy;Bodo Möller;,https://doi.org/10.1007/3-540-44448-3_18
+asiacrypt/asiacrypt2000,2000,Number Theoretic Algorithms,Weil Descent of Elliptic Curves over Finite Fields of Characteristic Three.,Seigo Arita;,https://doi.org/10.1007/3-540-44448-3_19
+asiacrypt/asiacrypt2000,2000,Number Theoretic Algorithms,Construction of Hyperelliptic Curves with CM and Its Application to Cryptosystems.,Jinhui Chao;Kazuto Matsuo;Hiroto Kawashiro;Shigeo Tsujii;,https://doi.org/10.1007/3-540-44448-3_20
+asiacrypt/asiacrypt2000,2000,Symmetric-Key Schemes,Provable Security for the Skipjack-like Structure against Differential Cryptanalysis and Linear Cryptanalysis.,Jaechul Sung;Sangjin Lee;Jong In Lim;Seokhie Hong;Sangjoon Park;,https://doi.org/10.1007/3-540-44448-3_21
+asiacrypt/asiacrypt2000,2000,Symmetric-Key Schemes,On the Pseudorandomness of Top-Level Schemes of Block Ciphers.,Shiho Moriai;Serge Vaudenay;,https://doi.org/10.1007/3-540-44448-3_22
+asiacrypt/asiacrypt2000,2000,Symmetric-Key Schemes,Exploiting Multiples of the Connection Polynomial in Word-Oriented Stream Ciphers.,Philip Hawkes;Gregory G. Rose;,https://doi.org/10.1007/3-540-44448-3_23
+asiacrypt/asiacrypt2000,2000,Symmetric-Key Schemes,Encode-Then-Encipher Encryption: How to Exploit Nonces or Redundancy in Plaintexts for Efficient Cryptography.,Mihir Bellare;Phillip Rogaway;,https://doi.org/10.1007/3-540-44448-3_24
+asiacrypt/asiacrypt2000,2000,Protocols,"Verifiable Encryption, Group Encryption, and Their Applications to Separable Group Signatures and Signature Sharing Schemes.",Jan Camenisch;Ivan Damgård;,https://doi.org/10.1007/3-540-44448-3_25
+asiacrypt/asiacrypt2000,2000,Protocols,Addition of ElGamal Plaintexts.,Markus Jakobsson;Ari Juels;,https://doi.org/10.1007/3-540-44448-3_26
+asiacrypt/asiacrypt2000,2000,Protocols,Improved Methods to Perform Threshold RSA.,Brian King;,https://doi.org/10.1007/3-540-44448-3_27
+asiacrypt/asiacrypt2000,2000,Protocols,Commital Deniable Proofs and Electronic Campaign Finance.,Matthew K. Franklin;Tomas Sander;,https://doi.org/10.1007/3-540-44448-3_28
+asiacrypt/asiacrypt2000,2000,Protocols,Provably Secure Metering Scheme.,Wakaha Ogata;Kaoru Kurosawa;,https://doi.org/10.1007/3-540-44448-3_29
+asiacrypt/asiacrypt2000,2000,Invited Lecture,CRYPTREC Project - Cryptographic Evaluation Project for the Japanese Electronic Government.,Hideki Imai;Atsuhiro Yamagishi;,https://doi.org/10.1007/3-540-44448-3_30
+asiacrypt/asiacrypt2000,2000,Fingerprinting,Anonymous Fingerprinting with Direct Non-repudiation.,Birgit Pfitzmann;Ahmad-Reza Sadeghi;,https://doi.org/10.1007/3-540-44448-3_31
+asiacrypt/asiacrypt2000,2000,Fingerprinting,Efficient Anonymous Fingerprinting with Group Signatures.,Jan Camenisch;,https://doi.org/10.1007/3-540-44448-3_32
+asiacrypt/asiacrypt2000,2000,Zero-Knowledge and Provable Security,Increasing the Power of the Dealer in Non-interactive Zero-Knowledge Proof Systems.,Danny Gutfreund;Michael Ben-Or;,https://doi.org/10.1007/3-540-44448-3_33
+asiacrypt/asiacrypt2000,2000,Zero-Knowledge and Provable Security,Zero-Knowledge and Code Obfuscation.,Satoshi Hada;,https://doi.org/10.1007/3-540-44448-3_34
+asiacrypt/asiacrypt2000,2000,Zero-Knowledge and Provable Security,A Note on Security Proofs in the Generic Model.,Marc Fischlin;,https://doi.org/10.1007/3-540-44448-3_35
+asiacrypt/asiacrypt2000,2000,Boolean Functions,"On Relationships among Avalanche, Nonlinearity, and Correlation Immunity.",Yuliang Zheng;Xian-Mo Zhang;,https://doi.org/10.1007/3-540-44448-3_36
+asiacrypt/asiacrypt2000,2000,Cryptanalysis,Cryptanalysis of the Yi-Lam Hash.,David A. Wagner;,https://doi.org/10.1007/3-540-44448-3_37
+asiacrypt/asiacrypt2000,2000,Cryptanalysis,"Power Analysis, What Is Now Possible....",Mehdi-Laurent Akkar;Régis Bevan;Paul Dischamp;Didier Moyart;,https://doi.org/10.1007/3-540-44448-3_38
+asiacrypt/asiacrypt2000,2000,Pseudorandomness,Concrete Security Characterizations of PRFs and PRPs: Reductions and Applications.,Anand Desai;Sara K. Miner;,https://doi.org/10.1007/3-540-44448-3_39
+asiacrypt/asiacrypt2000,2000,Pseudorandomness,The Security of Chaffing and Winnowing.,Mihir Bellare;Alexandra Boldyreva;,https://doi.org/10.1007/3-540-44448-3_40
+asiacrypt/asiacrypt2000,2000,Pseudorandomness,Authenticated Encryption: Relations among Notions and Analysis of the Generic Composition Paradigm.,Mihir Bellare;Chanathip Namprempre;,https://doi.org/10.1007/3-540-44448-3_41
+asiacrypt/asiacrypt2000,2000,Pseudorandomness,Increasing the Lifetime of a Key: A Comparative Analysis of the Security of Re-keying Techniques.,Michel Abdalla;Mihir Bellare;,https://doi.org/10.1007/3-540-44448-3_42
+asiacrypt/asiacrypt2000,2000,Pseudorandomness,Proofs of Security for the Unix Password Hashing Algorithm.,David A. Wagner;Ian Goldberg;,https://doi.org/10.1007/3-540-44448-3_43
+asiacrypt/asiacrypt2000,2000,Public-Key Encryption and Key Distribution,Trapdooring Discrete Logarithms on Elliptic Curves over Rings.,Pascal Paillier;,https://doi.org/10.1007/3-540-44448-3_44
+asiacrypt/asiacrypt2000,2000,Public-Key Encryption and Key Distribution,Strengthening McEliece Cryptosystem.,Pierre Loidreau;,https://doi.org/10.1007/3-540-44448-3_45
+asiacrypt/asiacrypt2000,2000,Public-Key Encryption and Key Distribution,Password-Authenticated Key Exchange Based on RSA.,Philip D. MacKenzie;Sarvar Patel;Ram Swaminathan;,https://doi.org/10.1007/3-540-44448-3_46
+asiacrypt/asiacrypt2000,2000,Public-Key Encryption and Key Distribution,Round-Efficient Conference Key Agreement Protocols with Provable Security.,Wen-Guey Tzeng;Zhi-Jia Tzeng;,https://doi.org/10.1007/3-540-44448-3_47

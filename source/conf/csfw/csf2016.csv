@@ -1,0 +1,34 @@
+csfw/csf2016,2016,Invited Talks and Invited Papers,Modular Verification for Computer Security.,Andrew W. Appel;,https://doi.org/10.1109/CSF.2016.8
+csfw/csf2016,2016,Invited Talks and Invited Papers,Data-Driven Software Security: Models and Methods.,Úlfar Erlingsson;,https://doi.org/10.1109/CSF.2016.40
+csfw/csf2016,2016,Invited Talks and Invited Papers,"Are the Real Limits to Scale a Matter of Science, or Engineering, or of Something Else? (Abstract only).",Ross J. Anderson;,https://doi.org/10.1109/CSF.2016.41
+csfw/csf2016,2016,Software Security,On Modular and Fully-Abstract Compilation.,Marco Patrignani;Dominique Devriese;Frank Piessens;,https://doi.org/10.1109/CSF.2016.9
+csfw/csf2016,2016,Software Security,"Secure Software Licensing: Models, Constructions, and Proofs.",Sergiu Costea;Bogdan Warinschi;,https://doi.org/10.1109/CSF.2016.10
+csfw/csf2016,2016,Software Security,Beyond Good and Evil: Formalizing the Security Guarantees of Compartmentalizing Compilation.,Yannis Juglaret;Catalin Hritcu;Arthur Azevedo de Amorim;Boris Eng;Benjamin C. Pierce;,https://doi.org/10.1109/CSF.2016.11
+csfw/csf2016,2016,Quantitative Security,Relative Perfect Secrecy: Universally Optimal Strategies and Channel Design.,M. H. R. Khouzani;Pasquale Malacaria;,https://doi.org/10.1109/CSF.2016.12
+csfw/csf2016,2016,Quantitative Security,Axioms for Information Leakage.,Mário S. Alvim;Konstantinos Chatzikokolakis;Annabelle McIver;Carroll Morgan;Catuscia Palamidessi;Geoffrey Smith;,https://doi.org/10.1109/CSF.2016.13
+csfw/csf2016,2016,Quantitative Security,Correlated Secrets in Quantitative Information Flow.,Nicolás E. Bordenabe;Geoffrey Smith;,https://doi.org/10.1109/CSF.2016.14
+csfw/csf2016,2016,Quantitative Security,Quantitative Verification and Synthesis of Attack-Defence Scenarios.,Zaruhi Aslanyan;Flemming Nielson;David Parker;,https://doi.org/10.1109/CSF.2016.15
+csfw/csf2016,2016,Access Control,In the Nick of Time: Proactive Prevention of Obligation Violations.,David A. Basin;Søren Debois;Thomas T. Hildebrandt;,https://doi.org/10.1109/CSF.2016.16
+csfw/csf2016,2016,Access Control,A Calculus for Flow-Limited Authorization.,Owen Arden;Andrew C. Myers;,https://doi.org/10.1109/CSF.2016.17
+csfw/csf2016,2016,Access Control,"On Access Control, Capabilities, Their Equivalence, and Confused Deputy Attacks.",Vineet Rajani;Deepak Garg;Tamara Rezk;,https://doi.org/10.1109/CSF.2016.18
+csfw/csf2016,2016,Protocols and Distributed Systems,On Post-compromise Security.,Katriel Cohn-Gordon;Cas J. F. Cremers;Luke Garratt;,https://doi.org/10.1109/CSF.2016.19
+csfw/csf2016,2016,Protocols and Distributed Systems,Micro-policies for Web Session Security.,Stefano Calzavara;Riccardo Focardi;Niklas Grimm;Matteo Maffei;,https://doi.org/10.1109/CSF.2016.20
+csfw/csf2016,2016,Protocols and Distributed Systems,Localizing Firewall Security Policies.,Pedro Adão;Riccardo Focardi;Joshua D. Guttman;Flaminia L. Luccio;,https://doi.org/10.1109/CSF.2016.21
+csfw/csf2016,2016,Information Flow,Calculational Design of Information Flow Monitors.,Mounir Assaf;David A. Naumann;,https://doi.org/10.1109/CSF.2016.22
+csfw/csf2016,2016,Information Flow,Hybrid Monitoring of Attacker Knowledge.,Frédéric Besson;Nataliia Bielova;Thomas P. Jensen;,https://doi.org/10.1109/CSF.2016.23
+csfw/csf2016,2016,Information Flow,Runtime Verification of k-Safety Hyperproperties in HyperLTL.,Shreya Agrawal;Borzoo Bonakdarpour;,https://doi.org/10.1109/CSF.2016.24
+csfw/csf2016,2016,Information Flow,Non-interference with What-Declassification in Component-Based Systems.,Simon Greiner;Daniel Grahl;,https://doi.org/10.1109/CSF.2016.25
+csfw/csf2016,2016,Computer-Aided Cryptography,A Certified Compiler for Verifiable Computing.,Cédric Fournet;Chantal Keller;Vincent Laporte;,https://doi.org/10.1109/CSF.2016.26
+csfw/csf2016,2016,Computer-Aided Cryptography,"Analysis of Key Wrapping APIs: Generic Policies, Computational Security.",Guillaume Scerri;Ryan Stanley-Oakes;,https://doi.org/10.1109/CSF.2016.27
+csfw/csf2016,2016,Computer-Aided Cryptography,A Verified Extensible Library of Elliptic Curves.,Jean Karim Zinzindohoue;Evmorfia-Iro Bartzia;Karthikeyan Bhargavan;,https://doi.org/10.1109/CSF.2016.28
+csfw/csf2016,2016,Protocols and Distributed Systems Il,Automated Reasoning for Equivalences in the Applied Pi Calculus with Barriers.,Bruno Blanchet;Ben Smyth;,https://doi.org/10.1109/CSF.2016.29
+csfw/csf2016,2016,Protocols and Distributed Systems Il,Modeling Human Errors in Security Protocols.,David A. Basin;Sasa Radomirovic;Lara Schmid;,https://doi.org/10.1109/CSF.2016.30
+csfw/csf2016,2016,Protocols and Distributed Systems Il,sElect: A Lightweight Verifiable Remote Voting System.,Ralf Küsters;Johannes Mueller;Enrico Scapin;Tomasz Truderung;,https://doi.org/10.1109/CSF.2016.31
+csfw/csf2016,2016,Privacy and Economics,A Methodology for Formalizing Model-Inversion Attacks.,Xi Wu;Matthew Fredrikson;Somesh Jha;Jeffrey F. Naughton;,https://doi.org/10.1109/CSF.2016.32
+csfw/csf2016,2016,Privacy and Economics,CASH: A Cost Asymmetric Secure Hash Algorithm for Optimal Password Protection.,Jeremiah Blocki;Anupam Datta;,https://doi.org/10.1109/CSF.2016.33
+csfw/csf2016,2016,Information Flow,Multi-run Side-Channel Analysis Using Symbolic Execution and Max-SMT.,Corina S. Pasareanu;Quoc-Sang Phan;Pasquale Malacaria;,https://doi.org/10.1109/CSF.2016.34
+csfw/csf2016,2016,Information Flow,Fault-Resilient Non-interference.,Filippo Del Tedesco;David Sands;Alejandro Russo;,https://doi.org/10.1109/CSF.2016.35
+csfw/csf2016,2016,Information Flow,Compositional Verification and Refinement of Concurrent Value-Dependent Noninterference.,Toby C. Murray;Robert Sison;Edward Pierzchalski;Christine Rizkallah;,https://doi.org/10.1109/CSF.2016.36
+csfw/csf2016,2016,Access Control,Resilient Delegation Revocation with Precedence for Predecessors Is NP-Complete.,Marcos Cramer;Pieter Van Hertum;Ruben Lapauw;Ingmar Dasseville;Marc Denecker;,https://doi.org/10.1109/CSF.2016.37
+csfw/csf2016,2016,Access Control,Access Control Synthesis for Physical Spaces.,Petar Tsankov;Mohammad Torabi Dashti;David A. Basin;,https://doi.org/10.1109/CSF.2016.38
+csfw/csf2016,2016,Access Control,Static Detection of Collusion Attacks in ARBAC-Based Workflow Systems.,Stefano Calzavara;Alvise Rabitti;Enrico Steffinlongo;Michele Bugliesi;,https://doi.org/10.1109/CSF.2016.39

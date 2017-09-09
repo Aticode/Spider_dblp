@@ -1,0 +1,10 @@
+ccs/aisec2015,2015,Keynote Address,Machine Learning for Enterprise Security.,Pratyusa K. Manadhata;,http://doi.acm.org/10.1145/2808769.2808782
+ccs/aisec2015,2015,"Privacy, Learning and Security","Fast, Privacy Preserving Linear Regression over Distributed Datasets based on Pre-Distributed Data.",Martine De Cock;Rafael Dowsley;Anderson C. A. Nascimento;Stacey C. Newman;,http://doi.acm.org/10.1145/2808769.2808774
+ccs/aisec2015,2015,"Privacy, Learning and Security",Differential Privacy for Classifier Evaluation.,Kendrick Boyd;Eric Lantz;David Page;,http://doi.acm.org/10.1145/2808769.2808775
+ccs/aisec2015,2015,"Privacy, Learning and Security",Subsampled Exponential Mechanism: Differential Privacy in Large Output Spaces.,Eric Lantz;Kendrick Boyd;David Page;,http://doi.acm.org/10.1145/2808769.2808776
+ccs/aisec2015,2015,Malware and Malicious Activity,Malicious Behavior Detection using Windows Audit Logs.,Konstantin Berlin;David Slater;Joshua Saxe;,http://doi.acm.org/10.1145/2808769.2808773
+ccs/aisec2015,2015,Malware and Malicious Activity,Better Malware Ground Truth: Techniques for Weighting Anti-Virus Vendor Labels.,Alex Kantchelian;Michael Carl Tschantz;Sadia Afroz;Brad Miller;Vaishaal Shankar;Rekha Bachwani;Anthony D. Joseph;J. Doug Tygar;,http://doi.acm.org/10.1145/2808769.2808780
+ccs/aisec2015,2015,Malware and Malicious Activity,Remote Operating System Classification over IPv6.,David Fifield;Alexandru Geana;Luis MartinGarcia;Mathias Morbitzer;J. Doug Tygar;,http://doi.acm.org/10.1145/2808769.2808777
+ccs/aisec2015,2015,Adversarial Learning and Social Networks,Automated Attacks on Compression-Based Classifiers.,Igor Burago;Daniel Lowd;,http://doi.acm.org/10.1145/2808769.2808778
+ccs/aisec2015,2015,Adversarial Learning and Social Networks,Thwarting Fake OSN Accounts by Predicting their Victims.,Yazan Boshmaf;Matei Ripeanu;Konstantin Beznosov;Elizeu Santos-Neto;,http://doi.acm.org/10.1145/2808769.2808772
+ccs/aisec2015,2015,Adversarial Learning and Social Networks,Detecting Clusters of Fake Accounts in Online Social Networks.,Cao Xiao;David Mandell Freeman;Theodore Hwa;,http://doi.acm.org/10.1145/2808769.2808779

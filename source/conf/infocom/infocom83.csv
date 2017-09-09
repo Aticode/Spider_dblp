@@ -1,0 +1,74 @@
+infocom/infocom83,1983,International Data Communications,DDX Operational Experience and the Network in 85.,Mitsuo Kurachi;Shuji Tomita;Shigetoshi Ohnishi;,None
+infocom/infocom83,1983,International Data Communications,Circuit and Packet Switching in Sweden.,Nils Holmqvist;Sven-Olof Eriksson;,None
+infocom/infocom83,1983,Distributed Operating Systems,Architecture for a Global Operating System.,Martin S. McKendry;James E. Allchin;W. C. Thibault;,None
+infocom/infocom83,1983,Distributed Operating Systems,A New Approach to Network Name Management.,Harry R. Chesley;Raphael Rom;,None
+infocom/infocom83,1983,Distributed Operating Systems,On Deadlock Detection in Distributed Computing Systems.,Dushan Z. Badal;M. T. Gehl;,None
+infocom/infocom83,1983,Distributed Operation of Packet Radio Networks,Distributed Control of Broadcast Radio Networks with Changing Topologies.,Dennis J. Baker;,None
+infocom/infocom83,1983,Distributed Operation of Packet Radio Networks,Balanced Scheduling in a Packet Synchronized spread Spectrum Network.,Bruce E. Hajek;,None
+infocom/infocom83,1983,Distributed Operation of Packet Radio Networks,Distributed Broadcast Algorithm in Multihop Aloha Networks.,Baruch Awerbuch;,None
+infocom/infocom83,1983,Communications Networking - Today and Tomorrow,Communications Networking - Today and Tomorrow.,Paulina Chan;,None
+infocom/infocom83,1983,Communications Networking - Today and Tomorrow,Advanced Office System Networking for the AT&T Corporate Telecommunications.,D. Picasso;,None
+infocom/infocom83,1983,Communications Networking - Today and Tomorrow,Hughes Aircraft Company's Experiences in X.25 Packet Networking.,R. A. Eimers;E. W. Huber;J. A. Ryerson;,None
+infocom/infocom83,1983,Communications Networking - Today and Tomorrow,Advanced Information Systems (AIS*) / NET 1000 Service Technical Overview.,S. A. Abraham;H. A. Bodner;C. G. Harrington;R. C. White Jr.;,None
+infocom/infocom83,1983,Routing and Congestion Control,Fault-Tolerant Broadcast of Routing Information.,Radia J. Perlman;,None
+infocom/infocom83,1983,Routing and Congestion Control,A Reliable Broadcast Protocol.,Adrian Segall;Baruch Awerbuch;,None
+infocom/infocom83,1983,Routing and Congestion Control,Stability of Adaptive Congestion Controls in Packet Networks.,James P. Fernow;Mohamed L. El-Sayed;,None
+infocom/infocom83,1983,Routing and Congestion Control,Source Routing and Distributed Algorithm to Implement it.,Jacob Hagouel;,None
+infocom/infocom83,1983,Integrated Services Digital Networks,Optimum Implementation of Common Channel Signalling in Local Networks.,G. S. Bhusri;,None
+infocom/infocom83,1983,Integrated Services Digital Networks,Integrated Digital Telecommunications Networking.,Dale E. Fisher;,None
+infocom/infocom83,1983,Integrated Services Digital Networks,Performance Objectives for Integrated Services Digital Networks: Consideration of Transmission Errors.,A. R. K. Sastry;,None
+infocom/infocom83,1983,Distributed Database Systems,Using Redundancy for Implementing Low-Cost Read-Only Transactions in a Distributed Database System.,Bernd Walter;,None
+infocom/infocom83,1983,Distributed Database Systems,Techniques for Administration of the Distributed Database of the CCIS Network.,Edward N. Shipley;,None
+infocom/infocom83,1983,Distributed Database Systems,Stork: An Experimental Migrating File System for Computer Networks.,Jehan-François Pâris;Walter F. Tichy;,None
+infocom/infocom83,1983,CCITT Study Group 7 Activities,Design Considerations for Using the X.25 Packet Layer in Data Terminal Equipment.,Fred M. Burg;,None
+infocom/infocom83,1983,CCITT Study Group 7 Activities,OSI Transport and Session Layers Services and Protocol.,John W. Neumann;,None
+infocom/infocom83,1983,CCITT Study Group 7 Activities,The Application and Presentation Layers of the Reference Model for Open Systems Interconnection.,Paul D. Bartoli;,None
+infocom/infocom83,1983,User Experiences in Novel Communications Technologies,User Experiences in Local Area Networks and other Novel Communications Systems.,Paulina Chan;,None
+infocom/infocom83,1983,User Experiences in Novel Communications Technologies,The Economic Impact of a Full-Motion Video Teleconferencing System from the User's Perspective.,Betty Vega Cash;,None
+infocom/infocom83,1983,User Experiences in Novel Communications Technologies,Installation of an Integrated Switched Network.,Gerald J. Johnson;,None
+infocom/infocom83,1983,User Experiences in Novel Communications Technologies,User Experiences and Performance Measurements with the Net/One Baseband Local Network.,Mario F. Alvarez;,None
+infocom/infocom83,1983,Multiaccess Techniques,Window and Tree Protocols for Satellite Channels.,Then Tang Liu;,None
+infocom/infocom83,1983,Multiaccess Techniques,A Three-Node Packet-Radio Network.,Moshe Sidi;Adrian Segall;,None
+infocom/infocom83,1983,Multiaccess Techniques,Queueing Analysis of TDMA with Limited and Unlimited Buffer Capacity.,Loren P. Clare;Izhak Rubin;,None
+infocom/infocom83,1983,A Perspective on the ARPANET Reference Model,A Perspective on the ARPANET Reference Model.,M. A. Padlipsky;,None
+infocom/infocom83,1983,Security and Privacy in a Network Environment,End-To-End Encryption Implementation Problems in an Asynchronous Network.,Marshall D. Abrams;,None
+infocom/infocom83,1983,Security and Privacy in a Network Environment,Cryptographic Key Verification.,Richard E. Lennon;Stephen M. Matyas;,None
+infocom/infocom83,1983,Security and Privacy in a Network Environment,Implications of International Terrorism on Security of Information Systems.,Raoul Pollak;,None
+infocom/infocom83,1983,Bell Labs Network:A Heterogeneous Network Based on Layered Architecture,A File Transfer System for Scheduling File Transfers in the Bell Labs Network.,A. Y. Teng;J. Yao;B. Gopinath;Krishan K. Sabnani;,None
+infocom/infocom83,1983,Bell Labs Network:A Heterogeneous Network Based on Layered Architecture,SNOE - A Portable Operating System Interface for the Bell Laboratories Network.,Robert W. Colby;,None
+infocom/infocom83,1983,Bell Labs Network:A Heterogeneous Network Based on Layered Architecture,BLN Experiences with Transport Layer Algorithms and Protocols.,K. A. Conlee;R. M. Watts;,None
+infocom/infocom83,1983,Analysis of Network Protocols,Analysis of a Resequencing problem in Communication Networks.,Kadaba Bharath-Kumar;Parviz Kermani;,None
+infocom/infocom83,1983,Analysis of Network Protocols,Establishing Virtual Circuits in Large Computer Networks.,Alan E. Baratz;Jeffrey M. Jaffe;,None
+infocom/infocom83,1983,Analysis of Network Protocols,Error Recovery Protocols: Link by Link vs. Edge to Edge.,Diana F. Kuhl;,None
+infocom/infocom83,1983,Distributed Control Algorithms,A Heuristic for Cooperation Among Decentralized Controllers.,John A. Stankovic;,None
+infocom/infocom83,1983,Distributed Control Algorithms,Analysis of the Majority Consensus Concurrency Control Algorithm for Correctness and Performance Using the Event Ordering Approach.,Cecil T. Hua;Bharat K. Bhargava;,None
+infocom/infocom83,1983,Distributed Control Algorithms,Consistency and Currency in Functional Databases.,Gary Lindstrom;Frances Hunt;,None
+infocom/infocom83,1983,Multihop Packet Radio Networks,Maximum Probability of Successful Transmission in a Random Planar Packet Radio Network.,Randolph D. Nelson;Leonard Kleinrock;,None
+infocom/infocom83,1983,Multihop Packet Radio Networks,Behavior of Multihop Networks Utilizing Echo Acknowledgments.,M. Y. Elsanadidi;Wesley W. Chu;,None
+infocom/infocom83,1983,Multihop Packet Radio Networks,Throughput Analysis of Multihop Packet Radio Networks under Various Channel Access Schemes.,Fouad A. Tobagi;José M. Brázio;,None
+infocom/infocom83,1983,Multihop Packet Radio Networks,Extensions to the Analysis of Multihop Packet Radio Networks.,Basil S. Maglaris;Robert Boorstyn;Aaron Kershenbaum;,None
+infocom/infocom83,1983,Media Access Protocols for Local Area Networks,L-Express-Net: A Communication Protocol for Local Area Networks.,Flaminio Borgonovo;Luigi Fratta;Fabio Tarini;P. Zini;,None
+infocom/infocom83,1983,Media Access Protocols for Local Area Networks,A Family of Window Protocols for Time Constrained Applications in CSMA Networks.,James F. Kurose;Mischa Schwartz;,None
+infocom/infocom83,1983,Media Access Protocols for Local Area Networks,Carrier Sense Multiple Access with Collision Detection and Priorities.,Gagan L. Choudhury;Stephen S. Rappaport;,None
+infocom/infocom83,1983,Control of Queueing Systems,Adaptive Control of two Competing Queues.,John S. Baras;Arthur J. Dorsey;,None
+infocom/infocom83,1983,Control of Queueing Systems,Impact of Buffer Allocation Policies on Delays in Message Switching Networks.,Ashok K. Thareja;Ashok K. Agrawala;,None
+infocom/infocom83,1983,Control of Queueing Systems,A Multiple-Access Scheduling Protocol with Limited Queue Information.,Glenn D. Marcus;Panayota Papantoni-Kazakos;,None
+infocom/infocom83,1983,Examples of Local Area Networks,An All-In-One C3I Local Area Network.,Otis E. Gooding;Albert B. Jeng;Domenic L. Giovachino;,None
+infocom/infocom83,1983,Examples of Local Area Networks,PLATON: An Overview of a University Local Computer Network.,Nicolas D. Georganas;Rama Mwikalo;,None
+infocom/infocom83,1983,Examples of Local Area Networks,Modified CSMA/CD Local Area Network with Message-Based Priority Function.,Ichiro Iida;Yasuhiko Yasuda;Yushi Komachi;,None
+infocom/infocom83,1983,Implementation of Network Standards,An Internal Packet Network Protocol and Buffer Management Scheme for an X.25 Based Network.,Francis R. Magee Jr.;R. P. Levy;,None
+infocom/infocom83,1983,Implementation of Network Standards,X.Dot: An Object Based Implementation of X.25.,Efrem Lipkin;Philip Morton;Steve Roe;,None
+infocom/infocom83,1983,Implementation of Network Standards,Evolving Toward Open System Interconnection.,Raymond J. A. Buhr;D. A. MacKinnon;,None
+infocom/infocom83,1983,Commercial Network Implementation,Burroughs Network Architecture: An Overview.,Shyam Johari;,None
+infocom/infocom83,1983,Commercial Network Implementation,Design and Implementation of a local Network.,Ted Rohling;,None
+infocom/infocom83,1983,Commercial Network Implementation,OPAS: An Integrated System for Office Procedure Automation.,Yang-Chang Hong;Y. W. Ho;Te-Son Kuo;,None
+infocom/infocom83,1983,Advanced Analytical Techniques in Computer Communications,Astatistical Mechanics of Distributed Resource Sharing Mechanisms.,Yechiam Yemini;,None
+infocom/infocom83,1983,Advanced Analytical Techniques in Computer Communications,An Analytic Control Model for an Integrated Node.,Mischa Schwartz;Belka Kraimeche;,None
+infocom/infocom83,1983,Advanced Analytical Techniques in Computer Communications,The Application of Residue Theorem to the study of the Behavior of a Finite Switching Node in a Computer Network.,Jin-Fu Chang;Rong-Feng Chang;,None
+infocom/infocom83,1983,Distributed Systems Performance Evaluation,Distributed Directories in Internetworking Environment: Strategy and Performance.,Wushow Chou;Arne A. Nilsson;S. C. Chang;,None
+infocom/infocom83,1983,Distributed Systems Performance Evaluation,Performance of File Directory Systems on a Network with Redundant Data Bases.,Yen-Yi Wu;,None
+infocom/infocom83,1983,Distributed Systems Performance Evaluation,Availability Analysis of Distributed Processing Systems.,Masahiro Tsuchiya;Michael P. Mariani;,None
+infocom/infocom83,1983,Communication Software Tools,Communications Software Tools.,Michael Lai;,None
+infocom/infocom83,1983,Communication Software Tools,Practical Design Tools for Large Packet-Switched Networks.,Ronald Kronz;Sybil Lee;Michael Sun;,None
+infocom/infocom83,1983,Communication Software Tools,The MEDITS Software Tools to Support Special Services System Engineering.,T. C. Addison;S. Y. Lee;Joseph O'Rourke;,None
+infocom/infocom83,1983,Communication Software Tools,SCOOP: A System For Integrating Existing Heterogeneous Distributed Data Bases and Application Programs.,Stefano Spaccapietra;G. Barbara Demo;Christine Parent;,None

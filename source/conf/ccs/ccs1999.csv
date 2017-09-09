@@ -1,0 +1,16 @@
+ccs/ccs1999,1999,None,The Base-Rate Fallacy and Its Implications for the Difficulty of Intrusion Detection.,Stefan Axelsson;,http://doi.acm.org/10.1145/319709.319710
+ccs/ccs1999,1999,None,A High-Performance Network Intrusion Detection System.,R. Sekar;Y. Guang;S. Verma;T. Shanbhag;,http://doi.acm.org/10.1145/319709.319712
+ccs/ccs1999,1999,None,The Proactive Security Toolkit and Applications.,Boaz Barak;Amir Herzberg;Dalit Naor;Eldad Shai;,http://doi.acm.org/10.1145/319709.319713
+ccs/ccs1999,1999,None,A Fuzzy Commitment Scheme.,Ari Juels;Martin Wattenberg;,http://doi.acm.org/10.1145/319709.319714
+ccs/ccs1999,1999,None,On the Fly Signatures Based on Factoring.,Guillaume Poupard;Jacques Stern;,http://doi.acm.org/10.1145/319709.319715
+ccs/ccs1999,1999,None,Signature Schemes Based on the Strong RSA Assumption.,Ronald Cramer;Victor Shoup;,http://doi.acm.org/10.1145/319709.319716
+ccs/ccs1999,1999,None,Proof-Carrying Authentication.,Andrew W. Appel;Edward W. Felten;,http://doi.acm.org/10.1145/319709.319718
+ccs/ccs1999,1999,None,Public-Key Cryptography and Password Protocols: The Multi-User Case.,Maurizio Kliban Boyarsky;,http://doi.acm.org/10.1145/319709.319719
+ccs/ccs1999,1999,None,Password Hardening Based on Keystroke Dynamics.,Fabian Monrose;Michael K. Reiter;Susanne Wetzel;,http://doi.acm.org/10.1145/319709.319720
+ccs/ccs1999,1999,None,"Secure Protocol Transformation via ""Expansion"": From Two-Party to Groups.",Alain J. Mayer;Moti Yung;,http://doi.acm.org/10.1145/319709.319721
+ccs/ccs1999,1999,None,A Compact and Fast Hybrid Signature Scheme for Multicast Packet Authentication.,Pankaj Rohatgi;,http://doi.acm.org/10.1145/319709.319722
+ccs/ccs1999,1999,None,Scalable Multicast Security in Dynamic Groups.,Refik Molva;Alain Pannetrat;,http://doi.acm.org/10.1145/319709.319723
+ccs/ccs1999,1999,None,Anonymous Authentication with Subset Queries (extended abstract).,Dan Boneh;Matthew K. Franklin;,http://doi.acm.org/10.1145/319709.319725
+ccs/ccs1999,1999,None,Efficient Private Bidding and Auctions with an Oblivious Third Party.,Christian Cachin;,http://doi.acm.org/10.1145/319709.319726
+ccs/ccs1999,1999,None,Using Smartcards to Secure a Personalized Gambling Device.,William Aiello;Aviel D. Rubin;Martin Strauss;,http://doi.acm.org/10.1145/319709.319727
+ccs/ccs1999,1999,None,Efficient Verifiable Encryption (and Fair Exchange) of Digital Signatures.,Giuseppe Ateniese;,http://doi.acm.org/10.1145/319709.319728

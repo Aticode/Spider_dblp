@@ -1,0 +1,23 @@
+crypto/crypto2017-3,2017,Authenticated Encryption,Boosting Authenticated Encryption Robustness with Minimal Modifications.,Tomer Ashur;Orr Dunkelman;Atul Luykx;,https://doi.org/10.1007/978-3-319-63697-9_1
+crypto/crypto2017-3,2017,Authenticated Encryption,ZMAC: A Fast Tweakable Block Cipher Mode for Highly Secure Message Authentication.,Tetsu Iwata;Kazuhiko Minematsu;Thomas Peyrin;Yannick Seurin;,https://doi.org/10.1007/978-3-319-63697-9_2
+crypto/crypto2017-3,2017,Authenticated Encryption,Message Franking via Committing Authenticated Encryption.,Paul Grubbs;Jiahui Lu;Thomas Ristenpart;,https://doi.org/10.1007/978-3-319-63697-9_3
+crypto/crypto2017-3,2017,Authenticated Encryption,Key Rotation for Authenticated Encryption.,Adam Everspaugh;Kenneth G. Paterson;Thomas Ristenpart;Samuel Scott;,https://doi.org/10.1007/978-3-319-63697-9_4
+crypto/crypto2017-3,2017,Public-Key Encryption,Kurosawa-Desmedt Meets Tight Security.,Romain Gay;Dennis Hofheinz;Lisa Kohl;,https://doi.org/10.1007/978-3-319-63697-9_5
+crypto/crypto2017-3,2017,Public-Key Encryption,Asymptotically Compact Adaptively Secure Lattice IBEs and Verifiable Random Functions via Generalized Partitioning Techniques.,Shota Yamada;,https://doi.org/10.1007/978-3-319-63697-9_6
+crypto/crypto2017-3,2017,Public-Key Encryption,Identity-Based Encryption from Codes with Rank Metric.,Philippe Gaborit;Adrien Hauteville;Duong Hieu Phan;Jean-Pierre Tillich;,https://doi.org/10.1007/978-3-319-63697-9_7
+crypto/crypto2017-3,2017,Stream Ciphers,Degree Evaluation of NFSR-Based Cryptosystems.,Meicheng Liu;,https://doi.org/10.1007/978-3-319-63697-9_8
+crypto/crypto2017-3,2017,Stream Ciphers,Cube Attacks on Non-Blackbox Polynomials Based on Division Property.,Yosuke Todo;Takanori Isobe;Yonglin Hao;Willi Meier;,https://doi.org/10.1007/978-3-319-63697-9_9
+crypto/crypto2017-3,2017,Lattice Crypto,Middle-Product Learning with Errors.,Miruna Rosca;Amin Sakzad;Damien Stehlé;Ron Steinfeld;,https://doi.org/10.1007/978-3-319-63697-9_10
+crypto/crypto2017-3,2017,Lattice Crypto,All-But-Many Lossy Trapdoor Functions from Lattices and Applications.,Xavier Boyen;Qinyi Li;,https://doi.org/10.1007/978-3-319-63697-9_11
+crypto/crypto2017-3,2017,Lattice Crypto,All-But-Many Lossy Trapdoor Functions and Selective Opening Chosen-Ciphertext Security from LWE.,Benoît Libert;Amin Sakzad;Damien Stehlé;Ron Steinfeld;,https://doi.org/10.1007/978-3-319-63697-9_12
+crypto/crypto2017-3,2017,Lattice Crypto,Amortization with Fewer Equations for Proving Knowledge of Small Secrets.,Rafaël del Pino;Vadim Lyubashevsky;,https://doi.org/10.1007/978-3-319-63697-9_13
+crypto/crypto2017-3,2017,Leakage and Subversion,Private Multiplication over Finite Fields.,Sonia Belaïd;Fabrice Benhamouda;Alain Passelègue;Emmanuel Prouff;Adrian Thillard;Damien Vergnaud;,https://doi.org/10.1007/978-3-319-63697-9_14
+crypto/crypto2017-3,2017,Leakage and Subversion,Anonymous Attestation with Subverted TPMs.,Jan Camenisch;Manu Drijvers;Anja Lehmann;,https://doi.org/10.1007/978-3-319-63697-9_15
+crypto/crypto2017-3,2017,Leakage and Subversion,Hedging Public-Key Encryption in the Real World.,Alexandra Boldyreva;Christopher Patton;Thomas Shrimpton;,https://doi.org/10.1007/978-3-319-63697-9_16
+crypto/crypto2017-3,2017,Symmetric-Key Crypto,Information-Theoretic Indistinguishability via the Chi-Squared Method.,Wei Dai;Viet Tung Hoang;Stefano Tessaro;,https://doi.org/10.1007/978-3-319-63697-9_17
+crypto/crypto2017-3,2017,Symmetric-Key Crypto,Indifferentiability of Iterated Even-Mansour Ciphers with Non-idealized Key-Schedules: Five Rounds Are Necessary and Sufficient.,Yuanxi Dai;Yannick Seurin;John P. Steinberger;Aishwarya Thiruvengadam;,https://doi.org/10.1007/978-3-319-63697-9_18
+crypto/crypto2017-3,2017,Symmetric-Key Crypto,Encrypted Davies-Meyer and Its Dual: Towards Optimal Security Using Mirror Theory.,Bart Mennink;Samuel Neves;,https://doi.org/10.1007/978-3-319-63697-9_19
+crypto/crypto2017-3,2017,Real-World Crypto,A Formal Treatment of Multi-key Channels.,Felix Günther;Sogol Mazaheri;,https://doi.org/10.1007/978-3-319-63697-9_20
+crypto/crypto2017-3,2017,Real-World Crypto,Ratcheted Encryption and Key Exchange: The Security of Messaging.,Mihir Bellare;Asha Camper Singh;Joseph Jaeger;Maya Nyayapati;Igors Stepanovs;,https://doi.org/10.1007/978-3-319-63697-9_21
+crypto/crypto2017-3,2017,Real-World Crypto,"PRF-ODH: Relations, Instantiations, and Impossibility Results.",Jacqueline Brendel;Marc Fischlin;Felix Günther;Christian Janson;,https://doi.org/10.1007/978-3-319-63697-9_22
+crypto/crypto2017-3,2017,Real-World Crypto,A New Distribution-Sensitive Secure Sketch and Popularity-Proportional Hashing.,Joanne Woodage;Rahul Chatterjee;Yevgeniy Dodis;Ari Juels;Thomas Ristenpart;,https://doi.org/10.1007/978-3-319-63697-9_23

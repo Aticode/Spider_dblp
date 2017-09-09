@@ -1,0 +1,26 @@
+sp/sp2009,2009,Attacks and Defenses,Wirelessly Pickpocketing a Mifare Classic Card.,Flavio D. Garcia;Peter van Rossum;Roel Verdult;Ronny Wichers Schreur;,https://doi.org/10.1109/SP.2009.6
+sp/sp2009,2009,Attacks and Defenses,Plaintext Recovery Attacks against SSH.,Martin R. Albrecht;Kenneth G. Paterson;Gaven J. Watson;,https://doi.org/10.1109/SP.2009.5
+sp/sp2009,2009,Attacks and Defenses,Exploiting Unix File-System Races via Algorithmic Complexity Attacks.,Xiang Cai;Yuwei Gui;Rob Johnson;,https://doi.org/10.1109/SP.2009.10
+sp/sp2009,2009,Information Security,Practical Mitigations for Timing-Based Side-Channel Attacks on Modern x86 Processors.,Bart Coppens;Ingrid Verbauwhede;Koen De Bosschere;Bjorn De Sutter;,https://doi.org/10.1109/SP.2009.19
+sp/sp2009,2009,Information Security,Noninterference for a Practical DIFC-Based Operating System.,Maxwell N. Krohn;Eran Tromer;,https://doi.org/10.1109/SP.2009.23
+sp/sp2009,2009,Malicious Code,"Native Client: A Sandbox for Portable, Untrusted x86 Native Code.",Bennet Yee;David Sehr;Gregory Dardyk;J. Bradley Chen;Robert Muth;Tavis Ormandy;Shiki Okasaka;Neha Narula;Nicholas Fullagar;,https://doi.org/10.1109/SP.2009.25
+sp/sp2009,2009,Malicious Code,Automatic Reverse Engineering of Malware Emulators.,Monirul I. Sharif;Andrea Lanzi;Jonathon T. Giffin;Wenke Lee;,https://doi.org/10.1109/SP.2009.27
+sp/sp2009,2009,Malicious Code,Prospex: Protocol Specification Extraction.,Paolo Milani Comparetti;Gilbert Wondracek;Christopher Krügel;Engin Kirda;,https://doi.org/10.1109/SP.2009.14
+sp/sp2009,2009,Information Leaks,Quantifying Information Leaks in Outbound Web Traffic.,Kevin Borders;Atul Prakash;,https://doi.org/10.1109/SP.2009.9
+sp/sp2009,2009,Information Leaks,Automatic Discovery and Quantification of Information Leaks.,Michael Backes;Boris Köpf;Andrey Rybalchenko;,https://doi.org/10.1109/SP.2009.18
+sp/sp2009,2009,Information Leaks,CLAMP: Practical Prevention of Large-Scale Data Leaks.,Bryan Parno;Jonathan M. McCune;Dan Wendlandt;David G. Andersen;Adrian Perrig;,https://doi.org/10.1109/SP.2009.21
+sp/sp2009,2009,Privacy,De-anonymizing Social Networks.,Arvind Narayanan;Vitaly Shmatikov;,https://doi.org/10.1109/SP.2009.22
+sp/sp2009,2009,Privacy,Privacy Weaknesses in Biometric Sketches.,Koen Simoens;Pim Tuyls;Bart Preneel;,https://doi.org/10.1109/SP.2009.24
+sp/sp2009,2009,Privacy,The Mastermind Attack on Genomic Data.,Michael T. Goodrich;,https://doi.org/10.1109/SP.2009.4
+sp/sp2009,2009,Formal Foundations,A Logic of Secure Systems and its Application to Trusted Computing.,Anupam Datta;Jason Franklin;Deepak Garg;Dilsun Kirli Kaynar;,https://doi.org/10.1109/SP.2009.16
+sp/sp2009,2009,Formal Foundations,Formally Certifying the Security of Digital Signature Schemes.,Santiago Zanella Béguelin;Gilles Barthe;Benjamin Grégoire;Federico Olmedo;,https://doi.org/10.1109/SP.2009.17
+sp/sp2009,2009,Formal Foundations,An Epistemic Approach to Coercion-Resistance for Electronic Voting Protocols.,Ralf Küsters;Tomasz Truderung;,https://doi.org/10.1109/SP.2009.13
+sp/sp2009,2009,Network Security,Sphinx: A Compact and Provably Secure Mix Format.,George Danezis;Ian Goldberg;,https://doi.org/10.1109/SP.2009.15
+sp/sp2009,2009,Network Security,DSybil: Optimal Sybil-Resistance for Recommendation Systems.,Haifeng Yu;Chenwei Shi;Michael Kaminsky;Phillip B. Gibbons;Feng Xiao;,https://doi.org/10.1109/SP.2009.26
+sp/sp2009,2009,Network Security,Fingerprinting Blank Paper Using Commodity Scanners.,William Clarkson;Tim Weyrich;Adam Finkelstein;Nadia Heninger;J. Alex Halderman;Edward W. Felten;,https://doi.org/10.1109/SP.2009.7
+sp/sp2009,2009,Network Security,Tempest in a Teapot: Compromising Reflections Revisited.,Michael Backes;Tongbo Chen;Markus Dürmuth;Hendrik P. A. Lensch;Martin Welk;,https://doi.org/10.1109/SP.2009.20
+sp/sp2009,2009,Network Security,Blueprint: Robust Prevention of Cross-site Scripting Attacks for Existing Browsers.,Mike Ter Louw;V. N. Venkatakrishnan;,https://doi.org/10.1109/SP.2009.33
+sp/sp2009,2009,Network Security,Pretty-Bad-Proxy: An Overlooked Adversary in Browsers' HTTPS Deployments.,Shuo Chen;Ziqing Mao;Yi-Min Wang;Ming Zhang;,https://doi.org/10.1109/SP.2009.12
+sp/sp2009,2009,Network Security,"Secure Content Sniffing for Web Browsers, or How to Stop Papers from Reviewing Themselves.",Adam Barth;Juan Caballero;Dawn Song;,https://doi.org/10.1109/SP.2009.3
+sp/sp2009,2009,Humans and Secrets,"It's No Secret. Measuring the Security and Reliability of Authentication via ""Secret"" Questions.",Stuart E. Schechter;A. J. Bernheim Brush;Serge Egelman;,https://doi.org/10.1109/SP.2009.11
+sp/sp2009,2009,Humans and Secrets,Password Cracking Using Probabilistic Context-Free Grammars.,Matt Weir;Sudhir Aggarwal;Breno de Medeiros;Bill Glodek;,https://doi.org/10.1109/SP.2009.8

@@ -1,0 +1,43 @@
+crypto/crypto88,1988,Cryptographic Primitives,Weakening Security Assumptions and Oblivious Transfer (Abstract).,Claude Crépeau;Joe Kilian;,https://doi.org/10.1007/0-387-34799-2_1
+crypto/crypto88,1988,Cryptographic Primitives,Limits on the Provable Consequences of One-way Permutations.,Russell Impagliazzo;Steven Rudich;,https://doi.org/10.1007/0-387-34799-2_2
+crypto/crypto88,1988,Cryptographic Primitives,Generalized Secret Sharing and Monotone Functions.,Josh Cohen Benaloh;Jerry Leichter;,https://doi.org/10.1007/0-387-34799-2_3
+crypto/crypto88,1988,Zero-Knowledge,Everything Provable is Provable in Zero-Knowledge.,Michael Ben-Or;Oded Goldreich;Shafi Goldwasser;Johan Håstad;Joe Kilian;Silvio Micali;Phillip Rogaway;,https://doi.org/10.1007/0-387-34799-2_4
+crypto/crypto88,1988,Zero-Knowledge,A Perfect Zero-Knowledge Proof for a Problem Equivalent to Discrete Logarithm.,Oded Goldreich;Eyal Kushilevitz;,https://doi.org/10.1007/0-387-34799-2_5
+crypto/crypto88,1988,Zero-Knowledge,Zero-Knowledge With Finite State Verifiers.,Cynthia Dwork;Larry J. Stockmeyer;,https://doi.org/10.1007/0-387-34799-2_6
+crypto/crypto88,1988,Number Theory,Intractable Problems in Number Theory.,Eric Bach;,https://doi.org/10.1007/0-387-34799-2_7
+crypto/crypto88,1988,Number Theory,A Family of Jacobians Suitable for Discrete Log Cryptosystems.,Neal Koblitz;,https://doi.org/10.1007/0-387-34799-2_8
+crypto/crypto88,1988,Number Theory,Computation of Approximate L-th Roots Modulo n and Application to Cryptography.,Marc Girault;Philippe Toffin;Brigitte Vallée;,https://doi.org/10.1007/0-387-34799-2_9
+crypto/crypto88,1988,Cryptanalysis,On the McEliece Public-Key Cryptosystem.,Johan van Tilburg;,https://doi.org/10.1007/0-387-34799-2_10
+crypto/crypto88,1988,Cryptanalysis,A Constraint Satisfaction Algorithm for the Automated Decryption of Simple Substitution Ciphers.,Michael Lucks;,https://doi.org/10.1007/0-387-34799-2_11
+crypto/crypto88,1988,Pseudorandomness,On the Existence of Pseudorandom Generators.,Oded Goldreich;Hugo Krawczyk;Michael Luby;,https://doi.org/10.1007/0-387-34799-2_12
+crypto/crypto88,1988,Pseudorandomness,On the Randomness of Legendre and Jacobi Sequences.,Ivan Damgård;,https://doi.org/10.1007/0-387-34799-2_13
+crypto/crypto88,1988,Pseudorandomness,"Efficient, Perfect Random Number Generators.",Silvio Micali;Claus-Peter Schnorr;,https://doi.org/10.1007/0-387-34799-2_14
+crypto/crypto88,1988,Signatures and Authentication,How To Sign Given Any Trapdoor Function.,Mihir Bellare;Silvio Micali;,https://doi.org/10.1007/0-387-34799-2_15
+crypto/crypto88,1988,Signatures and Authentication,"A ""Paradoxical"" Indentity-Based Signature Scheme Resulting from Zero-Knowledge.",Louis C. Guillou;Jean-Jacques Quisquater;,https://doi.org/10.1007/0-387-34799-2_16
+crypto/crypto88,1988,Signatures and Authentication,A Modification of the Fiat-Shamir Scheme.,Kazuo Ohta;Tatsuaki Okamoto;,https://doi.org/10.1007/0-387-34799-2_17
+crypto/crypto88,1988,Signatures and Authentication,An Improvement of the Fiat-Shamir Identification and Signature Scheme.,Silvio Micali;Adi Shamir;,https://doi.org/10.1007/0-387-34799-2_18
+crypto/crypto88,1988,On the Theory of Security,A Basic Theory of Public and Private Cryptosystems.,Charles Rackoff;,https://doi.org/10.1007/0-387-34799-2_19
+crypto/crypto88,1988,On the Theory of Security,Proving Security Against Chosen Cyphertext Attacks.,Manuel Blum;Paul Feldman;Silvio Micali;,https://doi.org/10.1007/0-387-34799-2_20
+crypto/crypto88,1988,On the Theory of Security,Non-Interactive Zero-Knowledge with Preprocessing.,Alfredo De Santis;Silvio Micali;Giuseppe Persiano;,https://doi.org/10.1007/0-387-34799-2_21
+crypto/crypto88,1988,On the Theory of Security,The Noisy Oracle Problem.,Uriel Feige;Adi Shamir;Moshe Tennenholtz;,https://doi.org/10.1007/0-387-34799-2_22
+crypto/crypto88,1988,On the Theory of Security,On Generating Solved Instances of Computational Problems.,Martín Abadi;Eric Allender;Andrei Z. Broder;Joan Feigenbaum;Lane A. Hemachandra;,https://doi.org/10.1007/0-387-34799-2_23
+crypto/crypto88,1988,On the Theory of Security,Bounds and Constructions for Authentication-Secrecy Codes with Splitting.,Marijke De Soete;,https://doi.org/10.1007/0-387-34799-2_24
+crypto/crypto88,1988,Protocols,Untraceable Electronic Cash.,David Chaum;Amos Fiat;Moni Naor;,https://doi.org/10.1007/0-387-34799-2_25
+crypto/crypto88,1988,Protocols,Payment Systems and Credential Mechanisms with Provable Security Against Abuse by Individuals.,Ivan Damgård;,https://doi.org/10.1007/0-387-34799-2_26
+crypto/crypto88,1988,Protocols,A Universal Problem in Secure and Verifiable Distributed Computation.,Ming-Deh A. Huang;Shang-Hua Teng;,https://doi.org/10.1007/0-387-34799-2_27
+crypto/crypto88,1988,Security Concerns,An Abstract Theory of Computer Viruses.,Leonard M. Adleman;,https://doi.org/10.1007/0-387-34799-2_28
+crypto/crypto88,1988,Security Concerns,Abuses in Cryptography and How to Fight Them.,Yvo Desmedt;,https://doi.org/10.1007/0-387-34799-2_29
+crypto/crypto88,1988,Security Concerns,How to (Really) Share a Secret.,Gustavus J. Simmons;,https://doi.org/10.1007/0-387-34799-2_30
+crypto/crypto88,1988,Linear Complexity,The Strict Avalanche Criterion: Spectral Properties of Boolean Functions and an Extended Definition.,Réjane Forré;,https://doi.org/10.1007/0-387-34799-2_31
+crypto/crypto88,1988,Linear Complexity,On the Linear Syndrome Method in Cryptanalysis.,Kencheng Zeng;Minqiang Huang;,https://doi.org/10.1007/0-387-34799-2_32
+crypto/crypto88,1988,Linear Complexity,Aperiodic Linear Complexities of de Bruijn Sequences.,Richard T. C. Kwok;Maurice Beale;,https://doi.org/10.1007/0-387-34799-2_33
+crypto/crypto88,1988,Systems,The Application of Smart Cards for RSA Digital Signatures in a Network Comprising both Interactive and Store-and-Foreward Facilities.,J. R. Sherwood;V. A. Gallo;,https://doi.org/10.1007/0-387-34799-2_34
+crypto/crypto88,1988,Systems,Speeding Up Secret Computations with Insecure Auxiliary Devices.,Tsutomu Matsumoto;Koki Kato;Hideki Imai;,https://doi.org/10.1007/0-387-34799-2_35
+crypto/crypto88,1988,Systems,Developing Ethernet Enhanced-Security System.,B. J. Herbison;,https://doi.org/10.1007/0-387-34799-2_36
+crypto/crypto88,1988,Systems,A Secure Audio Teleconference System.,David G. Steer;Leo Strawczynski;Whitfield Diffie;Michael J. Wiener;,https://doi.org/10.1007/0-387-34799-2_37
+crypto/crypto88,1988,Short Rump Session Presentations,Diffie-Hillman is as Strong as Discrete Log for Certain Primes.,Bert den Boer;,https://doi.org/10.1007/0-387-34799-2_38
+crypto/crypto88,1988,Short Rump Session Presentations,Secret Error-Correcting Codes (SECC).,Tzonelih Hwang;T. R. N. Rao;,https://doi.org/10.1007/0-387-34799-2_39
+crypto/crypto88,1988,Short Rump Session Presentations,The Detection of Cheaters in Threshold Schemes.,Ernest F. Brickell;Douglas R. Stinson;,https://doi.org/10.1007/0-387-34799-2_40
+crypto/crypto88,1988,Short Rump Session Presentations,On the Power of 1-way Functions (Abstract).,Stuart A. Kurtz;Stephen R. Mahaney;James S. Royer;,https://doi.org/10.1007/0-387-34799-2_41
+crypto/crypto88,1988,Short Rump Session Presentations,"""Practical IP"" <= MA.",Gilles Brassard;Ivan Damgård;,https://doi.org/10.1007/0-387-34799-2_42
+crypto/crypto88,1988,Short Rump Session Presentations,Zero-Knowledge Authentication Scheme with Secret Key Exchange (Extended Abstract).,Jørgen Brandt;Ivan Damgård;Peter Landrock;Torben P. Pedersen;,https://doi.org/10.1007/0-387-34799-2_43

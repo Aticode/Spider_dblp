@@ -1,0 +1,30 @@
+tcc/tcc2014,2014,Obfuscation,Virtual Black-Box Obfuscation for All Circuits via Generic Graded Encoding.,Zvika Brakerski;Guy N. Rothblum;,https://doi.org/10.1007/978-3-642-54242-8_1
+tcc/tcc2014,2014,Obfuscation,Obfuscation for Evasive Functions.,Boaz Barak;Nir Bitansky;Ran Canetti;Yael Tauman Kalai;Omer Paneth;Amit Sahai;,https://doi.org/10.1007/978-3-642-54242-8_2
+tcc/tcc2014,2014,Obfuscation,On Extractability Obfuscation.,Elette Boyle;Kai-Min Chung;Rafael Pass;,https://doi.org/10.1007/978-3-642-54242-8_3
+tcc/tcc2014,2014,Applications of Obfuscation,Two-Round Secure MPC from Indistinguishability Obfuscation.,Sanjam Garg;Craig Gentry;Shai Halevi;Mariana Raykova;,https://doi.org/10.1007/978-3-642-54242-8_4
+tcc/tcc2014,2014,Applications of Obfuscation,Chosen Ciphertext Security via Point Obfuscation.,Takahiro Matsuda;Goichiro Hanaoka;,https://doi.org/10.1007/978-3-642-54242-8_5
+tcc/tcc2014,2014,Zero Knowledge,Probabilistically Checkable Proofs of Proximity with Zero-Knowledge.,Yuval Ishai;Mor Weiss;,https://doi.org/10.1007/978-3-642-54242-8_6
+tcc/tcc2014,2014,Zero Knowledge,Achieving Constant Round Leakage-Resilient Zero-Knowledge.,Omkant Pandey;,https://doi.org/10.1007/978-3-642-54242-8_7
+tcc/tcc2014,2014,Zero Knowledge,Statistical Concurrent Non-malleable Zero Knowledge.,Claudio Orlandi;Rafail Ostrovsky;Vanishree Rao;Amit Sahai;Ivan Visconti;,https://doi.org/10.1007/978-3-642-54242-8_8
+tcc/tcc2014,2014,Zero Knowledge,4-Round Resettably-Sound Zero Knowledge.,Kai-Min Chung;Rafail Ostrovsky;Rafael Pass;Muthuramakrishnan Venkitasubramaniam;Ivan Visconti;,https://doi.org/10.1007/978-3-642-54242-8_9
+tcc/tcc2014,2014,Black-Box Separations,Can Optimally-Fair Coin Tossing Be Based on One-Way Functions?,Dana Dachman-Soled;Mohammad Mahmoody;Tal Malkin;,https://doi.org/10.1007/978-3-642-54242-8_10
+tcc/tcc2014,2014,Black-Box Separations,On the Power of Public-Key Encryption in Secure Computation.,Mohammad Mahmoody;Hemanta K. Maji;Manoj Prabhakaran;,https://doi.org/10.1007/978-3-642-54242-8_11
+tcc/tcc2014,2014,Black-Box Separations,On the Impossibility of Basing Public-Coin One-Way Permutations on Trapdoor Permutations.,Takahiro Matsuda;,https://doi.org/10.1007/978-3-642-54242-8_12
+tcc/tcc2014,2014,Secure Computation,Towards Characterizing Complete Fairness in Secure Two-Party Computation.,Gilad Asharov;,https://doi.org/10.1007/978-3-642-54242-8_13
+tcc/tcc2014,2014,Secure Computation,On the Cryptographic Complexity of the Worst Functions.,Amos Beimel;Yuval Ishai;Ranjit Kumaresan;Eyal Kushilevitz;,https://doi.org/10.1007/978-3-642-54242-8_14
+tcc/tcc2014,2014,Secure Computation,Constant-Round Black-Box Construction of Composable Multi-Party Computation Protocol.,Susumu Kiyoshima;Yoshifumi Manabe;Tatsuaki Okamoto;,https://doi.org/10.1007/978-3-642-54242-8_15
+tcc/tcc2014,2014,Secure Computation,One-Sided Adaptively Secure Two-Party Computation.,Carmit Hazay;Arpita Patra;,https://doi.org/10.1007/978-3-642-54242-8_16
+tcc/tcc2014,2014,Secure Computation,Multi-linear Secret-Sharing Schemes.,Amos Beimel;Aner Ben-Efraim;Carles Padró;Ilya Tyomkin;,https://doi.org/10.1007/978-3-642-54242-8_17
+tcc/tcc2014,2014,Secure Computation,Broadcast Amplification.,Martin Hirt;Ueli Maurer;Pavel Raykov;,https://doi.org/10.1007/978-3-642-54242-8_18
+tcc/tcc2014,2014,Coding and Cryptographic Applications,Non-malleable Coding against Bit-Wise and Split-State Tampering.,Mahdi Cheraghchi;Venkatesan Guruswami;,https://doi.org/10.1007/978-3-642-54242-8_19
+tcc/tcc2014,2014,Coding and Cryptographic Applications,Continuous Non-malleable Codes.,Sebastian Faust;Pratyay Mukherjee;Jesper Buus Nielsen;Daniele Venturi;,https://doi.org/10.1007/978-3-642-54242-8_20
+tcc/tcc2014,2014,Coding and Cryptographic Applications,Locally Updatable and Locally Decodable Codes.,Nishanth Chandran;Bhavana Kanukurthi;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-642-54242-8_21
+tcc/tcc2014,2014,Leakage,Leakage Resilient Fully Homomorphic Encryption.,Alexandra Berkoff;Feng-Hao Liu;,https://doi.org/10.1007/978-3-642-54242-8_22
+tcc/tcc2014,2014,Leakage,Securing Circuits and Protocols against 1/poly(k) Tampering Rate.,Dana Dachman-Soled;Yael Tauman Kalai;,https://doi.org/10.1007/978-3-642-54242-8_23
+tcc/tcc2014,2014,Leakage,How to Fake Auxiliary Input.,Dimitar Jetchev;Krzysztof Pietrzak;,https://doi.org/10.1007/978-3-642-54242-8_24
+tcc/tcc2014,2014,Encryption,Standard versus Selective Opening Security: Separation and Equivalence Results.,Dennis Hofheinz;Andy Rupp;,https://doi.org/10.1007/978-3-642-54242-8_25
+tcc/tcc2014,2014,Encryption,Dual System Encryption via Predicate Encodings.,Hoeteck Wee;,https://doi.org/10.1007/978-3-642-54242-8_26
+tcc/tcc2014,2014,Hardware-Aided Secure Protocols,(Efficient) Universally Composable Oblivious Transfer Using a Minimal Number of Stateless Tokens.,Seung Geol Choi;Jonathan Katz;Dominique Schröder;Arkady Yerukhimovich;Hong-Sheng Zhou;,https://doi.org/10.1007/978-3-642-54242-8_27
+tcc/tcc2014,2014,Hardware-Aided Secure Protocols,Lower Bounds in the Hardware Token Model.,Shashank Agrawal;Prabhanjan Ananth;Vipul Goyal;Manoj Prabhakaran;Alon Rosen;,https://doi.org/10.1007/978-3-642-54242-8_28
+tcc/tcc2014,2014,Encryption and Signatures,"Unified, Minimal and Selectively Randomizable Structure-Preserving Signatures.",Masayuki Abe;Jens Groth;Miyako Ohkubo;Mehdi Tibouchi;,https://doi.org/10.1007/978-3-642-54242-8_29
+tcc/tcc2014,2014,Encryption and Signatures,On the Impossibility of Structure-Preserving Deterministic Primitives.,Masayuki Abe;Jan Camenisch;Rafael Dowsley;Maria Dubovitskaya;,https://doi.org/10.1007/978-3-642-54242-8_30

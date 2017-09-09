@@ -1,0 +1,31 @@
+tcc/tcc2006,2006,Zero-Knowledge,Concurrent Zero Knowledge Without Complexity Assumptions.,Daniele Micciancio;Shien Jin Ong;Amit Sahai;Salil P. Vadhan;,https://doi.org/10.1007/11681878_1
+tcc/tcc2006,2006,Zero-Knowledge,Interactive Zero-Knowledge with Restricted Random Oracles.,Moti Yung;Yunlei Zhao;,https://doi.org/10.1007/11681878_2
+tcc/tcc2006,2006,Zero-Knowledge,Non-interactive Zero-Knowledge from Homomorphic Encryption.,Ivan Damgård;Nelly Fazio;Antonio Nicolosi;,https://doi.org/10.1007/11681878_3
+tcc/tcc2006,2006,Primitives,"Ring Signatures: Stronger Definitions, and Constructions Without Random Oracles.",Adam Bender;Jonathan Katz;Ruggero Morselli;,https://doi.org/10.1007/11681878_4
+tcc/tcc2006,2006,Primitives,Efficient Blind and Partially Blind Signatures Without Random Oracles.,Tatsuaki Okamoto;,https://doi.org/10.1007/11681878_5
+tcc/tcc2006,2006,Primitives,Key Exchange Using Passwords and Long Keys.,Vladimir Kolesnikov;Charles Rackoff;,https://doi.org/10.1007/11681878_6
+tcc/tcc2006,2006,Primitives,Mercurial Commitments: Minimal Assumptions and Efficient Constructions.,Dario Catalano;Yevgeniy Dodis;Ivan Visconti;,https://doi.org/10.1007/11681878_7
+tcc/tcc2006,2006,Assumptions and Models,Efficient Collision-Resistant Hashing from Worst-Case Assumptions on Cyclic Lattices.,Chris Peikert;Alon Rosen;,https://doi.org/10.1007/11681878_8
+tcc/tcc2006,2006,Assumptions and Models,On Error Correction in the Exponent.,Chris Peikert;,https://doi.org/10.1007/11681878_9
+tcc/tcc2006,2006,Assumptions and Models,On the Relation Between the Ideal Cipher and the Random Oracle Models.,Yevgeniy Dodis;Prashant Puniya;,https://doi.org/10.1007/11681878_10
+tcc/tcc2006,2006,The Bounded-Retrieval Model,Intrusion-Resilience Via the Bounded-Storage Model.,Stefan Dziembowski;,https://doi.org/10.1007/11681878_11
+tcc/tcc2006,2006,The Bounded-Retrieval Model,Perfectly Secure Password Protocols in the Bounded Retrieval Model.,Giovanni Di Crescenzo;Richard J. Lipton;Shabsi Walfish;,https://doi.org/10.1007/11681878_12
+tcc/tcc2006,2006,Privacy,Polylogarithmic Private Approximations and Efficient Matching.,Piotr Indyk;David P. Woodruff;,https://doi.org/10.1007/11681878_13
+tcc/tcc2006,2006,Privacy,Calibrating Noise to Sensitivity in Private Data Analysis.,Cynthia Dwork;Frank McSherry;Kobbi Nissim;Adam D. Smith;,https://doi.org/10.1007/11681878_14
+tcc/tcc2006,2006,Secret Sharing and Multi-party Computation (I),"Unconditionally Secure Constant-Rounds Multi-party Computation for Equality, Comparison, Bits and Exponentiation.",Ivan Damgård;Matthias Fitzi;Eike Kiltz;Jesper Buus Nielsen;Tomas Toft;,https://doi.org/10.1007/11681878_15
+tcc/tcc2006,2006,Secret Sharing and Multi-party Computation (I),Efficient Multi-party Computation with Dispute Control.,Zuzana Beerliová-Trubíniová;Martin Hirt;,https://doi.org/10.1007/11681878_16
+tcc/tcc2006,2006,Secret Sharing and Multi-party Computation (I),Round-Optimal and Efficient Verifiable Secret Sharing.,Matthias Fitzi;Juan A. Garay;Shyamnath Gollakota;C. Pandu Rangan;K. Srinathan;,https://doi.org/10.1007/11681878_17
+tcc/tcc2006,2006,Universally-Composible Security,Generalized Environmental Security from Number Theoretic Assumptions.,Tal Malkin;Ryan Moriarty;Nikolai Yakovenko;,https://doi.org/10.1007/11681878_18
+tcc/tcc2006,2006,Universally-Composible Security,Games and the Impossibility of Realizable Ideal Functionality.,Anupam Datta;Ante Derek;John C. Mitchell;Ajith Ramanathan;Andre Scedrov;,https://doi.org/10.1007/11681878_19
+tcc/tcc2006,2006,Universally-Composible Security,Universally Composable Symbolic Analysis of Mutual Authentication and Key-Exchange Protocols.,Ran Canetti;Jonathan Herzog;,https://doi.org/10.1007/11681878_20
+tcc/tcc2006,2006,Universally-Composible Security,Resource Fairness and Composability of Cryptographic Protocols.,Juan A. Garay;Philip D. MacKenzie;Manoj Prabhakaran;Ke Yang;,https://doi.org/10.1007/11681878_21
+tcc/tcc2006,2006,One-Way Functions and Friends,Finding Pessiland.,Hoeteck Wee;,https://doi.org/10.1007/11681878_22
+tcc/tcc2006,2006,One-Way Functions and Friends,Pseudorandom Generators from One-Way Functions: A Simple Construction for Any Hardness.,Thomas Holenstein;,https://doi.org/10.1007/11681878_23
+tcc/tcc2006,2006,One-Way Functions and Friends,On the Complexity of Parallel Hardness Amplification for One-Way Functions.,Chi-Jen Lu;,https://doi.org/10.1007/11681878_24
+tcc/tcc2006,2006,Secret Sharing and Multi-party Computation (II),On Matroids and Non-ideal Secret Sharing.,Amos Beimel;Noam Livne;,https://doi.org/10.1007/11681878_25
+tcc/tcc2006,2006,Secret Sharing and Multi-party Computation (II),Secure Computation with Partial Message Loss.,Chiu-Yuen Koo;,https://doi.org/10.1007/11681878_26
+tcc/tcc2006,2006,Secret Sharing and Multi-party Computation (II),Communication Efficient Secure Linear Algebra.,Kobbi Nissim;Enav Weinreb;,https://doi.org/10.1007/11681878_27
+tcc/tcc2006,2006,Secret Sharing and Multi-party Computation (II),Threshold and Proactive Pseudo-Random Permutations.,Yevgeniy Dodis;Aleksandr Yampolskiy;Moti Yung;,https://doi.org/10.1007/11681878_28
+tcc/tcc2006,2006,Pseudo-Random Functions and Encryption,PRF Domain Extension Using DAGs.,Charanjit S. Jutla;,https://doi.org/10.1007/11681878_29
+tcc/tcc2006,2006,Pseudo-Random Functions and Encryption,Chosen-Ciphertext Security from Tag-Based Encryption.,Eike Kiltz;,https://doi.org/10.1007/11681878_30
+tcc/tcc2006,2006,Pseudo-Random Functions and Encryption,Separating Sources for Encryption and Secret Sharing.,Yevgeniy Dodis;Krzysztof Pietrzak;Bartosz Przydatek;,https://doi.org/10.1007/11681878_31

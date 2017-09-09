@@ -1,0 +1,35 @@
+asiacrypt/asiacrypt2010,2010,Hash Attacks,Rotational Rebound Attacks on Reduced Skein.,Dmitry Khovratovich;Ivica Nikolic;Christian Rechberger;,https://doi.org/10.1007/978-3-642-17373-8_1
+asiacrypt/asiacrypt2010,2010,Hash Attacks,Finding Second Preimages of Short Messages for Hamsi-256.,Thomas Fuhr;,https://doi.org/10.1007/978-3-642-17373-8_2
+asiacrypt/asiacrypt2010,2010,Hash Attacks,Non-full-active Super-Sbox Analysis: Applications to ECHO and Grøstl.,Yu Sasaki;Yang Li;Lei Wang;Kazuo Sakiyama;Kazuo Ohta;,https://doi.org/10.1007/978-3-642-17373-8_3
+asiacrypt/asiacrypt2010,2010,Hash Attacks,"Advanced Meet-in-the-Middle Preimage Attacks: First Results on Full Tiger, and Improved Results on MD4 and SHA-2.",Jian Guo;San Ling;Christian Rechberger;Huaxiong Wang;,https://doi.org/10.1007/978-3-642-17373-8_4
+asiacrypt/asiacrypt2010,2010,Hash Attacks,Collision Attacks against the Knudsen-Preneel Compression Functions.,Onur Özen;Martijn Stam;,https://doi.org/10.1007/978-3-642-17373-8_5
+asiacrypt/asiacrypt2010,2010,Symmetric-Key Cryptosystems,Improved Generic Attacks on Unbalanced Feistel Schemes with Expanding Functions.,Emmanuel Volte;Valérie Nachef;Jacques Patarin;,https://doi.org/10.1007/978-3-642-17373-8_6
+asiacrypt/asiacrypt2010,2010,Symmetric-Key Cryptosystems,The World Is Not Enough: Another Look on Second-Order DPA.,François-Xavier Standaert;Nicolas Veyrat-Charvillon;Elisabeth Oswald;Benedikt Gierlichs;Marcel Medwed;Markus Kasper;Stefan Mangard;,https://doi.org/10.1007/978-3-642-17373-8_7
+asiacrypt/asiacrypt2010,2010,Block and Stream Ciphers,Conditional Differential Cryptanalysis of NLFSR-Based Cryptosystems.,Simon Knellwolf;Willi Meier;María Naya-Plasencia;,https://doi.org/10.1007/978-3-642-17373-8_8
+asiacrypt/asiacrypt2010,2010,Block and Stream Ciphers,A Byte-Based Guess and Determine Attack on SOSEMANUK.,Xiutao Feng;Jun Liu;Zhaocun Zhou;Chuankun Wu;Dengguo Feng;,https://doi.org/10.1007/978-3-642-17373-8_9
+asiacrypt/asiacrypt2010,2010,Block and Stream Ciphers,Improved Single-Key Attacks on 8-Round AES-192 and AES-256.,Orr Dunkelman;Nathan Keller;Adi Shamir;,https://doi.org/10.1007/978-3-642-17373-8_10
+asiacrypt/asiacrypt2010,2010,Protocols,Constant-Size Commitments to Polynomials and Their Applications.,Aniket Kate;Gregory M. Zaverucha;Ian Goldberg;,https://doi.org/10.1007/978-3-642-17373-8_11
+asiacrypt/asiacrypt2010,2010,Protocols,Computationally Secure Pattern Matching in the Presence of Malicious Adversaries.,Carmit Hazay;Tomas Toft;,https://doi.org/10.1007/978-3-642-17373-8_12
+asiacrypt/asiacrypt2010,2010,Protocols,Linear-Complexity Private Set Intersection Protocols Secure in Malicious Model.,Emiliano De Cristofaro;Jihye Kim;Gene Tsudik;,https://doi.org/10.1007/978-3-642-17373-8_13
+asiacrypt/asiacrypt2010,2010,Key Exchange,Generic Compilers for Authenticated Key Exchange.,Tibor Jager;Florian Kohlar;Sven Schäge;Jörg Schwenk;,https://doi.org/10.1007/978-3-642-17373-8_14
+asiacrypt/asiacrypt2010,2010,Key Exchange,A Forward-Secure Symmetric-Key Derivation Protocol - How to Improve Classical DUKPT.,Eric Brier;Thomas Peyrin;,https://doi.org/10.1007/978-3-642-17373-8_15
+asiacrypt/asiacrypt2010,2010,Foundation,Efficient String-Commitment from Weak Bit-Commitment.,Kai-Min Chung;Feng-Hao Liu;Chi-Jen Lu;Bo-Yin Yang;,https://doi.org/10.1007/978-3-642-17373-8_16
+asiacrypt/asiacrypt2010,2010,Foundation,On the Static Diffie-Hellman Problem on Elliptic Curves over Extension Fields.,Robert Granger;,https://doi.org/10.1007/978-3-642-17373-8_17
+asiacrypt/asiacrypt2010,2010,Foundation,Random Oracles with(out) Programmability.,Marc Fischlin;Anja Lehmann;Thomas Ristenpart;Thomas Shrimpton;Martijn Stam;Stefano Tessaro;,https://doi.org/10.1007/978-3-642-17373-8_18
+asiacrypt/asiacrypt2010,2010,Zero-Knowledge,Short Pairing-Based Non-interactive Zero-Knowledge Arguments.,Jens Groth;,https://doi.org/10.1007/978-3-642-17373-8_19
+asiacrypt/asiacrypt2010,2010,Zero-Knowledge,Short Non-interactive Zero-Knowledge Proofs.,Jens Groth;,https://doi.org/10.1007/978-3-642-17373-8_20
+asiacrypt/asiacrypt2010,2010,Zero-Knowledge,Optimistic Concurrent Zero Knowledge.,Alon Rosen;Abhi Shelat;,https://doi.org/10.1007/978-3-642-17373-8_21
+asiacrypt/asiacrypt2010,2010,Lattice-Based Cryptography,Faster Fully Homomorphic Encryption.,Damien Stehlé;Ron Steinfeld;,https://doi.org/10.1007/978-3-642-17373-8_22
+asiacrypt/asiacrypt2010,2010,Lattice-Based Cryptography,A Group Signature Scheme from Lattice Assumptions.,S. Dov Gordon;Jonathan Katz;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-642-17373-8_23
+asiacrypt/asiacrypt2010,2010,Lattice-Based Cryptography,Lattice-Based Blind Signatures.,Markus Rückert;,https://doi.org/10.1007/978-3-642-17373-8_24
+asiacrypt/asiacrypt2010,2010,Secure Communication and Computation,The Round Complexity of Verifiable Secret Sharing: The Statistical Case.,Ranjit Kumaresan;Arpita Patra;C. Pandu Rangan;,https://doi.org/10.1007/978-3-642-17373-8_25
+asiacrypt/asiacrypt2010,2010,Secure Communication and Computation,General Perfectly Secure Message Transmission Using Linear Codes.,Qiushi Yang;Yvo Desmedt;,https://doi.org/10.1007/978-3-642-17373-8_26
+asiacrypt/asiacrypt2010,2010,Secure Communication and Computation,On Invertible Sampling and Adaptive Security.,Yuval Ishai;Abishek Kumarasubramanian;Claudio Orlandi;Amit Sahai;,https://doi.org/10.1007/978-3-642-17373-8_27
+asiacrypt/asiacrypt2010,2010,Secure Communication and Computation,Multiparty Computation for Modulo Reduction without Bit-Decomposition and a Generalization to Bit-Decomposition.,Chao Ning;Qiuliang Xu;,https://doi.org/10.1007/978-3-642-17373-8_28
+asiacrypt/asiacrypt2010,2010,"Models, Notions, and Assumptions",A Closer Look at Anonymity and Robustness in Encryption Schemes.,Payman Mohassel;,https://doi.org/10.1007/978-3-642-17373-8_29
+asiacrypt/asiacrypt2010,2010,"Models, Notions, and Assumptions",Limitations on Transformations from Composite-Order to Prime-Order Groups: The Case of Round-Optimal Blind Signatures.,Sarah Meiklejohn;Hovav Shacham;David Mandell Freeman;,https://doi.org/10.1007/978-3-642-17373-8_30
+asiacrypt/asiacrypt2010,2010,"Models, Notions, and Assumptions",The Semi-Generic Group Model and Applications to Pairing-Based Cryptography.,Tibor Jager;Andy Rupp;,https://doi.org/10.1007/978-3-642-17373-8_31
+asiacrypt/asiacrypt2010,2010,Public-Key Encryption,The Degree of Regularity of HFE Systems.,Vivien Dubois;Nicolas Gama;,https://doi.org/10.1007/978-3-642-17373-8_32
+asiacrypt/asiacrypt2010,2010,Public-Key Encryption,Structured Encryption and Controlled Disclosure.,Melissa Chase;Seny Kamara;,https://doi.org/10.1007/978-3-642-17373-8_33
+asiacrypt/asiacrypt2010,2010,Public-Key Encryption,Leakage Resilient ElGamal Encryption.,Eike Kiltz;Krzysztof Pietrzak;,https://doi.org/10.1007/978-3-642-17373-8_34
+asiacrypt/asiacrypt2010,2010,Public-Key Encryption,Efficient Public-Key Cryptography in the Presence of Key Leakage.,Yevgeniy Dodis;Kristiyan Haralambiev;Adriana López-Alt;Daniel Wichs;,https://doi.org/10.1007/978-3-642-17373-8_35

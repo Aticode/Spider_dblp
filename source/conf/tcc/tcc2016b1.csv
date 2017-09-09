@@ -1,0 +1,25 @@
+tcc/tcc2016b1,2016,TCC Test-of-Time Award,From Indifferentiability to Constructive Cryptography (and Back).,Ueli Maurer;Renato Renner;,https://doi.org/10.1007/978-3-662-53641-4_1
+tcc/tcc2016b1,2016,Foundations,Fast Pseudorandom Functions Based on Expander Graphs.,Benny Applebaum;Pavel Raykov;,https://doi.org/10.1007/978-3-662-53641-4_2
+tcc/tcc2016b1,2016,Foundations,3-Message Zero Knowledge Against Human Ignorance.,Nir Bitansky;Zvika Brakerski;Yael Tauman Kalai;Omer Paneth;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-662-53641-4_3
+tcc/tcc2016b1,2016,Foundations,The GGM Function Family Is a Weakly One-Way Family of Functions.,Aloni Cohen;Saleet Klein;,https://doi.org/10.1007/978-3-662-53641-4_4
+tcc/tcc2016b1,2016,Foundations,On the (In)Security of SNARKs in the Presence of Oracles.,Dario Fiore;Anca Nitulescu;,https://doi.org/10.1007/978-3-662-53641-4_5
+tcc/tcc2016b1,2016,Foundations,Leakage Resilient One-Way Functions: The Auxiliary-Input Setting.,Ilan Komargodski;,https://doi.org/10.1007/978-3-662-53641-4_6
+tcc/tcc2016b1,2016,Foundations,"Simulating Auxiliary Inputs, Revisited.",Maciej Skórski;,https://doi.org/10.1007/978-3-662-53641-4_7
+tcc/tcc2016b1,2016,Unconditional Security,Pseudoentropy: Lower-Bounds for Chain Rules and Transformations.,Krzysztof Pietrzak;Maciej Skórski;,https://doi.org/10.1007/978-3-662-53641-4_8
+tcc/tcc2016b1,2016,Unconditional Security,Oblivious Transfer from Any Non-trivial Elastic Noisy Channel via Secret Key Agreement.,Ignacio Cascudo;Ivan Damgård;Felipe Lacerda;Samuel Ranellucci;,https://doi.org/10.1007/978-3-662-53641-4_9
+tcc/tcc2016b1,2016,Unconditional Security,Simultaneous Secrecy and Reliability Amplification for a General Channel Model.,Russell Impagliazzo;Ragesh Jaiswal;Valentine Kabanets;Bruce M. Kapron;Valerie King;Stefano Tessaro;,https://doi.org/10.1007/978-3-662-53641-4_10
+tcc/tcc2016b1,2016,Unconditional Security,Proof of Space from Stacked Expanders.,Ling Ren;Srinivas Devadas;,https://doi.org/10.1007/978-3-662-53641-4_11
+tcc/tcc2016b1,2016,Unconditional Security,Perfectly Secure Message Transmission in Two Rounds.,Gabriele Spini;Gilles Zémor;,https://doi.org/10.1007/978-3-662-53641-4_12
+tcc/tcc2016b1,2016,Foundations of Multi-Party Protocols,Almost-Optimally Fair Multiparty Coin-Tossing with Nearly Three-Quarters Malicious.,Bar Alon;Eran Omri;,https://doi.org/10.1007/978-3-662-53641-4_13
+tcc/tcc2016b1,2016,Foundations of Multi-Party Protocols,Binary AMD Circuits from Secure Multiparty Computation.,Daniel Genkin;Yuval Ishai;Mor Weiss;,https://doi.org/10.1007/978-3-662-53641-4_14
+tcc/tcc2016b1,2016,Foundations of Multi-Party Protocols,Composable Security in the Tamper-Proof Hardware Model Under Minimal Complexity.,Carmit Hazay;Antigoni Polychroniadou;Muthuramakrishnan Venkitasubramaniam;,https://doi.org/10.1007/978-3-662-53641-4_15
+tcc/tcc2016b1,2016,Foundations of Multi-Party Protocols,Composable Adaptive Secure Protocols Without Setup Under Polytime Assumptions.,Carmit Hazay;Muthuramakrishnan Venkitasubramaniam;,https://doi.org/10.1007/978-3-662-53641-4_16
+tcc/tcc2016b1,2016,Foundations of Multi-Party Protocols,Adaptive Security of Yao's Garbled Circuits.,Zahra Jafargholi;Daniel Wichs;,https://doi.org/10.1007/978-3-662-53641-4_17
+tcc/tcc2016b1,2016,Round Complexity and Efficiency of Multi-party Computation,Efficient Secure Multiparty Computation with Identifiable Abort.,Carsten Baum;Emmanuela Orsini;Peter Scholl;,https://doi.org/10.1007/978-3-662-53641-4_18
+tcc/tcc2016b1,2016,Round Complexity and Efficiency of Multi-party Computation,Secure Multiparty RAM Computation in Constant Rounds.,Sanjam Garg;Divya Gupta;Peihan Miao;Omkant Pandey;,https://doi.org/10.1007/978-3-662-53641-4_19
+tcc/tcc2016b1,2016,Round Complexity and Efficiency of Multi-party Computation,Constant-Round Maliciously Secure Two-Party Computation in the RAM Model.,Carmit Hazay;Avishay Yanai;,https://doi.org/10.1007/978-3-662-53641-4_20
+tcc/tcc2016b1,2016,Round Complexity and Efficiency of Multi-party Computation,More Efficient Constant-Round Multi-party Computation from BMR and SHE.,Yehuda Lindell;Nigel P. Smart;Eduardo Soria-Vazquez;,https://doi.org/10.1007/978-3-662-53641-4_21
+tcc/tcc2016b1,2016,Round Complexity and Efficiency of Multi-party Computation,Cross and Clean: Amortized Garbled Circuits with Constant Overhead.,Jesper Buus Nielsen;Claudio Orlandi;,https://doi.org/10.1007/978-3-662-53641-4_22
+tcc/tcc2016b1,2016,Differential Privacy,Separating Computational and Statistical Differential Privacy in the Client-Server Model.,Mark Bun;Yi-Hsiu Chen;Salil P. Vadhan;,https://doi.org/10.1007/978-3-662-53641-4_23
+tcc/tcc2016b1,2016,Differential Privacy,"Concentrated Differential Privacy: Simplifications, Extensions, and Lower Bounds.",Mark Bun;Thomas Steinke;,https://doi.org/10.1007/978-3-662-53641-4_24
+tcc/tcc2016b1,2016,Differential Privacy,Strong Hardness of Privacy from Weak Traitor Tracing.,Lucas Kowalczyk;Tal Malkin;Jonathan Ullman;Mark Zhandry;,https://doi.org/10.1007/978-3-662-53641-4_25

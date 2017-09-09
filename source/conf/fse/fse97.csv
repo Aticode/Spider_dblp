@@ -1,0 +1,24 @@
+fse/fse97,1997,Cryptanalysis,x2 Cryptanalysis of the SEAL Encryption Algorithm.,Helena Handschuh;Henri Gilbert;,https://doi.org/10.1007/BFb0052330
+fse/fse97,1997,Cryptanalysis,Partitioning Cryptanalysis.,Carlo Harpes;James L. Massey;,https://doi.org/10.1007/BFb0052331
+fse/fse97,1997,Cryptanalysis,The Interpolation Attack on Block Ciphers.,Thomas Jakobsen;Lars R. Knudsen;,https://doi.org/10.1007/BFb0052332
+fse/fse97,1997,Cryptanalysis,Best Differential Characteristic Search of FEAL.,Kazumaro Aoki;Kunio Kobayashi;Shiho Moriai;,https://doi.org/10.1007/BFb0052333
+fse/fse97,1997,Blockciphers,New Block Encryption Algorithm MISTY.,Mitsuru Matsui;,https://doi.org/10.1007/BFb0052334
+fse/fse97,1997,Blockciphers,The Design of the ICE Encryption Algorithm.,Matthew Kwan;,https://doi.org/10.1007/BFb0052335
+fse/fse97,1997,Discussion,Advanced Encryption Standard.,,https://doi.org/10.1007/BFb0052336
+fse/fse97,1997,Stream Ciphers,TWOPRIME: A Fast Stream Ciphering Algorithm.,Cunsheng Ding;Valtteri Niemi;Ari Renvall;Arto Salomaa;,https://doi.org/10.1007/BFb0052337
+fse/fse97,1997,Stream Ciphers,On Nonlinear Filter Generators.,Markus Dichtl;,https://doi.org/10.1007/BFb0052338
+fse/fse97,1997,Stream Ciphers,Chameleon - A New Kind of Stream Cipher.,Ross J. Anderson;Charalampos Manifavas;,https://doi.org/10.1007/BFb0052339
+fse/fse97,1997,Cryptanalysis,Improving Linear Cryptanalysis of LOKI91 by Probabilistic Counting Method.,Kouichi Sakurai;Souichi Furuya;,https://doi.org/10.1007/BFb0052340
+fse/fse97,1997,Cryptanalysis,Cryptanalysis of Ladder-DES.,Eli Biham;,https://doi.org/10.1007/BFb0052341
+fse/fse97,1997,Cryptanalysis,A Family of Trapdoor Ciphers.,Vincent Rijmen;Bart Preneel;,https://doi.org/10.1007/BFb0052342
+fse/fse97,1997,Blockciphers,The Block Cipher Square.,Joan Daemen;Lars R. Knudsen;Vincent Rijmen;,https://doi.org/10.1007/BFb0052343
+fse/fse97,1997,Blockciphers,XMX: A Firmware-Oriented Block Cipher Based on Modular Multiplications.,David M'Raïhi;David Naccache;Jacques Stern;Serge Vaudenay;,https://doi.org/10.1007/BFb0052344
+fse/fse97,1997,Message Authentication Codes,MMH: Software Message Authentication in the Gbit/Second Rates.,Shai Halevi;Hugo Krawczyk;,https://doi.org/10.1007/BFb0052345
+fse/fse97,1997,Message Authentication Codes,Fast Message Authentication Using Efficient Polynomial Evaluation.,Valentine Afanassiev;Christian Gehrmann;Ben J. M. Smeets;,https://doi.org/10.1007/BFb0052346
+fse/fse97,1997,Message Authentication Codes,Reinventing the Travois: Encryption/MAC in 30 ROM Bytes.,Gideon Yuval;,https://doi.org/10.1007/BFb0052347
+fse/fse97,1997,Modes of Operation,All-or-Nothing Encryption and the Package Transform.,Ronald L. Rivest;,https://doi.org/10.1007/BFb0052348
+fse/fse97,1997,Modes of Operation,On the Security of Remotely Keyed Encryption.,Stefan Lucks;,https://doi.org/10.1007/BFb0052349
+fse/fse97,1997,Modes of Operation,Sliding Encryption: A Cryptographic Tool for Mobile Agents.,Adam L. Young;Moti Yung;,https://doi.org/10.1007/BFb0052350
+fse/fse97,1997,Fast Software Encryption,Fast Software Encryption: Designing Encryption Algorithms for Optimal Software Speed on the Intel Pentium Processor.,Bruce Schneier;Doug Whiting;,https://doi.org/10.1007/BFb0052351
+fse/fse97,1997,Fast Software Encryption,A Fast New DES Implementation in Software.,Eli Biham;,https://doi.org/10.1007/BFb0052352
+fse/fse97,1997,Fast Software Encryption,"Optimizing a Fast Stream Cipher for VLIW, SIMD, and Superscalar Processors.",Craig S. K. Clapp;,https://doi.org/10.1007/BFb0052353

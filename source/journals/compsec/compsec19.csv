@@ -1,0 +1,192 @@
+compsec/compsec19,1 January 2000,Number 1,Mass Network Flooding Attacks (Distributed Denial of Service - DDoS) Surface in the Wild.,Bill Hancock;,None
+compsec/compsec19,1 January 2000,Number 1,Cell Phone Crypto Cracked.,Bill Hancock;,None
+compsec/compsec19,1 January 2000,Number 1,Clinton's Proposed Crypto Regulations Under Attack.,Bill Hancock;,None
+compsec/compsec19,1 January 2000,Number 1,Overhauling the National Security Agency?,Bill Hancock;,None
+compsec/compsec19,1 January 2000,Number 1,"Down Under, Hacking Private Computers by the Government is Legal.",Bill Hancock;,None
+compsec/compsec19,1 January 2000,Number 1,"The ""S"" in SAP Doesn't Stand for Security.",Bill Hancock;,None
+compsec/compsec19,1 January 2000,Number 1,New York Times Fires Employees for Violating Internal E-mail Policies.,Bill Hancock;,None
+compsec/compsec19,1 January 2000,Number 1,'Anonymizing' Software Causes Law Enforcement Concerns.,Bill Hancock;,None
+compsec/compsec19,1 January 2000,Number 1,Melissa Virus Creator Pleads Guilty.,Bill Hancock;,None
+compsec/compsec19,1 January 2000,Number 1,Security Problems Go Mobile In Your Next Car.,Bill Hancock;,None
+compsec/compsec19,1 January 2000,Number 1,The L0pht Goes Corporate and becomes @Stake.,Bill Hancock;,None
+compsec/compsec19,1 January 2000,Number 1,"Key Recovery Alliance (KRA) Technology Papers, Special Issue Introduction.",Chuck Williams;Nevenko Zunic;Stephen M. Matyas;Sarbari Gupta;Michael Willett;,https://doi.org/10.1016/S0167-4048(00)86357-9
+compsec/compsec19,1 January 2000,Number 1,Cryptographic Information Recovery Using Key Recover.,Michael Smith;Paul C. van Oorschot;Michael Willett;,https://doi.org/10.1016/S0167-4048(00)86358-0
+compsec/compsec19,1 January 2000,Number 1,"Features, Attributes, Characteristics, and Traits (FACTs) of Key Recovery Schemes/Products.",Michael Willett;,https://doi.org/10.1016/S0167-4048(00)86359-2
+compsec/compsec19,1 January 2000,Number 1,Key Recovery Functional Model.,John Kennedy;Stephen M. Matyas;Nevenko Zunic;,https://doi.org/10.1016/S0167-4048(00)86360-9
+compsec/compsec19,1 January 2000,Number 1,Additional Key Recovery Function.,Stephen M. Matyas;Nevenko Zunic;,https://doi.org/10.1016/S0167-4048(00)86361-0
+compsec/compsec19,1 January 2000,Number 1,A Common Key Recovery Block Format: Promoting Interoperability Between Dissimilar Key Recovery Mechanisms.,Sarbari Gupta;,https://doi.org/10.1016/S0167-4048(00)86362-2
+compsec/compsec19,1 January 2000,Number 1,Global Interoperability for Key Recovery.,Chuck Williams;Nevenko Zunic;,https://doi.org/10.1016/S0167-4048(00)86363-4
+compsec/compsec19,1 January 2000,Number 1,Public Key Infrastructure: Analysis of Existing and Needed Protocols and Object Formats for Key Recovery.,Sarbari Gupta;Stephen M. Matyas;,https://doi.org/10.1016/S0167-4048(00)86364-6
+compsec/compsec19,1 January 2000,Number 1,Organization Implementation Guidelines for Recovery of Encrypted Information.,Abby Maclean;Stephen M. Matyas;Nevenko Zunic;,https://doi.org/10.1016/S0167-4048(00)86365-8
+compsec/compsec19,1 January 2000,Number 1,Organization Considerations for Retrieval of Stored Data via Key Recovery Methods.,Nevenko Zunic;,https://doi.org/10.1016/S0167-4048(00)86366-X
+compsec/compsec19,1 January 2000,Number 1,Key Recovery Header for IPSEC.,Tom Markham;Chuck Williams;,https://doi.org/10.1016/S0167-4048(00)86367-1
+compsec/compsec19,1 January 2000,Number 1,ISAKMP Key Recovery Extension.,David M. Balenson;Tom Markham;,https://doi.org/10.1016/S0167-4048(00)86368-3
+compsec/compsec19,1 January 2000,Number 1,SSL/TLS Protocol Enablement for Key Recovery.,Timothy G. Shoriak;,https://doi.org/10.1016/S0167-4048(00)86369-5
+compsec/compsec19,February 2000,Number 2,Alliance Formed to Fight Internet Attacks.,Bill Hancock;,None
+compsec/compsec19,February 2000,Number 2,Security Views.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)86356-7
+compsec/compsec19,February 2000,Number 2,Code Paranoia about FBI Offerings to Detect DoS Infiltration.,Bill Hancock;,None
+compsec/compsec19,February 2000,Number 2,CIA says Russia and China are Building CyberSpy Organization.,Bill Hancock;,None
+compsec/compsec19,February 2000,Number 2,The SEC Hires CyberInvestigators to Search for Fraud.,Bill Hancock;,None
+compsec/compsec19,February 2000,Number 2,"FBI Investigating Copycat Operations in Wake of February, 2000, DDoS Attacks.",Bill Hancock;,None
+compsec/compsec19,February 2000,Number 2,Industry Teaming on ISACs.,Bill Hancock;,None
+compsec/compsec19,February 2000,Number 2,"In Wake of Attacks, FBI Using Racketeering Laws for Prosecution.",Bill Hancock;,None
+compsec/compsec19,February 2000,Number 2,Mafiaboy Hacker Eyed In Attacks.,Bill Hancock;,None
+compsec/compsec19,February 2000,Number 2,Japan Web Hackers Use Chinese and US Servers.,Bill Hancock;,None
+compsec/compsec19,February 2000,Number 2,US Pentagon Defense Messaging System Shows Deficiencies in Security.,Bill Hancock;,None
+compsec/compsec19,February 2000,Number 2,Y2Hack Get-Together in Israel Under Political Attack.,Bill Hancock;,None
+compsec/compsec19,February 2000,Number 2,Security Managers Cite Need for Real-Time Security.,Bill Hancock;,None
+compsec/compsec19,February 2000,Number 2,"New Millennium, Old Failures.",Stephen Hinde;,https://doi.org/10.1016/S0167-4048(00)87821-9
+compsec/compsec19,February 2000,Number 2,Crimes And Misdemeanours: How to Protect Corporate Information in the Internet Age.,Steve Webb;,https://doi.org/10.1016/S0167-4048(00)87822-0
+compsec/compsec19,February 2000,Number 2,Internet Targets.,Gerald L. Kovacich;William C. Boni;,https://doi.org/10.1016/S0167-4048(00)87823-2
+compsec/compsec19,February 2000,Number 2,Telecommunications Crime - Part 3.,Michael Collins;,https://doi.org/10.1016/S0167-4048(00)87824-4
+compsec/compsec19,February 2000,Number 2,Security For Remote Access And Mobile Application.,Mark Hoogenboom;Patrick Steemers;,https://doi.org/10.1016/S0167-4048(00)87825-6
+compsec/compsec19,February 2000,Number 2,A Formalized Approach to the Effective Selection and Evaluation of Information Security Control.,Lynette Barnard;Rossouw von Solms;,https://doi.org/10.1016/S0167-4048(00)87829-3
+compsec/compsec19,1 March 2000,Number 3,Security Views.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)87820-7
+compsec/compsec19,1 March 2000,Number 3,Network Warfare On The Rise.,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,FBI Source Convicted of Hackin.,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,"Microsoft ""Whistler"" Release Posted to Internet.",Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,US Senate Passes Bill to Tighten Up Government Network.,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,Cyberpatrol Reverse Engineering: Round 2.,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,First Cybercrime Task Force City - Pittsburgh.,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,US Army Warns of Cyberattackers Gaining Access to Military Weapons Systems.,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,"More on the January, 2000, NSA Computer Problems.",Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,Mexico's President Under Cyberattack - Again.,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,Another Insider Job on Wall Stree.,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,FBI Identifies Hacker Who Stole More than 485 000 Credit Card Numbers.,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,USDOJ Goes Prime Time With Cybercrime Web Sit.,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,EU and US Reach Agreement on Privacy Issues.,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,Warning from the US Government: Companies Get Secure or...,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,China Relaxes Encryption Rules.,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,French Card Forgery Note Could Work.,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,US Law Enforcement Needs You!,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,UK Law Enforcement Bemoans Criminal Activities on Interne.,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,Intel Creates New Plans for Notebook Security.,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,Kevin Mitnick Gets His Day in Congres.,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,Web Site Owners Seek Security People Apply Now!,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,Generation X Hackers?,Bill Hancock;,None
+compsec/compsec19,1 March 2000,Number 3,Life Was Simple Then.,Stephen Hinde;,https://doi.org/10.1016/S0167-4048(00)88610-1
+compsec/compsec19,1 March 2000,Number 3,Implementing Public Key Infrastructures in a Dynamic Business Environment.,Richard Barber;,https://doi.org/10.1016/S0167-4048(00)88611-3
+compsec/compsec19,1 March 2000,Number 3,Information Systems Risk Management: Key Concepts and Business Processes.,Thomas Finne;,https://doi.org/10.1016/S0167-4048(00)88612-5
+compsec/compsec19,1 March 2000,Number 3,Information Security Management: A Hierarchical Framework for Various Approaches.,Mariki M. Eloff;Sebastiaan H. von Solms;,https://doi.org/10.1016/S0167-4048(00)88613-7
+compsec/compsec19,1 March 2000,Number 3,Achieving Interoperability in a Multiple-Security- Policies Environment.,Spyros Kokolakis;Evangelos A. Kiountouzis;,https://doi.org/10.1016/S0167-4048(00)88615-0
+compsec/compsec19,1 March 2000,Number 3,Generation of RSA Keys That Are Guaranteed to be Unique for Each User.,Mohammad Peyravian;Stephen M. Matyas;Allen Roginsky;Nevenko Zunic;,https://doi.org/10.1016/S0167-4048(00)88616-2
+compsec/compsec19,1 April 2000,Number 4,Suspected Hackers Arrested in Russian Credit-Card Fraud.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)04002-5
+compsec/compsec19,1 April 2000,Number 4,Intel Eliminates ID from New Chips.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)04003-7
+compsec/compsec19,1 April 2000,Number 4,European Parliament Doesn't Like Anonymity Online.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)04004-9
+compsec/compsec19,1 April 2000,Number 4,DOD Finds Plans Online Reserve Unit Assesses Risk.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)04005-0
+compsec/compsec19,1 April 2000,Number 4,"Agencies Are ""Own Worst Enemy"".",Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)04006-2
+compsec/compsec19,1 April 2000,Number 4,US Department of Energy Security Criticized - Again.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)04007-4
+compsec/compsec19,1 April 2000,Number 4,This is What Happens When You Lose Your Computer With Classified Data On It....,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)04008-6
+compsec/compsec19,1 April 2000,Number 4,Not Everyone Wants PKI NSF Opts for Digital Signature Alternativ.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)04009-8
+compsec/compsec19,1 April 2000,Number 4,Justice Department Conducting Criminal Probe in Former CIA Director Activities.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)04010-4
+compsec/compsec19,1 April 2000,Number 4,Apache Site Defaced.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)04011-6
+compsec/compsec19,1 April 2000,Number 4,US and Europe Cybercrime Agreement Problems.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)04012-8
+compsec/compsec19,1 April 2000,Number 4,Cyberstalking on the Rise.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)04013-X
+compsec/compsec19,1 April 2000,Number 4,Large Child Pornography Ring Busted in Texas.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)04014-1
+compsec/compsec19,1 April 2000,Number 4,New Denial of Service Attack on Internet.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)04015-3
+compsec/compsec19,1 April 2000,Number 4,US Supreme Court Confirms ISPs Not Liable in E-mail Messages.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)04016-5
+compsec/compsec19,1 April 2000,Number 4,Software Scam - 17 Indicted.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)04017-7
+compsec/compsec19,1 April 2000,Number 4,"Smurfing, Swamping, Spamming, Spoofing, Squatting, Slandering, Surfing, Scamming and Other Mischiefs of the World Wide Web.",Stephen Hinde;,https://doi.org/10.1016/S0167-4048(00)04018-9
+compsec/compsec19,1 April 2000,Number 4,Security in a Mobile World Is Bluetooth the Answer?,Richard Barber;,https://doi.org/10.1016/S0167-4048(00)04019-0
+compsec/compsec19,1 April 2000,Number 4,"Netspionage The Global Threat to Information, Part I: What is it and Why I Should Care?",Gerald L. Kovacich;,https://doi.org/10.1016/S0167-4048(00)04020-7
+compsec/compsec19,1 April 2000,Number 4,Implementing Information Security In The 21st Century Do You Have the Balancing Factors?,Julie D. Nosworthy;,https://doi.org/10.1016/S0167-4048(00)04021-9
+compsec/compsec19,1 April 2000,Number 4,B2C Security Be Just Secure Enough.,Petra van Krugten;Mark Hoogenboom;,https://doi.org/10.1016/S0167-4048(00)04022-0
+compsec/compsec19,1 April 2000,Number 4,Multiparty Biometric-Based Authentication.,Mohammad Peyravian;Stephen M. Matyas;Allen Roginsky;Nevenko Zunic;,https://doi.org/10.1016/S0167-4048(00)04025-6
+compsec/compsec19,1 July 2000,Number 5,Security Views.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05002-1
+compsec/compsec19,1 July 2000,Number 5,"""I Agree"" Legal Agreements Get Legislated.",Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05003-3
+compsec/compsec19,1 July 2000,Number 5,The US Government Tells Its Users to Clean Up Their E-mail.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05004-5
+compsec/compsec19,1 July 2000,Number 5,Home PC's Targeted by Hackers (Duh!).,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05005-7
+compsec/compsec19,1 July 2000,Number 5,CIO's Get Serious About Best Security Practices.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05006-9
+compsec/compsec19,1 July 2000,Number 5,Yahoo Faces Identity Crisis.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05007-0
+compsec/compsec19,1 July 2000,Number 5,Microsoft a Popular Virus Target Due to Ubiquity.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05008-2
+compsec/compsec19,1 July 2000,Number 5,UK's RIP Bill Creates Official Snooping.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05009-4
+compsec/compsec19,1 July 2000,Number 5,Extortion Going Online.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05010-0
+compsec/compsec19,1 July 2000,Number 5,Office 2000 Patch Recommended by CERT.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05011-2
+compsec/compsec19,1 July 2000,Number 5,Self-Regulation for Privacy Doesn't Work Says FTC.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05012-4
+compsec/compsec19,1 July 2000,Number 5,...But the Industry Wants Self-Regulation.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05013-6
+compsec/compsec19,1 July 2000,Number 5,US Senate Wakes Up to Need for Cybertools for Law Enforcers.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05014-8
+compsec/compsec19,1 July 2000,Number 5,PGP V5.0 Keys Potentially Insecure.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05015-X
+compsec/compsec19,1 July 2000,Number 5,Canadian Credit Card Conundrum Caused by a Cracker.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05016-1
+compsec/compsec19,1 July 2000,Number 5,Suspect Charged in 'Love Bug' Worm has Charges Dropped.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05017-3
+compsec/compsec19,1 July 2000,Number 5,Network Solutions Re-evaluates Security.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05018-5
+compsec/compsec19,1 July 2000,Number 5,CMU Sets Up a Sister to CERT.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05019-7
+compsec/compsec19,1 July 2000,Number 5,Speedy Response Yields Success at DOE.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05020-3
+compsec/compsec19,1 July 2000,Number 5,AOL Gets Busted - Again.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05021-5
+compsec/compsec19,1 July 2000,Number 5,Who's to Blame?,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05022-7
+compsec/compsec19,1 July 2000,Number 5,Wireless Ubiquity for E-Biz.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05023-9
+compsec/compsec19,1 July 2000,Number 5,"And Now, the Bug-in-Your-Site Award Goes To....",Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05024-0
+compsec/compsec19,1 July 2000,Number 5,"Isn't It Interesting What You Can Buy At An Auction Site? TV's, Computers, Drugs.",Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05025-2
+compsec/compsec19,1 July 2000,Number 5,"G8 Thinks About Cybercrime (It's About Time, Too).",Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)05026-4
+compsec/compsec19,1 July 2000,Number 5,Love Conquers All?,Stephen Hinde;,https://doi.org/10.1016/S0167-4048(00)05027-6
+compsec/compsec19,1 July 2000,Number 5,"Netspionage The Global Threat to Information, Part II: Information Collection in the Gray Zon.",Gerald L. Kovacich;,https://doi.org/10.1016/S0167-4048(00)05028-8
+compsec/compsec19,1 July 2000,Number 5,A Biometric Standard for Information Management and Security.,Stephen M. Matyas;Jeff Stapleto;,https://doi.org/10.1016/S0167-4048(00)05029-X
+compsec/compsec19,1 July 2000,Number 5,A Generic Electronic Payment Model Supporting Multiple Merchant Transactions.,Yu-Lun Huang;Shiuh-Pyng Shieh;Fu-Shen Ho;,https://doi.org/10.1016/S0167-4048(00)05031-8
+compsec/compsec19,1 July 2000,Number 5,Methods for Protecting Password Transmission.,Mohammad Peyravian;Nevenko Zunic;,https://doi.org/10.1016/S0167-4048(00)05032-X
+compsec/compsec19,August 2000,Number 6,A Need for a Network Security Czar.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06002-8
+compsec/compsec19,August 2000,Number 6,US Government Fighting for Expanded Wiretap Laws.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06003-X
+compsec/compsec19,August 2000,Number 6,E-Commerce Paranoia: Flaws in Code.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06004-1
+compsec/compsec19,August 2000,Number 6,Truly Certified: Security Certifications Updat.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06005-3
+compsec/compsec19,August 2000,Number 6,Digital Certificates Get Creative.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06006-5
+compsec/compsec19,August 2000,Number 6,Health Care Security: A Hard Look at a Growing Problem.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06007-7
+compsec/compsec19,August 2000,Number 6,Safeway UK's Website Shut Down.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06008-9
+compsec/compsec19,August 2000,Number 6,Philippine Government Creates Incident Response Team.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06009-0
+compsec/compsec19,August 2000,Number 6,DDoS Defence Gets Regulatory.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06010-7
+compsec/compsec19,August 2000,Number 6,Visa's Ten Commandments for E-Security Online.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06011-9
+compsec/compsec19,August 2000,Number 6,'Porngate'?,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06012-0
+compsec/compsec19,August 2000,Number 6,What You Sell Online in France Could Be Restricted....,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06013-2
+compsec/compsec19,August 2000,Number 6,Hackers Still Love to Attack the Pentago.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06014-4
+compsec/compsec19,August 2000,Number 6,Spying At Home: A New Pastime to Detect Online Romanc.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06015-6
+compsec/compsec19,August 2000,Number 6,Is a Convicted Hacker Really Reformed and Should You Hire Them?,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06016-8
+compsec/compsec19,August 2000,Number 6,DefCon Recruiting JamFest.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06017-X
+compsec/compsec19,August 2000,Number 6,Hacker Target: Mobile Phones.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06018-1
+compsec/compsec19,August 2000,Number 6,E-Mail Privacy Issues Escalate.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06019-3
+compsec/compsec19,August 2000,Number 6,GeoCities Ordered to Report on Information Poste.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06020-X
+compsec/compsec19,August 2000,Number 6,Hackers Breach Firewall.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06022-3
+compsec/compsec19,August 2000,Number 6,Lotus Domino Holes Up.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)06023-5
+compsec/compsec19,August 2000,Number 6,"Fireworks, Beer and Old Halfpennies - The Risks of Assumption.",Stephen Hinde;,https://doi.org/10.1016/S0167-4048(00)06024-7
+compsec/compsec19,August 2000,Number 6,"Netspionage - Part III: The Black Zone, Who Uses Netspionage, How and Why.",Gerald L. Kovacich;,https://doi.org/10.1016/S0167-4048(00)06025-9
+compsec/compsec19,August 2000,Number 6,A Mathematical Structure of Simple Defensive Network Deception.,Fred Cohen;,https://doi.org/10.1016/S0167-4048(00)06026-0
+compsec/compsec19,August 2000,Number 6,Authentication and Supervision: A Survey of User Attitudes.,Steven Furnell;Paul Dowland;H. M. Illingworth;Paul L. Reynolds;,https://doi.org/10.1016/S0167-4048(00)06027-2
+compsec/compsec19,August 2000,Number 6,Ticket and Challenge-Based Protocols for Timestamping.,Mohammad Peyravian;Stephen M. Matyas;Allen Roginsky;Nevenko Zunic;,https://doi.org/10.1016/S0167-4048(00)06029-6
+compsec/compsec19,August 2000,Number 6,Information Security in Multiprocessor Systems Based on the X86 Architecture.,Andres Torrubia;Francisco J. Mora;,https://doi.org/10.1016/S0167-4048(00)06030-2
+compsec/compsec19,1 November 2000,Number 7,New Classes of Unix/Linux Attacks.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)07002-4
+compsec/compsec19,1 November 2000,Number 7,American Express Creates Disposable Credit Card Number.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)07003-6
+compsec/compsec19,1 November 2000,Number 7,Microsoft Releases New IIS Security Tool.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)07004-8
+compsec/compsec19,1 November 2000,Number 7,Baltimore Releases Security Developer Freeware.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)07005-X
+compsec/compsec19,1 November 2000,Number 7,'Files Streams' Virus Infects in an Old and New Way.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)07006-1
+compsec/compsec19,1 November 2000,Number 7,"Trinity v3, a DDoS Tool, Hits the Streets.",Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)07007-3
+compsec/compsec19,1 November 2000,Number 7,Hacker Insurance Now Part of the Business Risk Management Kit.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)07008-5
+compsec/compsec19,1 November 2000,Number 7,Wireless Crazed? No Security For You!,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)07009-7
+compsec/compsec19,1 November 2000,Number 7,White House Supporting Open Source Code.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)07010-3
+compsec/compsec19,1 November 2000,Number 7,White House Security Summit Builds Towards a B2B Security Standard.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)07011-5
+compsec/compsec19,1 November 2000,Number 7,Cellular Security Hazards.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)07012-7
+compsec/compsec19,1 November 2000,Number 7,UK Fuel Taxes Protestor Accused of Mass Hacking.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)07013-9
+compsec/compsec19,1 November 2000,Number 7,US Government Board Setting Up Security Metrics.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)07014-0
+compsec/compsec19,1 November 2000,Number 7,Privacy Group Wants 'Web Bugs' Disclosures.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)07015-2
+compsec/compsec19,1 November 2000,Number 7,Site Spoofing Becomes More Popular.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)07016-4
+compsec/compsec19,1 November 2000,Number 7,First PDA Virus Hits the Airwaves.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)07017-6
+compsec/compsec19,1 November 2000,Number 7,Do You Know Your Organization's Achilles Heel?,Stephen Hinde;,https://doi.org/10.1016/S0167-4048(00)07018-8
+compsec/compsec19,1 November 2000,Number 7,Romancing The Internet And Management's Quagmire.,August Bequai;,https://doi.org/10.1016/S0167-4048(00)07019-X
+compsec/compsec19,1 November 2000,Number 7,A Practical Risk Analysis Approach: Managing BCM Risk.,Julie D. Nosworthy;,https://doi.org/10.1016/S0167-4048(00)07020-6
+compsec/compsec19,1 November 2000,Number 7,Information Security - The Third Wave?,Basie von Solms;,https://doi.org/10.1016/S0167-4048(00)07021-8
+compsec/compsec19,1 November 2000,Number 7,Word Association Computer Passwords: The Effect of Formulation Techniques on Recall and Guessing Rates.,Rachael Pond;John Podd;Julie Bunnell;Ron Henderson;,https://doi.org/10.1016/S0167-4048(00)07023-1
+compsec/compsec19,1 December 2000,Number 8,From Stones in the Street to Cyberspace - Israeli and Palestinians Continue Their Virtual Battles 24 x 7.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)08002-0
+compsec/compsec19,1 December 2000,Number 8,Feeling Sorry for Microsoft?,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)08003-2
+compsec/compsec19,1 December 2000,Number 8,"However, Microsoft Could Use Some Sympathy - Dutch Hacker Busts Microsoft Web Site - Again.",Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)08004-4
+compsec/compsec19,1 December 2000,Number 8,Wireless Big Brother.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)08005-6
+compsec/compsec19,1 December 2000,Number 8,NASA Hacker Pleads Guilty.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)08006-8
+compsec/compsec19,1 December 2000,Number 8,Canadian Teen Mafiaboy Pleads Guilty.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)08007-X
+compsec/compsec19,1 December 2000,Number 8,Getting the Laws to Help Combat Cybercrime (There's a grand idea).,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)08008-1
+compsec/compsec19,1 December 2000,Number 8,Internet Biz Group Calls for Cybercrime Treaty Delay.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)08009-3
+compsec/compsec19,1 December 2000,Number 8,Laptop Theft Now Targeted Towards Data and Not Necessarily Hardware.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)08010-X
+compsec/compsec19,1 December 2000,Number 8,Hacktivism Increasing.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)08011-1
+compsec/compsec19,1 December 2000,Number 8,US Department of Defense Prepares Cybercrime Database.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)08012-3
+compsec/compsec19,1 December 2000,Number 8,CIA Chat Room Causes Grief.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)08013-5
+compsec/compsec19,1 December 2000,Number 8,Japan Creates Cyberconditions for IT National Revolution.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)08014-7
+compsec/compsec19,1 December 2000,Number 8,US Privacy Law Proposals Cause Concerns.,Bill Hancock;,https://doi.org/10.1016/S0167-4048(00)08015-9
+compsec/compsec19,1 December 2000,Number 8,New Names For Old - A Personal Surf Through Compsec 200.,Stephen Hinde;,https://doi.org/10.1016/S0167-4048(00)08016-0
+compsec/compsec19,1 December 2000,Number 8,America's Internet Commerce and The Threat of Fraud.,August Bequai;,https://doi.org/10.1016/S0167-4048(00)08017-2
+compsec/compsec19,1 December 2000,Number 8,The Software Colander Holes in Messagin.,Andy Clarke;Vince Gallo;,https://doi.org/10.1016/S0167-4048(00)08018-4
+compsec/compsec19,1 December 2000,Number 8,Information Security Management: An Approach to Combine Process Certification And Product Evaluation.,Mariki M. Eloff;Sebastiaan H. von Solms;,https://doi.org/10.1016/S0167-4048(00)08019-6
+compsec/compsec19,1 December 2000,Number 8,Opening Up The Enterprise.,John Sherwood;,https://doi.org/10.1016/S0167-4048(00)08020-2
+compsec/compsec19,1 December 2000,Number 8,Securing The Electronic Market: The KEYSTONE Public Key Infrastructure Architecture.,Stefanos Gritzalis;Sokratis K. Katsikas;Dimitrios Lekkas;Konstantinos Moulinos;Eleni Polydoro;,https://doi.org/10.1016/S0167-4048(00)08022-6

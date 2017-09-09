@@ -1,0 +1,41 @@
+tcc/tcc2013,2013,None,Overcoming Weak Expectations.,Yevgeniy Dodis;Yu Yu;,https://doi.org/10.1007/978-3-642-36594-2_1
+tcc/tcc2013,2013,None,A Counterexample to the Chain Rule for Conditional HILL Entropy - And What Deniable Encryption Has to Do with It.,Stephan Krenn;Krzysztof Pietrzak;Akshay Wadia;,https://doi.org/10.1007/978-3-642-36594-2_2
+tcc/tcc2013,2013,None,Hardness Preserving Reductions via Cuckoo Hashing.,Itay Berman;Iftach Haitner;Ilan Komargodski;Moni Naor;,https://doi.org/10.1007/978-3-642-36594-2_3
+tcc/tcc2013,2013,None,Concurrent Zero Knowledge in the Bounded Player Model.,Vipul Goyal;Abhishek Jain;Rafail Ostrovsky;Silas Richelson;Ivan Visconti;,https://doi.org/10.1007/978-3-642-36594-2_4
+tcc/tcc2013,2013,None,Public-Coin Concurrent Zero-Knowledge in the Global Hash Model.,Ran Canetti;Huijia Lin;Omer Paneth;,https://doi.org/10.1007/978-3-642-36594-2_5
+tcc/tcc2013,2013,None,Succinct Malleable NIZKs and an Application to Compact Shuffles.,Melissa Chase;Markulf Kohlweiss;Anna Lysyanskaya;Sarah Meiklejohn;,https://doi.org/10.1007/978-3-642-36594-2_6
+tcc/tcc2013,2013,None,Encrypted Messages from the Heights of Cryptomania.,Craig Gentry;,https://doi.org/10.1007/978-3-642-36594-2_7
+tcc/tcc2013,2013,None,Attribute-Based Functional Encryption on Lattices.,Xavier Boyen;,https://doi.org/10.1007/978-3-642-36594-2_8
+tcc/tcc2013,2013,None,When Homomorphism Becomes a Liability.,Zvika Brakerski;,https://doi.org/10.1007/978-3-642-36594-2_9
+tcc/tcc2013,2013,None,"Garbling XOR Gates ""For Free"" in the Standard Model.",Benny Applebaum;,https://doi.org/10.1007/978-3-642-36594-2_10
+tcc/tcc2013,2013,None,"Why ""Fiat-Shamir for Proofs"" Lacks a Proof.",Nir Bitansky;Dana Dachman-Soled;Sanjam Garg;Abhishek Jain;Yael Tauman Kalai;Adriana López-Alt;Daniel Wichs;,https://doi.org/10.1007/978-3-642-36594-2_11
+tcc/tcc2013,2013,None,On the (In)security of Fischlin's Paradigm.,Prabhanjan Ananth;Raghav Bhaskar;Vipul Goyal;Vanishree Rao;,https://doi.org/10.1007/978-3-642-36594-2_12
+tcc/tcc2013,2013,None,Signatures of Correct Computation.,Charalampos Papamanthou;Elaine Shi;Roberto Tamassia;,https://doi.org/10.1007/978-3-642-36594-2_13
+tcc/tcc2013,2013,None,A Full Characterization of Functions that Imply Fair Coin Tossing and Ramifications to Fairness.,Gilad Asharov;Yehuda Lindell;Tal Rabin;,https://doi.org/10.1007/978-3-642-36594-2_14
+tcc/tcc2013,2013,None,Characterizing the Cryptographic Properties of Reactive 2-Party Functionalities.,R. Amzi Jeffs;Mike Rosulek;,https://doi.org/10.1007/978-3-642-36594-2_15
+tcc/tcc2013,2013,None,Feasibility and Completeness of Cryptographic Tasks in the Quantum World.,Serge Fehr;Jonathan Katz;Fang Song;Hong-Sheng Zhou;Vassilis Zikas;,https://doi.org/10.1007/978-3-642-36594-2_16
+tcc/tcc2013,2013,None,Languages with Efficient Zero-Knowledge PCPs are in SZK.,Mohammad Mahmoody;David Xiao;,https://doi.org/10.1007/978-3-642-36594-2_17
+tcc/tcc2013,2013,None,Succinct Non-interactive Arguments via Linear Interactive Proofs.,Nir Bitansky;Alessandro Chiesa;Yuval Ishai;Rafail Ostrovsky;Omer Paneth;,https://doi.org/10.1007/978-3-642-36594-2_18
+tcc/tcc2013,2013,None,Erratum: Succinct Non-interactive Arguments via Linear Interactive Proofs.,Nir Bitansky;Alessandro Chiesa;Yuval Ishai;Rafail Ostrovsky;Omer Paneth;,https://doi.org/10.1007/978-3-642-36594-2_41
+tcc/tcc2013,2013,None,Unprovable Security of Perfect NIZK and Non-interactive Non-malleable Commitments.,Rafael Pass;,https://doi.org/10.1007/978-3-642-36594-2_19
+tcc/tcc2013,2013,None,Secure Computation for Big Data.,Tal Malkin;,https://doi.org/10.1007/978-3-642-36594-2_20
+tcc/tcc2013,2013,None,Communication Locality in Secure Multi-party Computation - How to Run Sublinear Algorithms in a Distributed Setting.,Elette Boyle;Shafi Goldwasser;Stefano Tessaro;,https://doi.org/10.1007/978-3-642-36594-2_21
+tcc/tcc2013,2013,None,Distributed Oblivious RAM for Secure Two-Party Computation.,Steve Lu;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-642-36594-2_22
+tcc/tcc2013,2013,None,Black-Box Proof of Knowledge of Plaintext and Multiparty Computation with Low Communication Overhead.,Steven Myers;Mona Sergi;Abhi Shelat;,https://doi.org/10.1007/978-3-642-36594-2_23
+tcc/tcc2013,2013,None,Testing the Lipschitz Property over Product Distributions with Applications to Data Privacy.,Kashyap Dixit;Madhav Jha;Sofya Raskhodnikova;Abhradeep Thakurta;,https://doi.org/10.1007/978-3-642-36594-2_24
+tcc/tcc2013,2013,None,Limits on the Usefulness of Random Oracles.,Iftach Haitner;Eran Omri;Hila Zarosim;,https://doi.org/10.1007/978-3-642-36594-2_25
+tcc/tcc2013,2013,None,Analyzing Graphs with Node Differential Privacy.,Shiva Prasad Kasiviswanathan;Kobbi Nissim;Sofya Raskhodnikova;Adam D. Smith;,https://doi.org/10.1007/978-3-642-36594-2_26
+tcc/tcc2013,2013,None,Universally Composable Synchronous Computation.,Jonathan Katz;Ueli Maurer;Björn Tackmann;Vassilis Zikas;,https://doi.org/10.1007/978-3-642-36594-2_27
+tcc/tcc2013,2013,None,Multi-Client Non-interactive Verifiable Computation.,Seung Geol Choi;Jonathan Katz;Ranjit Kumaresan;Carlos Cid;,https://doi.org/10.1007/978-3-642-36594-2_28
+tcc/tcc2013,2013,None,On the Feasibility of Extending Oblivious Transfer.,Yehuda Lindell;Hila Zarosim;,https://doi.org/10.1007/978-3-642-36594-2_29
+tcc/tcc2013,2013,None,Computational Soundness of Coinductive Symbolic Security under Active Attacks.,Mohammad Hajiabadi;Bruce M. Kapron;,https://doi.org/10.1007/978-3-642-36594-2_30
+tcc/tcc2013,2013,None,Revisiting Lower and Upper Bounds for Selective Decommitments.,Rafail Ostrovsky;Vanishree Rao;Alessandra Scafuro;Ivan Visconti;,https://doi.org/10.1007/978-3-642-36594-2_31
+tcc/tcc2013,2013,None,On the Circular Security of Bit-Encryption.,Ron Rothblum;,https://doi.org/10.1007/978-3-642-36594-2_32
+tcc/tcc2013,2013,None,Cryptographic Hardness of Random Local Functions-Survey.,Benny Applebaum;,https://doi.org/10.1007/978-3-642-36594-2_33
+tcc/tcc2013,2013,None,On the Power of Correlated Randomness in Secure Computation.,Yuval Ishai;Eyal Kushilevitz;Sigurd Meldgaard;Claudio Orlandi;Anat Paskin-Cherniavsky;,https://doi.org/10.1007/978-3-642-36594-2_34
+tcc/tcc2013,2013,None,Constant-Overhead Secure Computation of Boolean Circuits using Preprocessing.,Ivan Damgård;Sarah Zakarias;,https://doi.org/10.1007/978-3-642-36594-2_35
+tcc/tcc2013,2013,None,Implementing Resettable UC-Functionalities with Untrusted Tamper-Proof Hardware-Tokens.,Nico Döttling;Thilo Mie;Jörn Müller-Quade;Tobias Nilges;,https://doi.org/10.1007/978-3-642-36594-2_36
+tcc/tcc2013,2013,None,A Cookbook for Black-Box Separations and a Recipe for UOWHFs.,Kfir Barhum;Thomas Holenstein;,https://doi.org/10.1007/978-3-642-36594-2_37
+tcc/tcc2013,2013,None,Algebraic (Trapdoor) One-Way Functions and Their Applications.,Dario Catalano;Dario Fiore;Rosario Gennaro;Konstantinos Vamvourellis;,https://doi.org/10.1007/978-3-642-36594-2_38
+tcc/tcc2013,2013,None,Randomness-Dependent Message Security.,Eleanor Birrell;Kai-Min Chung;Rafael Pass;Sidharth Telang;,https://doi.org/10.1007/978-3-642-36594-2_39
+tcc/tcc2013,2013,None,Errata to (Nearly) Round-Optimal Black-Box Constructions of Commitments Secure against Selective Opening Attacks.,David Xiao;,https://doi.org/10.1007/978-3-642-36594-2_40

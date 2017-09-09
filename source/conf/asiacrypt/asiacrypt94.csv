@@ -1,0 +1,36 @@
+asiacrypt/asiacrypt94,1994,Invited Lecture,Multifeature Security through Homomorphic Encryption.,Thomas Beth;,https://doi.org/10.1007/BFb0000420
+asiacrypt/asiacrypt94,1994,Secret Sharing,Multiplicative Non-abelian Sharing Schemes and their Application to Threshold Cryptography.,Yvo Desmedt;Giovanni Di Crescenzo;Mike Burmester;,https://doi.org/10.1007/BFb0000421
+asiacrypt/asiacrypt94,1994,Secret Sharing,Lower Bound on the Size of Shares of Nonperfect Secret Sharing Schemes.,Koji Okada;Kaoru Kurosawa;,https://doi.org/10.1007/BFb0000422
+asiacrypt/asiacrypt94,1994,Secret Sharing,On Sharing Many Secrets (Extended Abstract).,Wen-Ai Jackson;Keith M. Martin;Christine M. O'Keefe;,https://doi.org/10.1007/BFb0000423
+asiacrypt/asiacrypt94,1994,Secret Sharing,Combinatorial Interpretation of Secret Sharing Schemes.,Kaoru Kurosawa;Koji Okada;,https://doi.org/10.1007/BFb0000424
+asiacrypt/asiacrypt94,1994,Stream Ciphers,A Correlation Attack on the Binary Sequence Generators with Time-Varying Output Function.,Miodrag J. Mihaljevic;,https://doi.org/10.1007/BFb0000425
+asiacrypt/asiacrypt94,1994,Stream Ciphers,On the Linear Complexity of Nonlinear Filtered PN-sequences.,Amparo Fúster-Sabater;Pino Caballero-Gil;,https://doi.org/10.1007/BFb0000426
+asiacrypt/asiacrypt94,1994,Stream Ciphers,Intrinsic Statistical Weakness of Keystream Generators.,Jovan Dj. Golic;,https://doi.org/10.1007/BFb0000427
+asiacrypt/asiacrypt94,1994,Cryptographic Functions,Semi-bent Functions.,Seongtaek Chee;Sangjin Lee;Kwangjo Kim;,https://doi.org/10.1007/BFb0000428
+asiacrypt/asiacrypt94,1994,Cryptographic Functions,Structures of Cryptographic Functions with Strong Avalanche Characteristics (Extended Abstract).,Jennifer Seberry;Xian-Mo Zhang;Yuliang Zheng;,https://doi.org/10.1007/BFb0000429
+asiacrypt/asiacrypt94,1994,Invited Lecture,Formal Verification of Cryptographic Protocols: A Survey.,Catherine A. Meadows;,https://doi.org/10.1007/BFb0000430
+asiacrypt/asiacrypt94,1994,Protocols,Efficient Electronic Money (Extended Abstract).,Yacov Yacobi;,https://doi.org/10.1007/BFb0000431
+asiacrypt/asiacrypt94,1994,Protocols,How to Prevent Buying of Votes in Computer Elections.,Valtteri Niemi;Ari Renvall;,https://doi.org/10.1007/BFb0000432
+asiacrypt/asiacrypt94,1994,Protocols,Design and Analysis of Key Exchange Protocols via Secure Channel Identification.,Colin Boyd;Wenbo Mao;,https://doi.org/10.1007/BFb0000433
+asiacrypt/asiacrypt94,1994,Protocols,Zero-Knowledge Proofs of Computational Power in the Shared String Model.,Alfredo De Santis;Tatsuaki Okamoto;Giuseppe Persiano;,https://doi.org/10.1007/BFb0000434
+asiacrypt/asiacrypt94,1994,Invited Lectures,Information Security Aspects of Spread Spectrum Systems.,Hideki Imai;,https://doi.org/10.1007/BFb0000435
+asiacrypt/asiacrypt94,1994,Authentication and Digital Signatures,Combinatorial Structure of A-codes with r-fold Security.,Reihaneh Safavi-Naini;L. Tombak;,https://doi.org/10.1007/BFb0000436
+asiacrypt/asiacrypt94,1994,Authentication and Digital Signatures,Meta-Message Recovery and Meta-Blind Signature Schemes Based on the Discrete Logarithm Problem and Their Applications.,Patrick Horster;Markus Michels;Holger Petersen;,https://doi.org/10.1007/BFb0000437
+asiacrypt/asiacrypt94,1994,Authentication and Digital Signatures,A Digital Signature Scheme Based on Linear Error-correcting Block Codes.,Mohssen Alabbadi;Stephen B. Wicker;,https://doi.org/10.1007/BFb0000438
+asiacrypt/asiacrypt94,1994,Authentication and Digital Signatures,Secure Acceleration of DSS Signatures Using Insecure Server.,Philippe Béguin;Jean-Jacques Quisquater;,https://doi.org/10.1007/BFb0000439
+asiacrypt/asiacrypt94,1994,Chryptanalysis,The Magic Words are Squeamish Ossifrage.,Derek Atkins;Michael Graff;Arjen K. Lenstra;Paul C. Leyland;,https://doi.org/10.1007/BFb0000440
+asiacrypt/asiacrypt94,1994,Chryptanalysis,Cryptanalysis of Multiple Modes of Operation.,Eli Biham;,https://doi.org/10.1007/BFb0000441
+asiacrypt/asiacrypt94,1994,Chryptanalysis,Linear Cryptanalysis of LOKI and s2DES.,Toshio Tokita;Tohru Sorimachi;Mitsuru Matsui;,https://doi.org/10.1007/BFb0000442
+asiacrypt/asiacrypt94,1994,Hash Functions,Collisions and Inversions for Damgård's Whole Hash Function.,Jacques Patarin;,https://doi.org/10.1007/BFb0000443
+asiacrypt/asiacrypt94,1994,Hash Functions,Attacking the SL2 Hashing Scheme.,Chris Charnes;Josef Pieprzyk;,https://doi.org/10.1007/BFb0000444
+asiacrypt/asiacrypt94,1994,Key Distribution,Security of the Center in Key Distribution Schemes.,Kaoru Kurosawa;Koji Okada;Keiichi Sakano;,https://doi.org/10.1007/BFb0000445
+asiacrypt/asiacrypt94,1994,Key Distribution,Incidence Structures for Key Sharing (Extended Abstract).,Tsutomu Matsumoto;,https://doi.org/10.1007/BFb0000446
+asiacrypt/asiacrypt94,1994,Public Key Cryptography,A Public-Key Cryptosystem and a Digital Signature System BAsed on the Lucas Function Analogue to Discrete Logarithms.,Peter Smith;Christopher Skinner;,https://doi.org/10.1007/BFb0000447
+asiacrypt/asiacrypt94,1994,Public Key Cryptography,Higher Radix Nonrestoring Modular Multiplication Algorithm and Public-key LSI Architecture with Limited Hardware Resources.,Masayuki Abe;Hikaru Morita;,https://doi.org/10.1007/BFb0000448
+asiacrypt/asiacrypt94,1994,Public Key Cryptography,Low Exponent Attack against Elliptic Curve RSA.,Kaoru Kurosawa;Koji Okada;Shigeo Tsujii;,https://doi.org/10.1007/BFb0000449
+asiacrypt/asiacrypt94,1994,Block Cipher Algorithms,A Unified Markow Approach to Differential and Linear Cryptanalysis.,Luke O'Connor;Jovan Dj. Golic;,https://doi.org/10.1007/BFb0000450
+asiacrypt/asiacrypt94,1994,Block Cipher Algorithms,How to Strengthen DES Using Existing Hardware.,Eli Biham;Alex Biryukov;,https://doi.org/10.1007/BFb0000451
+asiacrypt/asiacrypt94,1994,Rump Session,Some Cryptographic Properties of Exponential Functions.,Xingong Chang;Zong-Duo Dai;Guang Gong;,https://doi.org/10.1007/BFb0000452
+asiacrypt/asiacrypt94,1994,Rump Session,Factoring: The DNA Solution.,Donald Beaver;,https://doi.org/10.1007/BFb0000453
+asiacrypt/asiacrypt94,1994,Rump Session,Can One Design a Signature Scheme Based on Error-Correctin Codes?,Jacques Stern;,https://doi.org/10.1007/BFb0000454
+asiacrypt/asiacrypt94,1994,Rump Session,DESV-1: A Variation of the Data Encryption Standard (DES).,Gary Carter;Andrew J. Clark;Lauren Nielsen;,https://doi.org/10.1007/BFb0000455

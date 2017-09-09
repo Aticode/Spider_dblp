@@ -1,0 +1,27 @@
+ches/ches2000,2000,Invited Talk,Software Implementation of Elliptic Curve Cryptography over Binary Fields.,Darrel Hankerson;Julio López Hernandez;Alfred Menezes;,https://doi.org/10.1007/3-540-44499-8_1
+ches/ches2000,2000,Implementation of Elliptic Curve Cryptosystems,Implementation of Elliptic Curve Cryptographic Coprocessor over GF(2m) on an FPGA.,Souichi Okada;Naoya Torii;Kouichi Itoh;Masahiko Takenaka;,https://doi.org/10.1007/3-540-44499-8_2
+ches/ches2000,2000,Implementation of Elliptic Curve Cryptosystems,A High Performance Reconfigurable Elliptic Curve Processor for GF(2m).,Gerardo Orlando;Christof Paar;,https://doi.org/10.1007/3-540-44499-8_3
+ches/ches2000,2000,Implementation of Elliptic Curve Cryptosystems,Fast Implementation of Elliptic Curve Defined over GF(pm) on CalmRISC with MAC2424 Coprocessor.,Jae Wook Chung;Sang Gyoo Sim;Pil Joong Lee;,https://doi.org/10.1007/3-540-44499-8_4
+ches/ches2000,2000,Power and Timing Analysis Attacks,Protecting Smart Cards from Passive Power Analysis with Detached Power Supplies.,Adi Shamir;,https://doi.org/10.1007/3-540-44499-8_5
+ches/ches2000,2000,Power and Timing Analysis Attacks,Smartly Analyzing the Simplicity and the Power of Simple Power Analysis on Smartcards.,Rita Mayer-Sommer;,https://doi.org/10.1007/3-540-44499-8_6
+ches/ches2000,2000,Power and Timing Analysis Attacks,Power Analysis Attacks and Algorithmic Approaches to their Countermeasures for Koblitz Curve Cryptosystems.,M. Anwarul Hasan;,https://doi.org/10.1007/3-540-44499-8_7
+ches/ches2000,2000,Power and Timing Analysis Attacks,A Timing Attack against RSA with the Chinese Remainder Theorem.,Werner Schindler;,https://doi.org/10.1007/3-540-44499-8_8
+ches/ches2000,2000,Hadrware Implementation of Block Cyphers,A Comparative Study of Performance of AES Final Candidates Using FPGAs.,Andreas Dandalis;Viktor K. Prasanna;José D. P. Rolim;,https://doi.org/10.1007/3-540-44499-8_9
+ches/ches2000,2000,Hadrware Implementation of Block Cyphers,A Dynamic FPGA Implementation of the Serpent Block Cipher.,Cameron Patterson;,https://doi.org/10.1007/3-540-44499-8_10
+ches/ches2000,2000,Hadrware Implementation of Block Cyphers,A 12 Gbps DES Encryptor/Decryptor Core in an FPGA.,Steven Trimberger;Raymond Pang;Amit Singh;,https://doi.org/10.1007/3-540-44499-8_11
+ches/ches2000,2000,Hadrware Implementation of Block Cyphers,A 155 Mbps Triple-DES Network Encryptor.,Herbert Leitold;Wolfgang Mayerwieser;Udo Payer;Karl C. Posch;Reinhard Posch;Johannes Wolkerstorfer;,https://doi.org/10.1007/3-540-44499-8_12
+ches/ches2000,2000,Hardware Architectures,An Energy Efficient Reconfigurable Public-Key Cryptograhpy Processor Architecture.,James Goodman;Anantha Chandrakasan;,https://doi.org/10.1007/3-540-44499-8_13
+ches/ches2000,2000,Hardware Architectures,High-Speed RSA Hardware Based on Barret's Modular Reduction Method.,Johann Großschädl;,https://doi.org/10.1007/3-540-44499-8_14
+ches/ches2000,2000,Hardware Architectures,Data Integrity in Hardware for Modular Arithmetic.,Colin D. Walter;,https://doi.org/10.1007/3-540-44499-8_15
+ches/ches2000,2000,Hardware Architectures,A Design for Modular Exponentiation Coprocessor in Mobile Telecommunication Terminals.,Takehiko Kato;Satoru Ito;Jun Anzai;Natsume Matsuzaki;,https://doi.org/10.1007/3-540-44499-8_16
+ches/ches2000,2000,Invited Talk,How to Explain Side-Channel Leakage to Your Kids.,David Naccache;Michael Tunstall;,https://doi.org/10.1007/3-540-44499-8_17
+ches/ches2000,2000,Power Analysis Attacks,On Boolean and Arithmetic Masking against Differential Power Analysis.,Jean-Sébastien Coron;Louis Goubin;,https://doi.org/10.1007/3-540-44499-8_18
+ches/ches2000,2000,Power Analysis Attacks,Using Second-Order Power Analysis to Attack DPA Resistant Software.,Thomas S. Messerges;,https://doi.org/10.1007/3-540-44499-8_19
+ches/ches2000,2000,Power Analysis Attacks,Differential Power Analysis in the Presence of Hardware Countermeasures.,Christophe Clavier;Jean-Sébastien Coron;Nora Dabbous;,https://doi.org/10.1007/3-540-44499-8_20
+ches/ches2000,2000,Arithmetic Architectures,Montgomery Multiplier and Squarer in GF(2m).,Huapeng Wu;,https://doi.org/10.1007/3-540-44499-8_21
+ches/ches2000,2000,Arithmetic Architectures,A Scalable and Unified Multiplier Architecture for Finite Fields GF(p) and GF(2m).,Erkay Savas;Alexandre F. Tenca;Çetin Kaya Koç;,https://doi.org/10.1007/3-540-44499-8_22
+ches/ches2000,2000,Arithmetic Architectures,Montgomery Exponentiation with no Final Subtractions: Improved Results.,Gaël Hachez;Jean-Jacques Quisquater;,https://doi.org/10.1007/3-540-44499-8_23
+ches/ches2000,2000,Physical Security and Cryptanalysis,Physical Security Devices for Computer Subsystems: A Survey of Attacks and Defences.,Steve H. Weingart;,https://doi.org/10.1007/3-540-44499-8_24
+ches/ches2000,2000,Physical Security and Cryptanalysis,Software-Hardware Trade-Offs: Application to A5/1 Cryptanalysis.,Thomas Pornin;Jacques Stern;,https://doi.org/10.1007/3-540-44499-8_25
+ches/ches2000,2000,New Schemes and Algorithms,MiniPASS: Authentication and Digital Signatures in a Constrained Environment.,Jeffrey Hoffstein;Joseph H. Silverman;,https://doi.org/10.1007/3-540-44499-8_26
+ches/ches2000,2000,New Schemes and Algorithms,Efficient Generation of Prime Numbers.,Marc Joye;Pascal Paillier;Serge Vaudenay;,https://doi.org/10.1007/3-540-44499-8_27

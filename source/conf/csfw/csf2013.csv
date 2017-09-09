@@ -1,0 +1,19 @@
+csfw/csf2013,2013,Information Flow 1,A Theory of Information-Flow Labels.,Benoît Montagu;Benjamin C. Pierce;Randy Pollack;,https://doi.org/10.1109/CSF.2013.8
+csfw/csf2013,2013,Information Flow 1,Precise Enforcement of Confidentiality for Reactive Systems.,Dante Zanarini;Mauro Jaskelioff;Alejandro Russo;,https://doi.org/10.1109/CSF.2013.9
+csfw/csf2013,2013,Information Flow 1,"Secure Multi-execution: Fine-Grained, Declassification-Aware, and Transparent.",Willard Rafnsson;Andrei Sabelfeld;,https://doi.org/10.1109/CSF.2013.10
+csfw/csf2013,2013,Language-Based Security,Memory Trace Oblivious Program Execution.,Chang Liu;Michael Hicks;Elaine Shi;,https://doi.org/10.1109/CSF.2013.11
+csfw/csf2013,2013,Language-Based Security,Oblivious Program Execution and Path-Sensitive Non-interference.,Jérémy Planul;John C. Mitchell;,https://doi.org/10.1109/CSF.2013.12
+csfw/csf2013,2013,Language-Based Security,Security and Privacy by Declarative Design.,Matteo Maffei;Kim Pecina;Manuel Reinert;,https://doi.org/10.1109/CSF.2013.13
+csfw/csf2013,2013,Language-Based Security,Type-Based Analysis of Generic Key Management APIs.,Pedro Adão;Riccardo Focardi;Flaminia L. Luccio;,https://doi.org/10.1109/CSF.2013.14
+csfw/csf2013,2013,Access Control,Cryptographically Enforced RBAC.,Anna Lisa Ferrara;Georg Fuchsbauer;Bogdan Warinschi;,https://doi.org/10.1109/CSF.2013.15
+csfw/csf2013,2013,Access Control,Quantum Information-Flow Security: Noninterference and Access Control.,Mingsheng Ying;Yuan Feng;Nengkun Yu;,https://doi.org/10.1109/CSF.2013.16
+csfw/csf2013,2013,Access Control,Application-Sensitive Access Control Evaluation Using Parameterized Expressiveness.,Timothy L. Hinrichs;Diego Martinoia;William C. Garrison III;Adam J. Lee;Alessandro Panebianco;Lenore D. Zuck;,https://doi.org/10.1109/CSF.2013.17
+csfw/csf2013,2013,Quantitative Security,AnoA: A Framework for Analyzing Anonymous Communication Protocols.,Michael Backes;Aniket Kate;Praveen Manoharan;Sebastian Meiser;Esfandiar Mohammadi;,https://doi.org/10.1109/CSF.2013.18
+csfw/csf2013,2013,Quantitative Security,A Trust Framework for Evaluating GNSS Signal Integrity.,Xihui Chen;Gabriele Lenzini;Miguel Martins;Sjouke Mauw;Jun Pang;,https://doi.org/10.1109/CSF.2013.19
+csfw/csf2013,2013,Quantitative Security,Probabilistic Point-to-Point Information Leakage.,Tom Chothia;Yusuke Kawamoto;Chris Novakovic;David Parker;,https://doi.org/10.1109/CSF.2013.20
+csfw/csf2013,2013,Information Flow 2,Information Flow Analysis for a Dynamically Typed Language with Staged Metaprogramming.,Martin Lester;Luke Ong;Max Schäfer;,https://doi.org/10.1109/CSF.2013.21
+csfw/csf2013,2013,Information Flow 2,Gradual Security Typing with References.,Luminous Fennell;Peter Thiemann;,https://doi.org/10.1109/CSF.2013.22
+csfw/csf2013,2013,Information Flow 2,Hybrid Information Flow Monitoring against Web Tracking.,Frédéric Besson;Nataliia Bielova;Thomas P. Jensen;,https://doi.org/10.1109/CSF.2013.23
+csfw/csf2013,2013,Privacy and Cryptography,Symbolic Universal Composability.,Florian Böhl;Dominique Unruh;,https://doi.org/10.1109/CSF.2013.24
+csfw/csf2013,2013,Privacy and Cryptography,Differential Privacy by Typing in Security Protocols.,Fabienne Eigner;Matteo Maffei;,https://doi.org/10.1109/CSF.2013.25
+csfw/csf2013,2013,Privacy and Cryptography,Verified Computational Differential Privacy with Applications to Smart Metering.,Gilles Barthe;George Danezis;Benjamin Grégoire;César Kunz;Santiago Zanella Béguelin;,https://doi.org/10.1109/CSF.2013.26

@@ -1,0 +1,30 @@
+fse/fse2013,2013,Block Ciphers,Complementing Feistel Ciphers.,Alex Biryukov;Ivica Nikolic;,https://doi.org/10.1007/978-3-662-43933-3_1
+fse/fse2013,2013,Block Ciphers,On the Wrong Key Randomisation and Key Equivalence Hypotheses in Matsui's Algorithm 2.,Andrey Bogdanov;Elmar Tischhauser;,https://doi.org/10.1007/978-3-662-43933-3_2
+fse/fse2013,2013,Block Ciphers,Cryptanalysis of WIDEA.,Gaëtan Leurent;,https://doi.org/10.1007/978-3-662-43933-3_3
+fse/fse2013,2013,Invited Talk,Towards Secure Distance Bounding.,Ioana Boureanu;Aikaterini Mitrokotsa;Serge Vaudenay;,https://doi.org/10.1007/978-3-662-43933-3_4
+fse/fse2013,2013,Lightweight Block Ciphers,Reflection Cryptanalysis of PRINCE-Like Ciphers.,Hadi Soleimany;Céline Blondeau;Xiaoli Yu;Wenling Wu;Kaisa Nyberg;Huiling Zhang;Lei Zhang;Yanfeng Wang;,https://doi.org/10.1007/978-3-662-43933-3_5
+fse/fse2013,2013,Lightweight Block Ciphers,Security Analysis of PRINCE.,Jérémy Jean;Ivica Nikolic;Thomas Peyrin;Lei Wang;Shuang Wu;,https://doi.org/10.1007/978-3-662-43933-3_6
+fse/fse2013,2013,Lightweight Block Ciphers,Cryptanalysis of Round-Reduced \mathttLED.,Ivica Nikolic;Lei Wang;Shuang Wu;,https://doi.org/10.1007/978-3-662-43933-3_7
+fse/fse2013,2013,Tweakable Block Ciphers,Tweakable Blockciphers with Asymptotically Optimal Security.,Rodolphe Lampe;Yannick Seurin;,https://doi.org/10.1007/978-3-662-43933-3_8
+fse/fse2013,2013,Stream Ciphers,Smashing WEP in a Passive Attack.,Pouyan Sepehrdad;Petr Susil;Serge Vaudenay;Martin Vuagnoux;,https://doi.org/10.1007/978-3-662-43933-3_9
+fse/fse2013,2013,Stream Ciphers,Full Plaintext Recovery Attack on Broadcast RC4.,Takanori Isobe;Toshihiro Ohigashi;Yuhei Watanabe;Masakatu Morii;,https://doi.org/10.1007/978-3-662-43933-3_10
+fse/fse2013,2013,Hash Functions,Time-Memory Trade-Offs for Near-Collisions.,Gaëtan Leurent;,https://doi.org/10.1007/978-3-662-43933-3_11
+fse/fse2013,2013,Hash Functions,Collision Attacks on Up to 5 Rounds of SHA-3 Using Generalized Internal Differentials.,Itai Dinur;Orr Dunkelman;Adi Shamir;,https://doi.org/10.1007/978-3-662-43933-3_12
+fse/fse2013,2013,Hash Functions,Rotational Cryptanalysis of Round-Reduced Keccak.,Pawel Morawiecki;Josef Pieprzyk;Marian Srebrny;,https://doi.org/10.1007/978-3-662-43933-3_13
+fse/fse2013,2013,Hash Functions,Partial-Collision Attack on the Round-Reduced Compression Function of Skein-256.,Hongbo Yu;Jiazhe Chen;Xiaoyun Wang;,https://doi.org/10.1007/978-3-662-43933-3_14
+fse/fse2013,2013,Message Authentication Codes,On Weak Keys and Forgery Attacks Against Polynomial-Based MAC Schemes.,Gordon Procter;Carlos Cid;,https://doi.org/10.1007/978-3-662-43933-3_15
+fse/fse2013,2013,Message Authentication Codes,Secure Message Authentication Against Related-Key Attack.,Rishiraj Bhattacharyya;Arnab Roy;,https://doi.org/10.1007/978-3-662-43933-3_16
+fse/fse2013,2013,Provable Security,Attacks and Security Proofs of EAX-Prime.,Kazuhiko Minematsu;Stefan Lucks;Hiraku Morita;Tetsu Iwata;,https://doi.org/10.1007/978-3-662-43933-3_17
+fse/fse2013,2013,Provable Security,Towards Understanding the Known-Key Security of Block Ciphers.,Elena Andreeva;Andrey Bogdanov;Bart Mennink;,https://doi.org/10.1007/978-3-662-43933-3_18
+fse/fse2013,2013,Provable Security,On Symmetric Encryption with Distinguishable Decryption Failures.,Alexandra Boldyreva;Jean Paul Degabriele;Kenneth G. Paterson;Martijn Stam;,https://doi.org/10.1007/978-3-662-43933-3_19
+fse/fse2013,2013,Implementation Aspects,Minimalism of Software Implementation - Extensive Performance Analysis of Symmetric Primitives on the RL78 Microcontroller.,Mitsuru Matsui;Yumiko Murakami;,https://doi.org/10.1007/978-3-662-43933-3_20
+fse/fse2013,2013,Implementation Aspects,Higher-Order Side Channel Security and Mask Refreshing.,Jean-Sébastien Coron;Emmanuel Prouff;Matthieu Rivain;Thomas Roche;,https://doi.org/10.1007/978-3-662-43933-3_21
+fse/fse2013,2013,Implementation Aspects,Masking Tables - An Underestimated Security Risk.,Michael Tunstall;Carolyn Whitnall;Elisabeth Oswald;,https://doi.org/10.1007/978-3-662-43933-3_22
+fse/fse2013,2013,Lightweight Authenticated Encryption,ALE: AES-Based Lightweight Authenticated Encryption.,Andrey Bogdanov;Florian Mendel;Francesco Regazzoni;Vincent Rijmen;Elmar Tischhauser;,https://doi.org/10.1007/978-3-662-43933-3_23
+fse/fse2013,2013,Lightweight Authenticated Encryption,Related-Key Attacks Against Full Hummingbird-2.,Markku-Juhani O. Saarinen;,https://doi.org/10.1007/978-3-662-43933-3_24
+fse/fse2013,2013,Stream Ciphers,A Low Data Complexity Attack on the GMR-2 Cipher Used in the Satellite Phones.,Ruilin Li;Heng Li;Chao Li;Bing Sun;,https://doi.org/10.1007/978-3-662-43933-3_25
+fse/fse2013,2013,Stream Ciphers,Improving Key Recovery to 784 and 799 Rounds of Trivium Using Optimized Cube Attacks.,Pierre-Alain Fouque;Thomas Vannet;,https://doi.org/10.1007/978-3-662-43933-3_26
+fse/fse2013,2013,Stream Ciphers,Near Collision Attack on the Grain v1 Stream Cipher.,Bin Zhang;Zhenqi Li;Dengguo Feng;Dongdai Lin;,https://doi.org/10.1007/978-3-662-43933-3_27
+fse/fse2013,2013,Automated Cryptanalysis,Exhausting Demirci-Selçuk Meet-in-the-Middle Attacks Against Reduced-Round AES.,Patrick Derbez;Pierre-Alain Fouque;,https://doi.org/10.1007/978-3-662-43933-3_28
+fse/fse2013,2013,Automated Cryptanalysis,A Framework for Automated Independent-Biclique Cryptanalysis.,Farzaneh Abed;Christian Forler;Eik List;Stefan Lucks;Jakob Wenzel;,https://doi.org/10.1007/978-3-662-43933-3_29
+fse/fse2013,2013,Boolean Functions,A New Criterion for Avoiding the Propagation of Linear Relations Through an Sbox.,Christina Boura;Anne Canteaut;,https://doi.org/10.1007/978-3-662-43933-3_30

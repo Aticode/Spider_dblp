@@ -1,0 +1,58 @@
+ccs/ccs2009,2009,Attacks,"Attacking cryptographic schemes based on ""perturbation polynomials"".",Martin R. Albrecht;Craig Gentry;Shai Halevi;Jonathan Katz;,http://doi.acm.org/10.1145/1653662.1653664
+ccs/ccs2009,2009,Attacks,Filter-resistant code injection on ARM.,Yves Younan;Pieter Philippaerts;Frank Piessens;Wouter Joosen;Sven Lachmund;Thomas Walter;,http://doi.acm.org/10.1145/1653662.1653665
+ccs/ccs2009,2009,Attacks,False data injection attacks against state estimation in electric power grids.,Yao Liu;Michael K. Reiter;Peng Ning;,http://doi.acm.org/10.1145/1653662.1653666
+ccs/ccs2009,2009,RFID,"EPC RFID tag security weaknesses and defenses: passport cards, enhanced drivers licenses, and beyond.",Karl Koscher;Ari Juels;Vjekoslav Brajkovic;Tadayoshi Kohno;,http://doi.acm.org/10.1145/1653662.1653668
+ccs/ccs2009,2009,RFID,An efficient forward private RFID protocol.,Côme Berbain;Olivier Billet;Jonathan Etrog;Henri Gilbert;,http://doi.acm.org/10.1145/1653662.1653669
+ccs/ccs2009,2009,RFID,"RFID privacy: relation between two notions, minimal condition, and efficient construction.",Changshe Ma;Yingjiu Li;Robert H. Deng;Tieyan Li;,http://doi.acm.org/10.1145/1653662.1653670
+ccs/ccs2009,2009,Formal techniques,CoSP: a general framework for computational soundness proofs.,Michael Backes;Dennis Hofheinz;Dominique Unruh;,http://doi.acm.org/10.1145/1653662.1653672
+ccs/ccs2009,2009,Formal techniques,Reactive noninterference.,Aaron Bohannon;Benjamin C. Pierce;Vilhelm Sjöberg;Stephanie Weirich;Steve Zdancewic;,http://doi.acm.org/10.1145/1653662.1653673
+ccs/ccs2009,2009,Formal techniques,Computational soundness for key exchange protocols with symmetric encryption.,Ralf Küsters;Max Tuengerthal;,http://doi.acm.org/10.1145/1653662.1653674
+ccs/ccs2009,2009,Formal techniques,A probabilistic approach to hybrid role mining.,Mario Frank;Andreas P. Streich;David A. Basin;Joachim M. Buhmann;,http://doi.acm.org/10.1145/1653662.1653675
+ccs/ccs2009,2009,Applied cryptography,Efficient pseudorandom functions from the decisional linear assumption and weaker variants.,Allison B. Lewko;Brent Waters;,http://doi.acm.org/10.1145/1653662.1653677
+ccs/ccs2009,2009,Applied cryptography,Improving privacy and security in multi-authority attribute-based encryption.,Melissa Chase;Sherman S. M. Chow;,http://doi.acm.org/10.1145/1653662.1653678
+ccs/ccs2009,2009,Applied cryptography,Oblivious transfer with access control.,Jan Camenisch;Maria Dubovitskaya;Gregory Neven;,http://doi.acm.org/10.1145/1653662.1653679
+ccs/ccs2009,2009,Anonymization networks,NISAN: network information service for anonymization networks.,Andriy Panchenko;Stefan Richter;Arne Rache;,http://doi.acm.org/10.1145/1653662.1653681
+ccs/ccs2009,2009,Anonymization networks,Certificateless onion routing.,Dario Catalano;Dario Fiore;Rosario Gennaro;,http://doi.acm.org/10.1145/1653662.1653682
+ccs/ccs2009,2009,Anonymization networks,ShadowWalker: peer-to-peer anonymous communication using redundant structured topologies.,Prateek Mittal;Nikita Borisov;,http://doi.acm.org/10.1145/1653662.1653683
+ccs/ccs2009,2009,Cloud security,Ripley: automatically securing web 2.0 applications through replicated execution.,K. Vikram;Abhishek Prateek;V. Benjamin Livshits;,http://doi.acm.org/10.1145/1653662.1653685
+ccs/ccs2009,2009,Cloud security,HAIL: a high-availability and integrity layer for cloud storage.,Kevin D. Bowers;Ari Juels;Alina Oprea;,http://doi.acm.org/10.1145/1653662.1653686
+ccs/ccs2009,2009,Cloud security,"Hey, you, get off of my cloud: exploring information leakage in third-party compute clouds.",Thomas Ristenpart;Eran Tromer;Hovav Shacham;Stefan Savage;,http://doi.acm.org/10.1145/1653662.1653687
+ccs/ccs2009,2009,Cloud security,Dynamic provable data possession.,C. Christopher Erway;Alptekin Küpçü;Charalampos Papamanthou;Roberto Tamassia;,http://doi.acm.org/10.1145/1653662.1653688
+ccs/ccs2009,2009,Security of mobile services,On cellular botnets: measuring the impact of malicious devices on a cellular network core.,Patrick Traynor;Michael Lin;Machigar Ongtang;Vikhyath Rao;Trent Jaeger;Patrick D. McDaniel;Thomas F. La Porta;,http://doi.acm.org/10.1145/1653662.1653690
+ccs/ccs2009,2009,Security of mobile services,On lightweight mobile phone application certification.,William Enck;Machigar Ongtang;Patrick D. McDaniel;,http://doi.acm.org/10.1145/1653662.1653691
+ccs/ccs2009,2009,Security of mobile services,SMILE: encounter-based trust for mobile social services.,Justin Manweiler;Ryan Scudellari;Landon P. Cox;,http://doi.acm.org/10.1145/1653662.1653692
+ccs/ccs2009,2009,Software security using behavior,Battle of Botcraft: fighting bots in online games with human observational proofs.,Steven Gianvecchio;Zhenyu Wu;Mengjun Xie;Haining Wang;,http://doi.acm.org/10.1145/1653662.1653694
+ccs/ccs2009,2009,Software security using behavior,Fides: remote anomaly-based cheat detection using client emulation.,Edward C. Kaiser;Wu-chang Feng;Travis Schluessler;,http://doi.acm.org/10.1145/1653662.1653695
+ccs/ccs2009,2009,Software security using behavior,Behavior based software theft detection.,Xinran Wang;Yoon-chan Jhi;Sencun Zhu;Peng Liu;,http://doi.acm.org/10.1145/1653662.1653696
+ccs/ccs2009,2009,Systems and networks,The fable of the bees: incentivizing robust revocation decision making in ad hoc networks.,Steffen Reidt;Mudhakar Srivatsa;Shane Balfe;,http://doi.acm.org/10.1145/1653662.1653698
+ccs/ccs2009,2009,Systems and networks,Effective implementation of the cell broadband engineTM isolation loader.,Masana Murase;Kanna Shimizu;Wilfred Plouffe;Masaharu Sakamoto;,http://doi.acm.org/10.1145/1653662.1653699
+ccs/ccs2009,2009,Systems and networks,On achieving good operating points on an ROC plane using stochastic anomaly score prediction.,Muhammad Qasim Ali;Hassan Khan;Ali Sajjad;Syed Ali Khayam;,http://doi.acm.org/10.1145/1653662.1653700
+ccs/ccs2009,2009,Privacy,On non-cooperative location privacy: a game-theoretic analysis.,Julien Freudiger;Mohammad Hossein Manshaei;Jean-Pierre Hubaux;David C. Parkes;,http://doi.acm.org/10.1145/1653662.1653702
+ccs/ccs2009,2009,Privacy,Privacy-preserving genomic computation through program specialization.,Rui Wang;XiaoFeng Wang;Zhou Li;Haixu Tang;Michael K. Reiter;Zheng Dong;,http://doi.acm.org/10.1145/1653662.1653703
+ccs/ccs2009,2009,Privacy,Feeling-based location privacy protection for location-based services.,Toby Xu;Ying Cai;,http://doi.acm.org/10.1145/1653662.1653704
+ccs/ccs2009,2009,Privacy,Multi-party off-the-record messaging.,Ian Goldberg;Berkant Ustaoglu;Matthew Van Gundy;Hao Chen;,http://doi.acm.org/10.1145/1653662.1653705
+ccs/ccs2009,2009,Anonymization techniques,The bayesian traffic analysis of mix networks.,Carmela Troncoso;George Danezis;,http://doi.acm.org/10.1145/1653662.1653707
+ccs/ccs2009,2009,Anonymization techniques,As-awareness in Tor path selection.,Matthew Edman;Paul F. Syverson;,http://doi.acm.org/10.1145/1653662.1653708
+ccs/ccs2009,2009,Anonymization techniques,Membership-concealing overlay networks.,Eugene Y. Vasserman;Rob Jansen;James Tyra;Nicholas Hopper;Yongdae Kim;,http://doi.acm.org/10.1145/1653662.1653709
+ccs/ccs2009,2009,Embedded and mobile devices,On the difficulty of software-based attestation of embedded devices.,Claude Castelluccia;Aurélien Francillon;Daniele Perito;Claudio Soriente;,http://doi.acm.org/10.1145/1653662.1653711
+ccs/ccs2009,2009,Embedded and mobile devices,Proximity-based access control for implantable medical devices.,Kasper Bonne Rasmussen;Claude Castelluccia;Thomas S. Heydt-Benjamin;Srdjan Capkun;,http://doi.acm.org/10.1145/1653662.1653712
+ccs/ccs2009,2009,Embedded and mobile devices,XCS: cross channel scripting and its impact on web applications.,Hristo Bojinov;Elie Bursztein;Dan Boneh;,http://doi.acm.org/10.1145/1653662.1653713
+ccs/ccs2009,2009,Technique for ensuring software security,A security-preserving compiler for distributed programs: from information-flow policies to cryptographic mechanisms.,Cédric Fournet;Gurvan Le Guernic;Tamara Rezk;,http://doi.acm.org/10.1145/1653662.1653715
+ccs/ccs2009,2009,Technique for ensuring software security,Finding bugs in exceptional situations of JNI programs.,Siliang Li;Gang Tan;,http://doi.acm.org/10.1145/1653662.1653716
+ccs/ccs2009,2009,Technique for ensuring software security,Secure open source collaboration: an empirical study of linus' law.,Andrew Meneely;Laurie A. Williams;,http://doi.acm.org/10.1145/1653662.1653717
+ccs/ccs2009,2009,Designing secure systems,On voting machine design for verification and testability.,Cynthia Sturton;Susmit Jha;Sanjit A. Seshia;David A. Wagner;,http://doi.acm.org/10.1145/1653662.1653719
+ccs/ccs2009,2009,Designing secure systems,Secure in-VM monitoring using hardware virtualization.,Monirul I. Sharif;Wenke Lee;Weidong Cui;Andrea Lanzi;,http://doi.acm.org/10.1145/1653662.1653720
+ccs/ccs2009,2009,Designing secure systems,A metadata calculus for secure information sharing.,Mudhakar Srivatsa;Dakshi Agrawal;Steffen Reidt;,http://doi.acm.org/10.1145/1653662.1653721
+ccs/ccs2009,2009,Designing secure systems,Multiple password interference in text passwords and click-based graphical passwords.,Sonia Chiasson;Alain Forget;Elizabeth Stobert;Paul C. van Oorschot;Robert Biddle;,http://doi.acm.org/10.1145/1653662.1653722
+ccs/ccs2009,2009,Attacks,Can they hear me now?: a security analysis of law enforcement wiretaps.,Micah Sherr;Gaurav Shah;Eric Cronin;Sandy Clark;Matt Blaze;,http://doi.acm.org/10.1145/1653662.1653724
+ccs/ccs2009,2009,Attacks,English shellcode.,Joshua Mason;Sam Small;Fabian Monrose;Greg MacManus;,http://doi.acm.org/10.1145/1653662.1653725
+ccs/ccs2009,2009,Attacks,Learning your identity and disease from research papers: information leaks in genome wide association study.,Rui Wang;Yong Fuga Li;XiaoFeng Wang;Haixu Tang;Xiao-yong Zhou;,http://doi.acm.org/10.1145/1653662.1653726
+ccs/ccs2009,2009,System security,Countering kernel rootkits with lightweight hook protection.,Zhi Wang;Xuxian Jiang;Weidong Cui;Peng Ning;,http://doi.acm.org/10.1145/1653662.1653728
+ccs/ccs2009,2009,System security,Mapping kernel objects to enable systematic integrity checking.,Martim Carbone;Weidong Cui;Long Lu;Wenke Lee;Marcus Peinado;Xuxian Jiang;,http://doi.acm.org/10.1145/1653662.1653729
+ccs/ccs2009,2009,System security,Robust signatures for kernel data structures.,Brendan Dolan-Gavitt;Abhinav Srivastava;Patrick Traynor;Jonathon T. Giffin;,http://doi.acm.org/10.1145/1653662.1653730
+ccs/ccs2009,2009,Anonymization,A new cell counter based attack against tor.,Zhen Ling;Junzhou Luo;Wei Yu;Xinwen Fu;Dong Xuan;Weijia Jia;,http://doi.acm.org/10.1145/1653662.1653732
+ccs/ccs2009,2009,Anonymization,Scalable onion routing with torsk.,Jon McLachlan;Andrew Tran;Nicholas Hopper;Yongdae Kim;,http://doi.acm.org/10.1145/1653662.1653733
+ccs/ccs2009,2009,Anonymization,Anonymous credentials on a standard java card.,Patrik Bichsel;Jan Camenisch;Thomas Groß;Victor Shoup;,http://doi.acm.org/10.1145/1653662.1653734
+ccs/ccs2009,2009,Malware and bots,Large-scale malware indexing using function-call graphs.,Xin Hu;Tzi-cker Chiueh;Kang G. Shin;,http://doi.acm.org/10.1145/1653662.1653736
+ccs/ccs2009,2009,Malware and bots,Dispatcher: enabling active botnet infiltration using automatic protocol reverse-engineering.,Juan Caballero;Pongsin Poosankam;Christian Kreibich;Dawn Xiaodong Song;,http://doi.acm.org/10.1145/1653662.1653737
+ccs/ccs2009,2009,Malware and bots,Your botnet is my botnet: analysis of a botnet takeover.,Brett Stone-Gross;Marco Cova;Lorenzo Cavallaro;Bob Gilbert;Martin Szydlowski;Richard A. Kemmerer;Christopher Kruegel;Giovanni Vigna;,http://doi.acm.org/10.1145/1653662.1653738

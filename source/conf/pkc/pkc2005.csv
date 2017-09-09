@@ -1,0 +1,28 @@
+pkc/pkc2005,2005,Cryptanalysis,A New Related Message Attack on RSA.,Oded Yacobi;Yacov Yacobi;,https://doi.org/10.1007/978-3-540-30580-4_1
+pkc/pkc2005,2005,Cryptanalysis,Breaking a Cryptographic Protocol with Pseudoprimes.,Daniel Bleichenbacher;,https://doi.org/10.1007/978-3-540-30580-4_2
+pkc/pkc2005,2005,Cryptanalysis,"Experimenting with Faults, Lattices and the DSA.",David Naccache;Phong Q. Nguyen;Michael Tunstall;Claire Whelan;,https://doi.org/10.1007/978-3-540-30580-4_3
+pkc/pkc2005,2005,Key Establishment,Securing RSA-KEM via the AES.,Jakob Jonsson;Matthew J. B. Robshaw;,https://doi.org/10.1007/978-3-540-30580-4_4
+pkc/pkc2005,2005,Key Establishment,One-Time Verifier-Based Encrypted Key Exchange.,Michel Abdalla;Olivier Chevassut;David Pointcheval;,https://doi.org/10.1007/978-3-540-30580-4_5
+pkc/pkc2005,2005,Key Establishment,Password-Based Authenticated Key Exchange in the Three-Party Setting.,Michel Abdalla;Pierre-Alain Fouque;David Pointcheval;,https://doi.org/10.1007/978-3-540-30580-4_6
+pkc/pkc2005,2005,Optimization,On the Optimization of Side-Channel Attacks by Advanced Stochastic Methods.,Werner Schindler;,https://doi.org/10.1007/978-3-540-30580-4_7
+pkc/pkc2005,2005,Optimization,Symmetric Subgroup Membership Problems.,Kristian Gjøsteen;,https://doi.org/10.1007/978-3-540-30580-4_8
+pkc/pkc2005,2005,Building Blocks,Optimizing Robustness While Generating Shared Secret Safe Primes.,Emil Ong;John Kubiatowicz;,https://doi.org/10.1007/978-3-540-30580-4_9
+pkc/pkc2005,2005,Building Blocks,Fast Multi-computations with Integer Similarity Strategy.,Wu-Chuan Yang;Dah-Jyh Guan;Chi-Sung Laih;,https://doi.org/10.1007/978-3-540-30580-4_10
+pkc/pkc2005,2005,Building Blocks,Efficient Proofs of Knowledge of Discrete Logarithms and Representations in Groups with Hidden Order.,Endre Bangerter;Jan Camenisch;Ueli M. Maurer;,https://doi.org/10.1007/978-3-540-30580-4_11
+pkc/pkc2005,2005,Building Blocks,Efficient k-Out-of-n Oblivious Transfer Schemes with Adaptive and Non-adaptive Queries.,Cheng-Kang Chu;Wen-Guey Tzeng;,https://doi.org/10.1007/978-3-540-30580-4_12
+pkc/pkc2005,2005,RSA Cryptography,Converse Results to the Wiener Attack on RSA.,Ron Steinfeld;Scott Contini;Huaxiong Wang;Josef Pieprzyk;,https://doi.org/10.1007/978-3-540-30580-4_13
+pkc/pkc2005,2005,RSA Cryptography,RSA with Balanced Short Exponents and Its Application to Entity Authentication.,Hung-Min Sun;Cheng-Ta Yang;,https://doi.org/10.1007/978-3-540-30580-4_14
+pkc/pkc2005,2005,RSA Cryptography,The Sampling Twice Technique for the RSA-Based Cryptosystems with Anonymity.,Ryotaro Hayashi;Keisuke Tanaka;,https://doi.org/10.1007/978-3-540-30580-4_15
+pkc/pkc2005,2005,RSA Cryptography,From Fixed-Length to Arbitrary-Length RSA Encoding Schemes Revisited.,Julien Cathalo;Jean-Sébastien Coron;David Naccache;,https://doi.org/10.1007/978-3-540-30580-4_16
+pkc/pkc2005,2005,Multivariate Asymmetric Cryptography,Tractable Rational Map Signature.,Lih-Chung Wang;Yuh-Hua Hu;Feipei Lai;Chun-yen Chou;Bo-Yin Yang;,https://doi.org/10.1007/978-3-540-30580-4_17
+pkc/pkc2005,2005,Multivariate Asymmetric Cryptography,Cryptanalysis of the Tractable Rational Map Cryptosystem.,Antoine Joux;Sébastien Kunz-Jacques;Frédéric Muller;Pierre-Michel Ricordel;,https://doi.org/10.1007/978-3-540-30580-4_18
+pkc/pkc2005,2005,Multivariate Asymmetric Cryptography,Large Superfluous Keys in Multivariate Quadratic Asymmetric Systems.,Christopher Wolf;Bart Preneel;,https://doi.org/10.1007/978-3-540-30580-4_19
+pkc/pkc2005,2005,Multivariate Asymmetric Cryptography,Cryptanalysis of HFEv and Internal Perturbation of HFE.,Jintai Ding;Dieter Schmidt;,https://doi.org/10.1007/978-3-540-30580-4_20
+pkc/pkc2005,2005,Signature Schemes,A Generic Scheme Based on Trapdoor One-Way Permutations with Signatures as Short as Possible.,Louis Granboulan;,https://doi.org/10.1007/978-3-540-30580-4_21
+pkc/pkc2005,2005,Signature Schemes,Cramer-Damgård Signatures Revisited: Efficient Flat-Tree Signatures Based on Factoring.,Dario Catalano;Rosario Gennaro;,https://doi.org/10.1007/978-3-540-30580-4_22
+pkc/pkc2005,2005,Signature Schemes,The Security of the FDH Variant of Chaum's Undeniable Signature Scheme.,Wakaha Ogata;Kaoru Kurosawa;Swee-Huay Heng;,https://doi.org/10.1007/978-3-540-30580-4_23
+pkc/pkc2005,2005,Signature Schemes,Efficient Threshold RSA Signatures with General Moduli and No Extra Assumptions.,Ivan Damgård;Kasper Dupont;,https://doi.org/10.1007/978-3-540-30580-4_24
+pkc/pkc2005,2005,Identity-Based Cryptography,Improved Identity-Based Signcryption.,Liqun Chen;John Malone-Lee;,https://doi.org/10.1007/978-3-540-30580-4_25
+pkc/pkc2005,2005,Identity-Based Cryptography,Efficient Multi-receiver Identity-Based Encryption and Its Application to Broadcast Encryption.,Joonsang Baek;Reihaneh Safavi-Naini;Willy Susilo;,https://doi.org/10.1007/978-3-540-30580-4_26
+pkc/pkc2005,2005,Identity-Based Cryptography,CBE from CL-PKE: A Generic Construction and Efficient Schemes.,Sattam S. Al-Riyami;Kenneth G. Paterson;,https://doi.org/10.1007/978-3-540-30580-4_27
+pkc/pkc2005,2005,Best Paper Award,A Verifiable Random Function with Short Proofs and Keys.,Yevgeniy Dodis;Aleksandr Yampolskiy;,https://doi.org/10.1007/978-3-540-30580-4_28

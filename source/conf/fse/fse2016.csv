@@ -1,0 +1,29 @@
+fse/fse2016,2016,Operating Modes,New Bounds for Keyed Sponges with Extendable Output: Independence Between Capacity and Message Length.,Yusuke Naito;Kan Yasuda;,https://doi.org/10.1007/978-3-662-52993-5_1
+fse/fse2016,2016,Operating Modes,RIV for Robust Authenticated Encryption.,Farzaneh Abed;Christian Forler;Eik List;Stefan Lucks;Jakob Wenzel;,https://doi.org/10.1007/978-3-662-52993-5_2
+fse/fse2016,2016,Operating Modes,A MAC Mode for Lightweight Block Ciphers.,Atul Luykx;Bart Preneel;Elmar Tischhauser;Kan Yasuda;,https://doi.org/10.1007/978-3-662-52993-5_3
+fse/fse2016,2016,Stream-Cipher Cryptanalysis,Cryptanalysis of the Full Spritz Stream Cipher.,Subhadeep Banik;Takanori Isobe;,https://doi.org/10.1007/978-3-662-52993-5_4
+fse/fse2016,2016,Stream-Cipher Cryptanalysis,Attacks Against Filter Generators Exploiting Monomial Mappings.,Anne Canteaut;Yann Rotella;,https://doi.org/10.1007/978-3-662-52993-5_5
+fse/fse2016,2016,Components,Lightweight MDS Generalized Circulant Matrices.,Meicheng Liu;Siang Meng Sim;,https://doi.org/10.1007/978-3-662-52993-5_6
+fse/fse2016,2016,Components,On the Construction of Lightweight Circulant Involutory MDS Matrices.,Yongqiang Li;Mingsheng Wang;,https://doi.org/10.1007/978-3-662-52993-5_7
+fse/fse2016,2016,Components,Optimizing S-Box Implementations for Several Criteria Using SAT Solvers.,Ko Stoffelen;,https://doi.org/10.1007/978-3-662-52993-5_8
+fse/fse2016,2016,Side-Channels and Implementations,Verifiable Side-Channel Security of Cryptographic Implementations: Constant-Time MEE-CBC.,José Bacelar Almeida;Manuel Barbosa;Gilles Barthe;François Dupressoir;,https://doi.org/10.1007/978-3-662-52993-5_9
+fse/fse2016,2016,Side-Channels and Implementations,White-Box Cryptography in the Gray Box - - A Hardware Implementation and its Side Channels -.,Pascal Sasdrich;Amir Moradi;Tim Güneysu;,https://doi.org/10.1007/978-3-662-52993-5_10
+fse/fse2016,2016,Side-Channels and Implementations,Detecting Flawed Masking Schemes with Leakage Detection Tests.,Oscar Reparaz;,https://doi.org/10.1007/978-3-662-52993-5_11
+fse/fse2016,2016,Side-Channels and Implementations,There Is Wisdom in Harnessing the Strengths of Your Enemy: Customized Encoding to Thwart Side-Channel Attacks.,Houssem Maghrebi;Victor Servant;Julien Bringer;,https://doi.org/10.1007/978-3-662-52993-5_12
+fse/fse2016,2016,Automated Tools for Cryptanalysis,Automatic Search for Key-Bridging Technique: Applications to LBlock and TWINE.,Li Lin;Wenling Wu;Yafei Zheng;,https://doi.org/10.1007/978-3-662-52993-5_13
+fse/fse2016,2016,Automated Tools for Cryptanalysis,MILP-Based Automatic Search Algorithms for Differential and Linear Trails for Speck.,Kai Fu;Meiqin Wang;Yinghua Guo;Siwei Sun;Lei Hu;,https://doi.org/10.1007/978-3-662-52993-5_14
+fse/fse2016,2016,Automated Tools for Cryptanalysis,Automatic Search for the Best Trails in ARX: Application to Block Cipher Speck.,Alex Biryukov;Vesselin Velichkov;Yann Le Corre;,https://doi.org/10.1007/978-3-662-52993-5_15
+fse/fse2016,2016,Designs,Stream Ciphers: A Practical Solution for Efficient Homomorphic-Ciphertext Compression.,Anne Canteaut;Sergiu Carpov;Caroline Fontaine;Tancrède Lepoint;María Naya-Plasencia;Pascal Paillier;Renaud Sirdey;,https://doi.org/10.1007/978-3-662-52993-5_16
+fse/fse2016,2016,Designs,Efficient Design Strategies Based on the AES Round Function.,Jérémy Jean;Ivica Nikolic;,https://doi.org/10.1007/978-3-662-52993-5_17
+fse/fse2016,2016,Block-Cipher Cryptanalysis,Bit-Based Division Property and Application to Simon Family.,Yosuke Todo;Masakatu Morii;,https://doi.org/10.1007/978-3-662-52993-5_18
+fse/fse2016,2016,Block-Cipher Cryptanalysis,Algebraic Insights into the Secret Feistel Network.,Léo Perrin;Aleksei Udovenko;,https://doi.org/10.1007/978-3-662-52993-5_19
+fse/fse2016,2016,Block-Cipher Cryptanalysis,Integrals Go Statistical: Cryptanalysis of Full Skipjack Variants.,Meiqin Wang;Tingting Cui;Huaifeng Chen;Ling Sun;Long Wen;Andrey Bogdanov;,https://doi.org/10.1007/978-3-662-52993-5_20
+fse/fse2016,2016,Block-Cipher Cryptanalysis,Note on Impossible Differential Attacks.,Patrick Derbez;,https://doi.org/10.1007/978-3-662-52993-5_21
+fse/fse2016,2016,Block-Cipher Cryptanalysis,Improved Linear Hull Attack on Round-Reduced Simon with Dynamic Key-Guessing Techniques.,Huaifeng Chen;Xiaoyun Wang;,https://doi.org/10.1007/978-3-662-52993-5_22
+fse/fse2016,2016,Foundations and Theory,Modeling Random Oracles Under Unpredictable Queries.,Pooya Farshim;Arno Mittelbach;,https://doi.org/10.1007/978-3-662-52993-5_23
+fse/fse2016,2016,Foundations and Theory,Practical Order-Revealing Encryption with Limited Leakage.,Nathan Chenette;Kevin Lewi;Stephen A. Weis;David J. Wu;,https://doi.org/10.1007/978-3-662-52993-5_24
+fse/fse2016,2016,Foundations and Theory,Strengthening the Known-Key Security Notion for Block Ciphers.,Benoît Cogliati;Yannick Seurin;,https://doi.org/10.1007/978-3-662-52993-5_25
+fse/fse2016,2016,Foundations and Theory,"Related-Key Almost Universal Hash Functions: Definitions, Constructions and Applications.",Peng Wang;Yuling Li;Liting Zhang;Kaiyan Zheng;,https://doi.org/10.1007/978-3-662-52993-5_26
+fse/fse2016,2016,Authenticated-Encryption and Hash Function Cryptanalysis,Key Recovery Attack Against 2.5-Round \pi -Cipher.,Christina Boura;Avik Chakraborti;Gaëtan Leurent;Goutam Paul;Dhiman Saha;Hadi Soleimany;Valentin Suder;,https://doi.org/10.1007/978-3-662-52993-5_27
+fse/fse2016,2016,Authenticated-Encryption and Hash Function Cryptanalysis,Cryptanalysis of Reduced NORX.,Nasour Bagheri;Tao Huang;Keting Jia;Florian Mendel;Yu Sasaki;,https://doi.org/10.1007/978-3-662-52993-5_28
+fse/fse2016,2016,Authenticated-Encryption and Hash Function Cryptanalysis,Analysis of the Kupyna-256 Hash Function.,Christoph Dobraunig;Maria Eichlseder;Florian Mendel;,https://doi.org/10.1007/978-3-662-52993-5_29

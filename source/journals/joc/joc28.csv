@@ -1,0 +1,28 @@
+joc/joc28,January 2015,Number 1,Slidex Attacks on the Even-Mansour Encryption Scheme.,Orr Dunkelman;Nathan Keller;Adi Shamir;,https://doi.org/10.1007/s00145-013-9164-7
+joc/joc28,January 2015,Number 1,Subtleties in the Definition of IND-CCA: When and How Should Challenge Decryption Be Disallowed?,Mihir Bellare;Dennis Hofheinz;Eike Kiltz;,https://doi.org/10.1007/s00145-013-9167-4
+joc/joc28,January 2015,Number 1,Efficient Asynchronous Verifiable Secret Sharing and Multiparty Computation.,Arpita Patra;Ashish Choudhury;C. Pandu Rangan;,https://doi.org/10.1007/s00145-013-9172-7
+joc/joc28,January 2015,Number 1,Cryptanalysis of SHA-0 and Reduced SHA-1.,Eli Biham;Rafi Chen;Antoine Joux;,https://doi.org/10.1007/s00145-014-9179-8
+joc/joc28,January 2015,Number 1,Quantum Private Information Retrieval has Linear Communication Complexity.,Ämin Baumeler;Anne Broadbent;,https://doi.org/10.1007/s00145-014-9180-2
+joc/joc28,January 2015,Number 1,Confined Guessing: New Signatures From Standard Assumptions.,Florian Böhl;Dennis Hofheinz;Tibor Jager;Jessica Koch;Christoph Striecks;,https://doi.org/10.1007/s00145-014-9183-z
+joc/joc28,April 2015,Number 2,New Attacks on IDEA with at Least 6 Rounds.,Eli Biham;Orr Dunkelman;Nathan Keller;Adi Shamir;,https://doi.org/10.1007/s00145-013-9162-9
+joc/joc28,April 2015,Number 2,Efficient Recursive Diffusion Layers for Block Ciphers and Hash Functions.,Mahdi Sajadieh;Mohammad Dakhilalian;Hamid Mala;Pouyan Sepehrdad;,https://doi.org/10.1007/s00145-013-9163-8
+joc/joc28,April 2015,Number 2,The Rebound Attack and Subspace Distinguishers: Application to Whirlpool.,Mario Lamberger;Florian Mendel;Martin Schläffer;Christian Rechberger;Vincent Rijmen;,https://doi.org/10.1007/s00145-013-9166-5
+joc/joc28,April 2015,Number 2,From Non-adaptive to Adaptive Pseudorandom Functions.,Itay Berman;Iftach Haitner;,https://doi.org/10.1007/s00145-013-9169-2
+joc/joc28,April 2015,Number 2,An Efficient Protocol for Secure Two-Party Computation in the Presence of Malicious Adversaries.,Yehuda Lindell;Benny Pinkas;,https://doi.org/10.1007/s00145-014-9177-x
+joc/joc28,April 2015,Number 2,Computing on Authenticated Data.,Jae Hyun Ahn;Dan Boneh;Jan Camenisch;Susan Hohenberger;Abhi Shelat;Brent Waters;,https://doi.org/10.1007/s00145-014-9182-0
+joc/joc28,July 2015,Number 3,Improved Single-Key Attacks on 8-Round AES-192 and AES-256.,Orr Dunkelman;Nathan Keller;Adi Shamir;,https://doi.org/10.1007/s00145-013-9159-4
+joc/joc28,July 2015,Number 3,GNUC: A New Universal Composability Framework.,Dennis Hofheinz;Victor Shoup;,https://doi.org/10.1007/s00145-013-9160-y
+joc/joc28,July 2015,Number 3,On the Complexity of Constructing Pseudorandom Functions (Especially when They Don't Exist).,Eric Miles;Emanuele Viola;,https://doi.org/10.1007/s00145-013-9161-x
+joc/joc28,July 2015,Number 3,How to Achieve Perfect Simulation and a Complete Problem for Non-interactive Perfect Zero-Knowledge.,Lior Malka;,https://doi.org/10.1007/s00145-013-9165-6
+joc/joc28,July 2015,Number 3,Protocols for Multiparty Coin Toss with a Dishonest Majority.,Amos Beimel;Eran Omri;Ilan Orlov;,https://doi.org/10.1007/s00145-013-9168-3
+joc/joc28,July 2015,Number 3,Polynomial-Time Solutions of Computational Problems in Noncommutative-Algebraic Cryptography.,Boaz Tsaban;,https://doi.org/10.1007/s00145-013-9170-9
+joc/joc28,July 2015,Number 3,Provable Unlinkability Against Traffic Analysis with Low Message Overhead.,Ron Berman;Amos Fiat;Marcin Gomulkiewicz;Marek Klonowski;Miroslaw Kutylowski;Tomer Levinboim;Amnon Ta-Shma;,https://doi.org/10.1007/s00145-013-9171-8
+joc/joc28,July 2015,Number 3,Tight Security for Signature Schemes Without Random Oracles.,Sven Schäge;,https://doi.org/10.1007/s00145-013-9173-6
+joc/joc28,July 2015,Number 3,A Unified Approach to Deterministic Encryption: New Constructions and a Connection to Computational Entropy.,Benjamin Fuller;Adam O'Neill;Leonid Reyzin;,https://doi.org/10.1007/s00145-013-9174-5
+joc/joc28,July 2015,Number 3,Reflection Cryptanalysis of PRINCE-Like Ciphers.,Hadi Soleimany;Céline Blondeau;Xiaoli Yu;Wenling Wu;Kaisa Nyberg;Huiling Zhang;Lei Zhang;Yanfeng Wang;,https://doi.org/10.1007/s00145-013-9175-4
+joc/joc28,October 2015,Number 4,Almost-Everywhere Secure Computation with Edge Corruptions.,Nishanth Chandran;Juan A. Garay;Rafail Ostrovsky;,https://doi.org/10.1007/s00145-013-9176-3
+joc/joc28,October 2015,Number 4,On Weak Keys and Forgery Attacks Against Polynomial-Based MAC Schemes.,Gordon Procter;Carlos Cid;,https://doi.org/10.1007/s00145-014-9178-9
+joc/joc28,October 2015,Number 4,Spreading Alerts Quietly and the Subgroup Escape Problem.,James Aspnes;Zoë Diamadi;Aleksandr Yampolskiy;Kristian Gjøsteen;René Peralta;,https://doi.org/10.1007/s00145-014-9181-1
+joc/joc28,October 2015,Number 4,Using Fully Homomorphic Hybrid Encryption to Minimize Non-interative Zero-Knowledge Proofs.,Craig Gentry;Jens Groth;Yuval Ishai;Chris Peikert;Amit Sahai;Adam D. Smith;,https://doi.org/10.1007/s00145-014-9184-y
+joc/joc28,October 2015,Number 4,New Proofs for NMAC and HMAC: Security without Collision Resistance.,Mihir Bellare;,https://doi.org/10.1007/s00145-014-9185-x
+joc/joc28,October 2015,Number 4,Collision Attack on Grindahl.,Thomas Peyrin;,https://doi.org/10.1007/s00145-014-9186-9

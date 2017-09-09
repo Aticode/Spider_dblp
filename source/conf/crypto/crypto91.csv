@@ -1,0 +1,38 @@
+crypto/crypto91,1991,Protocol Design and Analysis,A Calculus for Access Control in Distributed Systems.,Martín Abadi;Michael Burrows;Butler W. Lampson;Gordon D. Plotkin;,https://doi.org/10.1007/3-540-46766-1_1
+crypto/crypto91,1991,Protocol Design and Analysis,Deriving the Complete Knowledge of Participants in Cryptographic Protocols (Extended Abstract).,Marie-Jeanne Toussaint;,https://doi.org/10.1007/3-540-46766-1_2
+crypto/crypto91,1991,Protocol Design and Analysis,Systematic Design of Two-Party Authentication Protocols.,Ray Bird;Inder S. Gopal;Amir Herzberg;Philippe A. Janson;Shay Kutten;Refik Molva;Moti Yung;,https://doi.org/10.1007/3-540-46766-1_3
+crypto/crypto91,1991,Combinatorics and Authentication,Combinatorial Characterizations of Authentication Codes.,Douglas R. Stinson;,https://doi.org/10.1007/3-540-46766-1_4
+crypto/crypto91,1991,Combinatorics and Authentication,Universal Hashing and Authentication Codes.,Douglas R. Stinson;,https://doi.org/10.1007/3-540-46766-1_5
+crypto/crypto91,1991,Combinatorics and Authentication,On Correlation-Immune Functions.,Paul Camion;Claude Carlet;Pascale Charpin;Nicolas Sendrier;,https://doi.org/10.1007/3-540-46766-1_6
+crypto/crypto91,1991,Secret Sharing and Information Theory,On the Size of Shares for Secret Sharing Schemes.,Renato M. Capocelli;Alfredo De Santis;Luisa Gargano;Ugo Vaccaro;,https://doi.org/10.1007/3-540-46766-1_7
+crypto/crypto91,1991,Secret Sharing and Information Theory,On Verification in Secret Sharing.,Cynthia Dwork;,https://doi.org/10.1007/3-540-46766-1_8
+crypto/crypto91,1991,Secret Sharing and Information Theory,Non-Interactive and Information-Theoretic Secure Verifiable Secret Sharing.,Torben P. Pedersen;,https://doi.org/10.1007/3-540-46766-1_9
+crypto/crypto91,1991,Secret Sharing and Information Theory,Multiparty Secret Key Exchange Using a Random Deal of Cards.,Michael J. Fischer;Rebecca N. Wright;,https://doi.org/10.1007/3-540-46766-1_10
+crypto/crypto91,1991,Cryptanalysis,"Differential Cryptanalysis of Snefru, Khafre, REDOC-II, LOKI and Lucifer.",Eli Biham;Adi Shamir;,https://doi.org/10.1007/3-540-46766-1_11
+crypto/crypto91,1991,Cryptanalysis,A Known Plaintext Attack of FEAL-4 and FEAL-6.,Anne Tardy-Corfdir;Henri Gilbert;,https://doi.org/10.1007/3-540-46766-1_12
+crypto/crypto91,1991,Cryptanalysis,A Switching Closure Test to Analyze Cryptosystems.,Hikaru Morita;Kazuo Ohta;Shoji Miyaguchi;,https://doi.org/10.1007/3-540-46766-1_13
+crypto/crypto91,1991,Cryptanalysis,An Attack on the Last Two Rounds of MD4.,Bert den Boer;Antoon Bosselaers;,https://doi.org/10.1007/3-540-46766-1_14
+crypto/crypto91,1991,Cryptanalysis,The Cryptanalysis of a New Public-Key Cryptosystem Based on Modular Knapsacks.,Yeow Meng Chee;Antoine Joux;Jacques Stern;,https://doi.org/10.1007/3-540-46766-1_15
+crypto/crypto91,1991,Complexity Theory,"A One-Round, Two-Prover, Zero-Knowledge Protocol for NP.",Dror Lapidot;Adi Shamir;,https://doi.org/10.1007/3-540-46766-1_16
+crypto/crypto91,1991,Complexity Theory,Interactive Proofs with Space Bounded Provers.,Joe Kilian;Ronitt Rubinfeld;,https://doi.org/10.1007/3-540-46766-1_17
+crypto/crypto91,1991,Complexity Theory,Functional Inversion and Communication Complexity.,Shang-Hua Teng;,https://doi.org/10.1007/3-540-46766-1_18
+crypto/crypto91,1991,Complexity Theory,The Use of Interaction in Public Cryptosystems (Extended Abstract).,Steven Rudich;,https://doi.org/10.1007/3-540-46766-1_19
+crypto/crypto91,1991,Cryptographic Schemes Based on Number Theory,New Public-Key Schemes Based on Elliptic Curves over the Ring Zn.,Kenji Koyama;Ueli M. Maurer;Tatsuaki Okamoto;Scott A. Vanstone;,https://doi.org/10.1007/3-540-46766-1_20
+crypto/crypto91,1991,Cryptographic Schemes Based on Number Theory,Efficient Algorithms for the Construction of Hyperelliptic Cryptosystems.,Tatsuaki Okamoto;Kouichi Sakurai;,https://doi.org/10.1007/3-540-46766-1_21
+crypto/crypto91,1991,Cryptographic Schemes Based on Number Theory,CM-Curves with Good Cryptographic Properties.,Neal Koblitz;,https://doi.org/10.1007/3-540-46766-1_22
+crypto/crypto91,1991,Cryptographic Schemes Based on Number Theory,A New ID-Based Key Sharing System.,Shigeo Tsujii;Jinhui Chao;,https://doi.org/10.1007/3-540-46766-1_23
+crypto/crypto91,1991,Pseudorandomness,Pseudo-random Generators from One-way Functions (Abstract).,Michael Luby;,https://doi.org/10.1007/3-540-46766-1_24
+crypto/crypto91,1991,Pseudorandomness,New Results on Pseudorandom Permutation Generators Based on the DES Scheme.,Jacques Patarin;,https://doi.org/10.1007/3-540-46766-1_25
+crypto/crypto91,1991,Applications and Implementations,Faster Modular Multiplication by Operand Scaling.,Colin D. Walter;,https://doi.org/10.1007/3-540-46766-1_26
+crypto/crypto91,1991,Applications and Implementations,Universal Electronic Cash.,Tatsuaki Okamoto;Kazuo Ohta;,https://doi.org/10.1007/3-540-46766-1_27
+crypto/crypto91,1991,Applications and Implementations,"How To Break and Repair A ""Provably Secure"" Untraceable Payment System.",Birgit Pfitzmann;Michael Waidner;,https://doi.org/10.1007/3-540-46766-1_28
+crypto/crypto91,1991,Applications and Implementations,Practical Quantum Oblivious Transfer.,Charles H. Bennett;Gilles Brassard;Claude Crépeau;Marie-Hélène Skubiszewska;,https://doi.org/10.1007/3-540-46766-1_29
+crypto/crypto91,1991,Applications and Implementations,Exploiting Parallelism in Hardware Implementations of the DES.,Albert G. Broscius;Jonathan M. Smith;,https://doi.org/10.1007/3-540-46766-1_30
+crypto/crypto91,1991,Secure Computation Protocols,Foundations of Secure Interactive Computing.,Donald Beaver;,https://doi.org/10.1007/3-540-46766-1_31
+crypto/crypto91,1991,Secure Computation Protocols,Secure Computation (Abstract).,Silvio Micali;Phillip Rogaway;,https://doi.org/10.1007/3-540-46766-1_32
+crypto/crypto91,1991,Secure Computation Protocols,A Cryptographic Scheme for Computerized Elections.,Kenneth R. Iversen;,https://doi.org/10.1007/3-540-46766-1_33
+crypto/crypto91,1991,Secure Computation Protocols,Efficient Multiparty Protocols Using Circuit Randomization.,Donald Beaver;,https://doi.org/10.1007/3-540-46766-1_34
+crypto/crypto91,1991,Public-Key Cryptosystems and Signatures,Non-Interactive Zero-Knowledge Proof of Knowledge and Chosen Ciphertext Attack.,Charles Rackoff;Daniel R. Simon;,https://doi.org/10.1007/3-540-46766-1_35
+crypto/crypto91,1991,Public-Key Cryptosystems and Signatures,Towards Practical Public Key Systems Secure Against Chosen Ciphertext Attacks.,Ivan Damgård;,https://doi.org/10.1007/3-540-46766-1_36
+crypto/crypto91,1991,Public-Key Cryptosystems and Signatures,Shared Generation of Authenticators and Signatures (Extended Abstract).,Yvo Desmedt;Yair Frankel;,https://doi.org/10.1007/3-540-46766-1_37
+crypto/crypto91,1991,Public-Key Cryptosystems and Signatures,"Cryptographically Strong Undeniable Signatures, Unconditionally Secure for the Signer.",David Chaum;Eugène van Heijst;Birgit Pfitzmann;,https://doi.org/10.1007/3-540-46766-1_38

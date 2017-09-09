@@ -1,0 +1,26 @@
+joc/joc24,January 2011,Number 1,Practical Collisions for EnRUPT.,Sebastiaan Indesteege;Bart Preneel;,https://doi.org/10.1007/s00145-010-9058-x
+joc/joc24,January 2011,Number 1,An L(1/3) Discrete Logarithm Algorithm for Low Degree Curves.,Andreas Enge;Pierrick Gaudry;Emmanuel Thomé;,https://doi.org/10.1007/s00145-010-9057-y
+joc/joc24,January 2011,Number 1,Wildcarded Identity-Based Encryption.,Michel Abdalla;James Birkett;Dario Catalano;Alexander W. Dent;John Malone-Lee;Gregory Neven;Jacob C. N. Schuldt;Nigel P. Smart;,https://doi.org/10.1007/s00145-010-9060-3
+joc/joc24,January 2011,Number 1,Universally Composable Symbolic Security Analysis.,Ran Canetti;Jonathan Herzog;,https://doi.org/10.1007/s00145-009-9055-0
+joc/joc24,January 2011,Number 1,Cryptanalysis of the Tillich-Zémor Hash Function.,Markus Grassl;Ivana Ilic;Spyros S. Magliveras;Rainer Steinwandt;,https://doi.org/10.1007/s00145-010-9063-0
+joc/joc24,January 2011,Number 1,Utility Dependence in Correct and Fair Rational Secret Sharing.,Gilad Asharov;Yehuda Lindell;,https://doi.org/10.1007/s00145-010-9064-z
+joc/joc24,January 2011,Number 1,Efficient Non-Malleable Commitment Schemes.,Marc Fischlin;Roger Fischlin;,https://doi.org/10.1007/s00145-009-9043-4
+joc/joc24,April 2011,Number 2,Guest Editorial.,Christof Paar;Jean-Jacques Quisquater;Berk Sunar;,https://doi.org/10.1007/s00145-011-9099-9
+joc/joc24,April 2011,Number 2,Glitch and Laser Fault Attacks onto a Secure AES Implementation on a SRAM-Based FPGA.,Gaetan Canivet;Paolo Maistri;Régis Leveugle;Jessy Clédière;Florent Valette;Marc Renaudin;,https://doi.org/10.1007/s00145-010-9083-9
+joc/joc24,April 2011,Number 2,Mutual Information Analysis: a Comprehensive Study.,Lejla Batina;Benedikt Gierlichs;Emmanuel Prouff;Matthieu Rivain;François-Xavier Standaert;Nicolas Veyrat-Charvillon;,https://doi.org/10.1007/s00145-010-9084-8
+joc/joc24,April 2011,Number 2,Secure Hardware Implementation of Nonlinear Functions in the Presence of Glitches.,Svetla Nikova;Vincent Rijmen;Martin Schläffer;,https://doi.org/10.1007/s00145-010-9085-7
+joc/joc24,April 2011,Number 2,"Side-Channel Resistant Crypto for Less than 2, 300 GE.",Axel Poschmann;Amir Moradi;Khoongming Khoo;Chu-Wee Lim;Huaxiong Wang;San Ling;,https://doi.org/10.1007/s00145-010-9086-6
+joc/joc24,April 2011,Number 2,Fault-Based Attack on Montgomery's Ladder Algorithm.,Agustin Dominguez-Oviedo;M. Anwar Hasan;Bijan Ansari;,https://doi.org/10.1007/s00145-010-9087-5
+joc/joc24,April 2011,Number 2,Improved Ring Oscillator PUF: An FPGA-friendly Secure Primitive.,Abhranil Maiti;Patrick Schaumont;,https://doi.org/10.1007/s00145-010-9088-4
+joc/joc24,April 2011,Number 2,On the Security of Oscillator-Based Random Number Generators.,Mathieu Baudet;David Lubicz;Julien Micolod;André Tassiaux;,https://doi.org/10.1007/s00145-010-9089-3
+joc/joc24,July 2011,Number 3,Breaking the Stream Ciphers F-FCSR-H and F-FCSR-16 in Real Time.,Martin Hell;Thomas Johansson;,https://doi.org/10.1007/s00145-009-9053-2
+joc/joc24,July 2011,Number 3,Endomorphisms for Faster Elliptic Curve Cryptography on a Large Class of Curves.,Steven D. Galbraith;Xibin Lin;Michael Scott;,https://doi.org/10.1007/s00145-010-9065-y
+joc/joc24,July 2011,Number 3,Possibility and Impossibility Results for Selective Decommitments.,Dennis Hofheinz;,https://doi.org/10.1007/s00145-010-9066-x
+joc/joc24,July 2011,Number 3,Impossibility Results for Universal Composability in Public-Key Models and with Fixed Inputs.,Dafna Kidron;Yehuda Lindell;,https://doi.org/10.1007/s00145-010-9069-7
+joc/joc24,July 2011,Number 3,Short Undeniable Signatures Based on Group Homomorphisms.,Jean Monnerat;Serge Vaudenay;,https://doi.org/10.1007/s00145-010-9070-1
+joc/joc24,July 2011,Number 3,Tweakable Block Ciphers.,Moses Liskov;Ronald L. Rivest;David A. Wagner;,https://doi.org/10.1007/s00145-010-9073-y
+joc/joc24,October 2011,Number 4,Resource Fairness and Composability of Cryptographic Protocols.,Juan A. Garay;Philip D. MacKenzie;Manoj Prabhakaran;Ke Yang;,https://doi.org/10.1007/s00145-010-9080-z
+joc/joc24,October 2011,Number 4,Efficient Selective Identity-Based Encryption Without Random Oracles.,Dan Boneh;Xavier Boyen;,https://doi.org/10.1007/s00145-010-9078-6
+joc/joc24,October 2011,Number 4,Securely Obfuscating Re-Encryption.,Susan Hohenberger;Guy N. Rothblum;Abhi Shelat;Vinod Vaikuntanathan;,https://doi.org/10.1007/s00145-010-9077-7
+joc/joc24,October 2011,Number 4,Secure Computation Without Authentication.,Boaz Barak;Ran Canetti;Yehuda Lindell;Rafael Pass;Tal Rabin;,https://doi.org/10.1007/s00145-010-9075-9
+joc/joc24,October 2011,Number 4,Adaptive Zero-Knowledge Proofs and Adaptively Secure Oblivious Transfer.,Yehuda Lindell;Hila Zarosim;,https://doi.org/10.1007/s00145-010-9072-z

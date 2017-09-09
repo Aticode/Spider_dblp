@@ -1,0 +1,32 @@
+acsac/acsac1994,1994,None,A practical approach to high assurance multilevel secure computing service.,Judith N. Froscher;Myong H. Kang;John P. McDermott;Oliver Costich;Carl E. Landwehr;,https://doi.org/10.1109/CSAC.1994.367324
+acsac/acsac1994,1994,None,Security concerns for distributed systems.,Rob Dobry;Mary Schanken;,https://doi.org/10.1109/CSAC.1994.367323
+acsac/acsac1994,1994,None,Security for the Common Object Request Broker Architecture (CORBA).,Susan L. Chapin;William R. Herndon;LouAnna Notargiacomo;Melonyi L. Katz;Thomas J. Mowbray;,https://doi.org/10.1109/CSAC.1994.367322
+acsac/acsac1994,1994,None,Composing system integrity using I/O automata.,Edward Amoroso;Michael Merritt;,https://doi.org/10.1109/CSAC.1994.367321
+acsac/acsac1994,1994,None,Applying the Abadi-Lamport composition theorem in real-world secure system integration environments.,Judith A. Hemenway;Jonathan Fellows;,https://doi.org/10.1109/CSAC.1994.367294
+acsac/acsac1994,1994,None,Role-based access control: a multi-dimensional view.,Ravi S. Sandhu;Edward J. Coyne;Hal L. Feinstein;Charles E. Youman;,https://doi.org/10.1109/CSAC.1994.367293
+acsac/acsac1994,1994,None,Secure system composition: five practical initiatives.,Greg King;,https://doi.org/10.1109/CSAC.1994.367320
+acsac/acsac1994,1994,None,Architectural impact on performance of a multilevel database system.,Myong H. Kang;Judith N. Froscher;Ravi Mukkamala;,https://doi.org/10.1109/CSAC.1994.367319
+acsac/acsac1994,1994,None,Benchmarking multilevel secure database systems using the MITRE benchmark.,Vinti Doshi;William R. Herndon;Sushil Jajodia;Catherine D. McCollum;,https://doi.org/10.1109/CSAC.1994.367318
+acsac/acsac1994,1994,None,Organizing MLS databases from a data modelling point of view.,Günther Pernul;Gerald Quirchmayr;,https://doi.org/10.1109/CSAC.1994.367317
+acsac/acsac1994,1994,None,A practical approach to user authentication.,Marcus Brown;Samuel Joe Rogers;,https://doi.org/10.1109/CSAC.1994.367316
+acsac/acsac1994,1994,None,Audit reduction and misuse detection in heterogeneous environments: framework and application.,Paul Proctor;,https://doi.org/10.1109/CSAC.1994.367315
+acsac/acsac1994,1994,None,The design of an audit trail analysis tool.,Eric A. Fisch;Gregory B. White;Udo W. Pooch;,https://doi.org/10.1109/CSAC.1994.367314
+acsac/acsac1994,1994,None,Automated detection of vulnerabilities in privileged programs by execution monitoring.,Calvin Ko;George Fink;Karl N. Levitt;,https://doi.org/10.1109/CSAC.1994.367313
+acsac/acsac1994,1994,None,Networked information discovery and retrieval tools: security capabilities and needs.,Lorrayne J. Schaefer;Brian W. McKenney;,https://doi.org/10.1109/CSAC.1994.367312
+acsac/acsac1994,1994,None,Property-based testing of privileged programs.,George Fink;Karl N. Levitt;,https://doi.org/10.1109/CSAC.1994.367311
+acsac/acsac1994,1994,None,STU-III-multilevel secure computer interface.,Eugene D. Myers;,https://doi.org/10.1109/CSAC.1994.367310
+acsac/acsac1994,1994,None,A prototype multilevel-secure DoD directory.,Peter K. Boucher;Teresa F. Lunt;,https://doi.org/10.1109/CSAC.1994.367309
+acsac/acsac1994,1994,None,A validated security policy modeling approach.,James W. Freeman;Richard B. Neely;M. A. Heckard;,https://doi.org/10.1109/CSAC.1994.367308
+acsac/acsac1994,1994,None,A secure Email gateway (building an RCAS external interface).,Randall E. Smith;,https://doi.org/10.1109/CSAC.1994.367307
+acsac/acsac1994,1994,None,The MITRE security perimeter.,David S. Goldberg;,https://doi.org/10.1109/CSAC.1994.367306
+acsac/acsac1994,1994,None,"EINet: a secure, open network for electronic commerce.",Doug Rosenthal;,https://doi.org/10.1109/CSAC.1994.367305
+acsac/acsac1994,1994,None,System-of-systems security engineering.,Deborah J. Bodeau;,https://doi.org/10.1109/CSAC.1994.367304
+acsac/acsac1994,1994,None,AOS: an avionics operating system for multi-level secure real-time environments.,Mary M. Bernstein;Chulsoo Kim;,https://doi.org/10.1109/CSAC.1994.367303
+acsac/acsac1994,1994,None,The effects of trusted technology on distributed applications.,Michael V. Joyce;,https://doi.org/10.1109/CSAC.1994.367302
+acsac/acsac1994,1994,None,Availability: theory and fundamentals for practical evaluation and use.,Klaus J. Keus;Markus Ullmann;,https://doi.org/10.1109/CSAC.1994.367301
+acsac/acsac1994,1994,None,Ops/Intel interface lessons learned: the integrator's perspective.,Kate Arndt;Michael Burgoon;Jeanne Firey;Keith Rodenhausen;,https://doi.org/10.1109/CSAC.1994.367300
+acsac/acsac1994,1994,None,Using security models to investigate CMW design and implementation.,C. L. Robinson;Simon R. Wiseman;,https://doi.org/10.1109/CSAC.1994.367299
+acsac/acsac1994,1994,None,Performance analysis of a method for high level prevention of traffic analysis using measurements from a campus network.,Balaji R. Venkatraman;Richard E. Newman-Wolfe;,https://doi.org/10.1109/CSAC.1994.367298
+acsac/acsac1994,1994,None,"Where we stand in multilevel security (MLS): requirements, approaches, issues, and lessons learned.",Bill Neugent;,https://doi.org/10.1109/CSAC.1994.367297
+acsac/acsac1994,1994,None,"Editorial: why bad things happen to good systems, and what to do about it.",Jay J. Kahn;Marshall D. Abrams;,https://doi.org/10.1109/CSAC.1994.367296
+acsac/acsac1994,1994,None,Editorial: a view of cryptography in TCSEC products.,Jeremy Epstein;,https://doi.org/10.1109/CSAC.1994.367295

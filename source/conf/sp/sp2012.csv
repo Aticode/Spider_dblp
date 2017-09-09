@@ -1,0 +1,40 @@
+sp/sp2012,2012,System Security,A Framework to Eliminate Backdoors from Response-Computable Authentication.,Shuaifu Dai;Tao Wei;Chao Zhang;Tielei Wang;Yu Ding;Zhenkai Liang;Wei Zou;,https://doi.org/10.1109/SP.2012.10
+sp/sp2012,2012,System Security,Safe Loading - A Foundation for Secure Execution of Untrusted Programs.,Mathias Payer;Tobias Hartmann;Thomas R. Gross;,https://doi.org/10.1109/SP.2012.11
+sp/sp2012,2012,System Security,Flash Memory for Ubiquitous Hardware Security Functions: True Random Number Generation and Device Fingerprints.,Yinglei Wang;Wing-Kei S. Yu;Shuo Wu;Greg Malysa;G. Edward Suh;Edwin Kan;,https://doi.org/10.1109/SP.2012.12
+sp/sp2012,2012,System Security,ReDeBug: Finding Unpatched Code Clones in Entire OS Distributions.,Jiyong Jang;Abeer Agrawal;David Brumley;,https://doi.org/10.1109/SP.2012.13
+sp/sp2012,2012,Malware,Prudent Practices for Designing Malware Experiments: Status Quo and Outlook.,Christian Rossow;Christian J. Dietrich;Chris Grier;Christian Kreibich;Vern Paxson;Norbert Pohlmann;Herbert Bos;Maarten van Steen;,https://doi.org/10.1109/SP.2012.14
+sp/sp2012,2012,Malware,Abusing File Processing in Malware Detectors for Fun and Profit.,Suman Jana;Vitaly Shmatikov;,https://doi.org/10.1109/SP.2012.15
+sp/sp2012,2012,Malware,Dissecting Android Malware: Characterization and Evolution.,Yajin Zhou;Xuxian Jiang;,https://doi.org/10.1109/SP.2012.16
+sp/sp2012,2012,Attacks 1,Distance Hijacking Attacks on Distance Bounding Protocols.,Cas J. F. Cremers;Kasper Bonne Rasmussen;Benedikt Schmidt;Srdjan Capkun;,https://doi.org/10.1109/SP.2012.17
+sp/sp2012,2012,Attacks 1,Don't Trust Satellite Phones: A Security Analysis of Two Satphone Standards.,Benedikt Driessen;Ralf Hund;Carsten Willems;Christof Paar;Thorsten Holz;,https://doi.org/10.1109/SP.2012.18
+sp/sp2012,2012,Attacks 1,Memento: Learning Secrets from Process Footprints.,Suman Jana;Vitaly Shmatikov;,https://doi.org/10.1109/SP.2012.19
+sp/sp2012,2012,Foundations,Foundations of Logic-Based Trust Management.,Moritz Y. Becker;Alessandra Russo;Nik Sultana;,https://doi.org/10.1109/SP.2012.20
+sp/sp2012,2012,Foundations,Formalizing and Enforcing Purpose Restrictions in Privacy Policies.,Michael Carl Tschantz;Anupam Datta;Jeannette M. Wing;,https://doi.org/10.1109/SP.2012.21
+sp/sp2012,2012,Foundations,Sharing Mobile Code Securely with Information Flow Control.,Owen Arden;Michael D. George;Jed Liu;K. Vikram;Aslan Askarov;Andrew C. Myers;,https://doi.org/10.1109/SP.2012.22
+sp/sp2012,2012,Access Control and Attestation,The Psychology of Security for the Home Computer User.,Adele E. Howe;Indrajit Ray;Mark Roberts;Malgorzata Urbanska;Zinta S. Byrne;,https://doi.org/10.1109/SP.2012.23
+sp/sp2012,2012,Access Control and Attestation,User-Driven Access Control: Rethinking Permission Granting in Modern Operating Systems.,Franziska Roesner;Tadayoshi Kohno;Alexander Moshchuk;Bryan Parno;Helen J. Wang;Crispin Cowan;,https://doi.org/10.1109/SP.2012.24
+sp/sp2012,2012,Access Control and Attestation,New Results for Timing-Based Attestation.,Xeno Kovah;Corey Kallenberg;Chris Weathers;Amy Herzog;Matthew Albin;John Butterworth;,https://doi.org/10.1109/SP.2012.45
+sp/sp2012,2012,Privacy,ObliviAd: Provably Secure and Practical Online Behavioral Advertising.,Michael Backes;Aniket Kate;Matteo Maffei;Kim Pecina;,https://doi.org/10.1109/SP.2012.25
+sp/sp2012,2012,Privacy,Quid-Pro-Quo-tocols: Strengthening Semi-honest Protocols with Dual Execution.,Yan Huang;Jonathan Katz;David Evans;,https://doi.org/10.1109/SP.2012.43
+sp/sp2012,2012,Privacy,Hummingbird: Privacy at the Time of Twitter.,Emiliano De Cristofaro;Claudio Soriente;Gene Tsudik;Andrew Williams;,https://doi.org/10.1109/SP.2012.26
+sp/sp2012,2012,Privacy,On the Feasibility of Internet-Scale Author Identification.,Arvind Narayanan;Hristo S. Paskov;Neil Zhenqiang Gong;John Bethencourt;Emil Stefanov;Eui Chul Richard Shin;Dawn Song;,https://doi.org/10.1109/SP.2012.46
+sp/sp2012,2012,Network Security,Secure and Scalable Fault Localization under Dynamic Traffic Patterns.,Xin Zhang;Chang Lan;Adrian Perrig;,https://doi.org/10.1109/SP.2012.27
+sp/sp2012,2012,Network Security,"Peek-a-Boo, I Still See You: Why Efficient Traffic Analysis Countermeasures Fail.",Kevin P. Dyer;Scott E. Coull;Thomas Ristenpart;Thomas Shrimpton;,https://doi.org/10.1109/SP.2012.28
+sp/sp2012,2012,Network Security,Off-path TCP Sequence Number Inference Attack - How Firewall Middleboxes Reduce Security.,Zhiyun Qian;Zhuoqing Morley Mao;,https://doi.org/10.1109/SP.2012.29
+sp/sp2012,2012,Attacks 2,Signing Me onto Your Accounts through Facebook and Google: A Traffic-Guided Security Study of Commercially Deployed Single-Sign-On Web Services.,Rui Wang;Shuo Chen;XiaoFeng Wang;,https://doi.org/10.1109/SP.2012.30
+sp/sp2012,2012,Attacks 2,Unleashing Mayhem on Binary Code.,Sang Kil Cha;Thanassis Avgerinos;Alexandre Rebert;David Brumley;,https://doi.org/10.1109/SP.2012.31
+sp/sp2012,2012,Attacks 2,Clash Attacks on the Verifiability of E-Voting Systems.,Ralf Küsters;Tomasz Truderung;Andreas Vogt;,https://doi.org/10.1109/SP.2012.32
+sp/sp2012,2012,Web Security,Third-Party Web Tracking: Policy and Technology.,Jonathan R. Mayer;John C. Mitchell;,https://doi.org/10.1109/SP.2012.47
+sp/sp2012,2012,Web Security,EvilSeed: A Guided Approach to Finding Malicious Web Pages.,Luca Invernizzi;Paolo Milani Comparetti;,https://doi.org/10.1109/SP.2012.33
+sp/sp2012,2012,Web Security,Rozzle: De-cloaking Internet Malware.,Clemens Kolbitsch;Benjamin Livshits;Benjamin G. Zorn;Christian Seifert;,https://doi.org/10.1109/SP.2012.48
+sp/sp2012,2012,Privacy and Anonymity,"Detecting Hoaxes, Frauds, and Deception in Writing Style Online.",Sadia Afroz;Michael Brennan;Rachel Greenstadt;,https://doi.org/10.1109/SP.2012.34
+sp/sp2012,2012,Privacy and Anonymity,LASTor: A Low-Latency AS-Aware Tor Client.,Masoud Akhoondi;Curtis Yu;Harsha V. Madhyastha;,https://doi.org/10.1109/SP.2012.35
+sp/sp2012,2012,Privacy and Anonymity,OB-PWS: Obfuscation-Based Private Web Search.,Ero Balsa;Carmela Troncoso;Claudia Díaz;,https://doi.org/10.1109/SP.2012.36
+sp/sp2012,2012,Privacy and Anonymity,LAP: Lightweight Anonymity and Privacy.,Hsu-Chun Hsiao;Tiffany Hyun-Jin Kim;Adrian Perrig;Akira Yamada;Samuel C. Nelson;Marco Gruteser;Wei Meng;,https://doi.org/10.1109/SP.2012.37
+sp/sp2012,2012,Passwords,Guess Again (and Again and Again): Measuring Password Strength by Simulating Password-Cracking Algorithms.,Patrick Gage Kelley;Saranga Komanduri;Michelle L. Mazurek;Richard Shay;Timothy Vidas;Lujo Bauer;Nicolas Christin;Lorrie Faith Cranor;Julio Lopez;,https://doi.org/10.1109/SP.2012.38
+sp/sp2012,2012,Passwords,The Science of Guessing: Analyzing an Anonymized Corpus of 70 Million Passwords.,Joseph Bonneau;,https://doi.org/10.1109/SP.2012.49
+sp/sp2012,2012,Passwords,The Quest to Replace Passwords: A Framework for Comparative Evaluation of Web Authentication Schemes.,Joseph Bonneau;Cormac Herley;Paul C. van Oorschot;Frank Stajano;,https://doi.org/10.1109/SP.2012.44
+sp/sp2012,2012,System Security,ILR: Where'd My Gadgets Go?,Jason Hiser;Anh Nguyen-Tuong;Michele Co;Matthew Hall;Jack W. Davidson;,https://doi.org/10.1109/SP.2012.39
+sp/sp2012,2012,System Security,Space Traveling across VM: Automatically Bridging the Semantic Gap in Virtual Machine Introspection via Online Kernel Data Redirection.,Yangchun Fu;Zhiqiang Lin;,https://doi.org/10.1109/SP.2012.40
+sp/sp2012,2012,System Security,Smashing the Gadgets: Hindering Return-Oriented Programming Using In-place Code Randomization.,Vasilis Pappas;Michalis Polychronakis;Angelos D. Keromytis;,https://doi.org/10.1109/SP.2012.41
+sp/sp2012,2012,System Security,Building Verifiable Trusted Path on Commodity x86 Computers.,Zongwei Zhou;Virgil D. Gligor;James Newsome;Jonathan M. McCune;,https://doi.org/10.1109/SP.2012.42

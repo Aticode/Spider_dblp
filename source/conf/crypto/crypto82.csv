@@ -1,0 +1,35 @@
+crypto/crypto82,1982,None,Fast Computation of Discrete Logarithms in GF(q).,Martin E. Hellman;Justin M. Reyneri;,None
+crypto/crypto82,1982,None,Some Remarks on the Herlestam-Johannesson Algorithm for Computing Logarithms over GF(2p).,Ernest F. Brickell;Judy H. Moore;,None
+crypto/crypto82,1982,None,A Public-Key Cryptosystem Based on the Matrix Cover NP-Complete Problem.,Ravi Janardan;K. B. Lakshmanan;,None
+crypto/crypto82,1982,None,Infinite Structures in Information Theory.,G. R. Blakley;Laif Swanson;,None
+crypto/crypto82,1982,None,A Fast Modular Multiplication Algorithm With Application To Two Key Cryptography.,Ernest F. Brickell;,None
+crypto/crypto82,1982,None,Comparison of Two Pseudo-Random Number Generators.,Lenore Blum;Manuel Blum;Mike Shub;,None
+crypto/crypto82,1982,None,On Computationally Secure Authentication Tags Requiring Short Secret Shared Keys.,Gilles Brassard;,None
+crypto/crypto82,1982,None,Some Regular Properties of the 'Data Encryption Standard' Algorithm.,Donald W. Davies;,None
+crypto/crypto82,1982,None,The Average Cycle Size of the Key Stream in Output Feedback Encipherment.,Donald W. Davies;Graeme I. P. Parkin;,None
+crypto/crypto82,1982,None,Analysis of Certain Aspects of Output Feedback Mode.,Robert R. Jueneman;,None
+crypto/crypto82,1982,None,Drainage and the DES.,Martin E. Hellman;Justin M. Reyneri;,None
+crypto/crypto82,1982,None,Security of a Keystream Cipher with Secret Initial Value.,Robert S. Winternitz;,None
+crypto/crypto82,1982,None,Using Data Uncertainty to Increase the Crypto-Complexity of Simple Private Key Enciphering Schemes.,G. M. Avis;Stafford E. Tavares;,None
+crypto/crypto82,1982,None,Randomized Encryption Techniques.,Ronald L. Rivest;Alan T. Sherman;,None
+crypto/crypto82,1982,None,On the Security of Multi-Party Protocols in Distributed Systems.,Danny Dolev;Avi Wigderson;,None
+crypto/crypto82,1982,None,On the Security of Ping-Pong Protocols.,Danny Dolev;Shimon Even;Richard M. Karp;,None
+crypto/crypto82,1982,None,The Use of Public-Key Cryptography for Signing Checks.,Luc Longpré;,None
+crypto/crypto82,1982,None,Blind Signatures for Untraceable Payments.,David Chaum;,None
+crypto/crypto82,1982,None,A Randomized Protocol for Signing Contracts.,Shimon Even;Oded Goldreich;Abraham Lempel;,None
+crypto/crypto82,1982,None,On Signatures and Authentication.,Shafi Goldwasser;Silvio Micali;Andrew Chi-Chih Yao;,None
+crypto/crypto82,1982,None,Cryptographic Protection of Personal Data Cards.,Christian Müller-Schloer;Neal R. Wagner;,None
+crypto/crypto82,1982,None,Non-Public Key Distribution.,Rolf Blom;,None
+crypto/crypto82,1982,None,Cryptographic Solution to a Multilevel Security Problem.,Selim G. Akl;Peter D. Taylor;,None
+crypto/crypto82,1982,None,Local Network Cryptosystem Architecture: Access Control.,Thomas A. Berson;,None
+crypto/crypto82,1982,None,Implementing an Electronic Notary Public.,Leonard M. Adleman;,None
+crypto/crypto82,1982,None,"Quantum Cryptography, or Unforgeable Subway Tokens.",Charles H. Bennett;Gilles Brassard;Seth Breidbart;Stephen Wiesner;,None
+crypto/crypto82,1982,None,A Polynomial Time Algorithm for Breaking the Basic Merkle-Hellman Cryptosystem.,Adi Shamir;,None
+crypto/crypto82,1982,None,A Preliminary Report on the Cryptanalysis of Merkle-Hellman Knapsack Cryptosystems.,Ernest F. Brickell;James A. Davis;Gustavus J. Simmons;,None
+crypto/crypto82,1982,None,On Breaking the Iterated Merkle-Hellman Public-Key Cryptosystem.,Leonard M. Adleman;,None
+crypto/crypto82,1982,None,Long Key Variants of DES.,Thomas A. Berson;,None
+crypto/crypto82,1982,None,On the Security of Multi-Party Ping-Pong Protocols.,Shimon Even;Oded Goldreich;,None
+crypto/crypto82,1982,None,Inferring a Sequence Produced by a Linear Congruence.,Joan B. Plumstead;,None
+crypto/crypto82,1982,None,Key Reconstruction.,Michael Merritt;,None
+crypto/crypto82,1982,None,Nondeterministic Cryptography.,Carl Nicolai;,None
+crypto/crypto82,1982,None,A Short Report on the RSA Chip.,Ronald L. Rivest;,None

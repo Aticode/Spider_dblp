@@ -1,0 +1,25 @@
+srds/srds2005,2005,Cover,Title Page.,,https://doi.org/10.1109/RELDIS.2005.4
+srds/srds2005,2005,Cover,Copyright.,,https://doi.org/10.1109/RELDIS.2005.1
+srds/srds2005,2005,Introduction,Message from the Symposium Chairs.,,https://doi.org/10.1109/RELDIS.2005.23
+srds/srds2005,2005,Introduction,Message from the Program Committee Co-Chairs.,,https://doi.org/10.1109/RELDIS.2005.22
+srds/srds2005,2005,Introduction,Organizing Committee.,,https://doi.org/10.1109/RELDIS.2005.25
+srds/srds2005,2005,Session 1:Mobile and Autonomous Computing,Consistency Management among Replicas in Peer-to-Peer Mobile Ad Hoc Networks.,Takahiro Hara;Sanjay Kumar Madria;,https://doi.org/10.1109/RELDIS.2005.12
+srds/srds2005,2005,Session 1:Mobile and Autonomous Computing,Architecture-Based Autonomous Repair Management: An Application to J2EE Clusters.,Sara Bouchenak;Fabienne Boyer;Sacha Krakowiak;Daniel Hagimont;Adrian Mos;Jean-Bernard Stefani;Noel De Palma;Vivien Quéma;,https://doi.org/10.1109/RELDIS.2005.8
+srds/srds2005,2005,Session 1:Mobile and Autonomous Computing,Automatic Model-Driven Recovery in Distributed Systems.,Kaustubh R. Joshi;William H. Sanders;Matti A. Hiltunen;Richard D. Schlichting;,https://doi.org/10.1109/RELDIS.2005.11
+srds/srds2005,2005,Session 2:Ad Hoc and Sensor Networks,Octopus: A Fault-Tolerant and Ef.cient Ad-hoc Routing Protocol.,Roie Melamed;Idit Keidar;Yoav Barel;,https://doi.org/10.1109/RELDIS.2005.24
+srds/srds2005,2005,Session 2:Ad Hoc and Sensor Networks,Self Distributed Query Region Covering in Sensor Networks.,Ajoy Kumar Datta;Preethi Linga;Maria Gradinariu;Philippe Raipin Parvédy;,https://doi.org/10.1109/RELDIS.2005.27
+srds/srds2005,2005,Session 2:Ad Hoc and Sensor Networks,Reliable Estimation of Influence Fields for Classification and Tracking in Unreliable Sensor Networks.,Sandip Bapat;Vinod Kulathumani;Anish Arora;,https://doi.org/10.1109/RELDIS.2005.26
+srds/srds2005,2005,Session 3:Distributed Transactions,Database Replication Using Generalized Snapshot Isolation.,Sameh Elnikety;Willy Zwaenepoel;Fernando Pedone;,https://doi.org/10.1109/RELDIS.2005.14
+srds/srds2005,2005,Session 3:Distributed Transactions,Consistent Main-Memory Database Federations under Deferred Disk Writes.,Rodrigo Schmidt;Fernando Pedone;,https://doi.org/10.1109/RELDIS.2005.13
+srds/srds2005,2005,Session 3:Distributed Transactions,Fault-tolerance for Stateful Application Servers in the Presence of Advanced Transactions Patterns.,Huaigu Wu;Bettina Kemme;,https://doi.org/10.1109/RELDIS.2005.18
+srds/srds2005,2005,Session 4:Distributed Objects and Middleware,From Static Distributed Systems to Dynamic Systems.,Achour Mostéfaoui;Michel Raynal;Corentin Travers;Stacy Patterson;Divyakant Agrawal;Amr El Abbadi;,https://doi.org/10.1109/RELDIS.2005.19
+srds/srds2005,2005,Session 4:Distributed Objects and Middleware,Enforcing Enterprise-wide Policies Over Standard Client-Server Interactions.,Zhijun He;Tuan Phan;Thu D. Nguyen;,https://doi.org/10.1109/RELDIS.2005.17
+srds/srds2005,2005,Session 4:Distributed Objects and Middleware,Thema: Byzantine-Fault-Tolerant Middleware forWeb-Service Applications.,Michael G. Merideth;Arun Iyengar;Thomas A. Mikalsen;Stefan Tai;Isabelle Rouvellou;Priya Narasimhan;,https://doi.org/10.1109/RELDIS.2005.28
+srds/srds2005,2005,Session 5:Dependability Evaluations,Agile Store: Experience with Quorum-Based Data Replication Techniques for Adaptive Byzantine Fault Tolerance.,Lei Kong;Deepak J. Manohar;Mustaque Ahamad;Arun Subbiah;Michael H. Sun;Douglas M. Blough;,https://doi.org/10.1109/RELDIS.2005.7
+srds/srds2005,2005,Session 5:Dependability Evaluations,Distributed Construction of a Fault-Tolerant Network from a Tree.,Michael K. Reiter;Asad Samar;Chenxi Wang;,https://doi.org/10.1109/RELDIS.2005.16
+srds/srds2005,2005,Session 5:Dependability Evaluations,Design and Performance-Study of Crash-Tolerant Protocols for Broadcasting and Reaching Consensus in MANETs.,Einar Vollset;Paul D. Ezhilchelvan;,https://doi.org/10.1109/RELDIS.2005.15
+srds/srds2005,2005,Session 6:Distributed Fault Tolerant Algorithms,Lazy Verification in Fault-Tolerant Distributed Storage Systems.,Michael Abd-El-Malek;Gregory R. Ganger;Michael K. Reiter;Jay J. Wylie;Garth R. Goodson;,https://doi.org/10.1109/RELDIS.2005.20
+srds/srds2005,2005,Session 6:Distributed Fault Tolerant Algorithms,Asynchronous Veri.able Information Dispersal.,Christian Cachin;Stefano Tessaro;,https://doi.org/10.1109/RELDIS.2005.9
+srds/srds2005,2005,Session 6:Distributed Fault Tolerant Algorithms,A new look at atomic broadcast in the asynchronous crash-recovery model.,Sergio Mena;André Schiper;,https://doi.org/10.1109/RELDIS.2005.6
+srds/srds2005,2005,Session 7:Fault Tolerant Network Algorithms,LRRM: A Randomized Reliable Multicast Protocol for Optimizing Recovery Latency and Buffer Utilization.,Nipoon Malhotra;Shrish Ranjan;Saurabh Bagchi;,https://doi.org/10.1109/RELDIS.2005.21
+srds/srds2005,2005,Session 7:Fault Tolerant Network Algorithms,A Distributed Algorithm for Path Restoration in Circuit Switched Communication Networks.,Subbarayan Venkatesan;Maulin Patel;Neeraj Mittal;,https://doi.org/10.1109/RELDIS.2005.5

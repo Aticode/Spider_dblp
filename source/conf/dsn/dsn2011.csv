@@ -1,0 +1,59 @@
+dsn/dsn2011,2011,None,Uni-directional trusted path: Transaction confirmation on just one device.,Atanas Filyanov;Jonathan M. McCune;Ahmad-Reza Sadeghi;Marcel Winandy;,https://doi.org/10.1109/DSN.2011.5958202
+dsn/dsn2011,2011,None,Boundless memory allocations for memory safety and high availability.,Marc Brunink;Martin Süßkraut;Christof Fetzer;,https://doi.org/10.1109/DSN.2011.5958203
+dsn/dsn2011,2011,None,A methodology for the generation of efficient error detection mechanisms.,Matthew Leeke;Saima Arif;Arshad Jhumka;Sarabjot Singh Anand;,https://doi.org/10.1109/DSN.2011.5958204
+dsn/dsn2011,2011,None,Fault tolerant WSN-based structural health monitoring.,X. Liu;Jiannong Cao;M. Bhuiyan;S. Lai;H. Wu;G. Wang;,https://doi.org/10.1109/DSN.2011.5958205
+dsn/dsn2011,2011,None,Online detection of multi-component interactions in production systems.,Adam J. Oliner;Alex Aiken;,https://doi.org/10.1109/DSN.2011.5958206
+dsn/dsn2011,2011,None,"An empirical study of the performance, security and privacy implications of domain name prefetching.",Srinivas Krishnan;Fabian Monrose;,https://doi.org/10.1109/DSN.2011.5958207
+dsn/dsn2011,2011,None,Efficient model checking of fault-tolerant distributed protocols.,Péter Bokor;Johannes Kinder;Marco Serafini;Neeraj Suri;,https://doi.org/10.1109/DSN.2011.5958208
+dsn/dsn2011,2011,None,Unified debugging of distributed systems with Recon.,Kyu Hyung Lee;Nick Sumner;Xiangyu Zhang;Patrick Eugster;,https://doi.org/10.1109/DSN.2011.5958209
+dsn/dsn2011,2011,None,Improving Log-based Field Failure Data Analysis of multi-node computing systems.,Antonio Pecchia;Domenico Cotroneo;Zbigniew Kalbarczyk;Ravishankar K. Iyer;,https://doi.org/10.1109/DSN.2011.5958210
+dsn/dsn2011,2011,None,An analysis of signature overlaps in Intrusion Detection Systems.,Frédéric Massicotte;Yvan Labiche;,https://doi.org/10.1109/DSN.2011.5958211
+dsn/dsn2011,2011,None,Detecting stealthy P2P botnets using statistical traffic fingerprints.,Junjie Zhang;Roberto Perdisci;Wenke Lee;Unum Sarfraz;Xiapu Luo;,https://doi.org/10.1109/DSN.2011.5958212
+dsn/dsn2011,2011,None,Applying game theory to analyze attacks and defenses in virtual coordinate systems.,Sheila Becker;Jeff Seibert;David Zage;Cristina Nita-Rotaru;Radu State;,https://doi.org/10.1109/DSN.2011.5958213
+dsn/dsn2011,2011,None,CEC: Continuous eventual checkpointing for data stream processing operators.,Zoe Sebepou;Kostas Magoutis;,https://doi.org/10.1109/DSN.2011.5958214
+dsn/dsn2011,2011,None,Coercing clients into facilitating failover for object delivery.,Wyatt Lloyd;Michael J. Freedman;,https://doi.org/10.1109/DSN.2011.5958215
+dsn/dsn2011,2011,None,Phase-based reboot: Reusing operating system execution phases for cheap reboot-based recovery.,Kazuya Yamakita;Hiroshi Yamada;Kenji Kono;,https://doi.org/10.1109/DSN.2011.5958216
+dsn/dsn2011,2011,None,Communix: A framework for collaborative deadlock immunity.,Horatiu Jula;Pinar Tözün;George Candea;,https://doi.org/10.1109/DSN.2011.5958217
+dsn/dsn2011,2011,None,CloudVal: A framework for validation of virtualization environment in cloud infrastructure.,Cuong Manh Pham;Daniel Chen;Zbigniew Kalbarczyk;Ravishankar K. Iyer;,https://doi.org/10.1109/DSN.2011.5958218
+dsn/dsn2011,2011,None,Helmet: A resistance drift resilient architecture for multi-level cell phase change memory system.,Wangyuan Zhang;Tao Li;,https://doi.org/10.1109/DSN.2011.5958219
+dsn/dsn2011,2011,None,HDP code: A Horizontal-Diagonal Parity Code to Optimize I/O load balancing in RAID-6.,Chentao Wu;Xubin He;Guanying Wu;Shenggang Wan;Xiaohua Liu;Qiang Cao;Changsheng Xie;,https://doi.org/10.1109/DSN.2011.5958220
+dsn/dsn2011,2011,None,LLS: Cooperative integration of wear-leveling and salvaging for PCM main memory.,Lei Jiang;Yu Du;Youtao Zhang;Bruce R. Childers;Jun Yang;,https://doi.org/10.1109/DSN.2011.5958221
+dsn/dsn2011,2011,None,"Get off my prefix! the need for dynamic, gerontocratic policies in inter-domain routing.",Edmund L. Wong;Vitaly Shmatikov;,https://doi.org/10.1109/DSN.2011.5958222
+dsn/dsn2011,2011,None,Zab: High-performance broadcast for primary-backup systems.,Flavio Paiva Junqueira;Benjamin C. Reed;Marco Serafini;,https://doi.org/10.1109/DSN.2011.5958223
+dsn/dsn2011,2011,None,Deadline-aware scheduling for Software Transactional Memory.,Walther Maldonado;Patrick Marlier;Pascal Felber;Julia L. Lawall;Gilles Muller;Etienne Riviere;,https://doi.org/10.1109/DSN.2011.5958224
+dsn/dsn2011,2011,None,A combinatorial approach to detecting buffer overflow vulnerabilities.,Wenhua Wang;Yu Lei;Donggang Liu;David Chenho Kung;Christoph Csallner;Dazhi Zhang;Raghu Kacker;Rick Kuhn;,https://doi.org/10.1109/DSN.2011.5958225
+dsn/dsn2011,2011,None,Cross-layer resilience using wearout aware design flow.,Bardia Zandian;Murali Annavaram;,https://doi.org/10.1109/DSN.2011.5958226
+dsn/dsn2011,2011,None,Transparent dynamic binding with fault-tolerant cache coherence protocol for chip multiprocessors.,Shuchang Shan;Yu Hu;Xiaowei Li;,https://doi.org/10.1109/DSN.2011.5958227
+dsn/dsn2011,2011,None,Fault injection-based assessment of aspect-oriented implementation of fault tolerance.,Ruben Alexandersson;Johan Karlsson;,https://doi.org/10.1109/DSN.2011.5958244
+dsn/dsn2011,2011,None,A framework for early stage quality-fault tolerance analysis of embedded control systems.,Satya Gautam Vadlamudi;P. P. Chakrabarti;Dipankar Das;Purnendu Sinha;,https://doi.org/10.1109/DSN.2011.5958245
+dsn/dsn2011,2011,None,Characterization of logical masking and error propagation in combinational circuits and effects on system vulnerability.,Nishant J. George;John Lach;,https://doi.org/10.1109/DSN.2011.5958246
+dsn/dsn2011,2011,None,A scalable availability model for Infrastructure-as-a-Service cloud.,Francesco Longo;Rahul Ghosh;Vijay K. Naik;Kishor S. Trivedi;,https://doi.org/10.1109/DSN.2011.5958247
+dsn/dsn2011,2011,None,Modeling and evaluating targeted attacks in large scale dynamic systems.,Emmanuelle Anceaume;Bruno Sericola;Romaric Ludinard;Frederic Tronel;,https://doi.org/10.1109/DSN.2011.5958248
+dsn/dsn2011,2011,None,Incremental quantitative verification for Markov decision processes.,Marta Z. Kwiatkowska;David Parker;Hongyang Qu;,https://doi.org/10.1109/DSN.2011.5958249
+dsn/dsn2011,2011,None,Hypervisor-assisted application checkpointing in virtualized environments.,Min Lee;A. S. Krishnakumar;Parameshwaran Krishnan;Navjot Singh;Shalini Yajnik;,https://doi.org/10.1109/DSN.2011.5958250
+dsn/dsn2011,2011,None,OS diversity for intrusion tolerance: Myth or reality?,Miguel Garcia;Alysson Neves Bessani;Ilir Gashi;Nuno Ferreira Neves;Rafael R. Obelheiro;,https://doi.org/10.1109/DSN.2011.5958251
+dsn/dsn2011,2011,None,Resource and virtualization costs up in the cloud: Models and design choices.,Daniel Gmach;Jerry Rolia;Ludmila Cherkasova;,https://doi.org/10.1109/DSN.2011.5958252
+dsn/dsn2011,2011,None,WaRR: A tool for high-fidelity web application record and replay.,Silviu Andrica;George Candea;,https://doi.org/10.1109/DSN.2011.5958253
+dsn/dsn2011,2011,None,Aaron: An adaptable execution environment.,Marc Brunink;André Schmitt;Thomas Knauth;Martin Süßkraut;Ute Schiffel;Stephan Creutz;Christof Fetzer;,https://doi.org/10.1109/DSN.2011.5958254
+dsn/dsn2011,2011,None,Toward dependability benchmarking of partitioning operating systems.,Raul Barbosa;Johan Karlsson;Qiu Yu;Xiaozhen Mao;,https://doi.org/10.1109/DSN.2011.5958255
+dsn/dsn2011,2011,None,Modeling stream processing applications for dependability evaluation.,Gabriela Jacques-Silva;Zbigniew Kalbarczyk;Bugra Gedik;Henrique Andrade;Kun-Lung Wu;Ravishankar K. Iyer;,https://doi.org/10.1109/DSN.2011.5958256
+dsn/dsn2011,2011,None,Modeling and analysis of the impact of failures in Electric Power Systems organized in interconnected regions.,Silvano Chiaradonna;Felicita Di Giandomenico;Nicola Nostro;,https://doi.org/10.1109/DSN.2011.5958257
+dsn/dsn2011,2011,None,High performance state-machine replication.,Parisa Jalili Marandi;Marco Primi;Fernando Pedone;,https://doi.org/10.1109/DSN.2011.5958258
+dsn/dsn2011,2011,None,How secure are networked office devices?,Edward Condon;Emily Cummins;Zaïna Afoulki;Michel Cukier;,https://doi.org/10.1109/DSN.2011.5958259
+dsn/dsn2011,2011,None,A combinatorial approach to network covert communications with applications in Web Leaks.,Xiapu Luo;Peng Zhou;Edmond W. W. Chan;Rocky K. C. Chang;Wenke Lee;,https://doi.org/10.1109/DSN.2011.5958260
+dsn/dsn2011,2011,None,Crash graphs: An aggregated view of multiple crashes to improve crash triage.,Sunghun Kim;Thomas Zimmermann;Nachiappan Nagappan;,https://doi.org/10.1109/DSN.2011.5958261
+dsn/dsn2011,2011,None,Amplifying limited expert input to sanitize large network traces.,Xin Huang;Fabian Monrose;Michael K. Reiter;,https://doi.org/10.1109/DSN.2011.5958262
+dsn/dsn2011,2011,None,Analysis of security data from a large computing organization.,Aashish Sharma;Zbigniew Kalbarczyk;James Barlow;Ravishankar K. Iyer;,https://doi.org/10.1109/DSN.2011.5958263
+dsn/dsn2011,2011,None,Coerced Cache Eviction and discreet mode journaling: Dealing with misbehaving disks.,Abhishek Rajimwale;Vijay Chidambaram;Deepak Ramamurthi;Andrea C. Arpaci-Dusseau;Remzi H. Arpaci-Dusseau;,https://doi.org/10.1109/DSN.2011.5958264
+dsn/dsn2011,2011,None,Impact of temperature on hard disk drive reliability in large datacenters.,Sriram Sankar;Mark Shaw;Kushagra Vaid;,https://doi.org/10.1109/DSN.2011.5958265
+dsn/dsn2011,2011,None,Merging ultra-low duty cycle networks.,Matthew Dobson;Spyros Voulgaris;Maarten van Steen;,https://doi.org/10.1109/DSN.2011.5958266
+dsn/dsn2011,2011,None,Modeling time correlation in passive network loss tomography.,Jin Cao;Aiyou Chen;Patrick P. C. Lee;,https://doi.org/10.1109/DSN.2011.5958267
+dsn/dsn2011,2011,None,Simple bounds for a transient queue.,Takayuki Osogami;Rudy Raymond;,https://doi.org/10.1109/DSN.2011.5958268
+dsn/dsn2011,2011,None,Approximate analysis of blocking queueing networks with temporal dependence.,Vittoria De Nitto Persone;Giuliano Casale;Evgenia Smirni;,https://doi.org/10.1109/DSN.2011.5958269
+dsn/dsn2011,2011,None,5th Workshop on Recent Advances in Intrusion-Tolerant Systems WRAITS 2011.,Alysson Neves Bessani;Partha P. Pal;,https://doi.org/10.1109/DSN.2011.5958237
+dsn/dsn2011,2011,None,Introduction to the fifth workshop on dependable and secure nanocomputing.,Jean Arlat;Cristian Constantinescu;Johan Karlsson;Takashi Nanya;Alan Wood;,https://doi.org/10.1109/DSN.2011.5958235
+dsn/dsn2011,2011,None,"The First International Workshop on Dependability of Clouds, data centers and Virtual Computing Environments.",Jogesh K. Muppala;Matti A. Hiltunen;Robert J. Stroud;Ji Wang;,https://doi.org/10.1109/DSN.2011.5958232
+dsn/dsn2011,2011,None,Seventh workshop on hot topics in system dependability (HotDep'11).,Andreas Haeberlen;Mootaz Elnozahy;,https://doi.org/10.1109/DSN.2011.5958233
+dsn/dsn2011,2011,None,WOSD 2011 the first international workshop on open systems dependability.,Mario Tokoro;Karama Kanoun;Kimio Kuramitsu;Jean-Charles Fabre;,https://doi.org/10.1109/DSN.2011.5958236
+dsn/dsn2011,2011,None,"Third workshop on proactive failure avoidance, recovery, and maintenance (PFARM).",Miroslaw Malek;Felix Salfner;Kishor S. Trivedi;,https://doi.org/10.1109/DSN.2011.5958234
+dsn/dsn2011,2011,None,5th international workshop on adaptive and dependable mobile ubiquitous systems ADAMUS 2011.,Domenico Cotroneo;Vincenzo De Florio;,https://doi.org/10.1109/DSN.2011.5958231

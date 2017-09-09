@@ -1,0 +1,27 @@
+asiacrypt/asiacrypt2014,2014,Encryption Schemes,Concise Multi-challenge CCA-Secure Encryption and Signatures with Almost Tight Security.,Benoît Libert;Marc Joye;Moti Yung;Thomas Peters;,https://doi.org/10.1007/978-3-662-45608-8_1
+asiacrypt/asiacrypt2014,2014,Encryption Schemes,Efficient Identity-Based Encryption over NTRU Lattices.,Léo Ducas;Vadim Lyubashevsky;Thomas Prest;,https://doi.org/10.1007/978-3-662-45608-8_2
+asiacrypt/asiacrypt2014,2014,Encryption Schemes,Order-Preserving Encryption Secure Beyond One-Wayness.,Isamu Teranishi;Moti Yung;Tal Malkin;,https://doi.org/10.1007/978-3-662-45608-8_3
+asiacrypt/asiacrypt2014,2014,Outsourcing and Delegation,Statistically-secure ORAM with Õ(log2 n) Overhead.,Kai-Min Chung;Zhenming Liu;Rafael Pass;,https://doi.org/10.1007/978-3-662-45608-8_4
+asiacrypt/asiacrypt2014,2014,Outsourcing and Delegation,Adaptive Security of Constrained PRFs.,Georg Fuchsbauer;Momchil Konstantinov;Krzysztof Pietrzak;Vanishree Rao;,https://doi.org/10.1007/978-3-662-45608-8_5
+asiacrypt/asiacrypt2014,2014,Obfuscation,Poly-Many Hardcore Bits for Any One-Way Function and a Framework for Differing-Inputs Obfuscation.,Mihir Bellare;Igors Stepanovs;Stefano Tessaro;,https://doi.org/10.1007/978-3-662-45608-8_6
+asiacrypt/asiacrypt2014,2014,Obfuscation,Using Indistinguishability Obfuscation via UCEs.,Christina Brzuska;Arno Mittelbach;,https://doi.org/10.1007/978-3-662-45608-8_7
+asiacrypt/asiacrypt2014,2014,Obfuscation,Indistinguishability Obfuscation versus Multi-bit Point Obfuscation with Auxiliary Input.,Christina Brzuska;Arno Mittelbach;,https://doi.org/10.1007/978-3-662-45608-8_8
+asiacrypt/asiacrypt2014,2014,Obfuscation,Bootstrapping Obfuscators via Fast Pseudorandom Functions.,Benny Applebaum;,https://doi.org/10.1007/978-3-662-45608-8_9
+asiacrypt/asiacrypt2014,2014,Homomorphic Cryptography,Homomorphic Authenticated Encryption Secure against Chosen-Ciphertext Attack.,Chihong Joo;Aaram Yun;,https://doi.org/10.1007/978-3-662-45608-8_10
+asiacrypt/asiacrypt2014,2014,Homomorphic Cryptography,Authenticating Computation on Groups: New Homomorphic Primitives and Applications.,Dario Catalano;Antonio Marcedone;Orazio Puglisi;,https://doi.org/10.1007/978-3-662-45608-8_11
+asiacrypt/asiacrypt2014,2014,Homomorphic Cryptography,Compact VSS and Efficient Homomorphic UC Commitments.,Ivan Damgård;Bernardo Machado David;Irene Giacomelli;Jesper Buus Nielsen;,https://doi.org/10.1007/978-3-662-45608-8_12
+asiacrypt/asiacrypt2014,2014,Secret Sharing,Round-Optimal Password-Protected Secret Sharing and T-PAKE in the Password-Only Model.,Stanislaw Jarecki;Aggelos Kiayias;Hugo Krawczyk;,https://doi.org/10.1007/978-3-662-45608-8_13
+asiacrypt/asiacrypt2014,2014,Secret Sharing,Secret-Sharing for NP.,Ilan Komargodski;Moni Naor;Eylon Yogev;,https://doi.org/10.1007/978-3-662-45608-8_14
+asiacrypt/asiacrypt2014,2014,Block Ciphers and Passwords,Tweaks and Keys for Block Ciphers: The TWEAKEY Framework.,Jérémy Jean;Ivica Nikolic;Thomas Peyrin;,https://doi.org/10.1007/978-3-662-45608-8_15
+asiacrypt/asiacrypt2014,2014,Block Ciphers and Passwords,Memory-Demanding Password Scrambling.,Christian Forler;Stefan Lucks;Jakob Wenzel;,https://doi.org/10.1007/978-3-662-45608-8_16
+asiacrypt/asiacrypt2014,2014,Side Channel Analysis,Side-Channel Analysis of Multiplications in GF(2128) - Application to AES-GCM.,Sonia Belaïd;Pierre-Alain Fouque;Benoît Gérard;,https://doi.org/10.1007/978-3-662-45608-8_17
+asiacrypt/asiacrypt2014,2014,Side Channel Analysis,Higher-Order Threshold Implementations.,Begül Bilgin;Benedikt Gierlichs;Svetla Nikova;Ventzislav Nikov;Vincent Rijmen;,https://doi.org/10.1007/978-3-662-45608-8_18
+asiacrypt/asiacrypt2014,2014,Side Channel Analysis,Masks Will Fall Off - Higher-Order Optimal Distinguishers.,Nicolas Bruneau;Sylvain Guilley;Annelie Heuser;Olivier Rioul;,https://doi.org/10.1007/978-3-662-45608-8_19
+asiacrypt/asiacrypt2014,2014,Black-Box Separation,Black-Box Separations for One-More (Static) CDH and Its Generalization.,Jiang Zhang;Zhenfeng Zhang;Yu Chen;Yanfei Guo;Zongyang Zhang;,https://doi.org/10.1007/978-3-662-45608-8_20
+asiacrypt/asiacrypt2014,2014,Black-Box Separation,Black-Box Separations for Differentially Private Protocols.,Dakshita Khurana;Hemanta K. Maji;Amit Sahai;,https://doi.org/10.1007/978-3-662-45608-8_21
+asiacrypt/asiacrypt2014,2014,Composability,Composable Security of Delegated Quantum Computation.,Vedran Dunjko;Joseph Fitzsimons;Christopher Portmann;Renato Renner;,https://doi.org/10.1007/978-3-662-45608-8_22
+asiacrypt/asiacrypt2014,2014,Composability,All-But-Many Encryption - A New Framework for Fully-Equipped UC Commitments.,Eiichiro Fujisaki;,https://doi.org/10.1007/978-3-662-45608-8_23
+asiacrypt/asiacrypt2014,2014,Multi-Party Computation,Multi-valued Byzantine Broadcast: The t < n Case.,Martin Hirt;Pavel Raykov;,https://doi.org/10.1007/978-3-662-45608-8_24
+asiacrypt/asiacrypt2014,2014,Multi-Party Computation,Fairness versus Guaranteed Output Delivery in Secure Multiparty Computation.,Ran Cohen;Yehuda Lindell;,https://doi.org/10.1007/978-3-662-45608-8_25
+asiacrypt/asiacrypt2014,2014,Multi-Party Computation,Actively Secure Private Function Evaluation.,Payman Mohassel;Seyed Saeed Sadeghian;Nigel P. Smart;,https://doi.org/10.1007/978-3-662-45608-8_26
+asiacrypt/asiacrypt2014,2014,Multi-Party Computation,"Efficient, Oblivious Data Structures for MPC.",Marcel Keller;Peter Scholl;,https://doi.org/10.1007/978-3-662-45608-8_27

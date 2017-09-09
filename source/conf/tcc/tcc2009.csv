@@ -1,0 +1,35 @@
+tcc/tcc2009,2009,None,An Optimally Fair Coin Toss.,Tal Moran;Moni Naor;Gil Segev;,https://doi.org/10.1007/978-3-642-00457-5_1
+tcc/tcc2009,2009,None,Complete Fairness in Multi-party Computation without an Honest Majority.,S. Dov Gordon;Jonathan Katz;,https://doi.org/10.1007/978-3-642-00457-5_2
+tcc/tcc2009,2009,None,Fairness with an Honest Minority and a Rational Majority.,Shien Jin Ong;David C. Parkes;Alon Rosen;Salil P. Vadhan;,https://doi.org/10.1007/978-3-642-00457-5_3
+tcc/tcc2009,2009,None,Purely Rational Secret Sharing (Extended Abstract).,Silvio Micali;Abhi Shelat;,https://doi.org/10.1007/978-3-642-00457-5_4
+tcc/tcc2009,2009,None,Some Recent Progress in Lattice-Based Cryptography.,Chris Peikert;,https://doi.org/10.1007/978-3-642-00457-5_5
+tcc/tcc2009,2009,None,Non-malleable Obfuscation.,Ran Canetti;Mayank Varia;,https://doi.org/10.1007/978-3-642-00457-5_6
+tcc/tcc2009,2009,None,Simulation-Based Concurrent Non-malleable Commitments and Decommitments.,Rafail Ostrovsky;Giuseppe Persiano;Ivan Visconti;,https://doi.org/10.1007/978-3-642-00457-5_7
+tcc/tcc2009,2009,None,Proofs of Retrievability via Hardness Amplification.,Yevgeniy Dodis;Salil P. Vadhan;Daniel Wichs;,https://doi.org/10.1007/978-3-642-00457-5_8
+tcc/tcc2009,2009,None,Security Amplification for InteractiveCryptographic Primitives.,Yevgeniy Dodis;Russell Impagliazzo;Ragesh Jaiswal;Valentine Kabanets;,https://doi.org/10.1007/978-3-642-00457-5_9
+tcc/tcc2009,2009,None,Composability and On-Line Deniability of Authentication.,Yevgeniy Dodis;Jonathan Katz;Adam D. Smith;Shabsi Walfish;,https://doi.org/10.1007/978-3-642-00457-5_10
+tcc/tcc2009,2009,None,Authenticated Adversarial Routing.,Yair Amir;Paul Bunn;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-642-00457-5_11
+tcc/tcc2009,2009,None,Adaptive Zero-Knowledge Proofs and Adaptively Secure Oblivious Transfer.,Yehuda Lindell;Hila Zarosim;,https://doi.org/10.1007/978-3-642-00457-5_12
+tcc/tcc2009,2009,None,On the (Im)Possibility of Key Dependent Encryption.,Iftach Haitner;Thomas Holenstein;,https://doi.org/10.1007/978-3-642-00457-5_13
+tcc/tcc2009,2009,None,On the (Im)Possibility of Arthur-Merlin Witness Hiding Protocols.,Iftach Haitner;Alon Rosen;Ronen Shaltiel;,https://doi.org/10.1007/978-3-642-00457-5_14
+tcc/tcc2009,2009,None,Secure Computability of Functions in the IT Setting with Dishonest Majority and Applications to Long-Term Security.,Robin Künzler;Jörn Müller-Quade;Dominik Raub;,https://doi.org/10.1007/978-3-642-00457-5_15
+tcc/tcc2009,2009,None,Complexity of Multi-party Computation Problems: The Case of 2-Party Symmetric Secure Function Evaluation.,Hemanta K. Maji;Manoj Prabhakaran;Mike Rosulek;,https://doi.org/10.1007/978-3-642-00457-5_16
+tcc/tcc2009,2009,None,Realistic Failures in Secure Multi-party Computation.,Vassilis Zikas;Sarah Hauser;Ueli M. Maurer;,https://doi.org/10.1007/978-3-642-00457-5_17
+tcc/tcc2009,2009,None,Secure Arithmetic Computation with No Honest Majority.,Yuval Ishai;Manoj Prabhakaran;Amit Sahai;,https://doi.org/10.1007/978-3-642-00457-5_18
+tcc/tcc2009,2009,None,Universally Composable Multiparty Computation with Partially Isolated Parties.,Ivan Damgård;Jesper Buus Nielsen;Daniel Wichs;,https://doi.org/10.1007/978-3-642-00457-5_19
+tcc/tcc2009,2009,None,Oblivious Transfer from Weak Noisy Channels.,Jürg Wullschleger;,https://doi.org/10.1007/978-3-642-00457-5_20
+tcc/tcc2009,2009,None,Composing Quantum Protocols in a Classical Environment.,Serge Fehr;Christian Schaffner;,https://doi.org/10.1007/978-3-642-00457-5_21
+tcc/tcc2009,2009,None,LEGO for Two-Party Secure Computation.,Jesper Buus Nielsen;Claudio Orlandi;,https://doi.org/10.1007/978-3-642-00457-5_22
+tcc/tcc2009,2009,None,"Simple, Black-Box Constructions of Adaptively Secure Protocols.",Seung Geol Choi;Dana Dachman-Soled;Tal Malkin;Hoeteck Wee;,https://doi.org/10.1007/978-3-642-00457-5_23
+tcc/tcc2009,2009,None,Black-Box Constructions of Two-Party Protocols from One-Way Functions.,Rafael Pass;Hoeteck Wee;,https://doi.org/10.1007/978-3-642-00457-5_24
+tcc/tcc2009,2009,None,Chosen-Ciphertext Security via Correlated Products.,Alon Rosen;Gil Segev;,https://doi.org/10.1007/978-3-642-00457-5_25
+tcc/tcc2009,2009,None,Hierarchical Identity Based Encryption with Polynomially Many Levels.,Craig Gentry;Shai Halevi;,https://doi.org/10.1007/978-3-642-00457-5_26
+tcc/tcc2009,2009,None,Predicate Privacy in Encryption Systems.,Emily Shen;Elaine Shi;Brent Waters;,https://doi.org/10.1007/978-3-642-00457-5_27
+tcc/tcc2009,2009,None,Simultaneous Hardcore Bits and Cryptography against Memory Attacks.,Adi Akavia;Shafi Goldwasser;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-642-00457-5_28
+tcc/tcc2009,2009,None,The Differential Privacy Frontier (Extended Abstract).,Cynthia Dwork;,https://doi.org/10.1007/978-3-642-00457-5_29
+tcc/tcc2009,2009,None,How Efficient Can Memory Checking Be?.,Cynthia Dwork;Moni Naor;Guy N. Rothblum;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-642-00457-5_30
+tcc/tcc2009,2009,None,Goldreich's One-Way Function Candidate and Myopic Backtracking Algorithms.,James Cook;Omid Etesami;Rachel Miller;Luca Trevisan;,https://doi.org/10.1007/978-3-642-00457-5_31
+tcc/tcc2009,2009,None,Secret Sharing and Non-Shannon Information Inequalities.,Amos Beimel;Ilan Orlov;,https://doi.org/10.1007/978-3-642-00457-5_32
+tcc/tcc2009,2009,None,Weak Verifiable Random Functions.,Zvika Brakerski;Shafi Goldwasser;Guy N. Rothblum;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-642-00457-5_33
+tcc/tcc2009,2009,None,Efficient Oblivious Pseudorandom Function with Applications to Adaptive OT and Secure Computation of Set Intersection.,Stanislaw Jarecki;Xiaomin Liu;,https://doi.org/10.1007/978-3-642-00457-5_34
+tcc/tcc2009,2009,None,Towards a Theory of Extractable Functions.,Ran Canetti;Ronny Ramzi Dakdouk;,https://doi.org/10.1007/978-3-642-00457-5_35

@@ -1,0 +1,40 @@
+infocom/infocom1990-1,1990,1A. LAN Token Rings,"Stability Analysis of an Asymmetric, Limited Service, Token Ring System.",Amir Behroozi-Toosi;Ramesh R. Rao;,https://doi.org/10.1109/INFCOM.1990.91224
+infocom/infocom1990-1,1990,1A. LAN Token Rings,The Cambridge Backbone Ring.,David J. Greaves;Dimitris Lioupis;Andy Hopper;,https://doi.org/10.1109/INFCOM.1990.91227
+infocom/infocom1990-1,1990,1A. LAN Token Rings,On the Use of Multiple Tokens on Ring Networks.,Ahmed E. Kamal;,https://doi.org/10.1109/INFCOM.1990.91228
+infocom/infocom1990-1,1990,1A. LAN Token Rings,Performance Analysis of Token Rings as High Speed Backbone Networks.,Thomas Welzel;,https://doi.org/10.1109/INFCOM.1990.91229
+infocom/infocom1990-1,1990,1B. Flow and Congestion Control,Performance Analysis of a Rate Control Throttle Where Tokens and Jobs Queue.,Arthur W. Berger;,https://doi.org/10.1109/INFCOM.1990.91230
+infocom/infocom1990-1,1990,1B. Flow and Congestion Control,Flow Control Models for Multi-Service Networks with Delayed Call Set Up.,Zbigniew Dziong;Ke-Qiang Liao;Lorne Mason;,https://doi.org/10.1109/INFCOM.1990.91231
+infocom/infocom1990-1,1990,1B. Flow and Congestion Control,End-To-End Delay of Multiple Packet Messages in Window Flow Controlled Packet Switching Networks.,Claude Evéquoz;Carl Tropper;,https://doi.org/10.1109/INFCOM.1990.91232
+infocom/infocom1990-1,1990,1B. Flow and Congestion Control,The Performance of Adaptive Window Flow Controls in a Dynamic Load Environment.,Sridhar Pingali;David Tipper;Joseph L. Hammond;,https://doi.org/10.1109/INFCOM.1990.91233
+infocom/infocom1990-1,1990,1C. Network Management and Planning,Extension and Evolution of Existing Network Management Systems Over a Seamless Inter-Exchange of Host- and PC-Based Processors.,S. L. Arnold;E. A. Wilson;,https://doi.org/10.1109/INFCOM.1990.91234
+infocom/infocom1990-1,1990,1C. Network Management and Planning,SIRCIT: A System for AT&T Overseas Network Planning.,John W. H. Bartholomew;Aseem S. Chandawarkar;Mool C. Singhi;Sarat C. Puthenpura;Lakshman P. Sinha;,https://doi.org/10.1109/INFCOM.1990.91235
+infocom/infocom1990-1,1990,1C. Network Management and Planning,Abstraction of Transport Networks and Control Messages for Intelligent Network.,S. Esaki;T. Omiya;J. Kuwabayashi;,https://doi.org/10.1109/INFCOM.1990.91236
+infocom/infocom1990-1,1990,1C. Network Management and Planning,A Transport Span Protection Strategy for Survivability of Interoffice Facilities Telecommunications Networks.,Marco Mostrel;,https://doi.org/10.1109/INFCOM.1990.91237
+infocom/infocom1990-1,1990,2A. Coding and Error Control,Diversity Coding: Using Error Control For Self-Healing in Communication Networks.,Ender Ayanoglu;Chih-Lin I;Richard D. Gitlin;James E. Mazo;,https://doi.org/10.1109/INFCOM.1990.91238
+infocom/infocom1990-1,1990,2A. Coding and Error Control,Error Performance of IEEE 802.6 Metropolitan Area Networks.,Subrahmanyam Dravida;Vikram R. Saksena;,https://doi.org/10.1109/INFCOM.1990.91239
+infocom/infocom1990-1,1990,2A. Coding and Error Control,Cell Loss Compensation Schemes Employing Error Correction Coding for Asynchronous Broadband ISDN.,Tokuhiro Kitami;Ikuo Tokizawa;,https://doi.org/10.1109/INFCOM.1990.91240
+infocom/infocom1990-1,1990,2A. Coding and Error Control,Packet Recovery in High-Speed Networks Using Coding and Buffer Management.,Nachum Shacham;Paul E. McKenney;,https://doi.org/10.1109/INFCOM.1990.91241
+infocom/infocom1990-1,1990,2B. ATM Switch Performance,Frame Losses Due To Buffer Overflows in Fast Packet Networks.,Amit Bhargava;Michael G. Hluchyj;,https://doi.org/10.1109/INFCOM.1990.91242
+infocom/infocom1990-1,1990,2B. ATM Switch Performance,Performance of Self-Routing ATM Sitch under Nonuniform Traffic Pattern.,Hyong Sok Kim;Alberto Leon-Garcia;,https://doi.org/10.1109/INFCOM.1990.91243
+infocom/infocom1990-1,1990,2B. ATM Switch Performance,Design and Performance Evaluation of Unbuffered Self-Routing Networks for Wideband Packet Switching.,Chin-Tau A. Lea;,https://doi.org/10.1109/INFCOM.1990.91244
+infocom/infocom1990-1,1990,2B. ATM Switch Performance,Performance Analysis of Banyan Networks Based on Buffers of Various Sizes.,Arindam Saha;Meghanad D. Wagh;,https://doi.org/10.1109/INFCOM.1990.91245
+infocom/infocom1990-1,1990,2C. MANs,The ACCI Access Protocol for a Twin Bus ATM Metropolitan Area Network.,Andrea Baiocchi;Marco Carosi;Marco Listanti;Giovanni Pacifici;Aldo Roveri;Roberto Winkler;,https://doi.org/10.1109/INFCOM.1990.91246
+infocom/infocom1990-1,1990,2C. MANs,Improving the Fairness of Distributed-Queue-Dual-Bus Networks.,Ellen L. Hahne;Abhijit K. Choudhury;Nicholas F. Maxemchuk;,https://doi.org/10.1109/INFCOM.1990.91247
+infocom/infocom1990-1,1990,2C. MANs,DQMA and CRMA: New Access Schemes for Gbit/s LANs and MANs.,Hans R. Müller;Mehdi Nassehi;Johnny W. Wong;Erwin A. Zurfluh;Werner Bux;Pitro Zafiropulo;,https://doi.org/10.1109/INFCOM.1990.91248
+infocom/infocom1990-1,1990,2C. MANs,Performance Modeling of the SIGnet MAN Backbone.,Terence D. Todd;Allan M. Bignell;,https://doi.org/10.1109/INFCOM.1990.91249
+infocom/infocom1990-1,1990,2D. Network Design and Capacity Planning,End-to-End Planning Model for Optimal Evolution of Telecommunications Network.,Paul S. Min;Manju V. Hegde;,https://doi.org/10.1109/INFCOM.1990.91250
+infocom/infocom1990-1,1990,2D. Network Design and Capacity Planning,Topological Reconfiguration of ATM Networks.,José Augusto Suruagy Monteiro;Mario Gerla;,https://doi.org/10.1109/INFCOM.1990.91251
+infocom/infocom1990-1,1990,2D. Network Design and Capacity Planning,Incorporating Survivability Considerations Directly into the Network Design Process.,K. T. Newport;,https://doi.org/10.1109/INFCOM.1990.91252
+infocom/infocom1990-1,1990,2D. Network Design and Capacity Planning,An Algorithm for Capacity Expansion of Local Access Networks.,Alexander Shulman;Rita Vachani;,https://doi.org/10.1109/INFCOM.1990.91253
+infocom/infocom1990-1,1990,3A. LANs,A Simple Priority Scheme for Local Area Networks and Its Analysis.,Mohamed Haggag;Raymond L. Pickholtz;,https://doi.org/10.1109/INFCOM.1990.91254
+infocom/infocom1990-1,1990,3A. LANs,An Ethernet-like CSMA/CD Protocol for High Speed Bus LANs.,Wlodzimierz Dobosiewicz;Pawel Gburzynski;Piotr Rudnicki;,https://doi.org/10.1109/INFCOM.1990.91255
+infocom/infocom1990-1,1990,3A. LANs,Transient Performance Analysis of 1-Persistent CSMA and CSMA-CD Protocols.,László Jereb;Marco Ajmone Marsan;,https://doi.org/10.1109/INFCOM.1990.91256
+infocom/infocom1990-1,1990,3A. LANs,A Modified CSMA-CD Protocol for High Speed Channels.,Bin Lin;Elvino S. Sousa;,https://doi.org/10.1109/INFCOM.1990.91257
+infocom/infocom1990-1,1990,3B. Polling,Pseudo-Conservation Laws in Cyclic-Server Multiqueue Systems with a Class Of Limited Service Policies.,Kow C. Chang;Deniz Sandhu;,https://doi.org/10.1109/INFCOM.1990.91258
+infocom/infocom1990-1,1990,3B. Polling,Polling with a General Service Order Table: Gated Service.,Gagan L. Choudhury;,https://doi.org/10.1109/INFCOM.1990.91259
+infocom/infocom1990-1,1990,3B. Polling,A Single-Server Queue with Vacations and Non-Gated Time-Limited Service.,Kin K. Leung;Martin Eisenberg;,https://doi.org/10.1109/INFCOM.1990.91260
+infocom/infocom1990-1,1990,3B. Polling,Analysis of Symmetric Nonexhaustive Polling with Multiple Servers.,Marco Ajmone Marsan;Luís F. M. de Moraes;Susanna Donatelli;Fabio Neri;,https://doi.org/10.1109/INFCOM.1990.91261
+infocom/infocom1990-1,1990,3C. Switching,Specifying a Switch System Using IC.,S. Aggarwal;P. Obenour;,https://doi.org/10.1109/INFCOM.1990.91262
+infocom/infocom1990-1,1990,3C. Switching,Evolution of the Generalized Parallel Delta Networks Towards a Photonic Switching Environment.,Francesco Bernabei;Carla Calabrò;Marco Listanti;,https://doi.org/10.1109/INFCOM.1990.91263
+infocom/infocom1990-1,1990,3C. Switching,DQDB Under Heavy Load: Performance Evaluation and Fairness Analysis.,Marco Conti;Enrico Gregori;Luciano Lenzini;,https://doi.org/10.1109/INFCOM.1990.91264
+infocom/infocom1990-1,1990,3C. Switching,Hierarchical Distribution of Video with Dynamic Port Allocation.,Tak-Shing Peter Yum;,https://doi.org/10.1109/INFCOM.1990.91265

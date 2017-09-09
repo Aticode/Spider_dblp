@@ -1,0 +1,35 @@
+eurocrypt/eurocrypt2002,2002,Cryptanalysis,Cryptanalysis of a Pseudorandom Generator Based on Braid Groups.,Rosario Gennaro;Daniele Micciancio;,https://doi.org/10.1007/3-540-46035-7_1
+eurocrypt/eurocrypt2002,2002,Cryptanalysis,Potential Weaknesses of the Commutator Key Agreement Protocol Based on Braid Groups.,Sangjin Lee;Eonkyung Lee;,https://doi.org/10.1007/3-540-46035-7_2
+eurocrypt/eurocrypt2002,2002,Cryptanalysis,Extending the GHS Weil Descent Attack.,Steven D. Galbraith;Florian Hess;Nigel P. Smart;,https://doi.org/10.1007/3-540-46035-7_3
+eurocrypt/eurocrypt2002,2002,Public-Key Enryption,Universal Hash Proofs and a Paradigm for Adaptive Chosen Ciphertext Secure Public-Key Encryption.,Ronald Cramer;Victor Shoup;,https://doi.org/10.1007/3-540-46035-7_4
+eurocrypt/eurocrypt2002,2002,Public-Key Enryption,Key-Insulated Public Key Cryptosystems.,Yevgeniy Dodis;Jonathan Katz;Shouhuai Xu;Moti Yung;,https://doi.org/10.1007/3-540-46035-7_5
+eurocrypt/eurocrypt2002,2002,Public-Key Enryption,On the Security of Joint Signature and Encryption.,Jee Hea An;Yevgeniy Dodis;Tal Rabin;,https://doi.org/10.1007/3-540-46035-7_6
+eurocrypt/eurocrypt2002,2002,Invited Talk,AES and the Wide Trail Design Strategy.,Joan Daemen;Vincent Rijmen;,https://doi.org/10.1007/3-540-46035-7_7
+eurocrypt/eurocrypt2002,2002,Information Theory & New Models,Indistinguishability of Random Systems.,Ueli M. Maurer;,https://doi.org/10.1007/3-540-46035-7_8
+eurocrypt/eurocrypt2002,2002,Information Theory & New Models,How to Fool an Unbounded Adversary with a Short Key.,Alexander Russell;Hong Wang;,https://doi.org/10.1007/3-540-46035-7_9
+eurocrypt/eurocrypt2002,2002,Information Theory & New Models,Cryptography in an Unbounded Computational Model.,David P. Woodruff;Marten van Dijk;,https://doi.org/10.1007/3-540-46035-7_10
+eurocrypt/eurocrypt2002,2002,Implementational Analysis,Performance Analysis and Parallel Implementation of Dedicated Hash Functions.,Junko Nakajima;Mitsuru Matsui;,https://doi.org/10.1007/3-540-46035-7_11
+eurocrypt/eurocrypt2002,2002,Implementational Analysis,Fault Injection and a Timing Channel on an Analysis Technique.,John A. Clark;Jeremy L. Jacob;,https://doi.org/10.1007/3-540-46035-7_12
+eurocrypt/eurocrypt2002,2002,Implementational Analysis,Speeding Up Point Multiplication on Hyperelliptic Curves with Efficiently-Computable Endomorphisms.,Young-Ho Park;Sangtae Jeong;Jongin Lim;,https://doi.org/10.1007/3-540-46035-7_13
+eurocrypt/eurocrypt2002,2002,Stream Ciphers,Fast Correlation Attacks: An Algorithmic Point of View.,Philippe Chose;Antoine Joux;Michel Mitton;,https://doi.org/10.1007/3-540-46035-7_14
+eurocrypt/eurocrypt2002,2002,Stream Ciphers,BDD-Based Cryptanalysis of Keystream Generators.,Matthias Krause;,https://doi.org/10.1007/3-540-46035-7_15
+eurocrypt/eurocrypt2002,2002,Stream Ciphers,Linear Cryptanalysis of Bluetooth Stream Cipher.,Jovan Dj. Golic;Vittorio Bagini;Guglielmo Morgari;,https://doi.org/10.1007/3-540-46035-7_16
+eurocrypt/eurocrypt2002,2002,Digital Signatures,Generic Lower Bounds for Root Extraction and Signature Schemes in General Groups.,Ivan Damgård;Maciej Koprowski;,https://doi.org/10.1007/3-540-46035-7_17
+eurocrypt/eurocrypt2002,2002,Digital Signatures,Optimal Security Proofs for PSS and Other Signature Schemes.,Jean-Sébastien Coron;,https://doi.org/10.1007/3-540-46035-7_18
+eurocrypt/eurocrypt2002,2002,Cryptanalysis,Cryptanalysis of SFLASH.,Henri Gilbert;Marine Minier;,https://doi.org/10.1007/3-540-46035-7_19
+eurocrypt/eurocrypt2002,2002,Cryptanalysis,Cryptanalysis of the Revised NTRU Signature Scheme.,Craig Gentry;Michael Szydlo;,https://doi.org/10.1007/3-540-46035-7_20
+eurocrypt/eurocrypt2002,2002,Key Exchange,Dynamic Group Diffie-Hellman Key Exchange under Standard Assumptions.,Emmanuel Bresson;Olivier Chevassut;David Pointcheval;,https://doi.org/10.1007/3-540-46035-7_21
+eurocrypt/eurocrypt2002,2002,Key Exchange,Universally Composable Notions of Key Exchange and Secure Channels.,Ran Canetti;Hugo Krawczyk;,https://doi.org/10.1007/3-540-46035-7_22
+eurocrypt/eurocrypt2002,2002,Key Exchange,On Deniability in Quantum Key Exchange.,Donald Beaver;,https://doi.org/10.1007/3-540-46035-7_23
+eurocrypt/eurocrypt2002,2002,Modes of Operation,A Practice-Oriented Treatment of Pseudorandom Number Generators.,Anand Desai;Alejandro Hevia;Yiqun Lisa Yin;,https://doi.org/10.1007/3-540-46035-7_24
+eurocrypt/eurocrypt2002,2002,Modes of Operation,A Block-Cipher Mode of Operation for Parallelizable Message Authentication.,John Black;Phillip Rogaway;,https://doi.org/10.1007/3-540-46035-7_25
+eurocrypt/eurocrypt2002,2002,Invited Talk,Rethinking PKI: What's Trust Got to Do with It?,Stephen T. Kent;,https://doi.org/10.1007/3-540-46035-7_26
+eurocrypt/eurocrypt2002,2002,Digital Signatures,Efficient Generic Forward-Secure Signatures with an Unbounded Number Of Time Periods.,Tal Malkin;Daniele Micciancio;Sara K. Miner;,https://doi.org/10.1007/3-540-46035-7_27
+eurocrypt/eurocrypt2002,2002,Digital Signatures,From Identification to Signatures via the Fiat-Shamir Transform: Minimizing Assumptions for Security and Forward-Security.,Michel Abdalla;Jee Hea An;Mihir Bellare;Chanathip Namprempre;,https://doi.org/10.1007/3-540-46035-7_28
+eurocrypt/eurocrypt2002,2002,Digital Signatures,Security Notions for Unconditionally Secure Signature Schemes.,Junji Shikata;Goichiro Hanaoka;Yuliang Zheng;Hideki Imai;,https://doi.org/10.1007/3-540-46035-7_29
+eurocrypt/eurocrypt2002,2002,Traitor Tracing & Id-Based Encryption,Traitor Tracing with Constant Transmission Rate.,Aggelos Kiayias;Moti Yung;,https://doi.org/10.1007/3-540-46035-7_30
+eurocrypt/eurocrypt2002,2002,Traitor Tracing & Id-Based Encryption,Toward Hierarchical Identity-Based Encryption.,Jeremy Horwitz;Ben Lynn;,https://doi.org/10.1007/3-540-46035-7_31
+eurocrypt/eurocrypt2002,2002,Multiparty and Multicast,Unconditional Byzantine Agreement and Multi-party Computation Secure against Dishonest Minorities from Scratch.,Matthias Fitzi;Nicolas Gisin;Ueli M. Maurer;Oliver von Rotz;,https://doi.org/10.1007/3-540-46035-7_32
+eurocrypt/eurocrypt2002,2002,Multiparty and Multicast,Perfectly Secure Message Transmission Revisited.,Yvo Desmedt;Yongge Wang;,https://doi.org/10.1007/3-540-46035-7_33
+eurocrypt/eurocrypt2002,2002,Symmetric Cryptology,Degree of Composition of Highly Nonlinear Functions and Applications to Higher Order Differential Cryptanalysis.,Anne Canteaut;Marion Videau;,https://doi.org/10.1007/3-540-46035-7_34
+eurocrypt/eurocrypt2002,2002,Symmetric Cryptology,"Security Flaws Induced by CBC Padding - Applications to SSL, IPSEC, WTLS ....",Serge Vaudenay;,https://doi.org/10.1007/3-540-46035-7_35

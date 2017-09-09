@@ -1,0 +1,29 @@
+pkc/pkc2011,2011,Signatures,Linearly Homomorphic Signatures over Binary Fields and New Tools for Lattice-Based Signatures.,Dan Boneh;David Mandell Freeman;,https://doi.org/10.1007/978-3-642-19379-8_1
+pkc/pkc2011,2011,Signatures,Homomorphic Network Coding Signatures in the Standard Model.,Nuttapong Attrapadung;Benoît Libert;,https://doi.org/10.1007/978-3-642-19379-8_2
+pkc/pkc2011,2011,Signatures,Efficient Attribute-Based Signatures for Non-monotone Predicates in the Standard Model.,Tatsuaki Okamoto;Katsuyuki Takashima;,https://doi.org/10.1007/978-3-642-19379-8_3
+pkc/pkc2011,2011,Attribute Based Encryption,"Ciphertext-Policy Attribute-Based Encryption: An Expressive, Efficient, and Provably Secure Realization.",Brent Waters;,https://doi.org/10.1007/978-3-642-19379-8_4
+pkc/pkc2011,2011,Attribute Based Encryption,Generic Constructions for Chosen-Ciphertext Secure Attribute Based Encryption.,Shota Yamada;Nuttapong Attrapadung;Goichiro Hanaoka;Noboru Kunihiro;,https://doi.org/10.1007/978-3-642-19379-8_5
+pkc/pkc2011,2011,Attribute Based Encryption,Expressive Key-Policy Attribute-Based Encryption with Constant-Size Ciphertexts.,Nuttapong Attrapadung;Benoît Libert;Elie de Panafieu;,https://doi.org/10.1007/978-3-642-19379-8_6
+pkc/pkc2011,2011,Number Theory,Faster and Lower Memory Scalar Multiplication on Supersingular Curves in Characteristic Three.,Roberto Maria Avanzi;Clemens Heuberger;,https://doi.org/10.1007/978-3-642-19379-8_7
+pkc/pkc2011,2011,Number Theory,On the Correct Use of the Negation Map in the Pollard rho Method.,Daniel J. Bernstein;Tanja Lange;Peter Schwabe;,https://doi.org/10.1007/978-3-642-19379-8_8
+pkc/pkc2011,2011,Number Theory,Cryptanalysis of the RSA Subgroup Assumption from TCC 2005.,Jean-Sébastien Coron;Antoine Joux;Avradip Mandal;David Naccache;Mehdi Tibouchi;,https://doi.org/10.1007/978-3-642-19379-8_9
+pkc/pkc2011,2011,Protocols,(If) Size Matters: Size-Hiding Private Set Intersection.,Giuseppe Ateniese;Emiliano De Cristofaro;Gene Tsudik;,https://doi.org/10.1007/978-3-642-19379-8_10
+pkc/pkc2011,2011,Protocols,"Sub-linear, Secure Comparison with Two Non-colluding Parties.",Tomas Toft;,https://doi.org/10.1007/978-3-642-19379-8_11
+pkc/pkc2011,2011,Protocols,Oblivious Transfer with Hidden Access Control Policies.,Jan Camenisch;Maria Dubovitskaya;Gregory Neven;Gregory M. Zaverucha;,https://doi.org/10.1007/978-3-642-19379-8_12
+pkc/pkc2011,2011,Chosen-Ciphertext Security,Chosen Ciphertext Secure Encryption under Factoring Assumption Revisited.,Qixiang Mei;Bao Li;Xianhui Lu;Dingding Jia;,https://doi.org/10.1007/978-3-642-19379-8_13
+pkc/pkc2011,2011,Chosen-Ciphertext Security,Chameleon All-But-One TDFs and Their Application to Chosen-Ciphertext Security.,Junzuo Lai;Robert H. Deng;Shengli Liu;,https://doi.org/10.1007/978-3-642-19379-8_14
+pkc/pkc2011,2011,Chosen-Ciphertext Security,Parallel Decryption Queries in Bounded Chosen Ciphertext Attacks.,Takahiro Matsuda;Kanta Matsuura;,https://doi.org/10.1007/978-3-642-19379-8_15
+pkc/pkc2011,2011,Chosen-Ciphertext Security,Secure Blind Decryption.,Matthew Green;,https://doi.org/10.1007/978-3-642-19379-8_16
+pkc/pkc2011,2011,Invited Talk,New Developments in Leakage-Resilient Cryptography.,Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-642-19379-8_17
+pkc/pkc2011,2011,Encryption,On the Security of a Bidirectional Proxy Re-encryption Scheme from PKC 2010.,Jian Weng;Yunlei Zhao;Goichiro Hanaoka;,https://doi.org/10.1007/978-3-642-19379-8_18
+pkc/pkc2011,2011,Encryption,Fully Secure Accountable-Authority Identity-Based Encryption.,Amit Sahai;Hakan Seyalioglu;,https://doi.org/10.1007/978-3-642-19379-8_19
+pkc/pkc2011,2011,Encryption,One-Pass HMQV and Asymmetric Key-Wrapping.,Shai Halevi;Hugo Krawczyk;,https://doi.org/10.1007/978-3-642-19379-8_20
+pkc/pkc2011,2011,Signatures,Linear Recurring Sequences for the UOV Key Generation.,Albrecht Petzoldt;Stanislav Bulygin;Johannes A. Buchmann;,https://doi.org/10.1007/978-3-642-19379-8_21
+pkc/pkc2011,2011,Signatures,On the Impossibility of Instantiating PSS in the Standard Model.,Rishiraj Bhattacharyya;Avradip Mandal;,https://doi.org/10.1007/978-3-642-19379-8_22
+pkc/pkc2011,2011,Signatures,On-line Non-transferable Signatures Revisited.,Jacob C. N. Schuldt;Kanta Matsuura;,https://doi.org/10.1007/978-3-642-19379-8_23
+pkc/pkc2011,2011,Zero-Knowledge,Round-Efficient Sub-linear Zero-Knowledge Arguments for Linear Algebra.,Jae Hong Seo;,https://doi.org/10.1007/978-3-642-19379-8_24
+pkc/pkc2011,2011,Zero-Knowledge,Signatures on Randomizable Ciphertexts.,Olivier Blazy;Georg Fuchsbauer;David Pointcheval;Damien Vergnaud;,https://doi.org/10.1007/978-3-642-19379-8_25
+pkc/pkc2011,2011,Zero-Knowledge,Revocation for Delegatable Anonymous Credentials.,Tolga Acar;Lan Nguyen;,https://doi.org/10.1007/978-3-642-19379-8_26
+pkc/pkc2011,2011,Cryptanalysis,Cryptanalysis of Multivariate and Odd-Characteristic HFE Variants.,Luk Bettale;Jean-Charles Faugère;Ludovic Perret;,https://doi.org/10.1007/978-3-642-19379-8_27
+pkc/pkc2011,2011,Cryptanalysis,Cryptanalysis of Cryptosystems Based on Non-commutative Skew Polynomials.,Vivien Dubois;Jean-Gabriel Kammerer;,https://doi.org/10.1007/978-3-642-19379-8_28
+pkc/pkc2011,2011,Cryptanalysis,Practical Cryptanalysis of the Identification Scheme Based on the Isomorphism of Polynomial with One Secret Problem.,Charles Bouillaguet;Jean-Charles Faugère;Pierre-Alain Fouque;Ludovic Perret;,https://doi.org/10.1007/978-3-642-19379-8_29

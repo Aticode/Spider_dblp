@@ -1,0 +1,32 @@
+ches/ches2004,2004,Side Channels,Towards Efficient Second-Order Power Analysis.,Jason Waddle;David A. Wagner;,https://doi.org/10.1007/978-3-540-28632-5_1
+ches/ches2004,2004,Side Channels,Correlation Power Analysis with a Leakage Model.,Eric Brier;Christophe Clavier;Francis Olivier;,https://doi.org/10.1007/978-3-540-28632-5_2
+ches/ches2004,2004,Side Channels,Power Analysis of an FPGA: Implementation of Rijndael: Is Pipelining a DPA Countermeasure?,François-Xavier Standaert;Siddika Berna Örs;Bart Preneel;,https://doi.org/10.1007/978-3-540-28632-5_3
+ches/ches2004,2004,Modular Multiplication,Long Modular Multiplication for Cryptographic Applications.,Laszlo Hars;,https://doi.org/10.1007/978-3-540-28632-5_4
+ches/ches2004,2004,Modular Multiplication,Leak Resistant Arithmetic.,Jean-Claude Bajard;Laurent Imbert;Pierre-Yvan Liardet;Yannick Teglia;,https://doi.org/10.1007/978-3-540-28632-5_5
+ches/ches2004,2004,Modular Multiplication,Efficient Linear Array for Multiplication in GF(2m) Using a Normal Basis for Elliptic Curve Cryptography.,Soonhak Kwon;Kris Gaj;Chang Hoon Kim;Chun Pyo Hong;,https://doi.org/10.1007/978-3-540-28632-5_6
+ches/ches2004,2004,Low Resources,Low-Power Elliptic Curve Cryptography Using Scaled Modular Arithmetic.,Erdinç Öztürk;Berk Sunar;Erkay Savas;,https://doi.org/10.1007/978-3-540-28632-5_7
+ches/ches2004,2004,Low Resources,A Low-Cost ECC Coprocessor for Smartcards.,Harald Aigner;Holger Bock;Markus Hütter;Johannes Wolkerstorfer;,https://doi.org/10.1007/978-3-540-28632-5_8
+ches/ches2004,2004,Low Resources,Comparing Elliptic Curve Cryptography and RSA on 8-bit CPUs.,Nils Gura;Arun Patel;Arvinderpal Wander;Hans Eberle;Sheueling Chang Shantz;,https://doi.org/10.1007/978-3-540-28632-5_9
+ches/ches2004,2004,Implementation Aspects,Instruction Set Extensions for Fast Arithmetic in Finite Fields GF( p) and GF(2m).,Johann Großschädl;Erkay Savas;,https://doi.org/10.1007/978-3-540-28632-5_10
+ches/ches2004,2004,Implementation Aspects,Aspects of Hyperelliptic Curves over Large Prime Fields in Software Implementations.,Roberto Maria Avanzi;,https://doi.org/10.1007/978-3-540-28632-5_11
+ches/ches2004,2004,Collisison Attacks,A Collision-Attack on AES: Combining Side Channel- and Differential-Attack.,Kai Schramm;Gregor Leander;Patrick Felke;Christof Paar;,https://doi.org/10.1007/978-3-540-28632-5_12
+ches/ches2004,2004,Collisison Attacks,Enhancing Collision Attacks.,Hervé Ledig;Frédéric Muller;Frédéric Valette;,https://doi.org/10.1007/978-3-540-28632-5_13
+ches/ches2004,2004,Side Channels,Simple Power Analysis of Unified Code for ECC Double and Add.,Colin D. Walter;,https://doi.org/10.1007/978-3-540-28632-5_14
+ches/ches2004,2004,Side Channels,"DPA on n-Bit Sized Boolean and Arithmetic Operations and Its Application to IDEA, RC6, and the HMAC-Construction.",Kerstin Lemke;Kai Schramm;Christof Paar;,https://doi.org/10.1007/978-3-540-28632-5_15
+ches/ches2004,2004,Side Channels,Side-Channel Attacks in ECC: A General Technique for Varying the Parametrization of the Elliptic Curve.,Loren D. Olson;,https://doi.org/10.1007/978-3-540-28632-5_16
+ches/ches2004,2004,Side Channels,Switching Blindings with a View Towards IDEA.,Olaf Neiße;Jürgen Pulkus;,https://doi.org/10.1007/978-3-540-28632-5_17
+ches/ches2004,2004,Falt Attacks,Fault Analysis of Stream Ciphers.,Jonathan J. Hoch;Adi Shamir;,https://doi.org/10.1007/978-3-540-28632-5_18
+ches/ches2004,2004,Falt Attacks,A Differential Fault Attack Against Early Rounds of (Triple-)DES.,Ludger Hemme;,https://doi.org/10.1007/978-3-540-28632-5_19
+ches/ches2004,2004,Hardware Implementation,An Offset-Compensated Oscillator-Based Random Bit Source for Security Applications.,Holger Bock;Marco Bucci;Raimondo Luzzi;,https://doi.org/10.1007/978-3-540-28632-5_20
+ches/ches2004,2004,Hardware Implementation,Improving the Security of Dual-Rail Circuits.,Danil Sokolov;Julian P. Murphy;Alexandre V. Bystrov;Alexandre Yakovlev;,https://doi.org/10.1007/978-3-540-28632-5_21
+ches/ches2004,2004,Side Channels,A New Attack with Side Channel Leakage During Exponent Recoding Computations.,Yasuyuki Sakai;Kouichi Sakurai;,https://doi.org/10.1007/978-3-540-28632-5_22
+ches/ches2004,2004,Side Channels,Defeating Countermeasures Based on Randomized BSD Representations.,Pierre-Alain Fouque;Frédéric Muller;Guillaume Poupard;Frédéric Valette;,https://doi.org/10.1007/978-3-540-28632-5_23
+ches/ches2004,2004,Side Channels,Pipelined Computation of Scalar Multiplication in Elliptic Curve Cryptosystems.,Pradeep Kumar Mishra;,https://doi.org/10.1007/978-3-540-28632-5_24
+ches/ches2004,2004,Side Channels,"Efficient Countermeasures against RPA, DPA, and SPA.",Hideyo Mamiya;Atsuko Miyaji;Hiroaki Morimoto;,https://doi.org/10.1007/978-3-540-28632-5_25
+ches/ches2004,2004,Low Resources,Strong Authentication for RFID Systems Using the AES Algorithm.,Martin Feldhofer;Sandra Dominikus;Johannes Wolkerstorfer;,https://doi.org/10.1007/978-3-540-28632-5_26
+ches/ches2004,2004,Low Resources,TTS: High-Speed Signatures on a Low-Cost Smart Card.,Bo-Yin Yang;Jiun-Ming Chen;Yen-Hung Chen;,https://doi.org/10.1007/978-3-540-28632-5_27
+ches/ches2004,2004,Hardware Implementation,XTR Implementation on Reconfigurable Hardware.,Eric Peeters;Michael Neve;Mathieu Ciet;,https://doi.org/10.1007/978-3-540-28632-5_28
+ches/ches2004,2004,Hardware Implementation,Concurrent Error Detection Schemes for Involution Ciphers.,Nikhil Joshi;Kaijie Wu;Ramesh Karri;,https://doi.org/10.1007/978-3-540-28632-5_29
+ches/ches2004,2004,Authentication and Signatures,Public Key Authentication with One (Online) Single Addition.,Marc Girault;David Lefranc;,https://doi.org/10.1007/978-3-540-28632-5_30
+ches/ches2004,2004,Authentication and Signatures,Attacking DSA Under a Repeated Bits Assumption.,Peter James Leadbitter;Dan Page;Nigel P. Smart;,https://doi.org/10.1007/978-3-540-28632-5_31
+ches/ches2004,2004,Authentication and Signatures,How to Disembed a Program?,Benoît Chevallier-Mames;David Naccache;Pascal Paillier;David Pointcheval;,https://doi.org/10.1007/978-3-540-28632-5_32

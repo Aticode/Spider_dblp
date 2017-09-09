@@ -1,0 +1,31 @@
+ccs/ccs1994,1994,None,Support for the File System Security Requirements of Computational E-Mail Systems.,Trent Jaeger;Atul Prakash;,http://doi.acm.org/10.1145/191177.191179
+ccs/ccs1994,1994,None,Secure Wireless LANs.,Vaduvur Bharghavan;,http://doi.acm.org/10.1145/191177.191181
+ccs/ccs1994,1994,None,The Design and Implementation of Tripwire: A File System Integrity Checker.,Gene H. Kim;Eugene H. Spafford;,http://doi.acm.org/10.1145/191177.191183
+ccs/ccs1994,1994,None,Exchange of Patient Records - Prototype Implementation of a Security Attributes Service in X.500.,Marjan Jurecic;Herbert Bunz;,http://doi.acm.org/10.1145/191177.191185
+ccs/ccs1994,1994,None,A Process-Oriented Methodology for Assessing and Improving Software Trustworthiness.,Edward Amoroso;Carol Taylor;John Watson;Jonathan Weiss;,http://doi.acm.org/10.1145/191177.191188
+ccs/ccs1994,1994,None,Towards Acceptable Key Escrow Systems.,Thomas Beth;Hans-Joachim Knobloch;Marcus Otten;Gustavus J. Simmons;Peer Wichmann;,http://doi.acm.org/10.1145/191177.191191
+ccs/ccs1994,1994,None,Protocol Failure in the Escrowed Encryption Standard.,Matt Blaze;,http://doi.acm.org/10.1145/191177.191193
+ccs/ccs1994,1994,None,Secure Agreement Protocols: Reliable and Atomic Group Multicast in Rampart.,Michael K. Reiter;,http://doi.acm.org/10.1145/191177.191194
+ccs/ccs1994,1994,None,On Key Distribution via True Broadcasting.,Mike Just;Evangelos Kranakis;Danny Krizanc;Paul C. van Oorschot;,http://doi.acm.org/10.1145/191177.191195
+ccs/ccs1994,1994,None,Conditionally Secure Secret Sharing Schemes with Disenrollment Capability.,Chris Charnes;Josef Pieprzyk;Reihaneh Safavi-Naini;,http://doi.acm.org/10.1145/191177.191196
+ccs/ccs1994,1994,None,Meta-ElGamal Signature Schemes.,Patrick Horster;Holger Petersen;Markus Michels;,http://doi.acm.org/10.1145/191177.191197
+ccs/ccs1994,1994,None,Anonymous Credit Cards.,Steven H. Low;Sanjoy Paul;Nicholas F. Maxemchuk;,http://doi.acm.org/10.1145/191177.191199
+ccs/ccs1994,1994,None,An Efficient Multiversion Algorithm for Secure Servicing of Transaction Reads.,Paul Ammann;Sushil Jajodia;,http://doi.acm.org/10.1145/191177.191201
+ccs/ccs1994,1994,None,A Temporal Authorization Model.,Elisa Bertino;Claudio Bettini;Pierangela Samarati;,http://doi.acm.org/10.1145/191177.191202
+ccs/ccs1994,1994,None,Propagation of Authorizations in Distributed Database Systems.,Pierangela Samarati;Paul Ammann;Sushil Jajodia;,http://doi.acm.org/10.1145/191177.191204
+ccs/ccs1994,1994,None,The Design of Substitution-Permutation Networks Resistant to Differential and Linear Cryptanalysis.,Howard M. Heys;Stafford E. Tavares;,http://doi.acm.org/10.1145/191177.191206
+ccs/ccs1994,1994,None,Information Leakage of Boolean Functions and Its Relationship to Other Cryptographic Criteria.,M. Zhang;Stafford E. Tavares;L. L. Campbell;,http://doi.acm.org/10.1145/191177.191209
+ccs/ccs1994,1994,None,Authentication Codes That Are r-Fold Secure Against Spoofing.,L. Tombak;Reihaneh Safavi-Naini;,http://doi.acm.org/10.1145/191177.191211
+ccs/ccs1994,1994,None,"Endorsements, Licensing, and Insurance for Distributed System Services.",Gennady Medvinsky;Charlie Lai;B. Clifford Neuman;,http://doi.acm.org/10.1145/191177.191215
+ccs/ccs1994,1994,None,New Protocols for Third-Party-Based Authentication and Secure Broadcast.,Li Gong;,http://doi.acm.org/10.1145/191177.191218
+ccs/ccs1994,1994,None,How to Simultaneously Exchange Secrets by General Assumptions.,Tatsuaki Okamoto;Kazuo Ohta;,http://doi.acm.org/10.1145/191177.191221
+ccs/ccs1994,1994,None,A Key Distribution Method for Object-Based Protection.,Warwick Ford;Michael J. Wiener;,http://doi.acm.org/10.1145/191177.191225
+ccs/ccs1994,1994,None,How to Break Gifford's Cipher (extended abstract).,Thomas R. Cain;Alan T. Sherman;,http://doi.acm.org/10.1145/191177.191227
+ccs/ccs1994,1994,None,Parallel Collision Search with Application to Hash Functions and Discrete Logarithms.,Paul C. van Oorschot;Michael J. Wiener;,http://doi.acm.org/10.1145/191177.191231
+ccs/ccs1994,1994,None,Application Access Control at Network Level.,Refik Molva;Erich Rütsche;,http://doi.acm.org/10.1145/191177.191234
+ccs/ccs1994,1994,None,Network Security Probe.,P. Rolin;Laurent Toutain;Sylvain Gombault;,http://doi.acm.org/10.1145/191177.191235
+ccs/ccs1994,1994,None,Security Modelling for Organisations.,Alison Anderson;Dennis Longley;Lam-for Kwok;,http://doi.acm.org/10.1145/191177.191239
+ccs/ccs1994,1994,None,"""Mainstreaming"" Automated Information Systems Security Engineering (a case study in security run amok).",James W. Coyne;Norman C. Kluksdahl;,http://doi.acm.org/10.1145/191177.191241
+ccs/ccs1994,1994,None,The Compatibility of Policies.,Heather M. Hinton;E. Stewart Lee;,http://doi.acm.org/10.1145/191177.191243
+ccs/ccs1994,1994,None,An Entropy Conservation Law for Testing the Completeness of Convert Channel Analysis.,Randy Browne;,http://doi.acm.org/10.1145/191177.191244
+ccs/ccs1994,1994,None,Prerequisite Confidentiality.,John P. Nestor;E. S. Lee;,http://doi.acm.org/10.1145/191177.191245

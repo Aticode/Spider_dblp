@@ -1,0 +1,21 @@
+srds/srds83,1983,Keynote Adress,Recursively Structured Distributed Computing Systems.,Brian Randell;,None
+srds/srds83,1983,Recovery Issues in Distributed Systems,Modeling Fault-Tolerant Software Reliability.,R. Keith Scott;James W. Gault;David F. McAllister;,None
+srds/srds83,1983,Recovery Issues in Distributed Systems,Asynchronous Software Voting in NMR Computer Structures.,Gary York;Daniel P. Siewiorek;Zary Segall;,None
+srds/srds83,1983,Recovery Issues in Distributed Systems,Data-Pach: Integrating Inconsistent Copies of a Database After a Partition.,Hector Garcia-Molina;Tim Allen;Barbara T. Blaustein;R. Mark Chilenskas;Daniel R. Ries;,None
+srds/srds83,1983,Design Issues in Distributed Database Systems,A Suite of Robust Algorithms For Maintaining Replicated Data Using Weak Consistency Conditions.,James E. Allchin;,None
+srds/srds83,1983,Design Issues in Distributed Database Systems,Performance Evaluation of Two-Phase Locking Algorithms in a System for Distributed Databases.,Costantino Thanos;Carlo Carlesi;Elisa Bertino;,None
+srds/srds83,1983,Recent Advances in Distributed Processing and Reliable Computing,Reliable Storage Update (Extended Abstract).,Ching-Chao Liu;Toshimi Minoura;,None
+srds/srds83,1983,Recent Advances in Distributed Processing and Reliable Computing,An Experimental Distributed Processing Facility - A Vehicle for Survivability.,G. Smith;W. Shojinaga;,None
+srds/srds83,1983,Recent Advances in Distributed Processing and Reliable Computing,Checkpoint and Restart in Distributed Transaction Systems.,J. Eliot B. Moss;,None
+srds/srds83,1983,Recent Advances in Distributed Processing and Reliable Computing,Initializing Replicated Name Servers in a Wide Area Network.,Ilya Gertner;Robert Lindenberg;,None
+srds/srds83,1983,Recent Advances in Distributed Processing and Reliable Computing,Construction of a Distributed System Supporting Atomic Transactions.,Jean-Pierre Banâtre;Michel Banâtre;Florimond Ployette;,None
+srds/srds83,1983,Design and Analysis of Distributed Operating Systems,An Object-Oriented Design Model for Reliable Distributed Systems.,Anand R. Tripathi;Pong-Sheng Wang;,None
+srds/srds83,1983,Design and Analysis of Distributed Operating Systems,Primitives for Accessing Protected Objects.,Krithi Ramamritham;David W. Stemple;Stephen Vinter;,None
+srds/srds83,1983,Design and Analysis of Distributed Operating Systems,Issues Process and Communication Structure for Distributed Programs.,Barbara Liskov;Maurice Herlihy;,None
+srds/srds83,1983,Invited Papers,Performance Analysis of Distributed Data Base Systems.,Michael Stonebraker;John Woodfill;Jeff Ranstrom;Joseph Kalash;Kenneth Arnold;Erika Andersen;,None
+srds/srds83,1983,Fault Tolerant Algorithms in Distributed Systems,Reaching Approximate Agreement in the Presence of Faults.,Danny Dolev;Nancy A. Lynch;Shlomit S. Pinter;Eugene W. Stark;William E. Weihl;,None
+srds/srds83,1983,Fault Tolerant Algorithms in Distributed Systems,On the Treatment of Orphans in a Distributed System.,Santosh K. Shrivastava;,None
+srds/srds83,1983,Fault Tolerant Algorithms in Distributed Systems,Cells: An Approach to Design of a Fault-Tolerant Network Operating System.,Richard C. Lian;Ming T. Liu;,None
+srds/srds83,1983,Implementation of Reliable Distributed Systems,The Roe File System.,Carla Schlatter Ellis;Richard A. Floyd;,None
+srds/srds83,1983,Implementation of Reliable Distributed Systems,On Concurrency and Reliability of a Real-time DBMS for 5ESS Switching System.,F. K. Ng;,None
+srds/srds83,1983,Implementation of Reliable Distributed Systems,PERPOS Fault-Tolerant Transaction Processing.,J. C. West;M. A. Isman;S. G. Hannaford;,None

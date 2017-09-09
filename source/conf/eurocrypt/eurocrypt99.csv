@@ -1,0 +1,32 @@
+eurocrypt/eurocrypt99,1999,Cryptanalysis,Cryptanalysis of RSA with Private Key d Less than N0.292.,Dan Boneh;Glenn Durfee;,https://doi.org/10.1007/3-540-48910-X_1
+eurocrypt/eurocrypt99,1999,Cryptanalysis,Cryptanalysis of Skipjack Reduced to 31 Rounds Using Impossible Differentials.,Eli Biham;Alex Biryukov;Adi Shamir;,https://doi.org/10.1007/3-540-48910-X_2
+eurocrypt/eurocrypt99,1999,Hash Functions,Software Performance of Universal Hash Functions.,Wim Nevelsteen;Bart Preneel;,https://doi.org/10.1007/3-540-48910-X_3
+eurocrypt/eurocrypt99,1999,Foundations,Lower Bounds for Oblivious Transfer Reductions.,Yevgeniy Dodis;Silvio Micali;,https://doi.org/10.1007/3-540-48910-X_4
+eurocrypt/eurocrypt99,1999,Foundations,On the (Im)possibility of Basing Oblivious Transfer and Bit Commitment on Weakened Security Assumptions.,Ivan Damgård;Joe Kilian;Louis Salvail;,https://doi.org/10.1007/3-540-48910-X_5
+eurocrypt/eurocrypt99,1999,Foundations,Conditional Oblivious Transfer and Timed-Release Encryption.,Giovanni Di Crescenzo;Rafail Ostrovsky;Sivaramakrishnan Rajagopalan;,https://doi.org/10.1007/3-540-48910-X_6
+eurocrypt/eurocrypt99,1999,Public Key,An Efficient Threshold Public Key Cryptosystem Secure Against Adaptive Chosen Ciphertext Attack.,Ran Canetti;Shafi Goldwasser;,https://doi.org/10.1007/3-540-48910-X_7
+eurocrypt/eurocrypt99,1999,Public Key,Proving in Zero-Knowledge that a Number Is the Product of Two Safe Primes.,Jan Camenisch;Markus Michels;,https://doi.org/10.1007/3-540-48910-X_8
+eurocrypt/eurocrypt99,1999,Public Key,Secure Hash-and-Sign Signatures Without the Random Oracle.,Rosario Gennaro;Shai Halevi;Tal Rabin;,https://doi.org/10.1007/3-540-48910-X_9
+eurocrypt/eurocrypt99,1999,Watermarking and Fingerprinting,A Note on the Limits of Collusion-Resistant Watermarks.,Funda Ergün;Joe Kilian;Ravi Kumar;,https://doi.org/10.1007/3-540-48910-X_10
+eurocrypt/eurocrypt99,1999,Watermarking and Fingerprinting,Coin-Based Anonymous Fingerprinting.,Birgit Pfitzmann;Ahmad-Reza Sadeghi;,https://doi.org/10.1007/3-540-48910-X_11
+eurocrypt/eurocrypt99,1999,Elliptic Curves,On the Performance of Hyperelliptic Cryptosystems.,Nigel P. Smart;,https://doi.org/10.1007/3-540-48910-X_12
+eurocrypt/eurocrypt99,1999,Elliptic Curves,Fast Elliptic Curve Algorithm Combining Frobenius Map and Table Reference to Adapt to Higher Characteristic.,Tetsutaro Kobayashi;Hikaru Morita;Kunio Kobayashi;Fumitaka Hoshino;,https://doi.org/10.1007/3-540-48910-X_13
+eurocrypt/eurocrypt99,1999,Elliptic Curves,Comparing the MOV and FR Reductions in Elliptic Curve Cryptography.,Ryuichi Harasawa;Junji Shikata;Joe Suzuki;Hideki Imai;,https://doi.org/10.1007/3-540-48910-X_14
+eurocrypt/eurocrypt99,1999,New Schemes,Unbalanced Oil and Vinegar Signature Schemes.,Aviad Kipnis;Jacques Patarin;Louis Goubin;,https://doi.org/10.1007/3-540-48910-X_15
+eurocrypt/eurocrypt99,1999,New Schemes,Public-Key Cryptosystems Based on Composite Degree Residuosity Classes.,Pascal Paillier;,https://doi.org/10.1007/3-540-48910-X_16
+eurocrypt/eurocrypt99,1999,New Schemes,New Public Key Cryptosystems Based on the Dependent-RSA Problems.,David Pointcheval;,https://doi.org/10.1007/3-540-48910-X_17
+eurocrypt/eurocrypt99,1999,Block Ciphers,Resistance Against General Iterated Attacks.,Serge Vaudenay;,https://doi.org/10.1007/3-540-48910-X_18
+eurocrypt/eurocrypt99,1999,Block Ciphers,XOR and Non-XOR Differential Probabilities.,Philip Hawkes;Luke O'Connor;,https://doi.org/10.1007/3-540-48910-X_19
+eurocrypt/eurocrypt99,1999,Block Ciphers,S-boxes with Controllable Nonlinearity.,Jung Hee Cheon;Seongtaek Chee;Choonsik Park;,https://doi.org/10.1007/3-540-48910-X_20
+eurocrypt/eurocrypt99,1999,Distributed Cryptography,Secure Distributed Key Generation for Discrete-Log Based Cryptosystems.,Rosario Gennaro;Stanislaw Jarecki;Hugo Krawczyk;Tal Rabin;,https://doi.org/10.1007/3-540-48910-X_21
+eurocrypt/eurocrypt99,1999,Distributed Cryptography,Efficient Multiparty Computations Secure Against an Adaptive Adversary.,Ronald Cramer;Ivan Damgård;Stefan Dziembowski;Martin Hirt;Tal Rabin;,https://doi.org/10.1007/3-540-48910-X_22
+eurocrypt/eurocrypt99,1999,Distributed Cryptography,Distributed Pseudo-random Functions and KDCs.,Moni Naor;Benny Pinkas;Omer Reingold;,https://doi.org/10.1007/3-540-48910-X_23
+eurocrypt/eurocrypt99,1999,Cryptanalysis,Improved Fast Correlation Attacks on Stream Ciphers via Convolutional Codes.,Thomas Johansson;Fredrik Jönsson;,https://doi.org/10.1007/3-540-48910-X_24
+eurocrypt/eurocrypt99,1999,Cryptanalysis,Cryptanalysis of an Identification Scheme Based on the Permuted Perceptron Problem.,Lars R. Knudsen;Willi Meier;,https://doi.org/10.1007/3-540-48910-X_25
+eurocrypt/eurocrypt99,1999,Tools from Related Areas,An Analysis of Exponentiation Based on Formal Languages.,Luke O'Connor;,https://doi.org/10.1007/3-540-48910-X_26
+eurocrypt/eurocrypt99,1999,Tools from Related Areas,Dealing Necessary and Sufficient Numbers of Cards for Sharing a One-Bit Secret Key.,Takaaki Mizuki;Hiroki Shizuya;Takao Nishizeki;,https://doi.org/10.1007/3-540-48910-X_27
+eurocrypt/eurocrypt99,1999,Foundations,Computationally Private Information Retrieval with Polylogarithmic Communication.,Christian Cachin;Silvio Micali;Markus Stadler;,https://doi.org/10.1007/3-540-48910-X_28
+eurocrypt/eurocrypt99,1999,Foundations,On the Concurrent Composition of Zero-Knowledge Proofs.,Ransom Richardson;Joe Kilian;,https://doi.org/10.1007/3-540-48910-X_29
+eurocrypt/eurocrypt99,1999,Foundations,Pseudorandom Function Tribe Ensembles Based on One-Way Permutations: Improvements and Applications.,Marc Fischlin;,https://doi.org/10.1007/3-540-48910-X_30
+eurocrypt/eurocrypt99,1999,Broadcast and Multicast,Secure Communication in Broadcast Channels: The Answer to Franklin and Wright's Question.,Yongge Wang;Yvo Desmedt;,https://doi.org/10.1007/3-540-48910-X_31
+eurocrypt/eurocrypt99,1999,Broadcast and Multicast,Efficient Communication-Storage Tradeoffs for Multicast Encryption.,Ran Canetti;Tal Malkin;Kobbi Nissim;,https://doi.org/10.1007/3-540-48910-X_32

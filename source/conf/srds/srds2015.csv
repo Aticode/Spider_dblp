@@ -1,0 +1,33 @@
+srds/srds2015,2015,Cloud Computing,Probabilistic Byzantine Tolerance for Cloud Computing.,Luciana Arantes;Roy Friedman;Olivier Marin;Pierre Sens;,https://doi.org/10.1109/SRDS.2015.22
+srds/srds2015,2015,Cloud Computing,Privacy-Preserving Content-Based Image Retrieval in the Cloud.,Bernardo Ferreira;João Rodrigues;João Leitão;Henrique Domingos;,https://doi.org/10.1109/SRDS.2015.27
+srds/srds2015,2015,Cloud Computing,SafeSky: A Secure Cloud Storage Middleware for End-User Applications.,Rui Zhao;Chuan Yue;Byung-Chul Tak;Chunqiang Tang;,https://doi.org/10.1109/SRDS.2015.23
+srds/srds2015,2015,Cloud Computing,Extending Eventually Consistent Cloud Databases for Enforcing Numeric Invariants.,Valter Balegas;Diogo Serra;Sérgio Duarte;Carla Ferreira;Marc Shapiro;Rodrigo Rodrigues;Nuno M. Preguiça;,https://doi.org/10.1109/SRDS.2015.32
+srds/srds2015,2015,Recovery and Stabilization,Auditable Restoration of Distributed Programs.,Reza Hajisheykhi;Mohammad Roohitavaf;Sandeep S. Kulkarni;,https://doi.org/10.1109/SRDS.2015.24
+srds/srds2015,2015,Recovery and Stabilization,PSG-Codes: An Erasure Codes Family with High Fault Tolerance and Fast Recovery.,Shiyi Li;Qiang Cao;Lei Tian;Shenggang Wan;Lu Qian;Changsheng Xie;,https://doi.org/10.1109/SRDS.2015.39
+srds/srds2015,2015,Recovery and Stabilization,Recurrence in Self-Stabilization.,Oday Jubran;Oliver E. Theel;,https://doi.org/10.1109/SRDS.2015.11
+srds/srds2015,2015,Recovery and Stabilization,Multi-objective Optimisation of Rolling Upgrade Allowing for Failures in Clouds.,Daniel Sun;Daniel Guimarans;Alan Fekete;Vincent Gramoli;Liming Zhu;,https://doi.org/10.1109/SRDS.2015.37
+srds/srds2015,2015,Security and Safety,PASS: An Address Space Slicing Framework for P2P Eclipse Attack Mitigation.,Daniel Germanus;Hatem Ismail;Neeraj Suri;,https://doi.org/10.1109/SRDS.2015.14
+srds/srds2015,2015,Security and Safety,ControlFreak: Signature Chaining to Counter Control Flow Attacks.,Sergei Arnautov;Christof Fetzer;,https://doi.org/10.1109/SRDS.2015.35
+srds/srds2015,2015,Security and Safety,Denial of Service Elusion (DoSE): Keeping Clients Connected for Less.,Paul Wood;Christopher N. Gutierrez;Saurabh Bagchi;,https://doi.org/10.1109/SRDS.2015.31
+srds/srds2015,2015,Security and Safety,Temporality a NVRAM-based Virtualization Platform.,Vasily A. Sartakov;Arthur Martens;Rüdiger Kapitza;,https://doi.org/10.1109/SRDS.2015.42
+srds/srds2015,2015,Sensors and Mobility,A Secure Collusion-Aware and Probability-Aware Range Query Processing in Tiered Sensor Networks.,Lei Dong;Xuan Chen;Jianxiang Zhu;Hong Chen;Ke Wang;Cuiping Li;,https://doi.org/10.1109/SRDS.2015.21
+srds/srds2015,2015,Sensors and Mobility,PmDroid: Permission Supervision for Android Advertising.,Xing Gao;Dachuan Liu;Haining Wang;Kun Sun;,https://doi.org/10.1109/SRDS.2015.41
+srds/srds2015,2015,Sensors and Mobility,Signature-Based Top-k Query Processing against Data Replacement Attacks in MANETs.,Takuji Tsuda;Yuka Komai;Takahiro Hara;Shojiro Nishio;,https://doi.org/10.1109/SRDS.2015.34
+srds/srds2015,2015,Sensors and Mobility,FTDE: Distributed Fault Tolerance for WSN Data Collection and Compression Schemes.,Azad Ali;Abdelmajid Khelil;Neeraj Suri;,https://doi.org/10.1109/SRDS.2015.12
+srds/srds2015,2015,Replication,Separating the WHEAT from the Chaff: An Empirical Design for Geo-Replicated State Machines.,João Sousa;Alysson Bessani;,https://doi.org/10.1109/SRDS.2015.40
+srds/srds2015,2015,Replication,Replacement: Decentralized Failure Handling for Replicated State Machines.,Leander Jehl;Tormod Erevik Lea;Hein Meling;,https://doi.org/10.1109/SRDS.2015.29
+srds/srds2015,2015,Replication,Approximate Hash-Based Set Reconciliation for Distributed Replica Repair.,Nico Kruber;Maik Lange;Florian Schintke;,https://doi.org/10.1109/SRDS.2015.30
+srds/srds2015,2015,Replication,Securing Passive Replication through Verification.,Bruno Vavala;Nuno Neves;Peter Steenkiste;,https://doi.org/10.1109/SRDS.2015.38
+srds/srds2015,2015,Storage and Systems Behavior,PCM: A Parity-Check Matrix Based Approach to Improve Decoding Performance of XOR-based Erasure Codes.,Yongzhe Zhang;Chentao Wu;Jie Li;Minyi Guo;,https://doi.org/10.1109/SRDS.2015.15
+srds/srds2015,2015,Storage and Systems Behavior,MICS: Mingling Chained Storage Combining Replication and Erasure Coding.,Yan Tang;Jianwei Yin;Wei Lo;Ying Li;ShuiGuang Deng;Kexiong Dong;Calton Pu;,https://doi.org/10.1109/SRDS.2015.25
+srds/srds2015,2015,Storage and Systems Behavior,Online Behavior Identification in Distributed Systems.,Javier Alvarez Cid-Fuentes;Claudia Szabo;Katrina Falkner;,https://doi.org/10.1109/SRDS.2015.16
+srds/srds2015,2015,Storage and Systems Behavior,Z Codes: General Systematic Erasure Codes with Optimal Repair Bandwidth and Storage for Distributed Storage Systems.,Qing Liu;Dan Feng;Hong Jiang;Yuchong Hu;Tianfeng Jiao;,https://doi.org/10.1109/SRDS.2015.18
+srds/srds2015,2015,Nominated Best Papers,Distributed Attribute Based Access Control of Aggregated Data in Sensor Clouds.,Vimal Kumar;Sanjay Madria;,https://doi.org/10.1109/SRDS.2015.33
+srds/srds2015,2015,Nominated Best Papers,Seek-Efficient I/O Optimization in Single Failure Recovery for XOR-coded Storage Systems.,Zhirong Shen;Jiwu Shu;Yingxun Fu;,https://doi.org/10.1109/SRDS.2015.20
+srds/srds2015,2015,Nominated Best Papers,Communicating Reliably in Multihop Dynamic Networks Despite Byzantine Failures.,Alexandre Maurer;Sébastien Tixeuil;Xavier Défago;,https://doi.org/10.1109/SRDS.2015.10
+srds/srds2015,2015,Algorithms and Analysis,To Transmit Now or Not to Transmit Now.,Dacfey Dzung;Rachid Guerraoui;David Kozhaya;Yvonne Anne Pignolet;,https://doi.org/10.1109/SRDS.2015.26
+srds/srds2015,2015,Algorithms and Analysis,"Ridge: High-Throughput, Low-Latency Atomic Multicast.",Carlos Eduardo Benevides Bezerra;Daniel Cason;Fernando Pedone;,https://doi.org/10.1109/SRDS.2015.13
+srds/srds2015,2015,Algorithms and Analysis,Identifying Global Icebergs in Distributed Streams.,Emmanuelle Anceaume;Yann Busnel;Nicolo Rivetti;Bruno Sericola;,https://doi.org/10.1109/SRDS.2015.19
+srds/srds2015,2015,Experience Papers,A Framework for the Design Configuration of Accountable Selfish-Resilient Peer-to-Peer Systems.,Guido Lena Cota;Sonia Ben Mokhtar;Julia L. Lawall;Gilles Muller;Gabriele Gianini;Ernesto Damiani;Lionel Brunie;,https://doi.org/10.1109/SRDS.2015.36
+srds/srds2015,2015,Experience Papers,Chasing the Tail of Atomic Broadcast Protocols.,Daniel Cason;Parisa Jalili Marandi;Luiz Eduardo Buzato;Fernando Pedone;,https://doi.org/10.1109/SRDS.2015.28
+srds/srds2015,2015,Experience Papers,A Practical Experience on Evaluating Intrusion Prevention System Event Data as Indicators of Security Issues.,Rodrigo Sanches Miani;Bruno Bogaz Zarpelão;Bertrand Sobesto;Michel Cukier;,https://doi.org/10.1109/SRDS.2015.17

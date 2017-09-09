@@ -1,0 +1,22 @@
+uss/uss2002,2002,OS Security,Security in Plan 9.,Russ Cox;Eric Grosse;Rob Pike;David L. Presotto;Sean Quinlan;,http://www.usenix.org/publications/library/proceedings/sec02/cox.html
+uss/uss2002,2002,OS Security,Linux Security Modules: General Security Support for the Linux Kernel.,Chris Wright;Crispin Cowan;Stephen Smalley;James Morris;Greg Kroah-Hartman;,http://www.usenix.org/publications/library/proceedings/sec02/wright.html
+uss/uss2002,2002,OS Security,Using CQUAL for Static Analysis of Authorization Hook Placement.,Xiaolan Zhang;Antony Edwards;Trent Jaeger;,http://www.usenix.org/publications/library/proceedings/sec02/zhang.html
+uss/uss2002,2002,Intrusion Detection/Protection,Using Text Categorization Techniques for Intrusion Detection.,Yihua Liao;V. Rao Vemuri;,http://www.usenix.org/publications/library/proceedings/sec02/liao.html
+uss/uss2002,2002,Intrusion Detection/Protection,Detecting Manipulated Remote Call Streams.,Jonathon T. Giffin;Somesh Jha;Barton P. Miller;,http://www.usenix.org/publications/library/proceedings/sec02/giffin.html
+uss/uss2002,2002,Intrusion Detection/Protection,Type-Assisted Dynamic Buffer Overflow Detection.,Kyung-suk Lhee;Steve J. Chapin;,http://www.usenix.org/publications/library/proceedings/sec02/lhee.html
+uss/uss2002,2002,Access Control,A General and Flexible Access-Control System for the Web.,Lujo Bauer;Michael A. Schneider;Edward W. Felten;,http://www.usenix.org/publications/library/proceedings/sec02/bauer.html
+uss/uss2002,2002,Access Control,"Access and Integrity Control in a Public-Access, High-Assurance Configuration Management System.",Jonathan S. Shapiro;John Vanderburgh;,http://www.usenix.org/publications/library/proceedings/sec02/shapiro.html
+uss/uss2002,2002,Hacks/Attacks,Deanonymizing Users of the SafeWeb Anonymizing Service.,David M. Martin Jr.;Andrew Schulman;,http://www.usenix.org/publications/library/proceedings/sec02/martin.html
+uss/uss2002,2002,Hacks/Attacks,VeriSign CZAG: Privacy Leak in X.509 Certificates.,Scott G. Renfro;,http://www.usenix.org/publications/library/proceedings/sec02/renfro.html
+uss/uss2002,2002,Hacks/Attacks,How to Own the Internet in Your Spare Time.,Stuart Staniford;Vern Paxson;Nicholas Weaver;,http://www.usenix.org/publications/library/proceedings/sec02/staniford.html
+uss/uss2002,2002,Sandboxing,Setuid Demystified.,Hao Chen;David A. Wagner;Drew Dean;,http://www.usenix.org/publications/library/proceedings/sec02/chen.html
+uss/uss2002,2002,Sandboxing,Secure Execution via Program Shepherding.,Vladimir Kiriansky;Derek Bruening;Saman P. Amarasinghe;,http://www.usenix.org/publications/library/proceedings/sec02/kiriansky.html
+uss/uss2002,2002,Sandboxing,A Flexible Containment Mechanism for Executing Untrusted Code.,David S. Peterson;Matt Bishop;Raju Pandey;,http://www.usenix.org/publications/library/proceedings/sec02/peterson.html
+uss/uss2002,2002,Web Security,SSLACC: A Clustered SSL Accelerator.,Eric Rescorla;Adam Cain;Brian Korver;,http://www.usenix.org/publications/library/proceedings/sec02/rescorla.html
+uss/uss2002,2002,Web Security,Infranet: Circumventing Web Censorship and Surveillance.,Nick Feamster;Magdalena Balazinska;Greg Harfst;Hari Balakrishnan;David R. Karger;,http://www.usenix.org/publications/library/proceedings/sec02/feamster.html
+uss/uss2002,2002,Web Security,Trusted Paths for Browsers.,Zishuang (Eileen) Ye;Sean W. Smith;,http://www.usenix.org/publications/library/proceedings/sec02/ye.html
+uss/uss2002,2002,Generating Keys and Timestamps,Toward Speech-Generated Cryptographic Keys on Resource-Constrained Devices.,Fabian Monrose;Michael K. Reiter;Qi Li;Daniel P. Lopresti;Chilin Shih;,http://www.usenix.org/publications/library/proceedings/sec02/monrose.html
+uss/uss2002,2002,Generating Keys and Timestamps,Secure History Preservation Through Timeline Entanglement.,Petros Maniatis;Mary Baker;,http://www.usenix.org/publications/library/proceedings/sec02/maniatis.html
+uss/uss2002,2002,Deploying Crypto,Lessons Learned in Implementing and Deploying Crypto Software.,Peter Gutmann;,http://www.usenix.org/publications/library/proceedings/sec02/gutmann.html
+uss/uss2002,2002,Deploying Crypto,Side-Channel Attacks on Symmetric Encryption Schemes: The Case for Authenticated Encryption.,John Black;Hector Urtubia;,http://www.usenix.org/publications/library/proceedings/sec02/black.html
+uss/uss2002,2002,Deploying Crypto,Making Mix Nets Robust for Electronic Voting by Randomized Partial Checking.,Markus Jakobsson;Ari Juels;Ronald L. Rivest;,http://www.usenix.org/publications/library/proceedings/sec02/jakobsson.html

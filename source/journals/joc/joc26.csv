@@ -1,0 +1,24 @@
+joc/joc26,January 2013,Number 1,Public-Coin Parallel Zero-Knowledge for NP.,Rafael Pass;Alon Rosen;Wei-Lung Dustin Tseng;,https://doi.org/10.1007/s00145-011-9110-5
+joc/joc26,January 2013,Number 1,Slender-Set Differential Cryptanalysis.,Julia Borghoff;Lars R. Knudsen;Gregor Leander;Søren S. Thomsen;,https://doi.org/10.1007/s00145-011-9111-4
+joc/joc26,January 2013,Number 1,More Constructions of Lossy and Correlation-Secure Trapdoor Functions.,David Mandell Freeman;Oded Goldreich;Eike Kiltz;Alon Rosen;Gil Segev;,https://doi.org/10.1007/s00145-011-9112-3
+joc/joc26,January 2013,Number 1,Analysis of an Unconditionally Secure Distributed Oblivious Transfer.,Hossein Ghodosi;,https://doi.org/10.1007/s00145-011-9113-2
+joc/joc26,January 2013,Number 1,Secure Integration of Asymmetric and Symmetric Encryption Schemes.,Eiichiro Fujisaki;Tatsuaki Okamoto;,https://doi.org/10.1007/s00145-011-9114-1
+joc/joc26,January 2013,Number 1,Practical Chosen Ciphertext Secure Encryption from Factoring.,Dennis Hofheinz;Eike Kiltz;Victor Shoup;,https://doi.org/10.1007/s00145-011-9115-0
+joc/joc26,January 2013,Number 1,Elliptic Curve Discrete Logarithm Problem over Small Degree Extension Fields - Application to the Static Diffie-Hellman Problem on $E(\mathbb{F}_{q^{5}})$.,Antoine Joux;Vanessa Vitse;,https://doi.org/10.1007/s00145-011-9116-z
+joc/joc26,January 2013,Number 1,Input Locality and Hardness Amplification.,Andrej Bogdanov;Alon Rosen;,https://doi.org/10.1007/s00145-011-9117-y
+joc/joc26,January 2013,Number 1,A Single-Key Attack on the Full GOST Block Cipher.,Takanori Isobe;,https://doi.org/10.1007/s00145-012-9118-5
+joc/joc26,April 2013,Number 2,"Predicate Encryption Supporting Disjunctions, Polynomial Equations, and Inner Products.",Jonathan Katz;Amit Sahai;Brent Waters;,https://doi.org/10.1007/s00145-012-9119-4
+joc/joc26,April 2013,Number 2,On the Analysis of Cryptographic Assumptions in the Generic Ring Model.,Tibor Jager;Jörg Schwenk;,https://doi.org/10.1007/s00145-012-9120-y
+joc/joc26,April 2013,Number 2,A Note on the Bivariate Coppersmith Theorem.,Jean-Sébastien Coron;Alexey Kirichenko;Mehdi Tibouchi;,https://doi.org/10.1007/s00145-012-9121-x
+joc/joc26,April 2013,Number 2,Mercurial Commitments with Applications to Zero-Knowledge Sets.,Melissa Chase;Alexander Healy;Anna Lysyanskaya;Tal Malkin;Leonid Reyzin;,https://doi.org/10.1007/s00145-012-9122-9
+joc/joc26,April 2013,Number 2,Logic Minimization Techniques with Applications to Cryptology.,Joan Boyar;Philip Matthews;René Peralta;,https://doi.org/10.1007/s00145-012-9124-7
+joc/joc26,April 2013,Number 2,Quark: A Lightweight Hash.,Jean-Philippe Aumasson;Luca Henzen;Willi Meier;María Naya-Plasencia;,https://doi.org/10.1007/s00145-012-9125-6
+joc/joc26,April 2013,Number 2,"Sequential Aggregate Signatures, Multisignatures, and Verifiably Encrypted Signatures Without Random Oracles.",Steve Lu;Rafail Ostrovsky;Amit Sahai;Hovav Shacham;Brent Waters;,https://doi.org/10.1007/s00145-012-9126-5
+joc/joc26,July 2013,Number 3,Polynomial Runtime and Composability.,Dennis Hofheinz;Dominique Unruh;Jörn Müller-Quade;,https://doi.org/10.1007/s00145-012-9127-4
+joc/joc26,July 2013,Number 3,Compact Proofs of Retrievability.,Hovav Shacham;Brent Waters;,https://doi.org/10.1007/s00145-012-9129-2
+joc/joc26,July 2013,Number 3,Enhancements of Trapdoor Permutations.,Oded Goldreich;Ron D. Rothblum;,https://doi.org/10.1007/s00145-012-9131-8
+joc/joc26,July 2013,Number 3,Fully Leakage-Resilient Signatures.,Elette Boyle;Gil Segev;Daniel Wichs;,https://doi.org/10.1007/s00145-012-9136-3
+joc/joc26,October 2013,Number 4,A Comparison of Cryptanalytic Tradeoff Algorithms.,Jin Hong;Sunghwan Moon;,https://doi.org/10.1007/s00145-012-9128-3
+joc/joc26,October 2013,Number 4,A Note on Constant-Round Zero-Knowledge Proofs of Knowledge.,Yehuda Lindell;,https://doi.org/10.1007/s00145-012-9132-7
+joc/joc26,October 2013,Number 4,"FlipIt: The Game of ""Stealthy Takeover"".",Marten van Dijk;Ari Juels;Alina Oprea;Ronald L. Rivest;,https://doi.org/10.1007/s00145-012-9134-5
+joc/joc26,October 2013,Number 4,Round-Optimal Password-Based Authenticated Key Exchange.,Jonathan Katz;Vinod Vaikuntanathan;,https://doi.org/10.1007/s00145-012-9133-6

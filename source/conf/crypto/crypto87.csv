@@ -1,0 +1,43 @@
+crypto/crypto87,1987,Communication Networks and Standards,Standards for Data Security - A Change of Direction.,Wyn L. Price;,https://doi.org/10.1007/3-540-48184-2_1
+crypto/crypto87,1987,Communication Networks and Standards,Integrating Cryptography in ISDN.,Kåre Presttun;,https://doi.org/10.1007/3-540-48184-2_2
+crypto/crypto87,1987,Protocols,Special Uses and Abuses of the Fiat-Shamir Passport Protocol.,Yvo Desmedt;Claude Goutier;Samy Bengio;,https://doi.org/10.1007/3-540-48184-2_3
+crypto/crypto87,1987,Protocols,Direct Minimum-Knowledge Computations.,Russell Impagliazzo;Moti Yung;,https://doi.org/10.1007/3-540-48184-2_4
+crypto/crypto87,1987,Protocols,Non-Interactive Zero-Knowledge Proof Systems.,Alfredo De Santis;Silvio Micali;Giuseppe Persiano;,https://doi.org/10.1007/3-540-48184-2_5
+crypto/crypto87,1987,Protocols,How to Solve any Protocol Problem - An Efficiency Improvement.,Oded Goldreich;Ronen Vainish;,https://doi.org/10.1007/3-540-48184-2_6
+crypto/crypto87,1987,Protocols,Multiparty Computations Ensuring Privacy of Each Party's Input and Correctness of the Result.,David Chaum;Ivan Damgård;Jeroen van de Graaf;,https://doi.org/10.1007/3-540-48184-2_7
+crypto/crypto87,1987,Protocols,Society and Group Oriented Cryptography: A New Concept.,Yvo Desmedt;,https://doi.org/10.1007/3-540-48184-2_8
+crypto/crypto87,1987,Protocols,A Simple and Secure Way to Show the Validity of Your Public Key.,Jeroen van de Graaf;René Peralta;,https://doi.org/10.1007/3-540-48184-2_9
+crypto/crypto87,1987,Protocols,Cryptographic Computation: Secure Faut-Tolerant Protocols and the Public-Key Model.,Zvi Galil;Stuart Haber;Moti Yung;,https://doi.org/10.1007/3-540-48184-2_10
+crypto/crypto87,1987,Protocols,Gradual and Verifiable Release of a Secret.,Ernest F. Brickell;David Chaum;Ivan Damgård;Jeroen van de Graaf;,https://doi.org/10.1007/3-540-48184-2_11
+crypto/crypto87,1987,Protocols,Strong Practical Protocols.,Judy H. Moore;,https://doi.org/10.1007/3-540-48184-2_12
+crypto/crypto87,1987,Key Distribution Systems,Identity-based Conference Key Distribution Systems.,Kenji Koyama;Kazuo Ohta;,https://doi.org/10.1007/3-540-48184-2_13
+crypto/crypto87,1987,Key Distribution Systems,On the Key Predistribution System: A Practical Solution to the Key Distribution Problem.,Tsutomu Matsumoto;Hideki Imai;,https://doi.org/10.1007/3-540-48184-2_14
+crypto/crypto87,1987,Key Distribution Systems,Key Distribution Systems Based on Identification Information.,Eiji Okamoto;,https://doi.org/10.1007/3-540-48184-2_15
+crypto/crypto87,1987,Key Distribution Systems,Secret Distribution of Keys for Public-Key Systems.,Jean-Jacques Quisquater;,https://doi.org/10.1007/3-540-48184-2_16
+crypto/crypto87,1987,Public Key Systems,An Impersonation-Proof Identity Verfication Scheme.,Gustavus J. Simmons;,https://doi.org/10.1007/3-540-48184-2_17
+crypto/crypto87,1987,Public Key Systems,Arbitration in Tamper Proof Systems.,George I. Davida;Brian J. Matt;,https://doi.org/10.1007/3-540-48184-2_18
+crypto/crypto87,1987,Public Key Systems,Efficient Digital Public-Key Signature with Shadow (Abstract).,Louis C. Guillou;Jean-Jacques Quisquater;,https://doi.org/10.1007/3-540-48184-2_19
+crypto/crypto87,1987,Public Key Systems,Security-Related Comments Regarding McEliece's Public-Key Cryptosystem.,Carlisle M. Adams;Henk Meijer;,https://doi.org/10.1007/3-540-48184-2_20
+crypto/crypto87,1987,Design and Analysis of Cryptographic Systems,Components and Cycles of a Random Function.,John M. DeLaurentis;,https://doi.org/10.1007/3-540-48184-2_21
+crypto/crypto87,1987,Design and Analysis of Cryptographic Systems,Fast Spectral Tests for Measuring Nonrandomness and the DES.,Frank A. Feldman;,https://doi.org/10.1007/3-540-48184-2_22
+crypto/crypto87,1987,Design and Analysis of Cryptographic Systems,Other Cycling Tests for DES (Abstract).,Jean-Jacques Quisquater;Jean-Paul Delescaille;,https://doi.org/10.1007/3-540-48184-2_23
+crypto/crypto87,1987,Design and Analysis of Cryptographic Systems,A Crypto-Engine.,George I. Davida;Frank B. Dancs;,https://doi.org/10.1007/3-540-48184-2_24
+crypto/crypto87,1987,Design and Analysis of Cryptographic Systems,A Natural Taxonomy for Digital Information Authentication Schemes.,Gustavus J. Simmons;,https://doi.org/10.1007/3-540-48184-2_25
+crypto/crypto87,1987,Design and Analysis of Cryptographic Systems,Analyzing Encryption Protocols Using Formal Verification Authentication Schemes.,Richard A. Kemmerer;,https://doi.org/10.1007/3-540-48184-2_26
+crypto/crypto87,1987,Design and Analysis of Cryptographic Systems,Cryptosystems Based on an Analog of Heat Flow.,G. R. Blakley;William Rundell;,https://doi.org/10.1007/3-540-48184-2_27
+crypto/crypto87,1987,Design and Analysis of Cryptographic Systems,A Combinatorial Approach to Threshold Schemes.,Douglas R. Stinson;Scott A. Vanstone;,https://doi.org/10.1007/3-540-48184-2_28
+crypto/crypto87,1987,Design and Analysis of Cryptographic Systems,A Realization Scheme for the Identity-Based Cryptosystem.,Hatsukazu Tanaka;,https://doi.org/10.1007/3-540-48184-2_29
+crypto/crypto87,1987,Design and Analysis of Cryptographic Systems,Equivalence Between Two Flavours of Oblivious Transfers.,Claude Crépeau;,https://doi.org/10.1007/3-540-48184-2_30
+crypto/crypto87,1987,Design and Analysis of Cryptographic Systems,A Construction for Authentication/Secrecy Codes from Certain Combinatorial Designs.,Douglas R. Stinson;,https://doi.org/10.1007/3-540-48184-2_31
+crypto/crypto87,1987,Applications,A Digital Signature Based on a Conventional Encryption Function.,Ralph C. Merkle;,https://doi.org/10.1007/3-540-48184-2_32
+crypto/crypto87,1987,Applications,How to Make Replicated Data Secure.,Maurice Herlihy;J. D. Tygar;,https://doi.org/10.1007/3-540-48184-2_33
+crypto/crypto87,1987,Applications,A Study of Password Security.,Michael Luby;Charles Rackoff;,https://doi.org/10.1007/3-540-48184-2_34
+crypto/crypto87,1987,Applications,A Video Scrambling Technique Based On Space Filling Curves.,Yossi Matias;Adi Shamir;,https://doi.org/10.1007/3-540-48184-2_35
+crypto/crypto87,1987,Applications,Secure Audio Teleconference.,Ernest F. Brickell;Pil Joong Lee;Yacov Yacobi;,https://doi.org/10.1007/3-540-48184-2_36
+crypto/crypto87,1987,Informal Contributions,Attack on the Koyama-Ohta Identity Basedd Key Distribution Scheme.,Yacov Yacobi;,https://doi.org/10.1007/3-540-48184-2_37
+crypto/crypto87,1987,Informal Contributions,On the F-function of FEAL.,Walter Fumy;,https://doi.org/10.1007/3-540-48184-2_38
+crypto/crypto87,1987,Informal Contributions,Patterns of Entropy Drop of the Key in an S-Box of the DES.,Kencheng Zeng;Jun-Hui Yang;Z. T. Dai;,https://doi.org/10.1007/3-540-48184-2_39
+crypto/crypto87,1987,Informal Contributions,The Rao-Nam Scheme is Insecure Against a Chosen-Plaintext Attack.,René Struik;Johan van Tilburg;,https://doi.org/10.1007/3-540-48184-2_40
+crypto/crypto87,1987,Informal Contributions,On Struik-Tilburg Cryptanalysis of Rao-Nam Scheme.,T. R. N. Rao;,https://doi.org/10.1007/3-540-48184-2_41
+crypto/crypto87,1987,Informal Contributions,A Generalization of Hellman's Extension of Shannon's Approach to Cryptography (Abstract).,Pierre Beauchemin;Gilles Brassard;,https://doi.org/10.1007/3-540-48184-2_42
+crypto/crypto87,1987,Informal Contributions,Multiparty Unconditionally Secure Protocols (Abstract).,David Chaum;Claude Crépeau;Ivan Damgård;,https://doi.org/10.1007/3-540-48184-2_43

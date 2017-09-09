@@ -1,0 +1,37 @@
+ccs/asiaccs2010,2010,Keynote addresses,Data protection in outsourcing scenarios: issues and directions.,Pierangela Samarati;Sabrina De Capitani di Vimercati;,http://doi.acm.org/10.1145/1755688.1755690
+ccs/asiaccs2010,2010,Keynote addresses,A lattice-based approach to mashup security.,Jonas Magazinius;Aslan Askarov;Andrei Sabelfeld;,http://doi.acm.org/10.1145/1755688.1755691
+ccs/asiaccs2010,2010,Privacy,Towards publishing recommendation data with predictive anonymization.,Chih-Cheng Chang;Brian Thompson;Wendy Hui Wang;Danfeng Yao;,http://doi.acm.org/10.1145/1755688.1755693
+ccs/asiaccs2010,2010,Privacy,Restoring compromised privacy in micro-data disclosure.,Lei Zhang;Alexander Brodsky;Sushil Jajodia;,http://doi.acm.org/10.1145/1755688.1755694
+ccs/asiaccs2010,2010,Privacy,Securely outsourcing linear algebra computations.,Mikhail J. Atallah;Keith B. Frikken;,http://doi.acm.org/10.1145/1755688.1755695
+ccs/asiaccs2010,2010,Applied cryptography,Attribute-based signature and its applications.,Jin Li;Man Ho Au;Willy Susilo;Dongqing Xie;Kui Ren;,http://doi.acm.org/10.1145/1755688.1755697
+ccs/asiaccs2010,2010,Applied cryptography,Dynamic fully forward-secure group signatures.,Benoît Libert;Moti Yung;,http://doi.acm.org/10.1145/1755688.1755698
+ccs/asiaccs2010,2010,Applied cryptography,Identity-based encryption based on DHIES.,Yu Chen;Manuel Charlemagne;Zhi Guan;Jian-bin Hu;Zhong Chen;,http://doi.acm.org/10.1145/1755688.1755699
+ccs/asiaccs2010,2010,Network security,Region-based BGP announcement filtering for improved BGP security.,Fernando Sanchez;Zhenhai Duan;,http://doi.acm.org/10.1145/1755688.1755701
+ccs/asiaccs2010,2010,Network security,Fast-flux service network detection based on spatial snapshot mechanism for delay-free detection.,Si-Yu Huang;Ching-Hao Mao;Hahn-Ming Lee;,http://doi.acm.org/10.1145/1755688.1755702
+ccs/asiaccs2010,2010,Network security,Securing wireless sensor networks against large-scale node capture attacks.,Tuan Manh Vu;Reihaneh Safavi-Naini;Carey Williamson;,http://doi.acm.org/10.1145/1755688.1755703
+ccs/asiaccs2010,2010,Systems security --,Preventing drive-by download via inter-module communication monitoring.,Chengyu Song;Jianwei Zhuge;Xinhui Han;Zhiyuan Ye;,http://doi.acm.org/10.1145/1755688.1755705
+ccs/asiaccs2010,2010,Systems security --,A solution for the automated detection of clickjacking attacks.,Marco Balduzzi;Manuel Egele;Engin Kirda;Davide Balzarotti;Christopher Kruegel;,http://doi.acm.org/10.1145/1755688.1755706
+ccs/asiaccs2010,2010,Systems security --,PAriCheck: an efficient pointer arithmetic checker for C programs.,Yves Younan;Pieter Philippaerts;Lorenzo Cavallaro;R. Sekar;Frank Piessens;Wouter Joosen;,http://doi.acm.org/10.1145/1755688.1755707
+ccs/asiaccs2010,2010,Access control --,An opportunistic authority evaluation scheme for data security in crisis management scenarios.,Enrico Scalavino;Giovanni Russello;Rudi Ball;Vaibhav Gowadia;Emil C. Lupu;,http://doi.acm.org/10.1145/1755688.1755709
+ccs/asiaccs2010,2010,Access control --,Effective trust management through a hybrid logical and relational approach.,Adam J. Lee;Ting Yu;Yann Le Gall;,http://doi.acm.org/10.1145/1755688.1755710
+ccs/asiaccs2010,2010,Access control --,Toward practical authorization-dependent user obligation systems.,Murillo Pontual;Omar Chowdhury;William H. Winsborough;Ting Yu;Keith Irwin;,http://doi.acm.org/10.1145/1755688.1755711
+ccs/asiaccs2010,2010,Security protocols,Cap unification: application to protocol security modulo homomorphic encryption.,Siva Anantharaman;Hai Lin;Christopher Lynch;Paliath Narendran;Michaël Rusinowitch;,http://doi.acm.org/10.1145/1755688.1755713
+ccs/asiaccs2010,2010,Security protocols,SSLock: sustaining the trust on entities brought by SSL.,Adonis P. H. Fung;K. W. Cheung;,http://doi.acm.org/10.1145/1755688.1755714
+ccs/asiaccs2010,2010,Security protocols,Computationally secure two-round authenticated message exchange.,Klaas Ole Kürtz;Henning Schnoor;Thomas Wilke;,http://doi.acm.org/10.1145/1755688.1755715
+ccs/asiaccs2010,2010,Security protocols,"Bureaucratic protocols for secure two-party sorting, selection, and permuting.",Guan Wang;Tongbo Luo;Michael T. Goodrich;Wenliang Du;Zutao Zhu;,http://doi.acm.org/10.1145/1755688.1755716
+ccs/asiaccs2010,2010,Access control --,A logic for authorization provenance.,Jinwei Hu;Yan Zhang;Ruixuan Li;Zhengding Lu;,http://doi.acm.org/10.1145/1755688.1755718
+ccs/asiaccs2010,2010,Access control --,Risk-based access control systems built on fuzzy inferences.,Qun Ni;Elisa Bertino;Jorge Lobo;,http://doi.acm.org/10.1145/1755688.1755719
+ccs/asiaccs2010,2010,Access control --,Attribute based data sharing with attribute revocation.,Shucheng Yu;Cong Wang;Kui Ren;Wenjing Lou;,http://doi.acm.org/10.1145/1755688.1755720
+ccs/asiaccs2010,2010,Systems security --,binOb+: a framework for potent and stealthy binary obfuscation.,Byoungyoung Lee;Yuna Kim;Jong Kim;,http://doi.acm.org/10.1145/1755688.1755722
+ccs/asiaccs2010,2010,Systems security --,Secure provenance: the essential of bread and butter of data forensics in cloud computing.,Rongxing Lu;Xiaodong Lin;Xiaohui Liang;Xuemin (Sherman) Shen;,http://doi.acm.org/10.1145/1755688.1755723
+ccs/asiaccs2010,2010,Systems security --,RunTest: assuring integrity of dataflow processing in cloud computing infrastructures.,Juan Du;Wei Wei;Xiaohui Gu;Ting Yu;,http://doi.acm.org/10.1145/1755688.1755724
+ccs/asiaccs2010,2010,Short papers --,K-anonymous association rule hiding.,Zutao Zhu;Wenliang Du;,http://doi.acm.org/10.1145/1755688.1755726
+ccs/asiaccs2010,2010,Short papers --,Controlling data disclosure in computational PIR protocols.,Ning Shang;Gabriel Ghinita;Yongbin Zhou;Elisa Bertino;,http://doi.acm.org/10.1145/1755688.1755727
+ccs/asiaccs2010,2010,Short papers --,Cryptographic role-based security mechanisms based on role-key hierarchy.,Yan Zhu;Gail-Joon Ahn;Hongxin Hu;Huaixi Wang;,http://doi.acm.org/10.1145/1755688.1755728
+ccs/asiaccs2010,2010,Short papers --,PriMa: an effective privacy protection mechanism for social networks.,Anna Cinzia Squicciarini;Federica Paci;Smitha Sundareswaran;,http://doi.acm.org/10.1145/1755688.1755729
+ccs/asiaccs2010,2010,Short papers --,Oblivious enforcement of hidden information release policies.,Brian Wongchaowart;Adam J. Lee;,http://doi.acm.org/10.1145/1755688.1755730
+ccs/asiaccs2010,2010,Short papers --,Apex: extending Android permission model and enforcement with user-defined runtime constraints.,Mohammad Nauman;Sohail Khan;Xinwen Zhang;,http://doi.acm.org/10.1145/1755688.1755732
+ccs/asiaccs2010,2010,Short papers --,A hotspot-based protocol for attack traceback in mobile ad hoc networks.,Hung-Yuan Hsu;Sencun Zhu;Ali R. Hurson;,http://doi.acm.org/10.1145/1755688.1755733
+ccs/asiaccs2010,2010,Short papers --,Practical ID-based encryption for wireless sensor network.,Cheng-Kang Chu;Joseph K. Liu;Jianying Zhou;Feng Bao;Robert H. Deng;,http://doi.acm.org/10.1145/1755688.1755734
+ccs/asiaccs2010,2010,Short papers --,A game theoretic model for digital identity and trust in online communities.,Tansu Alpcan;Cengiz Örencik;Albert Levi;Erkay Savas;,http://doi.acm.org/10.1145/1755688.1755735
+ccs/asiaccs2010,2010,Short papers --,Scene tagging: image-based CAPTCHA using image composition and object relationships.,Peter Matthews;Cliff Changchun Zou;,http://doi.acm.org/10.1145/1755688.1755736

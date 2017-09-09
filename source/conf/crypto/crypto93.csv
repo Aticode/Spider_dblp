@@ -1,0 +1,40 @@
+crypto/crypto93,1993,Cryptosystems,Efficient Signature Schemes Based on Birational Permutations.,Adi Shamir;,https://doi.org/10.1007/3-540-48329-2_1
+crypto/crypto93,1993,Cryptosystems,A New Identification Scheme Based on Syndrome Decoding.,Jacques Stern;,https://doi.org/10.1007/3-540-48329-2_2
+crypto/crypto93,1993,Cryptosystems,The Shrinking Generator.,Don Coppersmith;Hugo Krawczyk;Yishay Mansour;,https://doi.org/10.1007/3-540-48329-2_3
+crypto/crypto93,1993,Stream Ciphers and Cryptographic Functions,An Integrity Check Value Algorithm for Stream Ciphers.,Richard Taylor;,https://doi.org/10.1007/3-540-48329-2_4
+crypto/crypto93,1993,Stream Ciphers and Cryptographic Functions,Nonlinearly Balanced Boolean Functions and Their Propagation Characteristics (Extended Abstract).,Jennifer Seberry;Xian-Mo Zhang;Yuliang Zheng;,https://doi.org/10.1007/3-540-48329-2_5
+crypto/crypto93,1993,Proof Systems and Zero-knowledge,A Low Communication Competitive Interactive Proof System for Promised Quadratic Residuosity.,Toshiya Itoh;Masafumi Hoshi;Shigeo Tsujii;,https://doi.org/10.1007/3-540-48329-2_6
+crypto/crypto93,1993,Proof Systems and Zero-knowledge,Secret Sharing and Perfect Zero Knowledge.,Alfredo De Santis;Giovanni Di Crescenzo;Giuseppe Persiano;,https://doi.org/10.1007/3-540-48329-2_7
+crypto/crypto93,1993,Proof Systems and Zero-knowledge,On Message Proof Systems with Known Space Verifiers.,Yonatan Aumann;Uriel Feige;,https://doi.org/10.1007/3-540-48329-2_8
+crypto/crypto93,1993,Proof Systems and Zero-knowledge,Interactive Hashing can Simplify Zero-Knowledge Protocol Design Without Computational Assumptions (Extended Abstract).,Ivan Damgård;,https://doi.org/10.1007/3-540-48329-2_9
+crypto/crypto93,1993,Secret Sharing,Fully Dynamic Secret Sharing Schemes.,Carlo Blundo;Antonella Cresti;Alfredo De Santis;Ugo Vaccaro;,https://doi.org/10.1007/3-540-48329-2_10
+crypto/crypto93,1993,Secret Sharing,Multisecret Threshold Schemes.,Wen-Ai Jackson;Keith M. Martin;Christine M. O'Keefe;,https://doi.org/10.1007/3-540-48329-2_11
+crypto/crypto93,1993,Secret Sharing,Secret Sharing Made Short.,Hugo Krawczyk;,https://doi.org/10.1007/3-540-48329-2_12
+crypto/crypto93,1993,Number Theory and Algorithms,A Subexponential Algorithm for Discrete Logarithms over All Finite Fields.,Leonard M. Adleman;Jonathan DeMarrais;,https://doi.org/10.1007/3-540-48329-2_13
+crypto/crypto93,1993,Number Theory and Algorithms,An Implementation of the General Number Field Sieve.,Johannes A. Buchmann;J. Loho;J. Zayer;,https://doi.org/10.1007/3-540-48329-2_14
+crypto/crypto93,1993,Number Theory and Algorithms,On the Factorization of RSA-120.,Thomas F. Denny;Bruce Dodson;Arjen K. Lenstra;Mark S. Manasse;,https://doi.org/10.1007/3-540-48329-2_15
+crypto/crypto93,1993,Number Theory and Algorithms,Comparison of Three Modular Reduction Functions.,Antoon Bosselaers;René Govaerts;Joos Vandewalle;,https://doi.org/10.1007/3-540-48329-2_16
+crypto/crypto93,1993,Differential Cryptanalysis,Differtial Cryptanalysis of Lucifer.,Ishai Ben-Aroya;Eli Biham;,https://doi.org/10.1007/3-540-48329-2_17
+crypto/crypto93,1993,Differential Cryptanalysis,Differential Attack on Message Authentication Codes.,Kazuo Ohta;Mitsuru Matsui;,https://doi.org/10.1007/3-540-48329-2_18
+crypto/crypto93,1993,Differential Cryptanalysis,Cryptanalysis of the CFB Mode of the DES with a Reduced Number of Rounds.,Bart Preneel;Marnix Nuttin;Vincent Rijmen;Johan Buelens;,https://doi.org/10.1007/3-540-48329-2_19
+crypto/crypto93,1993,Differential Cryptanalysis,Weak Keys for IDEA.,Joan Daemen;René Govaerts;Joos Vandewalle;,https://doi.org/10.1007/3-540-48329-2_20
+crypto/crypto93,1993,Complexity Theory,Entity Authentication and Key Distribution.,Mihir Bellare;Phillip Rogaway;,https://doi.org/10.1007/3-540-48329-2_21
+crypto/crypto93,1993,Complexity Theory,On the Existence of Statistically Hiding Bit Commitment Schemes and Fail-Stop Signatures.,Ivan Damgård;Torben P. Pedersen;Birgit Pfitzmann;,https://doi.org/10.1007/3-540-48329-2_22
+crypto/crypto93,1993,Complexity Theory,Joint Encryption and Message-Efficient Secure Computation.,Matthew K. Franklin;Stuart Haber;,https://doi.org/10.1007/3-540-48329-2_23
+crypto/crypto93,1993,Complexity Theory,Cryptographic Primitives Based on Hard Learning Problems.,Avrim Blum;Merrick L. Furst;Michael J. Kearns;Richard J. Lipton;,https://doi.org/10.1007/3-540-48329-2_24
+crypto/crypto93,1993,Applications,Extensions of Single-term Coins.,Niels Ferguson;,https://doi.org/10.1007/3-540-48329-2_25
+crypto/crypto93,1993,Applications,Untraceable Off-line Cash in Wallets with Observers (Extended Abstract).,Stefan Brands;,https://doi.org/10.1007/3-540-48329-2_26
+crypto/crypto93,1993,Applications,Discreet Solitary Games.,Claude Crépeau;Joe Kilian;,https://doi.org/10.1007/3-540-48329-2_27
+crypto/crypto93,1993,Authentication Codes,On Families of Hash Functions via Geometric Codes and Concatenation.,Jürgen Bierbrauer;Thomas Johansson;Gregory Kabatianskii;Ben J. M. Smeets;,https://doi.org/10.1007/3-540-48329-2_28
+crypto/crypto93,1993,Authentication Codes,On the Construction of Perfect Authentication Codes that Permit Arbitration.,Thomas Johansson;,https://doi.org/10.1007/3-540-48329-2_29
+crypto/crypto93,1993,Authentication Codes,Codes for Interactive Authentication.,Peter Gemmell;Moni Naor;,https://doi.org/10.1007/3-540-48329-2_30
+crypto/crypto93,1993,Hash Functions,Hash Functions Based on Block Ciphers: A Synthetic Approach.,Bart Preneel;René Govaerts;Joos Vandewalle;,https://doi.org/10.1007/3-540-48329-2_31
+crypto/crypto93,1993,Hash Functions,Security of Iterated Hash Functions Based on Block Ciphers.,Walter Hohl;Xuejia Lai;Thomas Meier;Christian Waldvogel;,https://doi.org/10.1007/3-540-48329-2_32
+crypto/crypto93,1993,Cryptanalysis,Improved Algorithms for the Permuted Kernel Problem.,Jacques Patarin;Pascal Chauvaud;,https://doi.org/10.1007/3-540-48329-2_33
+crypto/crypto93,1993,Cryptanalysis,On the Distribution of Characteristics in Composite Permutations.,Luke O'Connor;,https://doi.org/10.1007/3-540-48329-2_34
+crypto/crypto93,1993,Cryptanalysis,Remark on the Threshold RSA Signature Scheme.,Chuan-Ming Li;Tzonelih Hwang;Narn-Yih Lee;,https://doi.org/10.1007/3-540-48329-2_35
+crypto/crypto93,1993,Cryptanalysis,Another Method for Attaining Security Against Adaptively Chosen Ciphertext Attacks.,Chae Hoon Lim;Pil Joong Lee;,https://doi.org/10.1007/3-540-48329-2_36
+crypto/crypto93,1993,Cryptanalysis,Attacks on the Birational Permutation Signature Schemes.,Don Coppersmith;Jacques Stern;Serge Vaudenay;,https://doi.org/10.1007/3-540-48329-2_37
+crypto/crypto93,1993,Key Distribution,Interaction in Key Distribution Schemes (Extended Abstract).,Amos Beimel;Benny Chor;,https://doi.org/10.1007/3-540-48329-2_38
+crypto/crypto93,1993,Key Distribution,Secret-Key Agreement without Public-Key Cryptography.,Frank Thomson Leighton;Silvio Micali;,https://doi.org/10.1007/3-540-48329-2_39
+crypto/crypto93,1993,Key Distribution,Broadcast Encryption.,Amos Fiat;Moni Naor;,https://doi.org/10.1007/3-540-48329-2_40

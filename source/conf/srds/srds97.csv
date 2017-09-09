@@ -1,0 +1,25 @@
+srds/srds97,1997,Analysis and Evaluation,Reliability Analysis of Disk Array Organizations by Considering Uncorrectable Bit Errors.,Xuefeng Wu;Jie Li;Hisao Kameda;,https://doi.org/10.1109/RELDIS.1997.632790
+srds/srds97,1997,Analysis and Evaluation,Availability Analysis of Transaction Processing Systems based on User-Perceived Performance.,Varsha Mainkar;,https://doi.org/10.1109/RELDIS.1997.632791
+srds/srds97,1997,Analysis and Evaluation,Controlled Stochastic Petri Nets.,Hermann de Meer;Oliver-Rainer Düsterhöft;,https://doi.org/10.1109/RELDIS.1997.632792
+srds/srds97,1997,Fault-Tolerant Systems,An Index-Based Checkpointing Algorithm for Autonomous Distributed Systems.,Roberto Baldoni;Francesco Quaglia;Paolo Fornara;,https://doi.org/10.1109/RELDIS.1997.632793
+srds/srds97,1997,Fault-Tolerant Systems,Applying Simulation to the Design and Performance Evaluation of Fault-tolerant Systems.,Guillermo A. Alvarez;Flaviu Cristian;,https://doi.org/10.1109/RELDIS.1997.632794
+srds/srds97,1997,Fault-Tolerant Systems,Reliable Software Systems using Reusable Software Components.,Chandra M. R. Kintala;,https://doi.org/10.1109/RELDIS.1997.632795
+srds/srds97,1997,S/W Reliability,Incorporating Code Coverage in the Reliability Estimation for Fault-Tolerant Software.,Mei-Hwa Chen;Michael R. Lyu;W. Eric Wong;,https://doi.org/10.1109/RELDIS.1997.632796
+srds/srds97,1997,S/W Reliability,Predicting Dependability Properties On-line.,Gerardo Rubino;,https://doi.org/10.1109/RELDIS.1997.632797
+srds/srds97,1997,State of the Art,"Chameleon: Adaptive Fault Tolerance Using Reliable, Mobile Agents.",Ravishankar K. Iyer;Zbigniew Kalbarczyk;Saurabh Bagchi;,https://doi.org/10.1109/RELDIS.1997.632798
+srds/srds97,1997,Robust S/W Systems,Fault Detection Using Hints from the Socket Layer.,Nuno Neves;W. Kent Fuchs;,https://doi.org/10.1109/RELDIS.1997.632799
+srds/srds97,1997,Robust S/W Systems,Comparing Operating Systems Using Robustness Benchmarks.,Philip J. Koopman Jr.;John Sung;Christopher P. Dingman;Daniel P. Siewiorek;Ted Marz;,https://doi.org/10.1109/RELDIS.1997.632800
+srds/srds97,1997,Robust S/W Systems,Software Approach to Hazard Detection Using On-line Analysis of Safety Constraints.,Beth A. Schroeder;Karsten Schwan;Sudhir Aggarwal;,https://doi.org/10.1109/RELDIS.1997.632801
+srds/srds97,1997,Reliable Internet Services,A Flexible Security Model for Using Internet Content.,Rangachari Anand;Nayeem Islam;Trent Jaeger;Josyula R. Rao;,https://doi.org/10.1109/RELDIS.1997.632802
+srds/srds97,1997,Reliable Internet Services,Data Distribution Algorithms for Load Banlanced Fault-Tolerant Web Access.,B. Narendran;Sampath Rangarajan;Shalini Yajnik;,https://doi.org/10.1109/RELDIS.1997.632803
+srds/srds97,1997,Reliable Internet Services,Load Balancing Schemes for High-Throughput Distributed Fault-Tolerant Servers.,Roy Friedman;Daniel Mossé;,https://doi.org/10.1109/RELDIS.1997.632804
+srds/srds97,1997,Panel:Reliabilty of Distributed Applications with COTS Components,Reliabilty of Distributed Applications with COTS Components (Position Statement).,Chandra M. R. Kintala;,http://doi.ieeecomputersociety.org/10.1109/SRDS.1997.10001
+srds/srds97,1997,Panel:Reliabilty of Distributed Applications with COTS Components,The Art of Creating Reliable Software-based Systems using Off-the-Shelf Software Components.,Paul A. Green Jr.;,https://doi.org/10.1109/RELDIS.1997.632806
+srds/srds97,1997,Panel:Reliabilty of Distributed Applications with COTS Components,Tradeoffs when Integrating Multiple Software Components into a Highly Available Application.,Len Castelli;Brian A. Coan;James P. Harbison;Edwin L. Miller;,https://doi.org/10.1109/RELDIS.1997.632807
+srds/srds97,1997,Network Partitioning and Monitoring,Fast Replicated State Machines Over Partitionable Networks.,Roy Friedman;Alexey Vaysburd;,https://doi.org/10.1109/RELDIS.1997.632808
+srds/srds97,1997,Network Partitioning and Monitoring,"Selecting a ""Primary Partition"" in Partitionable Asynchronous Distributed Systems.",Alberto Bartoli;Özalp Babaoglu;,https://doi.org/10.1109/RELDIS.1997.632809
+srds/srds97,1997,Network Partitioning and Monitoring,A Supervisor-Based Semi-Centralized Network Surveillance Scheme and the Fault Detection Latency Bound.,K. H. Kim;Chittur Subbaraman;,https://doi.org/10.1109/RELDIS.1997.632810
+srds/srds97,1997,Coordination Protocols,A Fail-Awar Membership Service.,Christof Fetzer;Flaviu Cristian;,https://doi.org/10.1109/RELDIS.1997.632811
+srds/srds97,1997,Coordination Protocols,Probabilistic Verification of a Synchronous Round-Based Consensus Protocol.,Harpreet S. Duggal;Michel Cukier;William H. Sanders;,https://doi.org/10.1109/RELDIS.1997.632812
+srds/srds97,1997,Coordination Protocols,Transaction Reordering in Replicated Databases.,Fernando Pedone;Rachid Guerraoui;André Schiper;,https://doi.org/10.1109/RELDIS.1997.632813
+srds/srds97,1997,Coordination Protocols,Preventing Useless Checkpoints in Distributed Computations.,Jean-Michel Hélary;Achour Mostéfaoui;Robert H. B. Netzer;Michel Raynal;,https://doi.org/10.1109/RELDIS.1997.632814

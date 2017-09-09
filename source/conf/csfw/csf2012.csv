@@ -1,0 +1,25 @@
+csfw/csf2012,2012,Information-Flow Security,Information-Flow Security for a Core of JavaScript.,Daniel Hedin;Andrei Sabelfeld;,https://doi.org/10.1109/CSF.2012.19
+csfw/csf2012,2012,Information-Flow Security,Secure Information Flow for Concurrent Programs under Total Store Order.,Jeffrey A. Vaughan;Todd D. Millstein;,https://doi.org/10.1109/CSF.2012.20
+csfw/csf2012,2012,Information-Flow Security,ENCoVer: Symbolic Exploration for Information Flow Security.,Musard Balliu;Mads Dam;Gurvan Le Guernic;,https://doi.org/10.1109/CSF.2012.24
+csfw/csf2012,2012,Information-Flow Security,Information-Flow Control for Programming on Encrypted Data.,John C. Mitchell;Rahul Sharma;Deian Stefan;Joe Zimmerman;,https://doi.org/10.1109/CSF.2012.30
+csfw/csf2012,2012,Symbolic Protocol Verification,Symbolic Analysis of Cryptographic Protocols Containing Bilinear Pairings.,Alisa Pankova;Peeter Laud;,https://doi.org/10.1109/CSF.2012.10
+csfw/csf2012,2012,Symbolic Protocol Verification,Automated Analysis of Diffie-Hellman Protocols and Advanced Security Properties.,Benedikt Schmidt;Simon Meier;Cas J. F. Cremers;David A. Basin;,https://doi.org/10.1109/CSF.2012.25
+csfw/csf2012,2012,Symbolic Protocol Verification,Verifying Privacy-Type Properties in a Modular Way.,Myrto Arapinis;Vincent Cheval;Stéphanie Delaune;,https://doi.org/10.1109/CSF.2012.16
+csfw/csf2012,2012,Access Control,Security Analysis of Role-Based Access Control through Program Verification.,Anna Lisa Ferrara;P. Madhusudan;Gennaro Parlato;,https://doi.org/10.1109/CSF.2012.28
+csfw/csf2012,2012,Access Control,Gran: Model Checking Grsecurity RBAC Policies.,Michele Bugliesi;Stefano Calzavara;Riccardo Focardi;Marco Squarcina;,https://doi.org/10.1109/CSF.2012.29
+csfw/csf2012,2012,Access Control,"Labeled Sequent Calculi for Access Control Logics: Countermodels, Saturation and Abduction.",Valerio Genovese;Deepak Garg;Daniele Rispoli;,https://doi.org/10.1109/CSF.2012.11
+csfw/csf2012,2012,Systems Security,Mashic Compiler: Mashup Sandboxing Based on Inter-frame Communication.,Zhengqin Luo;Tamara Rezk;,https://doi.org/10.1109/CSF.2012.22
+csfw/csf2012,2012,Systems Security,Secure Compilation to Modern Processors.,Pieter Agten;Raoul Strackx;Bart Jacobs;Frank Piessens;,https://doi.org/10.1109/CSF.2012.12
+csfw/csf2012,2012,Systems Security,Cache-Leakage Resilient OS Isolation in an Idealized Model of Virtualization.,Gilles Barthe;Gustavo Betarte;Juan Diego Campo;Carlos Luna;,https://doi.org/10.1109/CSF.2012.17
+csfw/csf2012,2012,Systems Security,A Framework for the Cryptographic Verification of Java-Like Programs.,Ralf Küsters;Tomasz Truderung;Juergen Graf;,https://doi.org/10.1109/CSF.2012.9
+csfw/csf2012,2012,Symbolic Protocol Verification,Constructing Optimistic Multi-party Contract Signing Protocols.,Barbara Kordy;Sasa Radomirovic;,https://doi.org/10.1109/CSF.2012.23
+csfw/csf2012,2012,Symbolic Protocol Verification,Refining Key Establishment.,Christoph Sprenger;David A. Basin;,https://doi.org/10.1109/CSF.2012.21
+csfw/csf2012,2012,Symbolic Protocol Verification,Discovering Concrete Attacks on Website Authorization by Formal Analysis.,Chetan Bansal;Karthikeyan Bhargavan;Sergio Maffeis;,https://doi.org/10.1109/CSF.2012.27
+csfw/csf2012,2012,Information Theory,Measuring Information Leakage Using Generalized Gain Functions.,Mário S. Alvim;Konstantinos Chatzikokolakis;Catuscia Palamidessi;Geoffrey Smith;,https://doi.org/10.1109/CSF.2012.26
+csfw/csf2012,2012,Information Theory,The Thermodynamics of Confidentiality.,Pasquale Malacaria;Fabrizio Smeraldi;,https://doi.org/10.1109/CSF.2012.18
+csfw/csf2012,2012,Information-Flow Security,Securing Interactive Programs.,Willard Rafnsson;Daniel Hedin;Andrei Sabelfeld;,https://doi.org/10.1109/CSF.2012.15
+csfw/csf2012,2012,Information-Flow Security,Learning is Change in Knowledge: Knowledge-Based Security for Dynamic Policies.,Aslan Askarov;Stephen Chong;,https://doi.org/10.1109/CSF.2012.31
+csfw/csf2012,2012,Proving Cryptography,Automatically Verified Mechanized Proof of One-Encryption Key Exchange.,Bruno Blanchet;,https://doi.org/10.1109/CSF.2012.8
+csfw/csf2012,2012,Proving Cryptography,Generic Indifferentiability Proofs of Hash Designs.,Marion Daubignard;Pierre-Alain Fouque;Yassine Lakhnech;,https://doi.org/10.1109/CSF.2012.13
+csfw/csf2012,2012,Proving Cryptography,Verified Security of Merkle-Damgård.,Michael Backes;Gilles Barthe;Matthias Berg;Benjamin Grégoire;César Kunz;Malte Skoruppa;Santiago Zanella Béguelin;,https://doi.org/10.1109/CSF.2012.14
+csfw/csf2012,2012,Proving Cryptography,Provably Secure and Practical Onion Routing.,Michael Backes;Ian Goldberg;Aniket Kate;Esfandiar Mohammadi;,https://doi.org/10.1109/CSF.2012.32

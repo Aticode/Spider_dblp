@@ -1,0 +1,34 @@
+sp/sp1990,1990,None,A VMM Security Kernel for the VAX Architecture.,Paul A. Karger;Mary Ellen Zurko;Douglas W. Bonin;Andrew H. Mason;Clifford E. Kahn;,https://doi.org/10.1109/RISP.1990.63834
+sp/sp1990,1990,None,An Architecture for Practical Delegation in a Distributed System.,Morrie Gasser;E. McDermott;,https://doi.org/10.1109/RISP.1990.63835
+sp/sp1990,1990,None,Practical Authentication for Distributed Computing.,J. Linn;,https://doi.org/10.1109/RISP.1990.63836
+sp/sp1990,1990,None,SP3 Peer Identification.,W. C. Birnbaum;,https://doi.org/10.1109/RISP.1990.63837
+sp/sp1990,1990,None,The Army Secure Operating System.,N. A. Waldhart;,https://doi.org/10.1109/RISP.1990.63838
+sp/sp1990,1990,None,Specification and Verification of the ASOS Kernel.,Benedetto L. DiVito;P. H. Palmquist;E. R. Anderson;M. L. Johnston;,https://doi.org/10.1109/RISP.1990.63839
+sp/sp1990,1990,None,Integrating an Object-Oriented Data Model with Multilevel Security.,Sushil Jajodia;Boris Kogan;,https://doi.org/10.1109/RISP.1990.63840
+sp/sp1990,1990,None,A Little Knowledge Goes a Long Way: Faster Detection of Compromised Data in 2-D Tables.,Dan Gusfield;,https://doi.org/10.1109/RISP.1990.63841
+sp/sp1990,1990,None,Extending the Brewer-Nash Model to a Multilevel Context.,Catherine A. Meadows;,https://doi.org/10.1109/RISP.1990.63842
+sp/sp1990,1990,None,Polyinstantiation Integrity in Multilevel Relations.,Sushil Jajodia;Ravi S. Sandhu;,https://doi.org/10.1109/RISP.1990.63843
+sp/sp1990,1990,None,Naming and Grouping Privileges to Simplify Security Management in Large Databases.,R. W. Baldwin;,https://doi.org/10.1109/RISP.1990.63844
+sp/sp1990,1990,None,Referential Secrecy.,Rae K. Burns;,https://doi.org/10.1109/RISP.1990.63845
+sp/sp1990,1990,None,Information Flow in Nondeterministic Systems.,J. Todd Wittbold;Dale M. Johnson;,https://doi.org/10.1109/RISP.1990.63846
+sp/sp1990,1990,None,Constructively Using Noninterference to Analyze Systems.,Todd Fine;,https://doi.org/10.1109/RISP.1990.63847
+sp/sp1990,1990,None,Probabilistic Interference.,James W. Gray III;,https://doi.org/10.1109/RISP.1990.63848
+sp/sp1990,1990,None,Security Models and Information Flow.,John McLean;,https://doi.org/10.1109/RISP.1990.63849
+sp/sp1990,1990,None,Beyond the Pale of MAC and DAC-Defining New Forms of Access Control.,Catherine D. McCollum;J. R. Messing;LouAnna Notargiacomo;,https://doi.org/10.1109/RISP.1990.63850
+sp/sp1990,1990,None,Some Conundrums Concerning Separation of Duty.,Michael J. Nash;K. R. Poland;,https://doi.org/10.1109/RISP.1990.63851
+sp/sp1990,1990,None,The Role of Trust in Protected Mail.,M. Branstad;W. C. Barker;P. Cochrane;,https://doi.org/10.1109/RISP.1990.63852
+sp/sp1990,1990,None,On the Formal Specification and Verification of a Multiparty Session Protocol.,P.-C. Cheng;Virgil D. Gligor;,https://doi.org/10.1109/RISP.1990.63853
+sp/sp1990,1990,None,Reasoning about Belief in Cryptographic Protocols.,Li Gong;Roger M. Needham;Raphael Yahalom;,https://doi.org/10.1109/RISP.1990.63854
+sp/sp1990,1990,None,A Security Architecture and Mechanism for Data Confidentiality in TCP/IP Protocols.,R. Ramaswamy;,https://doi.org/10.1109/RISP.1990.63855
+sp/sp1990,1990,None,The Auditing Facility for a VMM Security Kernel.,K. F. Seiden;J. P. Melanson;,https://doi.org/10.1109/RISP.1990.63856
+sp/sp1990,1990,None,Adaptive Real-Time Anomaly Detection Using Inductively Generated Sequential Patterns.,Henry S. Teng;Kaihu Chen;Stephen C. Y. Lu;,https://doi.org/10.1109/RISP.1990.63857
+sp/sp1990,1990,None,Auditing the Use of Covert Storage Channels in Secure Systems.,Shiuh-Pyng Shieh;Virgil D. Gligor;,https://doi.org/10.1109/RISP.1990.63858
+sp/sp1990,1990,None,A Network Security Monitor.,L. Todd Herberlein;Gihan V. Dias;Karl N. Levitt;Biswanath Mukherjee;Jeff Wood;David Wolber;,https://doi.org/10.1109/RISP.1990.63859
+sp/sp1990,1990,None,The Deductive Theory Manager: A Knowledge Based System for Formal Verification.,Benedetto L. DiVito;Cristi Garvey;D. Kwong;A. Murray;Jane Solomon;Amy Wu;,https://doi.org/10.1109/RISP.1990.63860
+sp/sp1990,1990,None,Formal Construction of Provably Secure Systems with Cartesiana.,H. Brix;Albert Dietl;,https://doi.org/10.1109/RISP.1990.63861
+sp/sp1990,1990,None,Verifying a Hardware Security Architecture.,Joshua D. Guttman;H.-P. Ko;,https://doi.org/10.1109/RISP.1990.63862
+sp/sp1990,1990,None,A Hierarchical Methodology for Verifying Microprogrammed Microprocessors.,Phillip J. Windley;,http://doi.ieeecomputersociety.org/10.1109/SP.1990.10000
+sp/sp1990,1990,None,Transaction Processing in Multilevel-Secure Databases Using Replicated Architecture.,Sushil Jajodia;Boris Kogan;,https://doi.org/10.1109/RISP.1990.63864
+sp/sp1990,1990,None,Multiversion Concurrency Control for Multilevel Secure Database Systems.,Thomas F. Keefe;Wei-Tek Tsai;,https://doi.org/10.1109/RISP.1990.63865
+sp/sp1990,1990,None,Modeling Security-Relevant Data Semantics.,Gary W. Smith;,https://doi.org/10.1109/RISP.1990.63866
+sp/sp1990,1990,None,Information Privacy Issues for the 1990s.,Rein Turn;,https://doi.org/10.1109/RISP.1990.63867

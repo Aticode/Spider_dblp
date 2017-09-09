@@ -1,0 +1,22 @@
+fse/fse99,1999,Advanced Encryption Standard,Improved Analysis of Some Simplified Variants of RC6.,Scott Contini;Ronald L. Rivest;Matthew J. B. Robshaw;Yiqun Lisa Yin;,https://doi.org/10.1007/3-540-48519-8_1
+fse/fse99,1999,Advanced Encryption Standard,Linear Cryptanalysis of RC5 and RC6.,Johan Borst;Bart Preneel;Joos Vandewalle;,https://doi.org/10.1007/3-540-48519-8_2
+fse/fse99,1999,Advanced Encryption Standard,A Revised Version of Crypton - Crypton V1.0.,Chae Hoon Lim;,https://doi.org/10.1007/3-540-48519-8_3
+fse/fse99,1999,Advanced Encryption Standard,Attack on Six Rounds of Crypton.,Carl D'Halluin;Gert Bijnens;Vincent Rijmen;Bart Preneel;,https://doi.org/10.1007/3-540-48519-8_4
+fse/fse99,1999,Advanced Encryption Standard,On Security of the 128-Bit Block Cipher DEAL.,Stefan Lucks;,https://doi.org/10.1007/3-540-48519-8_5
+fse/fse99,1999,Advanced Encryption Standard,Cryptanalysis of a Reduced Version of the Block Cipher E2.,Mitsuru Matsui;Toshio Tokita;,https://doi.org/10.1007/3-540-48519-8_6
+fse/fse99,1999,Advanced Encryption Standard,On the Decorrelated Fast Cipher (DFC) and Its Theory.,Lars R. Knudsen;Vincent Rijmen;,https://doi.org/10.1007/3-540-48519-8_7
+fse/fse99,1999,Remotely Keyed Encryption,"Scramble All, Encrypt Small.",Markus Jakobsson;Julien P. Stern;Moti Yung;,https://doi.org/10.1007/3-540-48519-8_8
+fse/fse99,1999,Remotely Keyed Encryption,Accelerated Remotely Keyed Encruption.,Stefan Lucks;,https://doi.org/10.1007/3-540-48519-8_9
+fse/fse99,1999,Analysis of Block Ciphers,Miss in the Middle Attacks on IDEA and Khufu.,Eli Biham;Alex Biryukov;Adi Shamir;,https://doi.org/10.1007/3-540-48519-8_10
+fse/fse99,1999,Analysis of Block Ciphers,"Mod n Cryptanalysis, with Applications Against RC5P and M6.",John Kelsey;Bruce Schneier;David A. Wagner;,https://doi.org/10.1007/3-540-48519-8_11
+fse/fse99,1999,Analysis of Block Ciphers,The Boomerang Attack.,David A. Wagner;,https://doi.org/10.1007/3-540-48519-8_12
+fse/fse99,1999,Miscellaneous,Towards Making Luby-Rackoff Ciphers Optimal and Practical.,Sarvar Patel;Zulfikar Ramzan;Ganapathy S. Sundaram;,https://doi.org/10.1007/3-540-48519-8_13
+fse/fse99,1999,Miscellaneous,A New Characterization of Almost Bent Functions.,Anne Canteaut;Pascale Charpin;Hans Dobbertin;,https://doi.org/10.1007/3-540-48519-8_14
+fse/fse99,1999,Miscellaneous,Imprimitive Permutation Groups and Trapdoors in Iterated Block Ciphers.,Kenneth G. Paterson;,https://doi.org/10.1007/3-540-48519-8_15
+fse/fse99,1999,Modes of Operation,On the Security of Double and 2-Key Triple Modes of Operation.,Helena Handschuh;Bart Preneel;,https://doi.org/10.1007/3-540-48519-8_16
+fse/fse99,1999,Modes of Operation,On the Construction of Variable-Input-Length Ciphers.,Mihir Bellare;Phillip Rogaway;,https://doi.org/10.1007/3-540-48519-8_17
+fse/fse99,1999,Analysis of Block Ciphers,Slide Attacks.,Alex Biryukov;David A. Wagner;,https://doi.org/10.1007/3-540-48519-8_18
+fse/fse99,1999,Analysis of Block Ciphers,On the Security of CS-Cipher.,Serge Vaudenay;,https://doi.org/10.1007/3-540-48519-8_19
+fse/fse99,1999,Analysis of Block Ciphers,Interpolation Attacks of the Block Cipher: SNAKE.,Shiho Moriai;Takeshi Shimoyama;Toshinobu Kaneko;,https://doi.org/10.1007/3-540-48519-8_20
+fse/fse99,1999,Stream Ciphers,High-Speed Pseudorandom Number Generation with Small Memory.,William Aiello;Sivaramakrishnan Rajagopalan;Ramarathnam Venkatesan;,https://doi.org/10.1007/3-540-48519-8_21
+fse/fse99,1999,Stream Ciphers,SOBER Crytanalysis.,Daniel Bleichenbacher;Sarvar Patel;,https://doi.org/10.1007/3-540-48519-8_22

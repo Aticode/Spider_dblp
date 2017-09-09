@@ -1,0 +1,27 @@
+srds/srds92,1992,Replicated Data Management,A Replicated Object Server for a Distributed Object-Oriented System.,Pierre-Yves Chevalier;,https://doi.org/10.1109/RELDIS.1992.235148
+srds/srds92,1992,Replicated Data Management,Managing Replicated Data in Heterogeneous Database Systems.,Jian Tang;,https://doi.org/10.1109/RELDIS.1992.235147
+srds/srds92,1992,Replicated Data Management,Dynamic Management of Highly Replicated Data.,Jehan-François Pâris;Perry Kim Sloope;,https://doi.org/10.1109/RELDIS.1992.235146
+srds/srds92,1992,Experimental Performance Evaluation,The Two-Phase Commit Performance of the DECdtm Services.,Eyal Zimran;,https://doi.org/10.1109/RELDIS.1992.235145
+srds/srds92,1992,Experimental Performance Evaluation,The Performance of Consistent Checkpointing.,E. N. Elnozahy;David B. Johnson;Willy Zwaenepoel;,https://doi.org/10.1109/RELDIS.1992.235144
+srds/srds92,1992,Experimental Performance Evaluation,Error Attenuation in Distributed Systems.,Krassimir Djambazov;Stephan Panayotov;,https://doi.org/10.1109/RELDIS.1992.235143
+srds/srds92,1992,Distributed Control (Algorithms),Optimal Replica Control Protocols for Ring Networks.,Mirjana Spasojevic;,https://doi.org/10.1109/RELDIS.1992.235142
+srds/srds92,1992,Distributed Control (Algorithms),The Triangular Lattice Protocol: A Highly Fault Tolerant and Highly Efficient Protocol for Replicated Data.,Chienwen Wu;Geneva G. Belford;,https://doi.org/10.1109/RELDIS.1992.235141
+srds/srds92,1992,Distributed Control (Algorithms),An Efficient Decentralized Approach to Processor-Group Membership Maintenance in Real-Time LAN Systems: The PRHB/ED Scheme.,K. H. Kim;Hermann Kopetz;Kinji Mori;Eltefaat Shokri;Günter Grünsteidl;,https://doi.org/10.1109/RELDIS.1992.235140
+srds/srds92,1992,Reliability and Performance Analysis,Dependability Analysis of Distributed Computing Systems using Stochastic Petri Nets.,Noé Lopez-Benitez;,https://doi.org/10.1109/RELDIS.1992.235139
+srds/srds92,1992,Reliability and Performance Analysis,Sensitivity and Uncertainty Analysis in Performability Modeling.,Boudewijn R. Haverkort;Adrianus M. H. Meeuwissen;,https://doi.org/10.1109/RELDIS.1992.235138
+srds/srds92,1992,Reliability and Performance Analysis,Availability of Coding Based Replication Schemes.,Gagan Agrawal;,https://doi.org/10.1109/RELDIS.1992.235137
+srds/srds92,1992,Communication Protocols,xAMp: A Multi-primitive Group Communications Service.,Luís E. T. Rodrigues;Paulo Veríssimo;,https://doi.org/10.1109/RELDIS.1992.235136
+srds/srds92,1992,Communication Protocols,Reliable Broadcasting in Faulty Hypercube Computers.,Jie Wu;Eduardo B. Fernández;,https://doi.org/10.1109/RELDIS.1992.235135
+srds/srds92,1992,Communication Protocols,Communication Protocols for Fault-Tolerant Clock Synchronization in Not-Completely Connected Networks.,Manfred J. Pfluegl;Douglas M. Blough;,https://doi.org/10.1109/RELDIS.1992.235134
+srds/srds92,1992,Checkpointing and Logging (Algorithms),KITLOG: a Generic Logging Service.,Michel Ruffin;,https://doi.org/10.1109/RELDIS.1992.235133
+srds/srds92,1992,Checkpointing and Logging (Algorithms),Optimistic Message Logging for Independent Checkpointing in Message-Passing Systems.,Yi-Min Wang;W. Kent Fuchs;,https://doi.org/10.1109/RELDIS.1992.235132
+srds/srds92,1992,Checkpointing and Logging (Algorithms),Clobal Checkpointing for Distributed Programs.,Luís Moura Silva;João Gabriel Silva;,https://doi.org/10.1109/RELDIS.1992.235131
+srds/srds92,1992,Error Management,Distributed Problem Solving In SPite Of Processor Failures.,K. V. S. Ramarao;S. Venkatesan;,https://doi.org/10.1109/RELDIS.1992.235130
+srds/srds92,1992,Error Management,Self-Stabilizing Real-Time Rule-Based Systems.,Albert Mo Kim Cheng;,https://doi.org/10.1109/RELDIS.1992.235129
+srds/srds92,1992,Error Management,Simulation of the Adapt On-Line Diagnosis Algorithm for General Topology Networks.,Mark Stahl;Richard W. Buskens;Ronald P. Bianchini Jr.;,https://doi.org/10.1109/RELDIS.1992.235128
+srds/srds92,1992,Dependable System Design,"Neural Networks for the Design of Distributed, Fault-Tolerant, Computing Environments.",Robert Geist;Darrell Suggs;,https://doi.org/10.1109/RELDIS.1992.235127
+srds/srds92,1992,Dependable System Design,On the Verification and Validation of Protocols with High Fault Coverage Using UIO Sequences.,Xiao Sun;Yinan N. Shen;Fabrizio Lombardi;,https://doi.org/10.1109/RELDIS.1992.235126
+srds/srds92,1992,Dependable System Design,A State Machine Approach to Reliable Distributed Systems.,Alvin S. Lim;Stuart A. Friedberg;,https://doi.org/10.1109/RELDIS.1992.235125
+srds/srds92,1992,Programming Languages Support,Dataflow-Like Languages for Real-Time Systems: Issues of Computational Models and Notations.,Andrea Bondavalli;Lorenzo Strigini;Luca Simoncini;,https://doi.org/10.1109/RELDIS.1992.235124
+srds/srds92,1992,Programming Languages Support,"A Mult-Paradigm Programming Language for Constructing Fault-Tolerant, Distributed Systems.",Richard D. Schlichting;Vicraj T. Thomas;,https://doi.org/10.1109/RELDIS.1992.235123
+srds/srds92,1992,Programming Languages Support,The Sentry System.,Sarah E. Chodrow;Mohamed G. Gouda;,https://doi.org/10.1109/RELDIS.1992.235122

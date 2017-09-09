@@ -1,0 +1,47 @@
+crypto/crypto90,1990,Cryptanalysis,Differential Cryptanalysis of DES-like Cryptosystems.,Eli Biham;Adi Shamir;,https://doi.org/10.1007/3-540-38424-3_1
+crypto/crypto90,1990,Cryptanalysis,A Statistical Attack of the FEAL-8 Cryptosystem.,Henri Gilbert;Guy Chassé;,https://doi.org/10.1007/3-540-38424-3_2
+crypto/crypto90,1990,Cryptanalysis,An Improved Linear Syndrome Algorithm in Cryptanalysis With Applications.,Kencheng Zeng;Chung-Huang Yang;T. R. N. Rao;,https://doi.org/10.1007/3-540-38424-3_3
+crypto/crypto90,1990,Protocols,Quantum Bit Commitment and Coin Tossing Protocols.,Gilles Brassard;Claude Crépeau;,https://doi.org/10.1007/3-540-38424-3_4
+crypto/crypto90,1990,Protocols,Security with Low Communication Overhead.,Donald Beaver;Joan Feigenbaum;Joe Kilian;Phillip Rogaway;,https://doi.org/10.1007/3-540-38424-3_5
+crypto/crypto90,1990,Protocols,Fair Computation of General Functions in Presence of Immoral Majority.,Shafi Goldwasser;Leonid A. Levin;,https://doi.org/10.1007/3-540-38424-3_6
+crypto/crypto90,1990,Protocols,One-Way Group Actions.,Gilles Brassard;Moti Yung;,https://doi.org/10.1007/3-540-38424-3_7
+crypto/crypto90,1990,Algebra and Number Theory,Solving Large Sparse Linear Systems over Finite Fields.,Brian A. LaMacchia;Andrew M. Odlyzko;,https://doi.org/10.1007/3-540-38424-3_8
+crypto/crypto90,1990,Algebra and Number Theory,On the Computation of Discrete Logarithms in Class Groups.,Johannes A. Buchmann;Stephan Düllmann;,https://doi.org/10.1007/3-540-38424-3_9
+crypto/crypto90,1990,Algebra and Number Theory,Matrix Extensions of the RSA Algorithm.,Chih-Chwen Chuang;James George Dunham;,https://doi.org/10.1007/3-540-38424-3_10
+crypto/crypto90,1990,Algebra and Number Theory,Constructing Elliptic Curve Cryptosystems in Characteristic 2.,Neal Koblitz;,https://doi.org/10.1007/3-540-38424-3_11
+crypto/crypto90,1990,Signatures and Authentication,Identification Tokens - or: Solving the Chess Grandmaster Problem.,Thomas Beth;Yvo Desmedt;,https://doi.org/10.1007/3-540-38424-3_12
+crypto/crypto90,1990,Signatures and Authentication,Abritrated Unconditionally Secure Authentication Can Be Unconditionally Protected Against Arbiter's Attacks (Extended Abstract).,Yvo Desmedt;Moti Yung;,https://doi.org/10.1007/3-540-38424-3_13
+crypto/crypto90,1990,Signatures and Authentication,Convertible Undeniable Signatures.,Joan Boyar;David Chaum;Ivan Damgård;Torben P. Pedersen;,https://doi.org/10.1007/3-540-38424-3_14
+crypto/crypto90,1990,Signatures and Authentication,Unconditionally Secure Digital Signatures.,David Chaum;Sandra Roijakkers;,https://doi.org/10.1007/3-540-38424-3_15
+crypto/crypto90,1990,Secret Sharing,Geometric Shared Secret and/or Shared Control Schemes.,Gustavus J. Simmons;,https://doi.org/10.1007/3-540-38424-3_16
+crypto/crypto90,1990,Secret Sharing,Some Improved Bounds on the Information Rate of Perfect Secret Sharing Schemes.,Ernest F. Brickell;Douglas R. Stinson;,https://doi.org/10.1007/3-540-38424-3_17
+crypto/crypto90,1990,Secret Sharing,Collective Coin Tossing Without Assumptions nor Broadcasting.,Silvio Micali;Tal Rabin;,https://doi.org/10.1007/3-540-38424-3_18
+crypto/crypto90,1990,Key Distribution,"A Key Distribution ""Paradox"".",Yacov Yacobi;,https://doi.org/10.1007/3-540-38424-3_19
+crypto/crypto90,1990,Key Distribution,A Modular Approach to Key Distribution.,Walter Fumy;Michael Munzert;,https://doi.org/10.1007/3-540-38424-3_20
+crypto/crypto90,1990,Hash Functions,Structural Properties of One-way Hash Functions.,Yuliang Zheng;Tsutomu Matsumoto;Hideki Imai;,https://doi.org/10.1007/3-540-38424-3_21
+crypto/crypto90,1990,Hash Functions,The MD4 Message Digest Algorithm.,Ronald L. Rivest;,https://doi.org/10.1007/3-540-38424-3_22
+crypto/crypto90,1990,Zero-Knowledge,Achieving Zero-Knowledge Robustly.,Joe Kilian;,https://doi.org/10.1007/3-540-38424-3_23
+crypto/crypto90,1990,Zero-Knowledge,Hiding Instances in Zero-Knowledge Proof Systems (Extended Abstract).,Donald Beaver;Joan Feigenbaum;Victor Shoup;,https://doi.org/10.1007/3-540-38424-3_24
+crypto/crypto90,1990,Zero-Knowledge,Multi-Language Zero Knowledge Interactive Proof Systems.,Kaoru Kurosawa;Shigeo Tsujii;,https://doi.org/10.1007/3-540-38424-3_25
+crypto/crypto90,1990,Zero-Knowledge,Publicly Verifiable Non-Interactive Zero-Knowledge Proofs.,Dror Lapidot;Adi Shamir;,https://doi.org/10.1007/3-540-38424-3_26
+crypto/crypto90,1990,Zero-Knowledge,Crptograpic Applications of the Non-Interactive Metaproof and Many-Prover Systems.,Alfredo De Santis;Moti Yung;,https://doi.org/10.1007/3-540-38424-3_27
+crypto/crypto90,1990,Zero-Knowledge,Interactive Proofs with Provable Security Against Honest Verifiers.,Joe Kilian;,https://doi.org/10.1007/3-540-38424-3_28
+crypto/crypto90,1990,Randomness,Adi Shamir: On the Universality of the Next Bit Test.,A. W. Schrift;,https://doi.org/10.1007/3-540-38424-3_29
+crypto/crypto90,1990,Randomness,A Universal Statistical Test for Random Bit Generators.,Ueli M. Maurer;,https://doi.org/10.1007/3-540-38424-3_30
+crypto/crypto90,1990,Randomness,On the Impossibility of Private Key Cryptography with Weakly Random Keys.,James L. McInnes;Benny Pinkas;,https://doi.org/10.1007/3-540-38424-3_31
+crypto/crypto90,1990,Applications,How to Time-Stamp a Digital Document.,Stuart Haber;W. Scott Stornetta;,https://doi.org/10.1007/3-540-38424-3_32
+crypto/crypto90,1990,Applications,How to Utilize the Randomness of Zero-Knowledge Proofs.,Tatsuaki Okamoto;Kazuo Ohta;,https://doi.org/10.1007/3-540-38424-3_33
+crypto/crypto90,1990,Applications,Fast Software Encryption Functions.,Ralph C. Merkle;,https://doi.org/10.1007/3-540-38424-3_34
+crypto/crypto90,1990,Applications,CORSAIR: A SMART Card for Public Key Cryptosystems.,Dominique de Waleffe;Jean-Jacques Quisquater;,https://doi.org/10.1007/3-540-38424-3_35
+crypto/crypto90,1990,Design and Analysis,Fast Checkers for Cryptography.,Kireeti Kompella;Leonard M. Adleman;,https://doi.org/10.1007/3-540-38424-3_36
+crypto/crypto90,1990,Design and Analysis,Complexity Theoretic Issues Concerning Block Ciphers Related to D.E.S.,Richard Cleve;,https://doi.org/10.1007/3-540-38424-3_37
+crypto/crypto90,1990,Design and Analysis,The REDOC II Cryptosystem.,Thomas W. Cusick;Michael C. Wood;,https://doi.org/10.1007/3-540-38424-3_38
+crypto/crypto90,1990,Design and Analysis,A Recursive Construction Method of S-boxes Satisfying Strict Avalanche Criterion.,Kwangjo Kim;Tsutomu Matsumoto;Hideki Imai;,https://doi.org/10.1007/3-540-38424-3_39
+crypto/crypto90,1990,Design and Analysis,A Comparison of Practical Public Key Cryptosystems Based on Integer Factorization and Discrete Logarithms.,Paul C. van Oorschot;,https://doi.org/10.1007/3-540-38424-3_40
+crypto/crypto90,1990,Design and Analysis,Nonlinear Parity Circuits and their Cryptographic Applications.,Kenji Koyama;Routo Terada;,https://doi.org/10.1007/3-540-38424-3_41
+crypto/crypto90,1990,Design and Analysis,Cryptographic Significance of the Carry for Ciphers Based on Integer Addition.,Othmar Staffelbach;Willi Meier;,https://doi.org/10.1007/3-540-38424-3_42
+crypto/crypto90,1990,Impromptu Talks,Computation of Discrete Logarithms in Prime Fields (Extended Abstract).,Brian A. LaMacchia;Andrew M. Odlyzko;,https://doi.org/10.1007/3-540-38424-3_43
+crypto/crypto90,1990,Impromptu Talks,Systolic Modular Multiplication.,Shimon Even;,https://doi.org/10.1007/3-540-38424-3_44
+crypto/crypto90,1990,Impromptu Talks,Finding Four Million Large Random Primes.,Ronald L. Rivest;,https://doi.org/10.1007/3-540-38424-3_45
+crypto/crypto90,1990,Impromptu Talks,The FEAL Cipher Family.,Shoji Miyaguchi;,https://doi.org/10.1007/3-540-38424-3_46
+crypto/crypto90,1990,Impromptu Talks,Discrete-Log With Compressible Exponents.,Yacov Yacobi;,https://doi.org/10.1007/3-540-38424-3_47

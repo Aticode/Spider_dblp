@@ -1,0 +1,42 @@
+ccs/asiaccs2009,2009,Keynote,Securing virtual machine monitors: what is needed?,Paul A. Karger;,http://doi.acm.org/10.1145/1533057.1533059
+ccs/asiaccs2009,2009,Keynote,"Assured information sharing between trustworthy, semi-trustworthy and untrustworthy coalition partners.",Bhavani M. Thuraisingham;,http://doi.acm.org/10.1145/1533057.1533060
+ccs/asiaccs2009,2009,Network security-,Automatic discovery of botnet communities on large-scale communication networks.,Wei Lu;Mahbod Tavallaee;Ali A. Ghorbani;,http://doi.acm.org/10.1145/1533057.1533062
+ccs/asiaccs2009,2009,Network security-,Automating analysis of large-scale botnet probing events.,Zhichun Li;Anup Goyal;Yan Chen;Vern Paxson;,http://doi.acm.org/10.1145/1533057.1533063
+ccs/asiaccs2009,2009,Network security-,Towards complete node enumeration in a peer-to-peer botnet.,Brent ByungHoon Kang;Eric Chan-Tin;Christopher P. Lee;James Tyra;Hun Jeong Kang;Chris Nunnery;Zachariah Wadler;Greg Sinclair;Nicholas Hopper;David Dagon;Yongdae Kim;,http://doi.acm.org/10.1145/1533057.1533064
+ccs/asiaccs2009,2009,Software security,Efficient IRM enforcement of history-based access control policies.,Fei Yan;Philip W. L. Fong;,http://doi.acm.org/10.1145/1533057.1533066
+ccs/asiaccs2009,2009,Software security,Lightweight self-protecting JavaScript.,Phu H. Phung;David Sands;Andrey Chudnov;,http://doi.acm.org/10.1145/1533057.1533067
+ccs/asiaccs2009,2009,Network security-,On the feasibility of launching the man-in-the-middle attacks on VoIP from remote attackers.,Ruishan Zhang;Xinyuan Wang;Ryan Farley;Xiaohui Yang;Xuxian Jiang;,http://doi.acm.org/10.1145/1533057.1533069
+ccs/asiaccs2009,2009,Network security-,A generic construction of useful client puzzles.,Rui Zhang;Goichiro Hanaoka;Hideki Imai;,http://doi.acm.org/10.1145/1533057.1533070
+ccs/asiaccs2009,2009,Network security-,An integrated approach to detection of fast and slow scanning worms.,Frank Akujobi;Ioannis Lambadaris;Evangelos Kranakis;,http://doi.acm.org/10.1145/1533057.1533071
+ccs/asiaccs2009,2009,Network security-,Authenticated wireless roaming via tunnels: making mobile guests feel at home.,Mark Manulis;Damien Leroy;François Koeune;Olivier Bonaventure;Jean-Jacques Quisquater;,http://doi.acm.org/10.1145/1533057.1533072
+ccs/asiaccs2009,2009,Systems security,On-board credentials with open provisioning.,Kari Kostiainen;Jan-Erik Ekberg;N. Asokan;Aarne Rantala;,http://doi.acm.org/10.1145/1533057.1533074
+ccs/asiaccs2009,2009,Systems security,Flexible muTPMs through disembedding.,Klaus Kursawe;Dries Schellekens;,http://doi.acm.org/10.1145/1533057.1533075
+ccs/asiaccs2009,2009,Systems security,A chipset level network backdoor: bypassing host-based firewall & IDS.,Sherri Sparks;Shawn Embleton;Cliff Changchun Zou;,http://doi.acm.org/10.1145/1533057.1533076
+ccs/asiaccs2009,2009,Systems security,TimeVM: a framework for online intrusion mitigation and fast recovery using multi-time-lag traffic replay.,Khalid Elbadawi;Ehab Al-Shaer;,http://doi.acm.org/10.1145/1533057.1533077
+ccs/asiaccs2009,2009,Crypto protocols,Universally composable contributory group key exchange.,M. Choudary Gorantla;Colin Boyd;Juan Manuel González Nieto;,http://doi.acm.org/10.1145/1533057.1533079
+ccs/asiaccs2009,2009,Crypto protocols,Universal forgery of the identity-based sequential aggregate signature scheme.,Jung Yeon Hwang;Dong Hoon Lee;Moti Yung;,http://doi.acm.org/10.1145/1533057.1533080
+ccs/asiaccs2009,2009,Crypto protocols,Partnership in key exchange protocols.,Kazukuni Kobara;SeongHan Shin;Mario Strefler;,http://doi.acm.org/10.1145/1533057.1533081
+ccs/asiaccs2009,2009,Theory of security,Unconditionally secure message transmission in arbitrary directed synchronous networks tolerating generalized mixed adversary.,Kannan Srinathan;Arpita Patra;Ashish Choudhary;C. Pandu Rangan;,http://doi.acm.org/10.1145/1533057.1533083
+ccs/asiaccs2009,2009,Theory of security,Formalizing information security knowledge.,Stefan Fenz;Andreas Ekelhart;,http://doi.acm.org/10.1145/1533057.1533084
+ccs/asiaccs2009,2009,Anonymity and privacy,Efficient zero-knowledge identification schemes which respect privacy.,Julien Bringer;Hervé Chabanne;Thomas Icart;,http://doi.acm.org/10.1145/1533057.1533086
+ccs/asiaccs2009,2009,Anonymity and privacy,Quantifying maximal loss of anonymity in protocols.,Han Chen;Pasquale Malacaria;,http://doi.acm.org/10.1145/1533057.1533087
+ccs/asiaccs2009,2009,Anonymity and privacy,The union-split algorithm and cluster-based anonymization of social networks.,Brian Thompson;Danfeng Yao;,http://doi.acm.org/10.1145/1533057.1533088
+ccs/asiaccs2009,2009,Anonymity and privacy,Hidden credential retrieval from a reusable password.,Xavier Boyen;,http://doi.acm.org/10.1145/1533057.1533089
+ccs/asiaccs2009,2009,Access control,Expressive policy analysis with enhanced system dynamicity.,Robert Craven;Jorge Lobo;Jiefei Ma;Alessandra Russo;Emil C. Lupu;Arosha K. Bandara;,http://doi.acm.org/10.1145/1533057.1533091
+ccs/asiaccs2009,2009,Access control,Semantic context aware security policy deployment.,Stere Preda;Frédéric Cuppens;Nora Cuppens-Boulahia;Joaquín García-Alfaro;Laurent Toutain;Yehia Elrakaiby;,http://doi.acm.org/10.1145/1533057.1533092
+ccs/asiaccs2009,2009,Access control,PBES: a policy based encryption system with application to data sharing in the power grid.,Rakeshbabu Bobba;Himanshu Khurana;Musab AlTurki;Farhana Ashraf;,http://doi.acm.org/10.1145/1533057.1533093
+ccs/asiaccs2009,2009,Access control,Attribute based proxy re-encryption with delegating capabilities.,Xiaohui Liang;Zhenfu Cao;Huang Lin;Jun Shao;,http://doi.acm.org/10.1145/1533057.1533094
+ccs/asiaccs2009,2009,Security policies and verification,Confidentiality-preserving distributed proofs of conjunctive queries.,Adam J. Lee;Kazuhiro Minami;Nikita Borisov;,http://doi.acm.org/10.1145/1533057.1533096
+ccs/asiaccs2009,2009,Security policies and verification,D-algebra for composing access control policy decisions.,Qun Ni;Elisa Bertino;Jorge Lobo;,http://doi.acm.org/10.1145/1533057.1533097
+ccs/asiaccs2009,2009,Security policies and verification,Toward practical analysis for trust management policy.,Mark Reith;Jianwei Niu;William H. Winsborough;,http://doi.acm.org/10.1145/1533057.1533098
+ccs/asiaccs2009,2009,Public key and hash functions,Conditional proxy re-encryption secure against chosen-ciphertext attack.,Jian Weng;Robert H. Deng;Xuhua Ding;Cheng-Kang Chu;Junzuo Lai;,http://doi.acm.org/10.1145/1533057.1533100
+ccs/asiaccs2009,2009,Public key and hash functions,An ID-based authenticated key exchange protocol based on bilinear Diffie-Hellman problem.,Hai Huang;Zhenfu Cao;,http://doi.acm.org/10.1145/1533057.1533101
+ccs/asiaccs2009,2009,Public key and hash functions,Provably secure and efficient bounded ciphertext policy attribute based encryption.,Xiaohui Liang;Zhenfu Cao;Huang Lin;Dongsheng Xing;,http://doi.acm.org/10.1145/1533057.1533102
+ccs/asiaccs2009,2009,Public key and hash functions,A new hash family obtained by modifying the SHA-2 family.,Somitra Kumar Sanadhya;Palash Sarkar;,http://doi.acm.org/10.1145/1533057.1533103
+ccs/asiaccs2009,2009,Short papers-,Logging key assurance indicators in business processes.,Fabio Massacci;Gene Tsudik;Artsiom Yautsiukhin;,http://doi.acm.org/10.1145/1533057.1533105
+ccs/asiaccs2009,2009,Short papers-,Anonymous user communication for privacy protection in wireless metropolitan mesh networks.,Zhiguo Wan;Kui Ren;Bo Zhu;Bart Preneel;Ming Gu;,http://doi.acm.org/10.1145/1533057.1533106
+ccs/asiaccs2009,2009,Short papers-,Delegate predicate encryption and its application to anonymous authentication.,Ribao Wei;Dingfeng Ye;,http://doi.acm.org/10.1145/1533057.1533107
+ccs/asiaccs2009,2009,Short papers-,Improved searchable public key encryption with designated tester.,Hyun Sook Rhee;Jong Hwan Park;Willy Susilo;Dong Hoon Lee;,http://doi.acm.org/10.1145/1533057.1533108
+ccs/asiaccs2009,2009,Short papers-,A note on Cook's elastic block cipher.,Liting Zhang;Wenling Wu;Lei Zhang;Yanjun Li;,http://doi.acm.org/10.1145/1533057.1533110
+ccs/asiaccs2009,2009,Short papers-,A conceptual framework for Group-Centric secure information sharing.,Ram Krishnan;Ravi S. Sandhu;Jianwei Niu;William H. Winsborough;,http://doi.acm.org/10.1145/1533057.1533111
+ccs/asiaccs2009,2009,Short papers-,Intrusion response cost assessment methodology.,Chris Strasburg;Natalia Stakhanova;Samik Basu;Johnny S. Wong;,http://doi.acm.org/10.1145/1533057.1533112

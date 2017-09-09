@@ -1,0 +1,31 @@
+eurocrypt/eurocrypt2008,2008,None,A Practical Attack on KeeLoq.,Sebastiaan Indesteege;Nathan Keller;Orr Dunkelman;Eli Biham;Bart Preneel;,https://doi.org/10.1007/978-3-540-78967-3_1
+eurocrypt/eurocrypt2008,2008,None,Key Recovery on Hidden Monomial Multivariate Schemes.,Pierre-Alain Fouque;Gilles Macario-Rat;Jacques Stern;,https://doi.org/10.1007/978-3-540-78967-3_2
+eurocrypt/eurocrypt2008,2008,None,Predicting Lattice Reduction.,Nicolas Gama;Phong Q. Nguyen;,https://doi.org/10.1007/978-3-540-78967-3_3
+eurocrypt/eurocrypt2008,2008,None,Efficient Sequential Aggregate Signed Data.,Gregory Neven;,https://doi.org/10.1007/978-3-540-78967-3_4
+eurocrypt/eurocrypt2008,2008,None,Proving Tight Security for Rabin-Williams Signatures.,Daniel J. Bernstein;,https://doi.org/10.1007/978-3-540-78967-3_5
+eurocrypt/eurocrypt2008,2008,None,Threshold RSA for Dynamic and Ad-Hoc Groups.,Rosario Gennaro;Shai Halevi;Hugo Krawczyk;Tal Rabin;,https://doi.org/10.1007/978-3-540-78967-3_6
+eurocrypt/eurocrypt2008,2008,None,Towards Key-Dependent Message Security in the Standard Model.,Dennis Hofheinz;Dominique Unruh;,https://doi.org/10.1007/978-3-540-78967-3_7
+eurocrypt/eurocrypt2008,2008,None,The Twin Diffie-Hellman Problem and Applications.,David Cash;Eike Kiltz;Victor Shoup;,https://doi.org/10.1007/978-3-540-78967-3_8
+eurocrypt/eurocrypt2008,2008,None,"Predicate Encryption Supporting Disjunctions, Polynomial Equations, and Inner Products.",Jonathan Katz;Amit Sahai;Brent Waters;,https://doi.org/10.1007/978-3-540-78967-3_9
+eurocrypt/eurocrypt2008,2008,None,Isogenies and the Discrete Logarithm Problem in Jacobians of Genus 3 Hyperelliptic Curves.,Benjamin A. Smith;,https://doi.org/10.1007/978-3-540-78967-3_10
+eurocrypt/eurocrypt2008,2008,None,On the Indifferentiability of the Sponge Construction.,Guido Bertoni;Joan Daemen;Michaël Peeters;Gilles Van Assche;,https://doi.org/10.1007/978-3-540-78967-3_11
+eurocrypt/eurocrypt2008,2008,None,A New Mode of Operation for Block Ciphers and Length-Preserving MACs.,Yevgeniy Dodis;Krzysztof Pietrzak;Prashant Puniya;,https://doi.org/10.1007/978-3-540-78967-3_12
+eurocrypt/eurocrypt2008,2008,None,Security/Efficiency Tradeoffs for Permutation-Based Hashing.,Phillip Rogaway;John P. Steinberger;,https://doi.org/10.1007/978-3-540-78967-3_13
+eurocrypt/eurocrypt2008,2008,None,New Key-Recovery Attacks on HMAC/NMAC-MD4 and NMAC-MD5.,Lei Wang;Kazuo Ohta;Noboru Kunihiro;,https://doi.org/10.1007/978-3-540-78967-3_14
+eurocrypt/eurocrypt2008,2008,None,Collisions for the LPS Expander Graph Hash Function.,Jean-Pierre Tillich;Gilles Zémor;,https://doi.org/10.1007/978-3-540-78967-3_15
+eurocrypt/eurocrypt2008,2008,None,Second Preimage Attacks on Dithered Hash Functions.,Elena Andreeva;Charles Bouillaguet;Pierre-Alain Fouque;Jonathan J. Hoch;John Kelsey;Adi Shamir;Sébastien Zimmer;,https://doi.org/10.1007/978-3-540-78967-3_16
+eurocrypt/eurocrypt2008,2008,None,Efficient Two Party and Multi Party Computation Against Covert Adversaries.,Vipul Goyal;Payman Mohassel;Adam D. Smith;,https://doi.org/10.1007/978-3-540-78967-3_17
+eurocrypt/eurocrypt2008,2008,None,Almost-Everywhere Secure Computation.,Juan A. Garay;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-540-78967-3_18
+eurocrypt/eurocrypt2008,2008,None,Truly Efficient 2-Round Perfectly Secure Message Transmission Scheme.,Kaoru Kurosawa;Kazuhiro Suzuki;,https://doi.org/10.1007/978-3-540-78967-3_19
+eurocrypt/eurocrypt2008,2008,None,Protocols and Lower Bounds for Failure Localization in the Internet.,Boaz Barak;Sharon Goldberg;David Xiao;,https://doi.org/10.1007/978-3-540-78967-3_20
+eurocrypt/eurocrypt2008,2008,None,HB#: Increasing the Security and Efficiency of HB+.,Henri Gilbert;Matthew J. B. Robshaw;Yannick Seurin;,https://doi.org/10.1007/978-3-540-78967-3_21
+eurocrypt/eurocrypt2008,2008,None,Sub-linear Zero-Knowledge Argument for Correctness of a Shuffle.,Jens Groth;Yuval Ishai;,https://doi.org/10.1007/978-3-540-78967-3_22
+eurocrypt/eurocrypt2008,2008,None,Precise Concurrent Zero Knowledge.,Omkant Pandey;Rafael Pass;Amit Sahai;Wei-Lung Dustin Tseng;Muthuramakrishnan Venkitasubramaniam;,https://doi.org/10.1007/978-3-540-78967-3_23
+eurocrypt/eurocrypt2008,2008,None,Efficient Non-interactive Proof Systems for Bilinear Groups.,Jens Groth;Amit Sahai;,https://doi.org/10.1007/978-3-540-78967-3_24
+eurocrypt/eurocrypt2008,2008,None,Zero-Knowledge Sets with Short Proofs.,Dario Catalano;Dario Fiore;Mariagrazia Messina;,https://doi.org/10.1007/978-3-540-78967-3_25
+eurocrypt/eurocrypt2008,2008,None,Strongly Multiplicative Ramp Schemes from High Degree Rational Points on Curves.,Hao Chen;Ronald Cramer;Robbert de Haan;Ignacio Cascudo Pueyo;,https://doi.org/10.1007/978-3-540-78967-3_26
+eurocrypt/eurocrypt2008,2008,None,Detection of Algebraic Manipulation with Applications to Robust Secret Sharing and Fuzzy Extractors.,Ronald Cramer;Yevgeniy Dodis;Serge Fehr;Carles Padró;Daniel Wichs;,https://doi.org/10.1007/978-3-540-78967-3_27
+eurocrypt/eurocrypt2008,2008,None,Obfuscating Point Functions with Multibit Output.,Ran Canetti;Ronny Ramzi Dakdouk;,https://doi.org/10.1007/978-3-540-78967-3_28
+eurocrypt/eurocrypt2008,2008,None,Isolated Proofs of Knowledge and Isolated Zero Knowledge.,Ivan Damgård;Jesper Buus Nielsen;Daniel Wichs;,https://doi.org/10.1007/978-3-540-78967-3_29
+eurocrypt/eurocrypt2008,2008,None,David and Goliath Commitments: UC Computation for Asymmetric Parties Using Tamper-Proof Hardware.,Tal Moran;Gil Segev;,https://doi.org/10.1007/978-3-540-78967-3_30
+eurocrypt/eurocrypt2008,2008,None,New Constructions for UC Secure Computation Using Tamper-Proof Hardware.,Nishanth Chandran;Vipul Goyal;Amit Sahai;,https://doi.org/10.1007/978-3-540-78967-3_31

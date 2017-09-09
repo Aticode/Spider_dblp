@@ -1,0 +1,18 @@
+tissec/tissec15,March 2012,Number 1,Guest Editorial: Special Issue on Computer and Communications Security.,Paul F. Syverson;Somesh Jha;,http://doi.acm.org/10.1145/2133375.2133376
+tissec/tissec15,March 2012,Number 1,"Return-Oriented Programming: Systems, Languages, and Applications.",Ryan Roemer;Erik Buchanan;Hovav Shacham;Stefan Savage;,http://doi.acm.org/10.1145/2133375.2133377
+tissec/tissec15,March 2012,Number 1,Verified Cryptographic Implementations for TLS.,Karthikeyan Bhargavan;Cédric Fournet;Ricardo Corin;Eugen Zalinescu;,http://doi.acm.org/10.1145/2133375.2133378
+tissec/tissec15,March 2012,Number 1,Efficient Attributes for Anonymous Credentials.,Jan Camenisch;Thomas Groß;,http://doi.acm.org/10.1145/2133375.2133379
+tissec/tissec15,March 2012,Number 1,Information Leaks in Structured Peer-to-Peer Anonymous Communication Systems.,Prateek Mittal;Nikita Borisov;,http://doi.acm.org/10.1145/2133375.2133380
+tissec/tissec15,July 2012,Number 2,LOT: A Defense Against IP Spoofing and Flooding Attacks.,Yossi Gilad;Amir Herzberg;,http://doi.acm.org/10.1145/2240276.2240277
+tissec/tissec15,July 2012,Number 2,Towards Practical Identification of HF RFID Devices.,Boris Danev;Srdjan Capkun;Ramya Jayaram Masti;Thomas S. Benjamin;,http://doi.acm.org/10.1145/2240276.2240278
+tissec/tissec15,July 2012,Number 2,On Protection by Layout Randomization.,Martín Abadi;Gordon D. Plotkin;,http://doi.acm.org/10.1145/2240276.2240279
+tissec/tissec15,July 2012,Number 2,BAF and FI-BAF: Efficient and Publicly Verifiable Cryptographic Schemes for Secure Logging in Resource-Constrained Systems.,Attila Altay Yavuz;Peng Ning;Michael K. Reiter;,http://doi.acm.org/10.1145/2240276.2240280
+tissec/tissec15,July 2012,Number 2,Corrective Enforcement: A New Paradigm of Security Policy Enforcement by Monitors.,Raphaël Khoury;Nadia Tawbi;,http://doi.acm.org/10.1145/2240276.2240281
+tissec/tissec15,November 2012,Number 3,Effectiveness and detection of denial-of-service attacks in tor.,Norman Danner;Sam DeFabbia-Kane;Danny Krizanc;Marc Liberatore;,http://doi.acm.org/10.1145/2382448.2382449
+tissec/tissec15,November 2012,Number 3,Adversarial stylometry: Circumventing authorship recognition to preserve privacy and anonymity.,Michael Brennan;Sadia Afroz;Rachel Greenstadt;,http://doi.acm.org/10.1145/2382448.2382450
+tissec/tissec15,November 2012,Number 3,Dynamic enforcement of abstract separation of duty constraints.,David A. Basin;Samuel J. Burri;Günter Karjoth;,http://doi.acm.org/10.1145/2382448.2382451
+tissec/tissec15,November 2012,Number 3,Probabilistic analysis of onion routing in a black-box model.,Joan Feigenbaum;Aaron Johnson;Paul F. Syverson;,http://doi.acm.org/10.1145/2382448.2382452
+tissec/tissec15,April 2013,Number 4,Role Mining with Probabilistic Models.,Mario Frank;Joachim M. Buhmann;David A. Basin;,http://doi.acm.org/10.1145/2445566.2445567
+tissec/tissec15,April 2013,Number 4,Fragmentation Considered Vulnerable.,Yossi Gilad;Amir Herzberg;,http://doi.acm.org/10.1145/2445566.2445568
+tissec/tissec15,April 2013,Number 4,Automated Anomaly Detector Adaptation using Adaptive Threshold Tuning.,Muhammad Qasim Ali;Ehab Al-Shaer;Hassan Khan;Syed Ali Khayam;,http://doi.acm.org/10.1145/2445566.2445569
+tissec/tissec15,April 2013,Number 4,Mohawk: Abstraction-Refinement and Bound-Estimation for Verifying Access Control Policies.,Karthick Jayaraman;Mahesh V. Tripunitara;Vijay Ganesh;Martin C. Rinard;Steve J. Chapin;,http://doi.acm.org/10.1145/2445566.2445570

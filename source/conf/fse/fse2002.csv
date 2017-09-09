@@ -1,0 +1,21 @@
+fse/fse2002,2002,Block Cipher Cryptanalysis,New Results on Boomerang and Rectangle Attacks.,Eli Biham;Orr Dunkelman;Nathan Keller;,https://doi.org/10.1007/3-540-45661-9_1
+fse/fse2002,2002,Block Cipher Cryptanalysis,Multiplicative Differentials.,Nikita Borisov;Monica Chew;Robert Johnson;David A. Wagner;,https://doi.org/10.1007/3-540-45661-9_2
+fse/fse2002,2002,Block Cipher Cryptanalysis,Differential and Linear Cryptanalysis of a Reduced-Round SC2000.,Hitoshi Yanami;Takeshi Shimoyama;Orr Dunkelman;,https://doi.org/10.1007/3-540-45661-9_3
+fse/fse2002,2002,Block Cipher Cryptanalysis,Impossible Differential Cryptanalysis of Reduced Round XTEA and TEA.,Dukjae Moon;Kyungdeok Hwang;Wonil Lee;Sangjin Lee;Jongin Lim;,https://doi.org/10.1007/3-540-45661-9_4
+fse/fse2002,2002,Block Cipher Cryptanalysis,Improved Cryptanalysis of MISTY1.,Ulrich Kühn;,https://doi.org/10.1007/3-540-45661-9_5
+fse/fse2002,2002,Block Cipher Cryptanalysis,Multiple Linear Cryptanalysis of a Reduced Round RC6.,Takeshi Shimoyama;Masahiko Takenaka;Takeshi Koshiba;,https://doi.org/10.1007/3-540-45661-9_6
+fse/fse2002,2002,Integral Cryptanalysis,On the Security of CAMELLIA against the Square Attack.,Yongjin Yeom;Sangwoo Park;Iljun Kim;,https://doi.org/10.1007/3-540-45661-9_7
+fse/fse2002,2002,Integral Cryptanalysis,Saturation Attacks on Reduced Round Skipjack.,Kyungdeok Hwang;Wonil Lee;Sungjae Lee;Sangjin Lee;Jongin Lim;,https://doi.org/10.1007/3-540-45661-9_8
+fse/fse2002,2002,Integral Cryptanalysis,Integral Cryptanalysis.,Lars R. Knudsen;David A. Wagner;,https://doi.org/10.1007/3-540-45661-9_9
+fse/fse2002,2002,Block Cipher Theory,Improved Upper Bounds of Differential and Linear Characteristic Probability for Camellia.,Taizo Shirai;Shoji Kanamaru;George Abe;,https://doi.org/10.1007/3-540-45661-9_10
+fse/fse2002,2002,Block Cipher Theory,The Round Functions of RIJNDAEL Generate the Alternating Group.,Ralph Wernsdorf;,https://doi.org/10.1007/3-540-45661-9_11
+fse/fse2002,2002,Block Cipher Theory,Non-cryptographic Primitive for Pseudorandom Permutation.,Tetsu Iwata;Tomonobu Yoshino;Kaoru Kurosawa;,https://doi.org/10.1007/3-540-45661-9_12
+fse/fse2002,2002,Stream Cipher Design,BeepBeep: Embedded Real-Time Encryption.,Kevin Driscoll;,https://doi.org/10.1007/3-540-45661-9_13
+fse/fse2002,2002,Stream Cipher Design,A New Keystream Generator MUGI.,Dai Watanabe;Soichi Furuya;Hirotaka Yoshida;Kazuo Takaragi;Bart Preneel;,https://doi.org/10.1007/3-540-45661-9_14
+fse/fse2002,2002,Stream Cipher Design,Scream: A Software-Efficient Stream Cipher.,Shai Halevi;Don Coppersmith;Charanjit S. Jutla;,https://doi.org/10.1007/3-540-45661-9_15
+fse/fse2002,2002,Stream Cipher Cryptanalysis,Distinguishing Attacks on SOBER-t16 and t32.,Patrik Ekdahl;Thomas Johansson;,https://doi.org/10.1007/3-540-45661-9_16
+fse/fse2002,2002,Stream Cipher Cryptanalysis,Linearity Properties of the SOBER-t32 Key Loading.,Markus Dichtl;Marcus Schafheutle;,https://doi.org/10.1007/3-540-45661-9_17
+fse/fse2002,2002,Stream Cipher Cryptanalysis,A Time-Memory Tradeoff Attack Against LILI-128.,Markku-Juhani Olavi Saarinen;,https://doi.org/10.1007/3-540-45661-9_18
+fse/fse2002,2002,Odds and Ends,On the Security of Randomized CBC-MAC Beyond the Birthday Paradox Limit: A New Construction.,Éliane Jaulmes;Antoine Joux;Frédéric Valette;,https://doi.org/10.1007/3-540-45661-9_19
+fse/fse2002,2002,Odds and Ends,Cryptanalysis of the Modified Version of the Hash Function Proposed at PKC'98.,Daewan Han;Sangwoo Park;Seongtaek Chee;,https://doi.org/10.1007/3-540-45661-9_20
+fse/fse2002,2002,Odds and Ends,Compression and Information Leakage of Plaintext.,John Kelsey;,https://doi.org/10.1007/3-540-45661-9_21

@@ -1,0 +1,28 @@
+tcc/tcc2004,2004,None,Notions of Reducibility between Cryptographic Primitives.,Omer Reingold;Luca Trevisan;Salil P. Vadhan;,https://doi.org/10.1007/978-3-540-24638-1_1
+tcc/tcc2004,2004,None,"Indifferentiability, Impossibility Results on Reductions, and Applications to the Random Oracle Methodology.",Ueli M. Maurer;Renato Renner;Clemens Holenstein;,https://doi.org/10.1007/978-3-540-24638-1_2
+tcc/tcc2004,2004,None,On the Random-Oracle Methodology as Applied to Length-Restricted Signature Schemes.,Ran Canetti;Oded Goldreich;Shai Halevi;,https://doi.org/10.1007/978-3-540-24638-1_3
+tcc/tcc2004,2004,None,Universally Composable Commitments Using Random Oracles.,Dennis Hofheinz;Jörn Müller-Quade;,https://doi.org/10.1007/978-3-540-24638-1_4
+tcc/tcc2004,2004,None,Transformation of Digital Signature Schemes into Designated Confirmer Signature Schemes.,Shafi Goldwasser;Erez Waisbard;,https://doi.org/10.1007/978-3-540-24638-1_5
+tcc/tcc2004,2004,None,List-Decoding of Linear Functions and Analysis of a Two-Round Zero-Knowledge Argument.,Cynthia Dwork;Ronen Shaltiel;Adam D. Smith;Luca Trevisan;,https://doi.org/10.1007/978-3-540-24638-1_6
+tcc/tcc2004,2004,None,On the Possibility of One-Message Weak Zero-Knowledge.,Boaz Barak;Rafael Pass;,https://doi.org/10.1007/978-3-540-24638-1_7
+tcc/tcc2004,2004,None,Soundness of Formal Encryption in the Presence of Active Adversaries.,Daniele Micciancio;Bogdan Warinschi;,https://doi.org/10.1007/978-3-540-24638-1_8
+tcc/tcc2004,2004,None,Rerandomizable and Replayable Adaptive Chosen Ciphertext Attack Secure Cryptosystems.,Jens Groth;,https://doi.org/10.1007/978-3-540-24638-1_9
+tcc/tcc2004,2004,None,"Alternatives to Non-malleability: Definitions, Constructions, and Applications (Extended Abstract).",Philip D. MacKenzie;Michael K. Reiter;Ke Yang;,https://doi.org/10.1007/978-3-540-24638-1_10
+tcc/tcc2004,2004,None,A Note on Constant-Round Zero-Knowledge Proofs for NP.,Alon Rosen;,https://doi.org/10.1007/978-3-540-24638-1_11
+tcc/tcc2004,2004,None,Lower Bounds for Concurrent Self Composition.,Yehuda Lindell;,https://doi.org/10.1007/978-3-540-24638-1_12
+tcc/tcc2004,2004,None,Secret-Key Zero-Knowlegde and Non-interactive Verifiable Exponentiation.,Ronald Cramer;Ivan Damgård;,https://doi.org/10.1007/978-3-540-24638-1_13
+tcc/tcc2004,2004,None,A Quantitative Approach to Reductions in Secure Computation.,Amos Beimel;Tal Malkin;,https://doi.org/10.1007/978-3-540-24638-1_14
+tcc/tcc2004,2004,None,Algorithmic Tamper-Proof (ATP) Security: Theoretical Foundations for Security against Hardware Tampering.,Rosario Gennaro;Anna Lysyanskaya;Tal Malkin;Silvio Micali;Tal Rabin;,https://doi.org/10.1007/978-3-540-24638-1_15
+tcc/tcc2004,2004,None,Physically Observable Cryptography (Extended Abstract).,Silvio Micali;Leonid Reyzin;,https://doi.org/10.1007/978-3-540-24638-1_16
+tcc/tcc2004,2004,None,Efficient and Universally Composable Committed Oblivious Transfer and Applications.,Juan A. Garay;,https://doi.org/10.1007/978-3-540-24638-1_17
+tcc/tcc2004,2004,None,A Universally Composable Mix-Net.,Douglas Wikström;,https://doi.org/10.1007/978-3-540-24638-1_18
+tcc/tcc2004,2004,None,A General Composition Theorem for Secure Reactive Systems.,Michael Backes;Birgit Pfitzmann;Michael Waidner;,https://doi.org/10.1007/978-3-540-24638-1_19
+tcc/tcc2004,2004,None,Unfair Noisy Channels and Oblivious Transfer.,Ivan Damgård;Serge Fehr;Kirill Morozov;Louis Salvail;,https://doi.org/10.1007/978-3-540-24638-1_20
+tcc/tcc2004,2004,None,Computational Collapse of Quantum State with Application to Oblivious Transfer.,Claude Crépeau;Paul Dumais;Dominic Mayers;Louis Salvail;,https://doi.org/10.1007/978-3-540-24638-1_21
+tcc/tcc2004,2004,None,Implementing Oblivious Transfer Using Collection of Dense Trapdoor Permutations.,Iftach Haitner;,https://doi.org/10.1007/978-3-540-24638-1_22
+tcc/tcc2004,2004,None,Composition of Random Systems: When Two Weak Make One Strong.,Ueli M. Maurer;Krzysztof Pietrzak;,https://doi.org/10.1007/978-3-540-24638-1_23
+tcc/tcc2004,2004,None,Simpler Session-Key Generation from Short Random Passwords.,Minh-Huyen Nguyen;Salil P. Vadhan;,https://doi.org/10.1007/978-3-540-24638-1_24
+tcc/tcc2004,2004,None,Constant-Round Oblivious Transfer in the Bounded Storage Model.,Yan Zong Ding;Danny Harnik;Alon Rosen;Ronen Shaltiel;,https://doi.org/10.1007/978-3-540-24638-1_25
+tcc/tcc2004,2004,None,Hierarchical Threshold Secret Sharing.,Tamir Tassa;,https://doi.org/10.1007/978-3-540-24638-1_26
+tcc/tcc2004,2004,None,On Compressing Encrypted Data without the Encryption Key.,Mark Johnson;David A. Wagner;Kannan Ramchandran;,https://doi.org/10.1007/978-3-540-24638-1_27
+tcc/tcc2004,2004,None,On the Notion of Pseudo-Free Groups.,Ronald L. Rivest;,https://doi.org/10.1007/978-3-540-24638-1_28

@@ -1,0 +1,26 @@
+fse/fse93,1993,Block Ciphers,SAFER K-64: A Byte-Oriented Block-Ciphering Algorithm.,James L. Massey;,https://doi.org/10.1007/3-540-58108-1_1
+fse/fse93,1993,Block Ciphers,A New Approach to Block Cipher Design.,Joan Daemen;René Govaerts;Joos Vandewalle;,https://doi.org/10.1007/3-540-58108-1_2
+fse/fse93,1993,Block Ciphers,Fast Block Cipher Proposal.,Burton S. Kaliski Jr.;Matthew J. B. Robshaw;,https://doi.org/10.1007/3-540-58108-1_3
+fse/fse93,1993,Stream Ciphers,Fish: A Fast Software Stream Cipher.,Uwe Blöcher;Markus Dichtl;,https://doi.org/10.1007/3-540-58108-1_4
+fse/fse93,1993,Stream Ciphers,The Shrinking Generator: Some Practical Considerations.,Hugo Krawczyk;,https://doi.org/10.1007/3-540-58108-1_5
+fse/fse93,1993,Stream Ciphers,A Modern Rotor Machine.,Ross J. Anderson;,https://doi.org/10.1007/3-540-58108-1_6
+fse/fse93,1993,Stream Ciphers,Two Stream Ciphers.,William G. Chambers;,https://doi.org/10.1007/3-540-58108-1_7
+fse/fse93,1993,Stream Ciphers,A Software-Optimised Encryption Algorithm.,Phillip Rogaway;Don Coppersmith;,https://doi.org/10.1007/3-540-58108-1_8
+fse/fse93,1993,Software Performance,Encrypting Network Traffic.,T. Mark A. Lomas;,https://doi.org/10.1007/3-540-58108-1_9
+fse/fse93,1993,Software Performance,Design Principles for Dedicated Hash Functions.,Bart Preneel;,https://doi.org/10.1007/3-540-58108-1_10
+fse/fse93,1993,Software Performance,Performance of Symmetric Ciphers and One-Way Hash Functions.,Michael Roe;,https://doi.org/10.1007/3-540-58108-1_11
+fse/fse93,1993,Cryptanalysis,On the Security of Shift Register Based Keystream Generators.,Jovan Dj. Golic;,https://doi.org/10.1007/3-540-58108-1_12
+fse/fse93,1993,Cryptanalysis,The Differential Cryptanalysis and Design of Natural Stream Ciphers.,Cunsheng Ding;,https://doi.org/10.1007/3-540-58108-1_13
+fse/fse93,1993,Cryptanalysis,On Modes of Operation.,Eli Biham;,https://doi.org/10.1007/3-540-58108-1_14
+fse/fse93,1993,Cryptanalysis,Cryptanalysis of Clock Controlled Shift Registers.,Dieter Gollmann;,https://doi.org/10.1007/3-540-58108-1_15
+fse/fse93,1993,Hash Functions and Hybrid Ciphers,A Bulk Data Encription Algorithm.,David J. Wheeler;,https://doi.org/10.1007/3-540-58108-1_16
+fse/fse93,1993,Hash Functions and Hybrid Ciphers,On Finite Automaton One-Key Cryptosystems.,Ren-ji Tao;,https://doi.org/10.1007/3-540-58108-1_17
+fse/fse93,1993,Hash Functions and Hybrid Ciphers,Parallel FFT-Hashing.,Claus-Peter Schnorr;Serge Vaudenay;,https://doi.org/10.1007/3-540-58108-1_18
+fse/fse93,1993,Hash Functions and Hybrid Ciphers,Attacks on Double Block Length Hash Functions.,Xuejia Lai;Lars R. Knudsen;,https://doi.org/10.1007/3-540-58108-1_19
+fse/fse93,1993,Randomness and Nonlinearity,On Quadratic M-Sequences.,Agnes Hui Chan;Richard A. Games;Joseph J. Rushanan;,https://doi.org/10.1007/3-540-58108-1_20
+fse/fse93,1993,Randomness and Nonlinearity,2-Adic Shift Registers.,Andrew Klapper;Mark Goresky;,https://doi.org/10.1007/3-540-58108-1_21
+fse/fse93,1993,Randomness and Nonlinearity,New Bent Mappings Suitable for Fast Implementation.,Kaisa Nyberg;,https://doi.org/10.1007/3-540-58108-1_22
+fse/fse93,1993,Randomness and Nonlinearity,Cryptographic Pseudorandom Numbers in Simulation.,Nick MacLaren;,https://doi.org/10.1007/3-540-58108-1_23
+fse/fse93,1993,Block Ciphers,"Description of a New Variable-Length Key, 64-bit Block Cipher (Blowfish).",Bruce Schneier;,https://doi.org/10.1007/3-540-58108-1_24
+fse/fse93,1993,Block Ciphers,VINO: A Block Cipher Including Variable Permutations.,Adina di Porto;William Wolfowicz;,https://doi.org/10.1007/3-540-58108-1_25
+fse/fse93,1993,Block Ciphers,Practically Secure Feistel Cyphers.,Lars R. Knudsen;,https://doi.org/10.1007/3-540-58108-1_26

@@ -1,0 +1,39 @@
+crypto/crypto99,1999,Public-Key Cryptanalysis,On the Security of RSA Padding.,Jean-Sébastien Coron;David Naccache;Julien P. Stern;,https://doi.org/10.1007/3-540-48405-1_1
+crypto/crypto99,1999,Public-Key Cryptanalysis,Cryptanalysis of the HFE Public Key Cryptosystem by Relinearization.,Aviad Kipnis;Adi Shamir;,https://doi.org/10.1007/3-540-48405-1_2
+crypto/crypto99,1999,Public-Key Cryptanalysis,The Hardness of the Hidden Subset Sum Problem and Its Cryptographic Implications.,Phong Q. Nguyen;Jacques Stern;,https://doi.org/10.1007/3-540-48405-1_3
+crypto/crypto99,1999,Invited Lecture,Information-Theoretic Cryptography.,Ueli M. Maurer;,https://doi.org/10.1007/3-540-48405-1_4
+crypto/crypto99,1999,Secure Communication and Computation,Information Theoretically Secure Communication in the Limited Storage Space Model.,Yonatan Aumann;Michael O. Rabin;,https://doi.org/10.1007/3-540-48405-1_5
+crypto/crypto99,1999,Secure Communication and Computation,The All-or-Nothing Nature of Two-Party Secure Computation.,Amos Beimel;Tal Malkin;Silvio Micali;,https://doi.org/10.1007/3-540-48405-1_6
+crypto/crypto99,1999,Distributed Cryptography,Adaptive Security for Threshold Cryptosystems.,Ran Canetti;Rosario Gennaro;Stanislaw Jarecki;Hugo Krawczyk;Tal Rabin;,https://doi.org/10.1007/3-540-48405-1_7
+crypto/crypto99,1999,Distributed Cryptography,Two Party RSA Key Generation.,Niv Gilboa;,https://doi.org/10.1007/3-540-48405-1_8
+crypto/crypto99,1999,Distributed Cryptography,Robust Distributed Multiplicaton with out Interaction.,Masayuki Abe;,https://doi.org/10.1007/3-540-48405-1_9
+crypto/crypto99,1999,Distributed Cryptography,A Simple Publicly Verifiable Secret Sharing Scheme and Its Application to Electronic.,Berry Schoenmakers;,https://doi.org/10.1007/3-540-48405-1_10
+crypto/crypto99,1999,Secret-Key Cryptography,Truncated Differentials and Skipjack.,Lars R. Knudsen;Matthew J. B. Robshaw;David A. Wagner;,https://doi.org/10.1007/3-540-48405-1_11
+crypto/crypto99,1999,Secret-Key Cryptography,Fast Correlation Attacks Based on Turbo Code Techniques.,Thomas Johansson;Fredrik Jönsson;,https://doi.org/10.1007/3-540-48405-1_12
+crypto/crypto99,1999,Secret-Key Cryptography,Highly Nonlinear Resilient Functions Optimizing Siegenthaler's Inequality.,Subhamoy Maitra;Palash Sarkar;,https://doi.org/10.1007/3-540-48405-1_13
+crypto/crypto99,1999,Message Authentication Codes,UMAC: Fast and Secure Message Authentication.,John Black;Shai Halevi;Hugo Krawczyk;Ted Krovetz;Phillip Rogaway;,https://doi.org/10.1007/3-540-48405-1_14
+crypto/crypto99,1999,Message Authentication Codes,SQUARE HASH: Fast Message Authenication via Optimized Universal Hash Functions.,Mark Etzel;Sarvar Patel;Zulfikar Ramzan;,https://doi.org/10.1007/3-540-48405-1_15
+crypto/crypto99,1999,Message Authentication Codes,Constructing VIL-MACsfrom FIL-MACs: Message Authentication under Weakened Assumptions.,Jee Hea An;Mihir Bellare;,https://doi.org/10.1007/3-540-48405-1_16
+crypto/crypto99,1999,Message Authentication Codes,Stateless Evaluation of Pseudorandom Functions: Security beyond the Birthday Barrier.,Mihir Bellare;Oded Goldreich;Hugo Krawczyk;,https://doi.org/10.1007/3-540-48405-1_17
+crypto/crypto99,1999,Public-Key Cryptanalysis,Cryptanalysis of the Goldreich-Goldwasser-Halevi Cryptosystem from Crypto '97.,Phong Q. Nguyen;,https://doi.org/10.1007/3-540-48405-1_18
+crypto/crypto99,1999,Public-Key Cryptanalysis,Weakness in Quaternion Signatures.,Don Coppersmith;,https://doi.org/10.1007/3-540-48405-1_19
+crypto/crypto99,1999,Public-Key Cryptanalysis,"Cryptanalysis of ""2 R"" Schemes.",Dingfeng Ye;Kwok-Yan Lam;Zong-Duo Dai;,https://doi.org/10.1007/3-540-48405-1_20
+crypto/crypto99,1999,Public-Key Cryptanalysis,Factoring N = prq for Large r.,Dan Boneh;Glenn Durfee;Nick Howgrave-Graham;,https://doi.org/10.1007/3-540-48405-1_21
+crypto/crypto99,1999,Traitor Tracing,An Efficient Public Key Traitor Tracing Scheme.,Dan Boneh;Matthew K. Franklin;,https://doi.org/10.1007/3-540-48405-1_22
+crypto/crypto99,1999,Traitor Tracing,Dynamic Traitor Training.,Amos Fiat;Tamir Tassa;,https://doi.org/10.1007/3-540-48405-1_23
+crypto/crypto99,1999,Traitor Tracing,Efficient Methods for Integrating Traceability and Broadcast Encryption.,Eli Gafni;Jessica Staddon;Yiqun Lisa Yin;,https://doi.org/10.1007/3-540-48405-1_24
+crypto/crypto99,1999,Differential Power Analysis,Differential Power Analysis.,Paul C. Kocher;Joshua Jaffe;Benjamin Jun;,https://doi.org/10.1007/3-540-48405-1_25
+crypto/crypto99,1999,Differential Power Analysis,Towards Sound Approaches to Counteract Power-Analysis Attacks.,Suresh Chari;Charanjit S. Jutla;Josyula R. Rao;Pankaj Rohatgi;,https://doi.org/10.1007/3-540-48405-1_26
+crypto/crypto99,1999,Signature Schemes,Separability and Efficiency for Generic Group Signature Schemes.,Jan Camenisch;Markus Michels;,https://doi.org/10.1007/3-540-48405-1_27
+crypto/crypto99,1999,Signature Schemes,A Forward-Secure Digital Signature Scheme.,Mihir Bellare;Sara K. Miner;,https://doi.org/10.1007/3-540-48405-1_28
+crypto/crypto99,1999,Signature Schemes,Abuse-Free Optimistic Contract Signing.,Juan A. Garay;Markus Jakobsson;Philip D. MacKenzie;,https://doi.org/10.1007/3-540-48405-1_29
+crypto/crypto99,1999,Zero Knowledge,Can Statistical Zero Knowledge Be Made Non-interactive? or On the Relationship of SZK and NISZK.,Oded Goldreich;Amit Sahai;Salil P. Vadhan;,https://doi.org/10.1007/3-540-48405-1_30
+crypto/crypto99,1999,Zero Knowledge,On Concurrent Zero-Knowledge with Pre-processing.,Giovanni Di Crescenzo;Rafail Ostrovsky;,https://doi.org/10.1007/3-540-48405-1_31
+crypto/crypto99,1999,Asymmetric Encryption,On the Security Properties of OAEP as an All-or-Nothing Transform.,Victor Boyko;,https://doi.org/10.1007/3-540-48405-1_32
+crypto/crypto99,1999,Asymmetric Encryption,"Non-malleable Encryption: Equivalence between Two Notions, and an Indistinguishability-Based Characterization.",Mihir Bellare;Amit Sahai;,https://doi.org/10.1007/3-540-48405-1_33
+crypto/crypto99,1999,Asymmetric Encryption,Secure Integration of Asymmetric and Symmetric Encryption Schemes.,Eiichiro Fujisaki;Tatsuaki Okamoto;,https://doi.org/10.1007/3-540-48405-1_34
+crypto/crypto99,1999,Electronic Cash,"Auditable, Anonymous Electronic Cash Extended Abstract.",Tomas Sander;Amnon Ta-Shma;,https://doi.org/10.1007/3-540-48405-1_35
+crypto/crypto99,1999,Protocols and Broadcasting,Oblivious Transfer with Adaptive Queries.,Moni Naor;Benny Pinkas;,https://doi.org/10.1007/3-540-48405-1_36
+crypto/crypto99,1999,Protocols and Broadcasting,Compressing Cryptographic Resources.,Niv Gilboa;Yuval Ishai;,https://doi.org/10.1007/3-540-48405-1_37
+crypto/crypto99,1999,Protocols and Broadcasting,Coding Constructions for Blacklisting Problems without Computational Assumptions.,Ravi Kumar;Sridhar Rajagopalan;Amit Sahai;,https://doi.org/10.1007/3-540-48405-1_38
+crypto/crypto99,1999,Protocols and Broadcasting,An Information Theoretic Analysis of Rooted-Tree Based Secure Multicast Key Distribution Schemes.,Radha Poovendran;John S. Baras;,https://doi.org/10.1007/3-540-48405-1_39

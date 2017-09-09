@@ -1,0 +1,43 @@
+eurocrypt/eurocrypt2012,2012,Invited Talks,A Tutorial on High Performance Computing Applied to Cryptanalysis - (Invited Talk Abstract).,Antoine Joux;,https://doi.org/10.1007/978-3-642-29011-4_1
+eurocrypt/eurocrypt2012,2012,Invited Talks,Another Look at Provable Security.,Alfred Menezes;,https://doi.org/10.1007/978-3-642-29011-4_2
+eurocrypt/eurocrypt2012,2012,Index Calculus,Cover and Decomposition Index Calculus on Elliptic Curves Made Practical - Application to a Previously Unreachable Curve over $\mathbb{F}_{p^6}$.,Antoine Joux;Vanessa Vitse;,https://doi.org/10.1007/978-3-642-29011-4_3
+eurocrypt/eurocrypt2012,2012,Index Calculus,Improving the Complexity of Index Calculus Algorithms in Elliptic Curves over Binary Fields.,Jean-Charles Faugère;Ludovic Perret;Christophe Petit;Guénaël Renault;,https://doi.org/10.1007/978-3-642-29011-4_4
+eurocrypt/eurocrypt2012,2012,Symmetric Constructions,Key-Alternating Ciphers in a Provable Setting: Encryption Using a Small Number of Public Permutations - (Extended Abstract).,Andrey Bogdanov;Lars R. Knudsen;Gregor Leander;François-Xavier Standaert;John P. Steinberger;Elmar Tischhauser;,https://doi.org/10.1007/978-3-642-29011-4_5
+eurocrypt/eurocrypt2012,2012,Symmetric Constructions,Efficient and Optimally Secure Key-Length Extension for Block Ciphers via Randomized Cascading.,Peter Gazi;Stefano Tessaro;,https://doi.org/10.1007/978-3-642-29011-4_6
+eurocrypt/eurocrypt2012,2012,Secure Computation,Fair Computation with Rational Players.,Adam Groce;Jonathan Katz;,https://doi.org/10.1007/978-3-642-29011-4_7
+eurocrypt/eurocrypt2012,2012,Secure Computation,Concurrently Secure Computation in Constant Rounds.,Sanjam Garg;Vipul Goyal;Abhishek Jain;Amit Sahai;,https://doi.org/10.1007/978-3-642-29011-4_8
+eurocrypt/eurocrypt2012,2012,Secure Computation,Identity-Based Encryption Resilient to Continual Auxiliary Leakage.,Tsz Hon Yuen;Sherman S. M. Chow;Ye Zhang;Siu-Ming Yiu;,https://doi.org/10.1007/978-3-642-29011-4_9
+eurocrypt/eurocrypt2012,2012,Protocols,Quantum Proofs of Knowledge.,Dominique Unruh;,https://doi.org/10.1007/978-3-642-29011-4_10
+eurocrypt/eurocrypt2012,2012,Protocols,On Round-Optimal Zero Knowledge in the Bare Public-Key Model.,Alessandra Scafuro;Ivan Visconti;,https://doi.org/10.1007/978-3-642-29011-4_11
+eurocrypt/eurocrypt2012,2012,Protocols,Robust Coin Flipping.,Gene S. Kopp;John D. Wiltshire-Gordon;,https://doi.org/10.1007/978-3-642-29011-4_12
+eurocrypt/eurocrypt2012,2012,Protocols,Unconditionally-Secure Robust Secret Sharing with Compact Shares.,Alfonso Cevallos;Serge Fehr;Rafail Ostrovsky;Yuval Rabani;,https://doi.org/10.1007/978-3-642-29011-4_13
+eurocrypt/eurocrypt2012,2012,Lossy Trapdoor Functions,All-But-Many Lossy Trapdoor Functions.,Dennis Hofheinz;,https://doi.org/10.1007/978-3-642-29011-4_14
+eurocrypt/eurocrypt2012,2012,Lossy Trapdoor Functions,Identity-Based (Lossy) Trapdoor Functions and Applications.,Mihir Bellare;Eike Kiltz;Chris Peikert;Brent Waters;,https://doi.org/10.1007/978-3-642-29011-4_15
+eurocrypt/eurocrypt2012,2012,Lossy Trapdoor Functions,Dual Projective Hashing and Its Applications - Lossy Trapdoor Functions and More.,Hoeteck Wee;,https://doi.org/10.1007/978-3-642-29011-4_16
+eurocrypt/eurocrypt2012,2012,Tools,Efficient Zero-Knowledge Argument for Correctness of a Shuffle.,Stephanie Bayer;Jens Groth;,https://doi.org/10.1007/978-3-642-29011-4_17
+eurocrypt/eurocrypt2012,2012,Tools,Malleable Proof Systems and Applications.,Melissa Chase;Markulf Kohlweiss;Anna Lysyanskaya;Sarah Meiklejohn;,https://doi.org/10.1007/978-3-642-29011-4_18
+eurocrypt/eurocrypt2012,2012,Tools,Group to Group Commitments Do Not Shrink.,Masayuki Abe;Kristiyan Haralambiev;Miyako Ohkubo;,https://doi.org/10.1007/978-3-642-29011-4_19
+eurocrypt/eurocrypt2012,2012,Tools,Tools for Simulating Features of Composite Order Bilinear Groups in the Prime Order Setting.,Allison B. Lewko;,https://doi.org/10.1007/978-3-642-29011-4_20
+eurocrypt/eurocrypt2012,2012,Symmetric Constructions,Minimalism in Cryptography: The Even-Mansour Scheme Revisited.,Orr Dunkelman;Nathan Keller;Adi Shamir;,https://doi.org/10.1007/978-3-642-29011-4_21
+eurocrypt/eurocrypt2012,2012,Symmetric Constructions,"Message Authentication, Revisited.",Yevgeniy Dodis;Eike Kiltz;Krzysztof Pietrzak;Daniel Wichs;,https://doi.org/10.1007/978-3-642-29011-4_22
+eurocrypt/eurocrypt2012,2012,Symmetric Constructions,Property Preserving Symmetric Encryption.,Omkant Pandey;Yannis Rouselakis;,https://doi.org/10.1007/978-3-642-29011-4_23
+eurocrypt/eurocrypt2012,2012,Symmetric Cryptanalysis,Narrow-Bicliques: Cryptanalysis of Full IDEA.,Dmitry Khovratovich;Gaëtan Leurent;Christian Rechberger;,https://doi.org/10.1007/978-3-642-29011-4_24
+eurocrypt/eurocrypt2012,2012,Symmetric Cryptanalysis,Cryptanalyses on a Merkle-Damgård Based MAC - Almost Universal Forgery and Distinguishing-H Attacks.,Yu Sasaki;,https://doi.org/10.1007/978-3-642-29011-4_25
+eurocrypt/eurocrypt2012,2012,Symmetric Cryptanalysis,Statistical Tools Flavor Side-Channel Collision Attacks.,Amir Moradi;,https://doi.org/10.1007/978-3-642-29011-4_26
+eurocrypt/eurocrypt2012,2012,Fully Homomorphic Encryption,Public Key Compression and Modulus Switching for Fully Homomorphic Encryption over the Integers.,Jean-Sébastien Coron;David Naccache;Mehdi Tibouchi;,https://doi.org/10.1007/978-3-642-29011-4_27
+eurocrypt/eurocrypt2012,2012,Fully Homomorphic Encryption,Fully Homomorphic Encryption with Polylog Overhead.,Craig Gentry;Shai Halevi;Nigel P. Smart;,https://doi.org/10.1007/978-3-642-29011-4_28
+eurocrypt/eurocrypt2012,2012,Fully Homomorphic Encryption,"Multiparty Computation with Low Communication, Computation and Interaction via Threshold FHE.",Gilad Asharov;Abhishek Jain;Adriana López-Alt;Eran Tromer;Vinod Vaikuntanathan;Daniel Wichs;,https://doi.org/10.1007/978-3-642-29011-4_29
+eurocrypt/eurocrypt2012,2012,Asymmetric Cryptanalysis,Faster Algorithms for Approximate Common Divisors: Breaking Fully-Homomorphic-Encryption Challenges over the Integers.,Yuanmi Chen;Phong Q. Nguyen;,https://doi.org/10.1007/978-3-642-29011-4_30
+eurocrypt/eurocrypt2012,2012,Asymmetric Cryptanalysis,Decoding Random Binary Linear Codes in 2 n/20: How 1 + 1 = 0 Improves Information Set Decoding.,Anja Becker;Antoine Joux;Alexander May;Alexander Meurer;,https://doi.org/10.1007/978-3-642-29011-4_31
+eurocrypt/eurocrypt2012,2012,Efficient Reductions,"Optimal Security Proofs for Full Domain Hash, Revisited.",Saqib A. Kakvi;Eike Kiltz;,https://doi.org/10.1007/978-3-642-29011-4_32
+eurocrypt/eurocrypt2012,2012,Efficient Reductions,On the Exact Security of Schnorr-Type Signatures in the Random Oracle Model.,Yannick Seurin;,https://doi.org/10.1007/978-3-642-29011-4_33
+eurocrypt/eurocrypt2012,2012,Efficient Reductions,Tightly-Secure Signatures from Lossy Identification Schemes.,Michel Abdalla;Pierre-Alain Fouque;Vadim Lyubashevsky;Mehdi Tibouchi;,https://doi.org/10.1007/978-3-642-29011-4_34
+eurocrypt/eurocrypt2012,2012,Public-Key Schemes,Adaptively Attribute-Hiding (Hierarchical) Inner Product Encryption.,Tatsuaki Okamoto;Katsuyuki Takashima;,https://doi.org/10.1007/978-3-642-29011-4_35
+eurocrypt/eurocrypt2012,2012,Public-Key Schemes,Scalable Group Signatures with Revocation.,Benoît Libert;Thomas Peters;Moti Yung;,https://doi.org/10.1007/978-3-642-29011-4_36
+eurocrypt/eurocrypt2012,2012,Public-Key Schemes,Incremental Deterministic Public-Key Encryption.,Ilya Mironov;Omkant Pandey;Omer Reingold;Gil Segev;,https://doi.org/10.1007/978-3-642-29011-4_37
+eurocrypt/eurocrypt2012,2012,Security Models,Standard Security Does Not Imply Security against Selective-Opening.,Mihir Bellare;Rafael Dowsley;Brent Waters;Scott Yilek;,https://doi.org/10.1007/978-3-642-29011-4_38
+eurocrypt/eurocrypt2012,2012,Security Models,Detecting Dangerous Queries: A New Approach for Chosen Ciphertext Security.,Susan Hohenberger;Allison B. Lewko;Brent Waters;,https://doi.org/10.1007/978-3-642-29011-4_39
+eurocrypt/eurocrypt2012,2012,Security Models,Security of Symmetric Encryption in the Presence of Ciphertext Fragmentation.,Alexandra Boldyreva;Jean Paul Degabriele;Kenneth G. Paterson;Martijn Stam;,https://doi.org/10.1007/978-3-642-29011-4_40
+eurocrypt/eurocrypt2012,2012,Lattices,"Trapdoors for Lattices: Simpler, Tighter, Faster, Smaller.",Daniele Micciancio;Chris Peikert;,https://doi.org/10.1007/978-3-642-29011-4_41
+eurocrypt/eurocrypt2012,2012,Lattices,Pseudorandom Functions and Lattices.,Abhishek Banerjee;Chris Peikert;Alon Rosen;,https://doi.org/10.1007/978-3-642-29011-4_42
+eurocrypt/eurocrypt2012,2012,Lattices,Lattice Signatures without Trapdoors.,Vadim Lyubashevsky;,https://doi.org/10.1007/978-3-642-29011-4_43

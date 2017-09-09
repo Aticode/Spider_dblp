@@ -1,0 +1,23 @@
+srds/srds96,1996,Novel Architectures,Exploiting Data-Flow for Fault-Tolerance in a Wide-Area Parallel System.,Anh Nguyen-Tuong;Andrew S. Grimshaw;Mark Hyett;,http://doi.ieeecomputersociety.org/10.1109/SRDS.1996.10001
+srds/srds96,1996,Novel Architectures,Specialized N-Modular Redundant Processors in Large-Scale Distributed Systems.,I-Ling Yen;,https://doi.org/10.1109/RELDIS.1996.559688
+srds/srds96,1996,Novel Architectures,Dynamic Fault Tolerance in DCMA - A Dynamically Configurable Multicomputer Architecture.,Holger Küfner;H. Baehring;,https://doi.org/10.1109/RELDIS.1996.559691
+srds/srds96,1996,Evaluation & Testing,Analysis of a Multistage Interconnection Network using Binary Decision Diagrams.,Jian Chiu;Joanne Bechta Dugan;,https://doi.org/10.1109/RELDIS.1996.559693
+srds/srds96,1996,Evaluation & Testing,Analyzing Dynamic Voting Using Petri Nets.,Ing-Ray Chen;Ding-Chau Wang;,https://doi.org/10.1109/RELDIS.1996.559695
+srds/srds96,1996,Evaluation & Testing,On-line Testing for Application Software of Widely Distributed System.,Eiji Nishijima;Hiroshi Yamamoto;Katsumi Kawano;Kazunori Fujiwara;Keiji Oshima;,https://doi.org/10.1109/RELDIS.1996.559698
+srds/srds96,1996,Checkpointing and Stable Storage,Minimizing Timestamp Size for Completely Asynchronous Optimistic Recovery with Minimal Rollback.,Sean W. Smith;David B. Johnson;,https://doi.org/10.1109/RELDIS.1996.559699
+srds/srds96,1996,Checkpointing and Stable Storage,Improving the Performance of Coordinated Checkpointers on Networks of Workstations using RAID Techniques.,James S. Plank;,https://doi.org/10.1109/RELDIS.1996.559700
+srds/srds96,1996,Checkpointing and Stable Storage,Implementation and Performance of a Stable-Storage Service in Unix.,Flaviu Cristian;Shivakant Mishra;Young S. Hyun;,https://doi.org/10.1109/RELDIS.1996.559701
+srds/srds96,1996,Diagnosis,Hierarchical Adaptive Distributed System-Level Diagnosis Applied for SNMP-based Network Fault Management.,Elias Procópio Duarte Jr.;Takashi Nanya;,https://doi.org/10.1109/RELDIS.1996.559703
+srds/srds96,1996,Diagnosis,Ongoing Fault Diagnosis.,William Hurwood;,https://doi.org/10.1109/RELDIS.1996.559706
+srds/srds96,1996,Diagnosis,Diagnosing Crosstalk-Faulty Switches in Photonic Networks.,Chunming Qiao;,https://doi.org/10.1109/RELDIS.1996.559708
+srds/srds96,1996,Group Communication,A Transparent Light-Weight Group Service.,Luís E. T. Rodrigues;Katherine Guo;Antonio Sargento;Robbert van Renesse;Bradford B. Glade;Paulo Veríssimo;Kenneth P. Birman;,https://doi.org/10.1109/RELDIS.1996.559710
+srds/srds96,1996,Group Communication,Strong and Weak Virtual Synchrony in Horus.,Roy Friedman;Robbert van Renesse;,https://doi.org/10.1109/RELDIS.1996.559711
+srds/srds96,1996,Group Communication,The Design of a CORBA Group Communication Service.,Pascal Felber;Benoît Garbinato;Rachid Guerraoui;,https://doi.org/10.1109/RELDIS.1996.559713
+srds/srds96,1996,Panel:Industry Perspective on Reliable Distributed Systems,Observations from 16 Years at a Fault-Tolerant Computer Company.,Paul A. Green Jr.;,https://doi.org/10.1109/RELDIS.1996.559714
+srds/srds96,1996,Panel:Industry Perspective on Reliable Distributed Systems,Developing reliable applications on cluster systems.,Yennun Huang;,https://doi.org/10.1109/RELDIS.1996.559715
+srds/srds96,1996,Replication Issues,Locating More Corruptions in a Replicated File.,Ada Wai-Chee Fu;Siu-Cheung Chau;,https://doi.org/10.1109/RELDIS.1996.559716
+srds/srds96,1996,Replication Issues,Primary Copy Method and its Modifications for Database Replication in Distributed Mobile Computing Environment.,Arkady B. Zaslavsky;Mohamed Faiz;Bala Srinivasan;Aamir Rasheed;Simon J. Lai;,https://doi.org/10.1109/RELDIS.1996.559719
+srds/srds96,1996,Replication Issues,A Fault-Tolerant CORBA Name Server.,Silvano Maffeis;,https://doi.org/10.1109/RELDIS.1996.559720
+srds/srds96,1996,Time Constraints,Fail-Aware Failure Detectors.,Christof Fetzer;Flaviu Cristian;,https://doi.org/10.1109/RELDIS.1996.559722
+srds/srds96,1996,Time Constraints,A Causal Message Ordering Scheme for Distributed Embedded Real-Time Systems.,Khawar M. Zuberi;Kang G. Shin;,https://doi.org/10.1109/RELDIS.1996.559724
+srds/srds96,1996,Time Constraints,A proposal for Ensuring High Availability of Distributed Multimedia Applications.,Manuel Billot;Valérie Issarny;Isabelle Puaut;Michel Banâtre;,https://doi.org/10.1109/RELDIS.1996.559726

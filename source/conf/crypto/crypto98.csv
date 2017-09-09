@@ -1,0 +1,35 @@
+crypto/crypto98,1998,Chosen-Ciphertext Security,Chosen Ciphertext Attacks Against Protocols Based on the RSA Encryption Standard PKCS #1.,Daniel Bleichenbacher;,https://doi.org/10.1007/BFb0055716
+crypto/crypto98,1998,Chosen-Ciphertext Security,A Practical Public Key Cryptosystem Provably Secure Against Adaptive Chosen Ciphertext Attack.,Ronald Cramer;Victor Shoup;,https://doi.org/10.1007/BFb0055717
+crypto/crypto98,1998,Chosen-Ciphertext Security,Relations Among Notions of Security for Public-Key Encryption Schemes.,Mihir Bellare;Anand Desai;David Pointcheval;Phillip Rogaway;,https://doi.org/10.1007/BFb0055718
+crypto/crypto98,1998,Invited Lecture,Cryptography and the Internet.,Steven M. Bellovin;,https://doi.org/10.1007/BFb0055719
+crypto/crypto98,1998,Cryptanalysis of Hash Functions and Block Ciphers,Differential Collisions in SHA-0.,Florent Chabaud;Antoine Joux;,https://doi.org/10.1007/BFb0055720
+crypto/crypto98,1998,Cryptanalysis of Hash Functions and Block Ciphers,From Differential Cryptanalysis to Ciphertext-Only Attacks.,Alex Biryukov;Eyal Kushilevitz;,https://doi.org/10.1007/BFb0055721
+crypto/crypto98,1998,Distributed Cryptography,A Simplified Approach to Threshold and Proactive RSA.,Tal Rabin;,https://doi.org/10.1007/BFb0055722
+crypto/crypto98,1998,Distributed Cryptography,New Efficient and Secure Protocols for Verifiable Signature Sharing and Other Applications.,Dario Catalano;Rosario Gennaro;,https://doi.org/10.1007/BFb0055723
+crypto/crypto98,1998,Distributed Cryptography,Trading Correctness for Privacy in Unconditional Multi-Party Computation (Extended Abstract).,Matthias Fitzi;Martin Hirt;Ueli M. Maurer;,https://doi.org/10.1007/BFb0055724
+crypto/crypto98,1998,Identification and Certification,Fast Digital Identity Revocation (Extended Abstract).,William Aiello;Sachin Lodha;Rafail Ostrovsky;,https://doi.org/10.1007/BFb0055725
+crypto/crypto98,1998,Identification and Certification,Self-Delegation with Controlled Propagation - or - What If You Lose Your Laptop.,Oded Goldreich;Birgit Pfitzmann;Ronald L. Rivest;,https://doi.org/10.1007/BFb0055726
+crypto/crypto98,1998,Identification and Certification,Identity Escrow.,Joe Kilian;Erez Petrank;,https://doi.org/10.1007/BFb0055727
+crypto/crypto98,1998,Block Cipher Design and Analysis,Generalized Birthday Arracks on Unbalanced Feistel Networks.,Charanjit S. Jutla;,https://doi.org/10.1007/BFb0055728
+crypto/crypto98,1998,Block Cipher Design and Analysis,Quadratic Relation of S-box and Its Application to the Linear Attack of Full Round DES.,Takeshi Shimoyama;Toshinobu Kaneko;,https://doi.org/10.1007/BFb0055729
+crypto/crypto98,1998,Block Cipher Design and Analysis,Cryptanalysis of Block Ciphers with Probabilistic Non-linear Relations of Low Degree.,Thomas Jakobson;,https://doi.org/10.1007/BFb0055730
+crypto/crypto98,1998,Algebraic Crytanalysis,Cryptanalysis of the Ajtai-Dwork Cryptosystem.,Phong Q. Nguyen;Jacques Stern;,https://doi.org/10.1007/BFb0055731
+crypto/crypto98,1998,Algebraic Crytanalysis,Cryptanalysis of the Chor-Rivest Cryptosystem.,Serge Vaudenay;,https://doi.org/10.1007/BFb0055732
+crypto/crypto98,1998,Algebraic Crytanalysis,Cryptanalysis of the Oil & Vinegar Signature Scheme.,Aviad Kipnis;Adi Shamir;,https://doi.org/10.1007/BFb0055733
+crypto/crypto98,1998,Relations Among Cryptographic Primitives,From Unpredictability to Indistinguishability: A Simple Construction of Pseudo-Random Functions from MACs (Extended Abstract).,Moni Naor;Omer Reingold;,https://doi.org/10.1007/BFb0055734
+crypto/crypto98,1998,Relations Among Cryptographic Primitives,Many-to-One Trapdoor Functions and Their Ralation to Public-Key Cryptosystems.,Mihir Bellare;Shai Halevi;Amit Sahai;Salil P. Vadhan;,https://doi.org/10.1007/BFb0055735
+crypto/crypto98,1998,IACR Distinguished Lecture,"Authentication, Enhanced Security and Error Correcting Codes (Extended Abstract).",Yonatan Aumann;Michael O. Rabin;,https://doi.org/10.1007/BFb0055736
+crypto/crypto98,1998,Alebraic Schemes,An Efficient Discrete Log Pseudo Random Generator.,Sarvar Patel;Ganapathy S. Sundaram;,https://doi.org/10.1007/BFb0055737
+crypto/crypto98,1998,Alebraic Schemes,Fast RSA-Type Cryptosystem Modulo pkq.,Tsuyoshi Takagi;,https://doi.org/10.1007/BFb0055738
+crypto/crypto98,1998,Alebraic Schemes,An Elliptic Curve Implementation of the Finite Field Digital Signature Algorithm.,Neal Koblitz;,https://doi.org/10.1007/BFb0055739
+crypto/crypto98,1998,Quantum Cryptography,Quantum Bit Commitment from a Physical Assumption.,Louis Salvail;,https://doi.org/10.1007/BFb0055740
+crypto/crypto98,1998,"Signatures, Random Functions and Ideal Ciphers",On Concrete Security Treatment of Signatures Derived from Identification.,Kazuo Ohta;Tatsuaki Okamoto;,https://doi.org/10.1007/BFb0055741
+crypto/crypto98,1998,"Signatures, Random Functions and Ideal Ciphers",Building PRFs from PRPs.,Chris Hall;David A. Wagner;John Kelsey;Bruce Schneier;,https://doi.org/10.1007/BFb0055742
+crypto/crypto98,1998,"Signatures, Random Functions and Ideal Ciphers","Security Amplification by Composition: The Case of Doubly-Iterated, Ideal Ciphers.",William Aiello;Mihir Bellare;Giovanni Di Crescenzo;Ramarathnam Venkatesan;,https://doi.org/10.1007/BFb0055743
+crypto/crypto98,1998,Zero-Knowledge,On the Existence of 3-Round Zero-Knowledge Protocols.,Satoshi Hada;Toshiaki Tanaka;,https://doi.org/10.1007/BFb0055744
+crypto/crypto98,1998,Zero-Knowledge,Zero-Knowledge Proofs for Finite Field Arithmetic; or: Can Zero-Knowledge be for Free?,Ronald Cramer;Ivan Damgård;,https://doi.org/10.1007/BFb0055745
+crypto/crypto98,1998,Zero-Knowledge,Concurrent Zero-Knowledge: Reducing the Need for Timing Constraints.,Cynthia Dwork;Amit Sahai;,https://doi.org/10.1007/BFb0055746
+crypto/crypto98,1998,Implementation,The Solution of McCurley's Discrete Log Challenge.,Damian Weber;Thomas F. Denny;,https://doi.org/10.1007/BFb0055747
+crypto/crypto98,1998,Implementation,Optimal Extension Fields for Fast Arithmetic in Public-Key Algorithms.,Daniel V. Bailey;Christof Paar;,https://doi.org/10.1007/BFb0055748
+crypto/crypto98,1998,Rights Protection,Time-Stamping with Binary Linking Schemes.,Ahto Buldas;Peeter Laud;Helger Lipmaa;Jan Willemson;,https://doi.org/10.1007/BFb0055749
+crypto/crypto98,1998,Rights Protection,Threshold Traitor Tracing.,Moni Naor;Benny Pinkas;,https://doi.org/10.1007/BFb0055750

@@ -1,0 +1,36 @@
+asiacrypt/asiacrypt2002,2002,None,Analysis of Bernstein's Factorization Circuit.,Arjen K. Lenstra;Adi Shamir;Jim Tomlinson;Eran Tromer;,https://doi.org/10.1007/3-540-36178-2_1
+asiacrypt/asiacrypt2002,2002,None,A Variant of the Cramer-Shoup Cryptosystem for Groups of Unknown Order.,Stefan Lucks;,https://doi.org/10.1007/3-540-36178-2_2
+asiacrypt/asiacrypt2002,2002,None,Looking beyond XTR.,Wieb Bosma;James Hutton;Eric R. Verheul;,https://doi.org/10.1007/3-540-36178-2_3
+asiacrypt/asiacrypt2002,2002,None,Bounds for Robust Metering Schemes and Their Relationship with A-code.,Wakaha Ogata;Kaoru Kurosawa;,https://doi.org/10.1007/3-540-36178-2_4
+asiacrypt/asiacrypt2002,2002,None,Unconditionally Secure Anonymous Encryption and Group Authentication.,Goichiro Hanaoka;Junji Shikata;Yumiko Hanaoka;Hideki Imai;,https://doi.org/10.1007/3-540-36178-2_5
+asiacrypt/asiacrypt2002,2002,None,Adapting the Weaknesses of the Random Oracle Model to the Generic Group Model.,Alexander W. Dent;,https://doi.org/10.1007/3-540-36178-2_6
+asiacrypt/asiacrypt2002,2002,None,On the Impossibilities of Basing One-Way Permutations on Central Cryptographic Primitives.,Yan-Cheng Chang;Chun-Yun Hsiao;Chi-Jen Lu;,https://doi.org/10.1007/3-540-36178-2_7
+asiacrypt/asiacrypt2002,2002,None,A Statistically-Hiding Integer Commitment Scheme Based on Groups with Hidden Order.,Ivan Damgård;Eiichiro Fujisaki;,https://doi.org/10.1007/3-540-36178-2_8
+asiacrypt/asiacrypt2002,2002,None,Efficient Oblivious Transfer in the Bounded-Storage Model.,Dowon Hong;Ku-Young Chang;Heuisu Ryu;,https://doi.org/10.1007/3-540-36178-2_9
+asiacrypt/asiacrypt2002,2002,None,In How Many Ways Can You Write Rijndael?,Elad Barkan;Eli Biham;,https://doi.org/10.1007/3-540-36178-2_10
+asiacrypt/asiacrypt2002,2002,None,On the Security of Rijndael-Like Structures against Differential and Linear Cryptanalysis.,Sangwoo Park;Soo Hak Sung;Seongtaek Chee;E-Joong Yoon;Jongin Lim;,https://doi.org/10.1007/3-540-36178-2_11
+asiacrypt/asiacrypt2002,2002,None,Threshold Cryptosystems Based on Factoring.,Jonathan Katz;Moti Yung;,https://doi.org/10.1007/3-540-36178-2_12
+asiacrypt/asiacrypt2002,2002,None,Non-interactive Distributed-Verifier Proofs and Proving Relations among Commitments.,Masayuki Abe;Ronald Cramer;Serge Fehr;,https://doi.org/10.1007/3-540-36178-2_13
+asiacrypt/asiacrypt2002,2002,None,Asynchronous Secure Communication Tolerating Mixed Adversaries.,K. Srinathan;M. V. N. Ashwin Kumar;C. Pandu Rangan;,https://doi.org/10.1007/3-540-36178-2_14
+asiacrypt/asiacrypt2002,2002,None,Amplified Boomerang Attack against Reduced-Round SHACAL.,Jongsung Kim;Dukjae Moon;Wonil Lee;Seokhie Hong;Sangjin Lee;Seok Won Jung;,https://doi.org/10.1007/3-540-36178-2_15
+asiacrypt/asiacrypt2002,2002,None,Enhancing Differential-Linear Cryptanalysis.,Eli Biham;Orr Dunkelman;Nathan Keller;,https://doi.org/10.1007/3-540-36178-2_16
+asiacrypt/asiacrypt2002,2002,None,Cryptanalysis of Block Ciphers with Overdefined Systems of Equations.,Nicolas Courtois;Josef Pieprzyk;,https://doi.org/10.1007/3-540-36178-2_17
+asiacrypt/asiacrypt2002,2002,None,Analysis of Neural Cryptography.,Alexander Klimov;Anton Mityagin;Adi Shamir;,https://doi.org/10.1007/3-540-36178-2_18
+asiacrypt/asiacrypt2002,2002,None,The Hardness of Hensel Lifting: The Case of RSA and Discrete Logarithm.,Dario Catalano;Phong Q. Nguyen;Jacques Stern;,https://doi.org/10.1007/3-540-36178-2_19
+asiacrypt/asiacrypt2002,2002,None,A Comparison and a Combination of SST and AGM Algorithms for Counting Points of Elliptic Curves in Characteristic 2.,Pierrick Gaudry;,https://doi.org/10.1007/3-540-36178-2_20
+asiacrypt/asiacrypt2002,2002,None,"A General Formula of the (t, n)-Threshold Visual Secret Sharing Scheme.",Hiroki Koga;,https://doi.org/10.1007/3-540-36178-2_21
+asiacrypt/asiacrypt2002,2002,None,On Unconditionally Secure Robust Distributed Key Distribution Centers.,Paolo D'Arco;Douglas R. Stinson;,https://doi.org/10.1007/3-540-36178-2_22
+asiacrypt/asiacrypt2002,2002,None,Short Signatures in the Random Oracle Model.,Louis Granboulan;,https://doi.org/10.1007/3-540-36178-2_23
+asiacrypt/asiacrypt2002,2002,None,The Provable Security of Graph-Based One-Time Signatures and Extensions to Algebraic Signature Schemes.,Alejandro Hevia;Daniele Micciancio;,https://doi.org/10.1007/3-540-36178-2_24
+asiacrypt/asiacrypt2002,2002,None,Transitive Signatures Based on Factoring and RSA.,Mihir Bellare;Gregory Neven;,https://doi.org/10.1007/3-540-36178-2_25
+asiacrypt/asiacrypt2002,2002,None,1-out-of-n Signatures from a Variety of Keys.,Masayuki Abe;Miyako Ohkubo;Koutarou Suzuki;,https://doi.org/10.1007/3-540-36178-2_26
+asiacrypt/asiacrypt2002,2002,None,A Revocation Scheme with Minimal Storage at Receivers.,Tomoyuki Asano;,https://doi.org/10.1007/3-540-36178-2_27
+asiacrypt/asiacrypt2002,2002,None,Optimistic Mixing for Exit-Polls.,Philippe Golle;Sheng Zhong;Dan Boneh;Markus Jakobsson;Ari Juels;,https://doi.org/10.1007/3-540-36178-2_28
+asiacrypt/asiacrypt2002,2002,None,Improved Construction of Nonlinear Resilient S-Boxes.,Kishan Chand Gupta;Palash Sarkar;,https://doi.org/10.1007/3-540-36178-2_29
+asiacrypt/asiacrypt2002,2002,None,An Upper Bound on the Number of m-Resilient Boolean Functions.,Claude Carlet;Aline Gouget;,https://doi.org/10.1007/3-540-36178-2_30
+asiacrypt/asiacrypt2002,2002,None,Group Diffie-Hellman Key Exchange Secure against Dictionary Attacks.,Emmanuel Bresson;Olivier Chevassut;David Pointcheval;,https://doi.org/10.1007/3-540-36178-2_31
+asiacrypt/asiacrypt2002,2002,None,Secure Channels Based on Authenticated Encryption Schemes: A Simple Characterization.,Chanathip Namprempre;,https://doi.org/10.1007/3-540-36178-2_32
+asiacrypt/asiacrypt2002,2002,None,ID-Based Blind Signature and Ring Signature from Pairings.,Fangguo Zhang;Kwangjo Kim;,https://doi.org/10.1007/3-540-36178-2_33
+asiacrypt/asiacrypt2002,2002,None,Hierarchical ID-Based Cryptography.,Craig Gentry;Alice Silverberg;,https://doi.org/10.1007/3-540-36178-2_34
+asiacrypt/asiacrypt2002,2002,None,Crypto-integrity.,Moti Yung;,https://doi.org/10.1007/3-540-36178-2_35
+asiacrypt/asiacrypt2002,2002,None,Gummy and Conductive Silicone Rubber Fingers.,Tsutomu Matsumoto;,https://doi.org/10.1007/3-540-36178-2_36

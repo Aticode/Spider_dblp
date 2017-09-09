@@ -1,0 +1,29 @@
+pkc/pkc2010,2010,Encryption,Simple and Efficient Public-Key Encryption from Computational Diffie-Hellman in the Standard Model.,Kristiyan Haralambiev;Tibor Jager;Eike Kiltz;Victor Shoup;,https://doi.org/10.1007/978-3-642-13013-7_1
+pkc/pkc2010,2010,Encryption,Constant Size Ciphertexts in Threshold Attribute-Based Encryption.,Javier Herranz;Fabien Laguillaumie;Carla Ràfols;,https://doi.org/10.1007/978-3-642-13013-7_2
+pkc/pkc2010,2010,Cryptanalysis,Algebraic Cryptanalysis of the PKC'2009 Algebraic Surface Cryptosystem.,Jean-Charles Faugère;Pierre-Jean Spaenlehauer;,https://doi.org/10.1007/978-3-642-13013-7_3
+pkc/pkc2010,2010,Cryptanalysis,Maximizing Small Root Bounds by Linearization and Applications to Small Secret Exponent RSA.,Mathias Herrmann;Alexander May;,https://doi.org/10.1007/978-3-642-13013-7_4
+pkc/pkc2010,2010,Cryptanalysis,Implicit Factoring with Shared Most Significant and Middle Bits.,Jean-Charles Faugère;Raphaël Marinier;Guénaël Renault;,https://doi.org/10.1007/978-3-642-13013-7_5
+pkc/pkc2010,2010,Protocols,On the Feasibility of Consistent Computations.,Sven Laur;Helger Lipmaa;,https://doi.org/10.1007/978-3-642-13013-7_6
+pkc/pkc2010,2010,Protocols,Multi-query Computationally-Private Information Retrieval with Constant Communication Rate.,Jens Groth;Aggelos Kiayias;Helger Lipmaa;,https://doi.org/10.1007/978-3-642-13013-7_7
+pkc/pkc2010,2010,Protocols,Further Observations on Optimistic Fair Exchange Protocols in the Multi-user Setting.,Xinyi Huang;Yi Mu;Willy Susilo;Wei Wu;Yang Xiang;,https://doi.org/10.1007/978-3-642-13013-7_8
+pkc/pkc2010,2010,Network Coding,Secure Network Coding over the Integers.,Rosario Gennaro;Jonathan Katz;Hugo Krawczyk;Tal Rabin;,https://doi.org/10.1007/978-3-642-13013-7_9
+pkc/pkc2010,2010,Network Coding,Preventing Pollution Attacks in Multi-source Network Coding.,Shweta Agrawal;Dan Boneh;Xavier Boyen;David Mandell Freeman;,https://doi.org/10.1007/978-3-642-13013-7_10
+pkc/pkc2010,2010,Tools,Groth-Sahai Proofs Revisited.,Essam Ghadafi;Nigel P. Smart;Bogdan Warinschi;,https://doi.org/10.1007/978-3-642-13013-7_11
+pkc/pkc2010,2010,Tools,Constant-Round Concurrent Non-Malleable Statistically Binding Commitments and Decommitments.,Zhenfu Cao;Ivan Visconti;Zongyang Zhang;,https://doi.org/10.1007/978-3-642-13013-7_12
+pkc/pkc2010,2010,Elliptic Curves,Faster Squaring in the Cyclotomic Subgroup of Sixth Degree Extensions.,Robert Granger;Michael Scott;,https://doi.org/10.1007/978-3-642-13013-7_13
+pkc/pkc2010,2010,Elliptic Curves,Faster Pairing Computations on Curves with High-Degree Twists.,Craig Costello;Tanja Lange;Michael Naehrig;,https://doi.org/10.1007/978-3-642-13013-7_14
+pkc/pkc2010,2010,Elliptic Curves,Efficient Arithmetic on Hessian Curves.,Reza Rezaeian Farashahi;Marc Joye;,https://doi.org/10.1007/978-3-642-13013-7_15
+pkc/pkc2010,2010,Lossy Trapdoor Functions,CCA Proxy Re-Encryption without Bilinear Maps in the Standard Model.,Toshihide Matsuda;Ryo Nishimaki;Keisuke Tanaka;,https://doi.org/10.1007/978-3-642-13013-7_16
+pkc/pkc2010,2010,Lossy Trapdoor Functions,More Constructions of Lossy and Correlation-Secure Trapdoor Functions.,David Mandell Freeman;Oded Goldreich;Eike Kiltz;Alon Rosen;Gil Segev;,https://doi.org/10.1007/978-3-642-13013-7_17
+pkc/pkc2010,2010,Lossy Trapdoor Functions,Chosen-Ciphertext Security from Slightly Lossy Trapdoor Functions.,Petros Mol;Scott Yilek;,https://doi.org/10.1007/978-3-642-13013-7_18
+pkc/pkc2010,2010,Protocols,Efficient Set Operations in the Presence of Malicious Adversaries.,Carmit Hazay;Kobbi Nissim;,https://doi.org/10.1007/978-3-642-13013-7_19
+pkc/pkc2010,2010,Protocols,Text Search Protocols with Simulation Based Security.,Rosario Gennaro;Carmit Hazay;Jeffrey S. Sorensen;,https://doi.org/10.1007/978-3-642-13013-7_20
+pkc/pkc2010,2010,Discrete Logarithm,Solving a 676-Bit Discrete Logarithm Problem in GF(36n).,Takuya Hayashi;Naoyuki Shinohara;Lihua Wang;Shin'ichiro Matsuo;Masaaki Shirase;Tsuyoshi Takagi;,https://doi.org/10.1007/978-3-642-13013-7_21
+pkc/pkc2010,2010,Discrete Logarithm,Using Equivalence Classes to Accelerate Solving the Discrete Logarithm Problem in a Short Interval.,Steven D. Galbraith;Raminder S. Ruprai;,https://doi.org/10.1007/978-3-642-13013-7_22
+pkc/pkc2010,2010,Encryption,Functional Encryption for Inner Product: Achieving Constant-Size Ciphertexts with Adaptive Security or Support for Negation.,Nuttapong Attrapadung;Benoît Libert;,https://doi.org/10.1007/978-3-642-13013-7_23
+pkc/pkc2010,2010,Encryption,Security of Encryption Schemes in Weakened Random Oracle Models.,Akinori Kawachi;Akira Numayama;Keisuke Tanaka;Keita Xagawa;,https://doi.org/10.1007/978-3-642-13013-7_24
+pkc/pkc2010,2010,Encryption,Fully Homomorphic Encryption with Relatively Small Key and Ciphertext Sizes.,Nigel P. Smart;Frederik Vercauteren;,https://doi.org/10.1007/978-3-642-13013-7_25
+pkc/pkc2010,2010,Signatures,Unlinkability of Sanitizable Signatures.,Christina Brzuska;Marc Fischlin;Anja Lehmann;Dominique Schröder;,https://doi.org/10.1007/978-3-642-13013-7_26
+pkc/pkc2010,2010,Signatures,Confidential Signatures and Deterministic Signcryption.,Alexander W. Dent;Marc Fischlin;Mark Manulis;Martijn Stam;Dominique Schröder;,https://doi.org/10.1007/978-3-642-13013-7_27
+pkc/pkc2010,2010,Signatures,Identity-Based Aggregate and Multi-Signature Schemes Based on RSA.,Ali Bagherzandi;Stanislaw Jarecki;,https://doi.org/10.1007/978-3-642-13013-7_28
+pkc/pkc2010,2010,Signatures,Lattice Mixing and Vanishing Trapdoors: A Framework for Fully Secure Short Signatures and More.,Xavier Boyen;,https://doi.org/10.1007/978-3-642-13013-7_29

@@ -1,0 +1,44 @@
+sp/sp2014,2014,Session 1:Attacks 1,Hunting the Red Fox Online: Understanding and Detection of Mass Redirect-Script Injections.,Zhou Li;Sumayah A. Alrwais;XiaoFeng Wang;Eihal Alowaisheq;,https://doi.org/10.1109/SP.2014.8
+sp/sp2014,2014,Session 1:Attacks 1,Stealing Webpages Rendered on Your Browser by Exploiting GPU Vulnerabilities.,Sangho Lee;Youngsok Kim;Jangwoo Kim;Jong Kim;,https://doi.org/10.1109/SP.2014.9
+sp/sp2014,2014,Session 1:Attacks 1,All Your Screens Are Belong to Us: Attacks Exploiting the HTML5 Screen Sharing API.,Yuan Tian;Ying Chuan Liu;Amar Bhosale;Lin-Shung Huang;Patrick Tague;Collin Jackson;,https://doi.org/10.1109/SP.2014.10
+sp/sp2014,2014,Session 1:Attacks 1,Chip and Skim: Cloning EMV Cards with the Pre-play Attack.,Mike Bond;Omar Choudary;Steven J. Murdoch;Sergei P. Skorobogatov;Ross J. Anderson;,https://doi.org/10.1109/SP.2014.11
+sp/sp2014,2014,Session 2:SSL/TLS,When HTTPS Meets CDN: A Case of Authentication in Delegated Service.,Jinjin Liang;Jian Jiang;Hai-Xin Duan;Kang Li;Tao Wan;Jianping Wu;,https://doi.org/10.1109/SP.2014.12
+sp/sp2014,2014,Session 2:SSL/TLS,Analyzing Forged SSL Certificates in the Wild.,Lin-Shung Huang;Alex Rice;Erling Ellingsen;Collin Jackson;,https://doi.org/10.1109/SP.2014.13
+sp/sp2014,2014,Session 2:SSL/TLS,Triple Handshakes and Cookie Cutters: Breaking and Fixing Authentication over TLS.,Karthikeyan Bhargavan;Antoine Delignat-Lavaud;Cédric Fournet;Alfredo Pironti;Pierre-Yves Strub;,https://doi.org/10.1109/SP.2014.14
+sp/sp2014,2014,Session 2:SSL/TLS,Using Frankencerts for Automated Adversarial Testing of Certificate Validation in SSL/TLS Implementations.,Chad Brubaker;Suman Jana;Baishakhi Ray;Sarfraz Khurshid;Vitaly Shmatikov;,https://doi.org/10.1109/SP.2014.15
+sp/sp2014,2014,Session 3:Automation,Automating Isolation and Least Privilege in Web Services.,Aaron Blankstein;Michael J. Freedman;,https://doi.org/10.1109/SP.2014.16
+sp/sp2014,2014,Session 3:Automation,Hidden GEMs: Automated Discovery of Access Control Vulnerabilities in Graphical User Interfaces.,Collin Mulliner;William K. Robertson;Engin Kirda;,https://doi.org/10.1109/SP.2014.17
+sp/sp2014,2014,Session 3:Automation,Automated Analysis of Security Protocols with Global State.,Steve Kremer;Robert Künnemann;,https://doi.org/10.1109/SP.2014.18
+sp/sp2014,2014,Session 3:Automation,Automated Verification of Group Key Agreement Protocols.,Benedikt Schmidt;Ralf Sasse;Cas Cremers;David A. Basin;,https://doi.org/10.1109/SP.2014.19
+sp/sp2014,2014,Session 4:Attacks 2,Practical Evasion of a Learning-Based Classifier: A Case Study.,Nedim Srndic;Pavel Laskov;,https://doi.org/10.1109/SP.2014.20
+sp/sp2014,2014,Session 4:Attacks 2,Doppelgänger Finder: Taking Stylometry to the Underground.,Sadia Afroz;Aylin Caliskan Islam;Ariel Stolerman;Rachel Greenstadt;Damon McCoy;,https://doi.org/10.1109/SP.2014.21
+sp/sp2014,2014,Session 4:Attacks 2,Hacking Blind.,Andrea Bittau;Adam Belay;Ali José Mashtizadeh;David Mazières;Dan Boneh;,https://doi.org/10.1109/SP.2014.22
+sp/sp2014,2014,Session 4:Attacks 2,Framing Signals - A Return to Portable Shellcode.,Erik Bosman;Herbert Bos;,https://doi.org/10.1109/SP.2014.23
+sp/sp2014,2014,Session 5:Systems Security,"Pivot: Fast, Synchronous Mashup Isolation Using Generator Chains.",James Mickens;,https://doi.org/10.1109/SP.2014.24
+sp/sp2014,2014,Session 5:Systems Security,SoK: Automated Software Diversity.,Per Larsen;Andrei Homescu;Stefan Brunthaler;Michael Franz;,https://doi.org/10.1109/SP.2014.25
+sp/sp2014,2014,Session 5:Systems Security,KCoFI: Complete Control-Flow Integrity for Commodity Operating System Kernels.,John Criswell;Nathan Dautenhahn;Vikram S. Adve;,https://doi.org/10.1109/SP.2014.26
+sp/sp2014,2014,Session 5:Systems Security,Dancing with Giants: Wimpy Kernels for On-Demand Isolated I/O.,Zongwei Zhou;Miao Yu;Virgil D. Gligor;,https://doi.org/10.1109/SP.2014.27
+sp/sp2014,2014,Session 6:Privacy and Anonymity,Bootstrapping Privacy Compliance in Big Data Systems.,Shayak Sen;Saikat Guha;Anupam Datta;Sriram K. Rajamani;Janice Y. Tsai;Jeannette M. Wing;,https://doi.org/10.1109/SP.2014.28
+sp/sp2014,2014,Session 6:Privacy and Anonymity,Formal Analysis of Chaumian Mix Nets with Randomized Partial Checking.,Ralf Küsters;Tomasz Truderung;Andreas Vogt;,https://doi.org/10.1109/SP.2014.29
+sp/sp2014,2014,Session 6:Privacy and Anonymity,Blind Seer: A Scalable Private DBMS.,Vasilis Pappas;Fernando Krell;Binh Vo;Vladimir Kolesnikov;Tal Malkin;Seung Geol Choi;Wesley George;Angelos D. Keromytis;Steve Bellovin;,https://doi.org/10.1109/SP.2014.30
+sp/sp2014,2014,Session 6:Privacy and Anonymity,ANONIZE: A Large-Scale Anonymous Survey System.,Susan Hohenberger;Steven Myers;Rafael Pass;Abhi Shelat;,https://doi.org/10.1109/SP.2014.31
+sp/sp2014,2014,Session 7:Android,"Upgrading Your Android, Elevating My Malware: Privilege Escalation through Mobile OS Updating.",Luyi Xing;Xiaorui Pan;Rui Wang;Kan Yuan;XiaoFeng Wang;,https://doi.org/10.1109/SP.2014.32
+sp/sp2014,2014,Session 7:Android,The Peril of Fragmentation: Security Hazards in Android Device Driver Customizations.,Xiao-yong Zhou;Yeonjoon Lee;Nan Zhang;Muhammad Naveed;XiaoFeng Wang;,https://doi.org/10.1109/SP.2014.33
+sp/sp2014,2014,Session 7:Android,From Zygote to Morula: Fortifying Weakened ASLR on Android.,Byoungyoung Lee;Long Lu;Tielei Wang;Taesoo Kim;Wenke Lee;,https://doi.org/10.1109/SP.2014.34
+sp/sp2014,2014,Session 8:E-Cash,Secure Multiparty Computations on Bitcoin.,Marcin Andrychowicz;Stefan Dziembowski;Daniel Malinowski;Lukasz Mazurek;,https://doi.org/10.1109/SP.2014.35
+sp/sp2014,2014,Session 8:E-Cash,Zerocash: Decentralized Anonymous Payments from Bitcoin.,Eli Ben-Sasson;Alessandro Chiesa;Christina Garman;Matthew Green;Ian Miers;Eran Tromer;Madars Virza;,https://doi.org/10.1109/SP.2014.36
+sp/sp2014,2014,Session 8:E-Cash,Permacoin: Repurposing Bitcoin Work for Data Preservation.,Andrew Miller;Ari Juels;Elaine Shi;Bryan Parno;Jonathan Katz;,https://doi.org/10.1109/SP.2014.37
+sp/sp2014,2014,Session 8:Miscellaneous,Cloak and Swagger: Understanding Data Sensitivity through the Lens of User Anonymity.,Sai Teja Peddinti;Aleksandra Korolova;Elie Bursztein;Geetanjali Sampemane;,https://doi.org/10.1109/SP.2014.38
+sp/sp2014,2014,Session 8:Miscellaneous,Stopping a Rapid Tornado with a Puff.,Jose Lopes;Nuno Neves;,https://doi.org/10.1109/SP.2014.39
+sp/sp2014,2014,Session 8:Miscellaneous,SoK: Security and Privacy in Implantable Medical Devices and Body Area Networks.,Michael Rushanan;Aviel D. Rubin;Denis Foo Kune;Colleen M. Swanson;,https://doi.org/10.1109/SP.2014.40
+sp/sp2014,2014,Session 8:Miscellaneous,Quantifying Information Flow for Dynamic Secrets.,Piotr Mardziel;Mário S. Alvim;Michael W. Hicks;Michael R. Clarkson;,https://doi.org/10.1109/SP.2014.41
+sp/sp2014,2014,Session 9:Attacks 3,Not-So-Random Numbers in Virtualized Linux and the Whirlwind RNG.,Adam Everspaugh;Yan Zhai;Robert Jellinek;Thomas Ristenpart;Michael M. Swift;,https://doi.org/10.1109/SP.2014.42
+sp/sp2014,2014,Session 9:Attacks 3,Out of Control: Overcoming Control-Flow Integrity.,Enes Göktas;Elias Athanasopoulos;Herbert Bos;Georgios Portokalidis;,https://doi.org/10.1109/SP.2014.43
+sp/sp2014,2014,Session 9:Attacks 3,Modeling and Discovering Vulnerabilities with Code Property Graphs.,Fabian Yamaguchi;Nico Golde;Daniel Arp;Konrad Rieck;,https://doi.org/10.1109/SP.2014.44
+sp/sp2014,2014,Session 9:Attacks 3,SoK: Introspections on Trust and the Semantic Gap.,Bhushan Jain;Mirza Basim Baig;Dongli Zhang;Donald E. Porter;Radu Sion;,https://doi.org/10.1109/SP.2014.45
+sp/sp2014,2014,Session 10:Secure Computation and Storage,Automating Efficient RAM-Model Secure Computation.,Chang Liu;Yan Huang;Elaine Shi;Jonathan Katz;Michael W. Hicks;,https://doi.org/10.1109/SP.2014.46
+sp/sp2014,2014,Session 10:Secure Computation and Storage,Dynamic Searchable Encryption via Blind Storage.,Muhammad Naveed;Manoj Prabhakaran;Carl A. Gunter;,https://doi.org/10.1109/SP.2014.47
+sp/sp2014,2014,Session 10:Secure Computation and Storage,"Wysteria: A Programming Language for Generic, Mixed-Mode Multiparty Computations.",Aseem Rastogi;Matthew A. Hammer;Michael Hicks;,https://doi.org/10.1109/SP.2014.48
+sp/sp2014,2014,Session 11:Authentication,An Expressive Model for the Web Infrastructure: Definition and Application to the Browser ID SSO System.,Daniel Fett;Ralf Küsters;Guido Schmitz;,https://doi.org/10.1109/SP.2014.49
+sp/sp2014,2014,Session 11:Authentication,A Study of Probabilistic Password Models.,Jerry Ma;Weining Yang;Min Luo;Ninghui Li;,https://doi.org/10.1109/SP.2014.50
+sp/sp2014,2014,Session 11:Authentication,ZEBRA: Zero-Effort Bilateral Recurring Authentication.,Shrirang Mare;Andres Molina-Markham;Cory Cornelius;Ronald A. Peterson;David Kotz;,https://doi.org/10.1109/SP.2014.51

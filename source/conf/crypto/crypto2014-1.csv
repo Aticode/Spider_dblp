@@ -1,0 +1,31 @@
+crypto/crypto2014-1,2014,Symmetric Encryption and PRFs,Security of Symmetric Encryption against Mass Surveillance.,Mihir Bellare;Kenneth G. Paterson;Phillip Rogaway;,https://doi.org/10.1007/978-3-662-44371-2_1
+crypto/crypto2014-1,2014,Symmetric Encryption and PRFs,The Security of Multiple Encryption in the Ideal Cipher Model.,Yuanxi Dai;Jooyoung Lee;Bart Mennink;John P. Steinberger;,https://doi.org/10.1007/978-3-662-44371-2_2
+crypto/crypto2014-1,2014,Symmetric Encryption and PRFs,Minimizing the Two-Round Even-Mansour Cipher.,Shan Chen;Rodolphe Lampe;Jooyoung Lee;Yannick Seurin;John P. Steinberger;,https://doi.org/10.1007/978-3-662-44371-2_3
+crypto/crypto2014-1,2014,Symmetric Encryption and PRFs,Block Ciphers - Focus on the Linear Layer (feat. PRIDE).,Martin R. Albrecht;Benedikt Driessen;Elif Bilge Kavun;Gregor Leander;Christof Paar;Tolga Yalçin;,https://doi.org/10.1007/978-3-662-44371-2_4
+crypto/crypto2014-1,2014,Symmetric Encryption and PRFs,Related-Key Security for Pseudorandom Functions Beyond the Linear Barrier.,Michel Abdalla;Fabrice Benhamouda;Alain Passelègue;Kenneth G. Paterson;,https://doi.org/10.1007/978-3-662-44371-2_5
+crypto/crypto2014-1,2014,Formal Methods,Automated Analysis of Cryptographic Assumptions in Generic Group Models.,Gilles Barthe;Edvard Fagerholm;Dario Fiore;John C. Mitchell;Andre Scedrov;Benedikt Schmidt;,https://doi.org/10.1007/978-3-662-44371-2_6
+crypto/crypto2014-1,2014,Hash Functions,The Exact PRF-Security of NMAC and HMAC.,Peter Gazi;Krzysztof Pietrzak;Michal Rybár;,https://doi.org/10.1007/978-3-662-44371-2_7
+crypto/crypto2014-1,2014,Hash Functions,Updates on Generic Attacks against HMAC and NMAC.,Jian Guo;Thomas Peyrin;Yu Sasaki;Lei Wang;,https://doi.org/10.1007/978-3-662-44371-2_8
+crypto/crypto2014-1,2014,Hash Functions,Improved Generic Attacks against Hash-Based MACs and HAIFA.,Itai Dinur;Gaëtan Leurent;,https://doi.org/10.1007/978-3-662-44371-2_9
+crypto/crypto2014-1,2014,Hash Functions,Cryptography from Compression Functions: The UCE Bridge to the ROM.,Mihir Bellare;Viet Tung Hoang;Sriram Keelveedhi;,https://doi.org/10.1007/978-3-662-44371-2_10
+crypto/crypto2014-1,2014,Hash Functions,Indistinguishability Obfuscation and UCEs: The Case of Computationally Unpredictable Sources.,Christina Brzuska;Pooya Farshim;Arno Mittelbach;,https://doi.org/10.1007/978-3-662-44371-2_11
+crypto/crypto2014-1,2014,Groups and Maps,Low Overhead Broadcast Encryption from Multilinear Maps.,Dan Boneh;Brent Waters;Mark Zhandry;,https://doi.org/10.1007/978-3-662-44371-2_12
+crypto/crypto2014-1,2014,Groups and Maps,Security Analysis of Multilinear Maps over the Integers.,Hyung Tae Lee;Jae Hong Seo;,https://doi.org/10.1007/978-3-662-44371-2_13
+crypto/crypto2014-1,2014,Groups and Maps,Converting Cryptographic Schemes from Symmetric to Asymmetric Bilinear Groups.,Masayuki Abe;Jens Groth;Miyako Ohkubo;Takeya Tango;,https://doi.org/10.1007/978-3-662-44371-2_14
+crypto/crypto2014-1,2014,Groups and Maps,Polynomial Spaces: A New Framework for Composite-to-Prime-Order Transformations.,Gottfried Herold;Julia Hesse;Dennis Hofheinz;Carla Ràfols;Andy Rupp;,https://doi.org/10.1007/978-3-662-44371-2_15
+crypto/crypto2014-1,2014,Lattices,Revisiting the Gentry-Szydlo Algorithm.,H. W. Lenstra;Alice Silverberg;,https://doi.org/10.1007/978-3-662-44371-2_16
+crypto/crypto2014-1,2014,Lattices,Faster Bootstrapping with Polynomial Error.,Jacob Alperin-Sheriff;Chris Peikert;,https://doi.org/10.1007/978-3-662-44371-2_17
+crypto/crypto2014-1,2014,Lattices,Hardness of k-LWE and Applications in Traitor Tracing.,San Ling;Duong Hieu Phan;Damien Stehlé;Ron Steinfeld;,https://doi.org/10.1007/978-3-662-44371-2_18
+crypto/crypto2014-1,2014,Lattices,Improved Short Lattice Signatures in the Standard Model.,Léo Ducas;Daniele Micciancio;,https://doi.org/10.1007/978-3-662-44371-2_19
+crypto/crypto2014-1,2014,Lattices,New and Improved Key-Homomorphic Pseudorandom Functions.,Abhishek Banerjee;Chris Peikert;,https://doi.org/10.1007/978-3-662-44371-2_20
+crypto/crypto2014-1,2014,Asymmetric Encryption and Signatures,Homomorphic Signatures with Efficient Verification for Polynomial Functions.,Dario Catalano;Dario Fiore;Bogdan Warinschi;,https://doi.org/10.1007/978-3-662-44371-2_21
+crypto/crypto2014-1,2014,Asymmetric Encryption and Signatures,Structure-Preserving Signatures from Type II Pairings.,Masayuki Abe;Jens Groth;Miyako Ohkubo;Mehdi Tibouchi;,https://doi.org/10.1007/978-3-662-44371-2_22
+crypto/crypto2014-1,2014,Asymmetric Encryption and Signatures,(Hierarchical) Identity-Based Encryption from Affine Message Authentication.,Olivier Blazy;Eike Kiltz;Jiaxin Pan;,https://doi.org/10.1007/978-3-662-44371-2_23
+crypto/crypto2014-1,2014,Asymmetric Encryption and Signatures,Witness Encryption from Instance Independent Assumptions.,Craig Gentry;Allison B. Lewko;Brent Waters;,https://doi.org/10.1007/978-3-662-44371-2_24
+crypto/crypto2014-1,2014,Side Channels and Leakage Resilience,RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis.,Daniel Genkin;Adi Shamir;Eran Tromer;,https://doi.org/10.1007/978-3-662-44371-2_25
+crypto/crypto2014-1,2014,Side Channels and Leakage Resilience,On the Impossibility of Cryptography with Tamperable Randomness.,Per Austrin;Kai-Min Chung;Mohammad Mahmoody;Rafael Pass;Karn Seth;,https://doi.org/10.1007/978-3-662-44371-2_26
+crypto/crypto2014-1,2014,Obfuscation,"Multiparty Key Exchange, Efficient Traitor Tracing, and More from Indistinguishability Obfuscation.",Dan Boneh;Mark Zhandry;,https://doi.org/10.1007/978-3-662-44371-2_27
+crypto/crypto2014-1,2014,Obfuscation,Indistinguishability Obfuscation from Semantically-Secure Multilinear Encodings.,Rafael Pass;Karn Seth;Sidharth Telang;,https://doi.org/10.1007/978-3-662-44371-2_28
+crypto/crypto2014-1,2014,Obfuscation,On the Implausibility of Differing-Inputs Obfuscation and Extractable Witness Encryption with Auxiliary Input.,Sanjam Garg;Craig Gentry;Shai Halevi;Daniel Wichs;,https://doi.org/10.1007/978-3-662-44371-2_29
+crypto/crypto2014-1,2014,FHE,Maliciously Circuit-Private FHE.,Rafail Ostrovsky;Anat Paskin-Cherniavsky;Beni Paskin-Cherniavsky;,https://doi.org/10.1007/978-3-662-44371-2_30
+crypto/crypto2014-1,2014,FHE,Algorithms in HElib.,Shai Halevi;Victor Shoup;,https://doi.org/10.1007/978-3-662-44371-2_31

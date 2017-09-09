@@ -1,0 +1,30 @@
+pkc/pkc2013,2013,Homomorphic Encryption,Packed Ciphertexts in LWE-Based Homomorphic Encryption.,Zvika Brakerski;Craig Gentry;Shai Halevi;,https://doi.org/10.1007/978-3-642-36362-7_1
+pkc/pkc2013,2013,Homomorphic Encryption,Feasibility and Infeasibility of Adaptively Secure Fully Homomorphic Encryption.,Jonathan Katz;Aishwarya Thiruvengadam;Hong-Sheng Zhou;,https://doi.org/10.1007/978-3-642-36362-7_2
+pkc/pkc2013,2013,Homomorphic Encryption,Chosen Ciphertext Secure Keyed-Homomorphic Public-Key Encryption.,Keita Emura;Goichiro Hanaoka;Go Ohtake;Takahiro Matsuda;Shota Yamada;,https://doi.org/10.1007/978-3-642-36362-7_3
+pkc/pkc2013,2013,Invited Talk (1),Functional Encryption: Origins and Recent Developments.,Brent Waters;,https://doi.org/10.1007/978-3-642-36362-7_4
+pkc/pkc2013,2013,Primitives,Vector Commitments and Their Applications.,Dario Catalano;Dario Fiore;,https://doi.org/10.1007/978-3-642-36362-7_5
+pkc/pkc2013,2013,Primitives,"Efficient, Adaptively Secure, and Composable Oblivious Transfer with a Single, Global CRS.",Seung Geol Choi;Jonathan Katz;Hoeteck Wee;Hong-Sheng Zhou;,https://doi.org/10.1007/978-3-642-36362-7_6
+pkc/pkc2013,2013,Primitives,Cryptography Using Captcha Puzzles.,Abishek Kumarasubramanian;Rafail Ostrovsky;Omkant Pandey;Akshay Wadia;,https://doi.org/10.1007/978-3-642-36362-7_7
+pkc/pkc2013,2013,Primitives,"Improved Zero-Knowledge Proofs of Knowledge for the ISIS Problem, and Applications.",San Ling;Khoa Nguyen;Damien Stehlé;Huaxiong Wang;,https://doi.org/10.1007/978-3-642-36362-7_8
+pkc/pkc2013,2013,Functional Encryption/Signatures,Decentralized Attribute-Based Signatures.,Tatsuaki Okamoto;Katsuyuki Takashima;,https://doi.org/10.1007/978-3-642-36362-7_9
+pkc/pkc2013,2013,Functional Encryption/Signatures,On the Semantic Security of Functional Encryption Schemes.,Manuel Barbosa;Pooya Farshim;,https://doi.org/10.1007/978-3-642-36362-7_10
+pkc/pkc2013,2013,Functional Encryption/Signatures,Attribute-Based Encryption with Fast Decryption.,Susan Hohenberger;Brent Waters;,https://doi.org/10.1007/978-3-642-36362-7_11
+pkc/pkc2013,2013,On RSA,Recovering RSA Secret Keys from Noisy Key Bits with Erasures and Errors.,Noboru Kunihiro;Naoyuki Shinohara;Tetsuya Izu;,https://doi.org/10.1007/978-3-642-36362-7_12
+pkc/pkc2013,2013,On RSA,Combined Attack on CRT-RSA - Why Public Verification Must Not Be Public?,Guillaume Barbu;Alberto Battistello;Guillaume Dabosville;Christophe Giraud;Guénaël Renault;Soline Renner;Rina Zeitoun;,https://doi.org/10.1007/978-3-642-36362-7_13
+pkc/pkc2013,2013,IBE and IPE,Revocable Identity-Based Encryption Revisited: Security Model and Construction.,Jae Hong Seo;Keita Emura;,https://doi.org/10.1007/978-3-642-36362-7_14
+pkc/pkc2013,2013,IBE and IPE,Improved (Hierarchical) Inner-Product Encryption from Lattices.,Keita Xagawa;,https://doi.org/10.1007/978-3-642-36362-7_15
+pkc/pkc2013,2013,Invited Talk (2),Techniques for Efficient Secure Computation Based on Yao's Protocol.,Yehuda Lindell;,https://doi.org/10.1007/978-3-642-36362-7_16
+pkc/pkc2013,2013,Key Exchange,Non-Interactive Key Exchange.,Eduarda S. V. Freire;Dennis Hofheinz;Eike Kiltz;Kenneth G. Paterson;,https://doi.org/10.1007/978-3-642-36362-7_17
+pkc/pkc2013,2013,Key Exchange,Efficient UC-Secure Authenticated Key-Exchange for Algebraic Languages.,Fabrice Ben Hamouda;Olivier Blazy;Céline Chevalier;David Pointcheval;Damien Vergnaud;,https://doi.org/10.1007/978-3-642-36362-7_18
+pkc/pkc2013,2013,Signature Schemes,Tighter Reductions for Forward-Secure Signature Schemes.,Michel Abdalla;Fabrice Ben Hamouda;David Pointcheval;,https://doi.org/10.1007/978-3-642-36362-7_19
+pkc/pkc2013,2013,Signature Schemes,Tagged One-Time Signatures: Tight Security and Optimal Tag Size.,Masayuki Abe;Bernardo David;Markulf Kohlweiss;Ryo Nishimaki;Miyako Ohkubo;,https://doi.org/10.1007/978-3-642-36362-7_20
+pkc/pkc2013,2013,Encryption,"Key Encapsulation Mechanisms from Extractable Hash Proof Systems, Revisited.",Takahiro Matsuda;Goichiro Hanaoka;,https://doi.org/10.1007/978-3-642-36362-7_21
+pkc/pkc2013,2013,Encryption,"Robust Encryption, Revisited.",Pooya Farshim;Benoît Libert;Kenneth G. Paterson;Elizabeth A. Quaglia;,https://doi.org/10.1007/978-3-642-36362-7_22
+pkc/pkc2013,2013,Encryption,Sender-Equivocable Encryption Schemes Secure against Chosen-Ciphertext Attacks Revisited.,Zhengan Huang;Shengli Liu;Baodong Qin;,https://doi.org/10.1007/978-3-642-36362-7_23
+pkc/pkc2013,2013,Signature Schemes,Efficient Completely Context-Hiding Quotable and Linearly Homomorphic Signatures.,Nuttapong Attrapadung;Benoît Libert;Thomas Peters;,https://doi.org/10.1007/978-3-642-36362-7_24
+pkc/pkc2013,2013,Signature Schemes,Verifiably Encrypted Signatures with Short Keys Based on the Decisional Linear Problem and Obfuscation for Encrypted VES.,Ryo Nishimaki;Keita Xagawa;,https://doi.org/10.1007/978-3-642-36362-7_25
+pkc/pkc2013,2013,Signature Schemes,"Sequential Aggregate Signatures with Short Public Keys: Design, Analysis and Implementation Studies.",Kwangsu Lee;Dong Hoon Lee;Moti Yung;,https://doi.org/10.1007/978-3-642-36362-7_26
+pkc/pkc2013,2013,Signature Schemes,New Constructions and Applications of Trapdoor DDH Groups.,Yannick Seurin;,https://doi.org/10.1007/978-3-642-36362-7_27
+pkc/pkc2013,2013,Protocols,Rate-Limited Secure Function Evaluation: Definitions and Constructions.,Özgür Dagdelen;Payman Mohassel;Daniele Venturi;,https://doi.org/10.1007/978-3-642-36362-7_28
+pkc/pkc2013,2013,Protocols,Verifiable Elections That Scale for Free.,Melissa Chase;Markulf Kohlweiss;Anna Lysyanskaya;Sarah Meiklejohn;,https://doi.org/10.1007/978-3-642-36362-7_29
+pkc/pkc2013,2013,Protocols,On the Connection between Leakage Tolerance and Adaptive Security.,Jesper Buus Nielsen;Daniele Venturi;Angela Zottarel;,https://doi.org/10.1007/978-3-642-36362-7_30

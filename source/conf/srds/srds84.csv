@@ -1,0 +1,24 @@
+srds/srds84,1984,Reliable Communication,Communication Architechtures for Fast Reliable Broadcasts.,Özalp Babaoglu;Rogério Drummond;,None
+srds/srds84,1984,Reliable Communication,Circus: A Replicated Procedure Call Facility.,Eric C. Cooper;,None
+srds/srds84,1984,Reliable Communication,Stylized Interprocess Communication - A Kernel Primitive for Reliable Distributed Computing.,Gerald Leitner;,None
+srds/srds84,1984,Network Partition Handling,Coping with Network Partitions and Processor Failures in a Distributed System.,Michael A. Malcolm;R. Vasudevan;,None
+srds/srds84,1984,Network Partition Handling,The Vulnerability of Voting Mechanisms.,Daniel Barbará;Hector Garcia-Molina;,None
+srds/srds84,1984,Network Partition Handling,Managing Replicate Data in JASMIN.,W. Kevin Wilkinson;Ming-Yee Lai;,None
+srds/srds84,1984,Performane of Fault-Tolerant Systems,A Technique for Estimating Performance of Fault-Tolerant Programs.,Richard D. Schlichting;,None
+srds/srds84,1984,Performane of Fault-Tolerant Systems,Performance Modeling of Database Recovery Protocols.,Nancy D. Griffeth;John A. Miller;,None
+srds/srds84,1984,Performane of Fault-Tolerant Systems,Performance Evaluation of Distributed Concurrency Control Mechanisms.,Ray Ford;Roger K. Shultz;Michael J. Jipping;,None
+srds/srds84,1984,Performane of Fault-Tolerant Systems,Tolerating System Overloads: A Case Study.,Shmuel Rotenstreich;,None
+srds/srds84,1984,Fault-Tolerance of Distributed Systems,A Simple and Efficient Randomized Byzantine Agreement Algorithm.,Benny Chor;Brian A. Coan;,None
+srds/srds84,1984,Fault-Tolerance of Distributed Systems,Randomized Byzantine Agreement.,Kenneth J. Perry;,None
+srds/srds84,1984,Fault-Tolerance of Distributed Systems,"The Reliability of (k, n)-Resilient Distributed Systems.",Y. C. Tay;,None
+srds/srds84,1984,Object Management in Distributed Operation Systems,Implementing Fault-Tolerant Distributed Objects.,Kenneth P. Birman;Thomas A. Joseph;Thomas Räuchle;Amr El Abbadi;,None
+srds/srds84,1984,Object Management in Distributed Operation Systems,Ordering Actions for Visibility.,Martin S. McKendry;,None
+srds/srds84,1984,Object Management in Distributed Operation Systems,Cluster-Based Naming for Reliable Distributed Systems.,Francis C. M. Lau;Eric G. Manning;,None
+srds/srds84,1984,Concurrency Control in Distributed Systems,Multi-Level Concurrency Control of a Database System.,Toshimi Minoura;,None
+srds/srds84,1984,Concurrency Control in Distributed Systems,A Distributed Algorithm for Deadlock Detection and Resolution.,Kazuo Sugihara;Tohru Kikuno;Noriyoshi Yoshida;Masanobu Ogata;,None
+srds/srds84,1984,Concurrency Control in Distributed Systems,An Algebraic System for Deadlock Detection and its Applications.,Bosheng Zhou;Raymond T. Yeh;Peter A. Ng;,None
+srds/srds84,1984,Reliable Transaction Management,Support for Distributed Transactions in the TABS Prototype.,Alfred Z. Spector;Jacob Butcher;Dean S. Daniels;Daniel J. Duchamp;Jeffrey L. Eppinger;Charles E. Fineman;Abdelsalam Heddaya;Peter M. Schwarz;,None
+srds/srds84,1984,Reliable Transaction Management,A Distributed Domino-Effect free recovery Algorithm.,D. Briatico;Augusto Ciuffoletti;Luca Simoncini;,None
+srds/srds84,1984,Design Methodology for Reliable Software,Structure Process for a Cooperative Approach to Fault-Tolerant Distributed Software.,Fabrizio Baiardi;Laura Ricci;A. Tomasi;Marco Vanneschi;,None
+srds/srds84,1984,Design Methodology for Reliable Software,A Computing System to Support Development of Reliable Software.,Hideaki Tsubotani;Noriaki Monden;Minoru Tanaka;Tadao Ichikawa;,None
+srds/srds84,1984,Design Methodology for Reliable Software,A Framework for Research in Performance-Availability of Automated Information Systems.,Fabio A. Schreiber;,None

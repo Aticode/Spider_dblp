@@ -1,0 +1,34 @@
+asiacrypt/asiacrypt96,1996,Discrete Log Based Systems,A Message Recovery Signature Scheme Equivalent to DSA over Elliptic Curves.,Atsuko Miyaji;,https://doi.org/10.1007/BFb0034830
+asiacrypt/asiacrypt96,1996,Discrete Log Based Systems,Cryptographic Protocols Based on Real-Quadratic A-fields.,Ingrid Biehl;Bernd Meyer;Christoph Thiel;,https://doi.org/10.1007/BFb0034831
+asiacrypt/asiacrypt96,1996,Discrete Log Based Systems,Minding your p's and q's.,Ross J. Anderson;Serge Vaudenay;,https://doi.org/10.1007/BFb0034832
+asiacrypt/asiacrypt96,1996,Discrete Log Based Systems,Authenticated Multi-Party Key Agreement.,Mike Just;Serge Vaudenay;,https://doi.org/10.1007/BFb0034833
+asiacrypt/asiacrypt96,1996,Invited Talk 1,Cryptography and the Internet: Lessons and Challenges.,Kevin S. McCurley;,https://doi.org/10.1007/BFb0034834
+asiacrypt/asiacrypt96,1996,Efficient Algorithms,Generating Standard DSA Signatures Without Long Inversion.,Arjen K. Lenstra;,https://doi.org/10.1007/BFb0034835
+asiacrypt/asiacrypt96,1996,Efficient Algorithms,A Fast Software Implementation for Arithmetic Operations in GF(2n).,Erik De Win;Antoon Bosselaers;Servaas Vandenberghe;Peter De Gersem;Joos Vandewalle;,https://doi.org/10.1007/BFb0034836
+asiacrypt/asiacrypt96,1996,Hash Function and Block Ciphers,Hash Functions Based on Block Ciphers and Quaternary Codes.,Lars R. Knudsen;Bart Preneel;,https://doi.org/10.1007/BFb0034837
+asiacrypt/asiacrypt96,1996,Hash Function and Block Ciphers,Generalized Feistel Networks.,Kaisa Nyberg;,https://doi.org/10.1007/BFb0034838
+asiacrypt/asiacrypt96,1996,Hash Function and Block Ciphers,On Applying Linear Cryptanalysis to IDEA.,Philip Hawkes;Luke O'Connor;,https://doi.org/10.1007/BFb0034839
+asiacrypt/asiacrypt96,1996,Cryptographic Protocols,A Multi-Recastable Ticket Scheme for Electronic Elections.,Chun-I Fan;Chin-Laung Lei;,https://doi.org/10.1007/BFb0034840
+asiacrypt/asiacrypt96,1996,Cryptographic Protocols,Some Remarks on a Receipt-Free and Universally Verifiable Mix-Type Voting Scheme.,Markus Michels;Patrick Horster;,https://doi.org/10.1007/BFb0034841
+asiacrypt/asiacrypt96,1996,Cryptographic Protocols,Observations on Non-repudiation.,Jianying Zhou;Dieter Gollmann;,https://doi.org/10.1007/BFb0034842
+asiacrypt/asiacrypt96,1996,Signature and Identification,On the Efficiency of One-Time Digital Signatures.,Daniel Bleichenbacher;Ueli M. Maurer;,https://doi.org/10.1007/BFb0034843
+asiacrypt/asiacrypt96,1996,Signature and Identification,A Hidden Cryptographic Assunmption in No-Transferable Indentification Schemes.,Kouichi Sakurai;,https://doi.org/10.1007/BFb0034844
+asiacrypt/asiacrypt96,1996,Invited Talk 2,Electronic Money and Key Management from Global and Regional Points of View.,Shigeo Tsujii;,https://doi.org/10.1007/BFb0034845
+asiacrypt/asiacrypt96,1996,Visual Secret Sharing,Limiting the Visible Space Visual Secret Sharing Schemes and Their Application to Human Identification.,Kazukuni Kobara;Hideki Imai;,https://doi.org/10.1007/BFb0034846
+asiacrypt/asiacrypt96,1996,Key Distribution,Towards Characterizing When Information-Theoretic Secret Key Agreement Is Possible.,Ueli M. Maurer;Stefan Wolf;,https://doi.org/10.1007/BFb0034847
+asiacrypt/asiacrypt96,1996,Key Distribution,Key Sharing Based on the Wire-Tap Channel Type II Concept with Noisy Main Channel.,Valeri Korjik;D. Kushnir;,https://doi.org/10.1007/BFb0034848
+asiacrypt/asiacrypt96,1996,Boolean Functions,Generalization of Higher Order SAC to Vector Output Boolean Functions.,Kaoru Kurosawa;Takashi Satoh;,https://doi.org/10.1007/BFb0034849
+asiacrypt/asiacrypt96,1996,Boolean Functions,On the Correlation Immune Functions and Their Nonlinearity.,Seongtaek Chee;Sangjin Lee;Daiki Lee;Soo Hak Sung;,https://doi.org/10.1007/BFb0034850
+asiacrypt/asiacrypt96,1996,Electronic Cash 1,How to Date Blind Signatures.,Masayuki Abe;Eiichiro Fujisaki;,https://doi.org/10.1007/BFb0034851
+asiacrypt/asiacrypt96,1996,Electronic Cash 1,Provably Secure Blind Signature Schemes.,David Pointcheval;Jacques Stern;,https://doi.org/10.1007/BFb0034852
+asiacrypt/asiacrypt96,1996,Electronic Cash 1,Cost-Effective Payment Schemes with Privacy Regulation.,David M'Raïhi;,https://doi.org/10.1007/BFb0034853
+asiacrypt/asiacrypt96,1996,Electronic Cash 2,Mis-representation of Identities in E-cash Schemes and how to Prevent it.,Agnes Hui Chan;Yair Frankel;Philip D. MacKenzie;Yiannis Tsiounis;,https://doi.org/10.1007/BFb0034854
+asiacrypt/asiacrypt96,1996,Electronic Cash 2,"""Indirect Discourse Proof"": Achieving Efficient Fair Off-Line E-cash.",Yair Frankel;Yiannis Tsiounis;Moti Yung;,https://doi.org/10.1007/BFb0034855
+asiacrypt/asiacrypt96,1996,Invited Talk 3,The Validation of Cryptographic Algorithms.,Jacques Stern;,https://doi.org/10.1007/BFb0034856
+asiacrypt/asiacrypt96,1996,Special Signatures,Convertible Group Signatures.,Seungjoo Kim;Sungjun Park;Dongho Won;,https://doi.org/10.1007/BFb0034857
+asiacrypt/asiacrypt96,1996,Special Signatures,How to Utilize the Transformability of Digital Signatures for Solving the Oracle Problem.,Masahiro Mambo;Kouichi Sakurai;Eiji Okamoto;,https://doi.org/10.1007/BFb0034858
+asiacrypt/asiacrypt96,1996,Special Signatures,On the Risk of Disruption in Several Multiparty Signature Schemes.,Markus Michels;Patrick Horster;,https://doi.org/10.1007/BFb0034859
+asiacrypt/asiacrypt96,1996,Stream Ciphers,Correlation Attacks on Cascades of Clock Controlled Shift Registers.,Willi Geiselmann;Dieter Gollmann;,https://doi.org/10.1007/BFb0034860
+asiacrypt/asiacrypt96,1996,Stream Ciphers,Conditional Correlation Attack on Nonlinear Filter Generators.,Sangjin Lee;Seongtaek Chee;Sangjoon Park;Sung-Mo Park;,https://doi.org/10.1007/BFb0034861
+asiacrypt/asiacrypt96,1996,Hard Problems,The Cryptographic Security of the Syndrome Decoding Problem for Rank Distance Codes.,Florent Chabaud;Jacques Stern;,https://doi.org/10.1007/BFb0034862
+asiacrypt/asiacrypt96,1996,Hard Problems,A World Wide Number Field Sieve Factoring Record: On to 512 Bits.,James Cowie;Bruce Dodson;R. Marije Elkenbracht-Huizing;Arjen K. Lenstra;Peter L. Montgomery;Jörg Zayer;,https://doi.org/10.1007/BFb0034863

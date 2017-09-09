@@ -1,0 +1,29 @@
+ches/ches1999,1999,Invited Talk,We Need Assurance.,Brian D. Snow;,https://doi.org/10.1007/3-540-48059-5_1
+ches/ches1999,1999,Cryptanalytic Hardware,Factoring Large Numbers with the Twinkle Device (Extended Abstract).,Adi Shamir;,https://doi.org/10.1007/3-540-48059-5_2
+ches/ches1999,1999,Cryptanalytic Hardware,DES Cracking on the Transmogrifier 2a.,Ivan Hamer;Paul Chow;,https://doi.org/10.1007/3-540-48059-5_3
+ches/ches1999,1999,Hardware Architectures,Modelling the Crypto-Processor from Design to Synthesis.,W. P. Choi;Lee-Ming Cheng;,https://doi.org/10.1007/3-540-48059-5_4
+ches/ches1999,1999,Hardware Architectures,A DES ASIC Suitable for Network Encryption at 10 Gbps and Beyond.,D. Craig Wilcox;Lyndon G. Pierson;Perry J. Robertson;Edward L. Witzke;Karl Gass;,https://doi.org/10.1007/3-540-48059-5_5
+ches/ches1999,1999,Hardware Architectures,Hardware Design and Performance Estimation of the 128-bit Block Cipher Crypton.,Eunjong Hong;Jai-Hoon Chung;Chae Hoon Lim;,https://doi.org/10.1007/3-540-48059-5_6
+ches/ches1999,1999,Smartcards and Embedded Systems,Fast Implementation of Public-Key Cryptography ona DSP TMS320C6201.,Kouichi Itoh;Masahiko Takenaka;Naoya Torii;Syouji Temma;Yasushi Kurihara;,https://doi.org/10.1007/3-540-48059-5_7
+ches/ches1999,1999,Smartcards and Embedded Systems,How to Implement Cost-Effective and Secure Public Key Cryptosystems.,Pil Joong Lee;Eun Jeong Lee;Yong Duk Kim;,https://doi.org/10.1007/3-540-48059-5_8
+ches/ches1999,1999,Invited Talk,Montgomery's Multiplication Technique: How to Make It Smaller and Faster.,Colin D. Walter;,https://doi.org/10.1007/3-540-48059-5_9
+ches/ches1999,1999,Arithmetic Algorithms,A Scalable Architecture for Montgomery Multiplication.,Alexandre F. Tenca;Çetin Kaya Koç;,https://doi.org/10.1007/3-540-48059-5_10
+ches/ches1999,1999,Arithmetic Algorithms,Arithmetic Design for Permutation Groups.,Tamás Horváth;,https://doi.org/10.1007/3-540-48059-5_11
+ches/ches1999,1999,Arithmetic Algorithms,Fast Multiplication in Finite Fields GF(2N).,Joseph H. Silverman;,https://doi.org/10.1007/3-540-48059-5_12
+ches/ches1999,1999,Arithmetic Algorithms,Efficient Finite Field Basis Conversion Involving Dual Bases.,Burton S. Kaliski Jr.;Moses Liskov;,https://doi.org/10.1007/3-540-48059-5_13
+ches/ches1999,1999,Power Attacks,Power Analysis Attacks of Modular Exponentiation in Smartcards.,Thomas S. Messerges;Ezzy A. Dabbish;Robert H. Sloan;,https://doi.org/10.1007/3-540-48059-5_14
+ches/ches1999,1999,Power Attacks,"DES and Differential Power Analysis (The ""Duplication"" Method).",Louis Goubin;Jacques Patarin;,https://doi.org/10.1007/3-540-48059-5_15
+ches/ches1999,1999,Power Attacks,IPA: A New Class of Power Attacks.,Paul N. Fahn;Peter K. Pearson;,https://doi.org/10.1007/3-540-48059-5_16
+ches/ches1999,1999,Invited Talk,Security Evaluation Schemas for the Public and Private Market with a Focus on Smart Card Systems.,Eberhard von Faber;,https://doi.org/10.1007/3-540-48059-5_17
+ches/ches1999,1999,True Random Number Generators,A Design of Reliable True Random Number Generator for Cryptographic Applications.,Vittorio Bagini;Marco Bucci;,https://doi.org/10.1007/3-540-48059-5_18
+ches/ches1999,1999,True Random Number Generators,Random Number Generators Founded on Signal and Information Theory.,David Paul Maher;Robert J. Rance;,https://doi.org/10.1007/3-540-48059-5_19
+ches/ches1999,1999,Cryptographic Algorithms on FPGAs,A High-Performance Flexible Architecture for Cryptography.,R. Reed Taylor;Seth Copen Goldstein;,https://doi.org/10.1007/3-540-48059-5_20
+ches/ches1999,1999,Cryptographic Algorithms on FPGAs,CryptoBooster: A Reconfigurable and Modular Cryptographic Coprocessor.,Emeka Mosanya;Christof Teuscher;Héctor Fabio Restrepo;Patrick Galley;Eduardo Sanchez;,https://doi.org/10.1007/3-540-48059-5_21
+ches/ches1999,1999,Cryptographic Algorithms on FPGAs,Elliptic Curve Scalar Multiplier Design Using FPGAs.,Lijun Gao;Sarvesh Shrivastava;Gerald E. Sobelman;,https://doi.org/10.1007/3-540-48059-5_22
+ches/ches1999,1999,Arithmetic Algorithms,Highly Regular Architectures for Finite Field Computation Using Redundant Basis.,Huapeng Wu;M. Anwarul Hasan;Ian F. Blake;,https://doi.org/10.1007/3-540-48059-5_23
+ches/ches1999,1999,Arithmetic Algorithms,Low Complexity Bit-Parallel Finite Field Arithmetic Using Polynomial Basis.,Huapeng Wu;,https://doi.org/10.1007/3-540-48059-5_24
+ches/ches1999,1999,Power Attacks,Resistance against Differential Power Analysis for Elliptic Curve Cryptosystems.,Jean-Sébastien Coron;,https://doi.org/10.1007/3-540-48059-5_25
+ches/ches1999,1999,Power Attacks,Probing Attacks on Tamper-Resistant Devices.,Helena Handschuh;Pascal Paillier;Jacques Stern;,https://doi.org/10.1007/3-540-48059-5_26
+ches/ches1999,1999,Elliptic Curve Implementations,Fast Multiplication on Elliptic Curves over GF(2m) without Precomputation.,Julio López;Ricardo Dahab;,https://doi.org/10.1007/3-540-48059-5_27
+ches/ches1999,1999,New Cryptographic Schemes and Modes of Operation,NICE - New Ideal Coset Encryption.,Michael Hartmann;Sachar Paulus;Tsuyoshi Takagi;,https://doi.org/10.1007/3-540-48059-5_28
+ches/ches1999,1999,New Cryptographic Schemes and Modes of Operation,Encryption with Statistical Self-Synchronization in Synchronous Broadband Networks.,Oliver Jung;Christoph Ruland;,https://doi.org/10.1007/3-540-48059-5_29

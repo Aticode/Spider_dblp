@@ -1,0 +1,23 @@
+tosc/tosc2016,2016,Number 1,Cryptanalysis of Haraka.,Jérémy Jean;,http://tosc.iacr.org/index.php/ToSC/article/view/531
+tosc/tosc2016,2016,Number 1,Chosen-Key Distinguishers on 12-Round Feistel-SP and 11-Round Collision Attacks on Its Hashing Modes.,Xiaoyang Dong;Xiaoyun Wang;,http://tosc.iacr.org/index.php/ToSC/article/view/532
+tosc/tosc2016,2016,Number 1,Invariant Subspace Attack Against Midori64 and The Resistance Criteria for S-box Designs.,Jian Guo;Jérémy Jean;Ivica Nikolic;Kexin Qiao;Yu Sasaki;Siang Meng Sim;,http://tosc.iacr.org/index.php/ToSC/article/view/534
+tosc/tosc2016,2016,Number 1,Rotational Cryptanalysis in the Presence of Constants.,Tomer Ashur;Yunwen Liu;,http://tosc.iacr.org/index.php/ToSC/article/view/535
+tosc/tosc2016,2016,Number 1,Quantum Differential and Linear Cryptanalysis.,Marc Kaplan;Gaëtan Leurent;Anthony Leverrier;María Naya-Plasencia;,http://tosc.iacr.org/index.php/ToSC/article/view/536
+tosc/tosc2016,2016,Number 1,Lightweight Diffusion Layer: Importance of Toeplitz Matrices.,Sumanta Sarkar;Habeeb Syed;,http://tosc.iacr.org/index.php/ToSC/article/view/537
+tosc/tosc2016,2016,Number 1,Is AEZ v4.1 Sufficiently Resilient Against Key-Recovery Attacks?,Colin Chaigneau;Henri Gilbert;,http://tosc.iacr.org/index.php/ToSC/article/view/538
+tosc/tosc2016,2016,Number 1,Stronger Security Variants of GCM-SIV.,Tetsu Iwata;Kazuhiko Minematsu;,http://tosc.iacr.org/index.php/ToSC/article/view/539
+tosc/tosc2016,2016,Number 1,Security Analysis of BLAKE2's Modes of Operation.,Atul Luykx;Bart Mennink;Samuel Neves;,http://tosc.iacr.org/index.php/ToSC/article/view/540
+tosc/tosc2016,2016,Number 2,Haraka v2 - Efficient Short-Input Hashing for Post-Quantum Applications.,Stefan Kölbl;Martin M. Lauridsen;Florian Mendel;Christian Rechberger;,http://tosc.iacr.org/index.php/ToSC/article/view/563
+tosc/tosc2016,2016,Number 2,OleF: an Inverse-Free Online Cipher. An Online SPRP with an Optimal Inverse-Free Construction.,Ritam Bhaumik;Mridul Nandi;,http://tosc.iacr.org/index.php/ToSC/article/view/564
+tosc/tosc2016,2016,Number 2,On Ciphers that Continuously Access the Non-Volatile Key.,Vasily Mikhalev;Frederik Armknecht;Christian Müller;,http://tosc.iacr.org/index.php/ToSC/article/view/565
+tosc/tosc2016,2016,Number 2,Direct construction of quasi-involutory recursive-like MDS matrices from 2-cyclic codes.,Victor Cauchois;Pierre Loidreau;Nabil Merkiche;,http://tosc.iacr.org/index.php/ToSC/article/view/566
+tosc/tosc2016,2016,Number 2,Exponential S-Boxes: a Link Between the S-Boxes of BelT and Kuznyechik/Streebog.,Léo Perrin;Aleksei Udovenko;,http://tosc.iacr.org/index.php/ToSC/article/view/567
+tosc/tosc2016,2016,Number 2,Linking Online Misuse-Resistant Authenticated Encryption and Blockwise Attack Models.,Guillaume Endignoux;Damian Vizár;,http://tosc.iacr.org/index.php/ToSC/article/view/568
+tosc/tosc2016,2016,Number 2,The Exact Security of PMAC.,Peter Gazi;Krzysztof Pietrzak;Michal Rybár;,http://tosc.iacr.org/index.php/ToSC/article/view/569
+tosc/tosc2016,2016,Number 2,Improved Parameter Estimates for Correlation and Capacity Deviates in Linear Cryptanalysis.,Céline Blondeau;Kaisa Nyberg;,http://tosc.iacr.org/index.php/ToSC/article/view/570
+tosc/tosc2016,2016,Number 2,Subspace Trail Cryptanalysis and its Applications to AES.,Lorenzo Grassi;Christian Rechberger;Sondre Rønjom;,http://tosc.iacr.org/index.php/ToSC/article/view/571
+tosc/tosc2016,2016,Number 2,"Multiset-Algebraic Cryptanalysis of Reduced Kuznyechik, Khazad, and secret SPNs.",Alex Biryukov;Dmitry Khovratovich;Léo Perrin;,http://tosc.iacr.org/index.php/ToSC/article/view/572
+tosc/tosc2016,2016,Number 2,Practical Key-Recovery Attack on MANTIS5.,Christoph Dobraunig;Maria Eichlseder;Daniel Kales;Florian Mendel;,http://tosc.iacr.org/index.php/ToSC/article/view/573
+tosc/tosc2016,2016,Number 2,Significantly Improved Multi-bit Differentials for Reduced Round Salsa and ChaCha.,Arka Rai Choudhuri;Subhamoy Maitra;,http://tosc.iacr.org/index.php/ToSC/article/view/574
+tosc/tosc2016,2016,Number 2,Multi-key Analysis of Tweakable Even-Mansour with Applications to Minalpher and OPP.,Zhiyuan Guo;Wenling Wu;Renzhang Liu;Liting Zhang;,http://tosc.iacr.org/index.php/ToSC/article/view/575
+tosc/tosc2016,2016,Number 2,Meet-in-the-Middle Attacks on Classes of Contracting and Expanding Feistel Constructions.,Jian Guo;Jérémy Jean;Ivica Nikolic;Yu Sasaki;,http://tosc.iacr.org/index.php/ToSC/article/view/576

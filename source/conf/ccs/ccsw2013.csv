@@ -1,0 +1,11 @@
+ccs/ccsw2013,2013,Code execution,A versatile code execution isolation framework with security first.,Johannes Krude;Ulrike Meyer;,http://doi.acm.org/10.1145/2517488.2517499
+ccs/ccsw2013,2013,Code execution,An architecture for concurrent execution of secure environments in clouds.,Ramya Jayaram Masti;Claudio Marforio;Srdjan Capkun;,http://doi.acm.org/10.1145/2517488.2517489
+ccs/ccsw2013,2013,Code execution,Generalized external interaction with tamper-resistant hardware with bounded information leakage.,Xiangyao Yu;Christopher W. Fletcher;Ling Ren;Marten van Dijk;Srinivas Devadas;,http://doi.acm.org/10.1145/2517488.2517498
+ccs/ccsw2013,2013,Storage,Authenticated storage using small trusted hardware.,Hsin-Jung Yang;Victor Costan;Nickolai Zeldovich;Srinivas Devadas;,http://doi.acm.org/10.1145/2517488.2517494
+ccs/ccsw2013,2013,Storage,CloudSweeper: enabling data-centric document management for secure cloud archives.,Peter Snyder;Chris Kanich;,http://doi.acm.org/10.1145/2517488.2517495
+ccs/ccsw2013,2013,Cryptographic protocols,On the (Im)possibility of privately outsourcing linear programming.,Peeter Laud;Alisa Pankova;,http://doi.acm.org/10.1145/2517488.2517490
+ccs/ccsw2013,2013,Cryptographic protocols,Secure pattern matching using somewhat homomorphic encryption.,Masaya Yasuda;Takeshi Shimoyama;Jun Kogure;Kazuhiro Yokoyama;Takeshi Koshiba;,http://doi.acm.org/10.1145/2517488.2517497
+ccs/ccsw2013,2013,Cryptographic protocols,Supporting complex queries and access policies for multi-user encrypted databases.,Muhammad Rizwan Asghar;Giovanni Russello;Bruno Crispo;Mihaela Ion;,http://doi.acm.org/10.1145/2517488.2517492
+ccs/ccsw2013,2013,Cryptographic protocols,Beyond the ideal object: towards disclosure-resilient order-preserving encryption schemes.,Sander Wozniak;Michael Rossberg;Sascha Grau;Ali Alshawish;Guenter Schaefer;,http://doi.acm.org/10.1145/2517488.2517496
+ccs/ccsw2013,2013,Infrastructure,Structural cloud audits that protect private information.,Hongda Xiao;Bryan Ford;Joan Feigenbaum;,http://doi.acm.org/10.1145/2517488.2517493
+ccs/ccsw2013,2013,Infrastructure,Cloudoscopy: services discovery and topology mapping.,Amir Herzberg;Haya Shulman;Johanna Ullrich;Edgar R. Weippl;,http://doi.acm.org/10.1145/2517488.2517491

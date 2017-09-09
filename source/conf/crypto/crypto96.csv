@@ -1,0 +1,30 @@
+crypto/crypto96,1996,Hashing and Authentication,Keying Hash Functions for Message Authentication.,Mihir Bellare;Ran Canetti;Hugo Krawczyk;,https://doi.org/10.1007/3-540-68697-5_1
+crypto/crypto96,1996,Hashing and Authentication,Universal Hashing and Multiple Authentication.,Mustafa Atici;Douglas R. Stinson;,https://doi.org/10.1007/3-540-68697-5_2
+crypto/crypto96,1996,Hashing and Authentication,Universal Hash Functions from Exponential Sums over Finite Fields and Galois Rings.,Tor Helleseth;Thomas Johansson;,https://doi.org/10.1007/3-540-68697-5_3
+crypto/crypto96,1996,New Systems,Asymmetric Cryptography with a Hidden Monomial.,Jacques Patarin;,https://doi.org/10.1007/3-540-68697-5_4
+crypto/crypto96,1996,New Systems,Anonymous Communication and Anonymous Cash.,Daniel R. Simon;,https://doi.org/10.1007/3-540-68697-5_5
+crypto/crypto96,1996,Cryptanalysis I: Asymmetric Systems,Weakness in Some Threshold Cryptosystems.,Susan K. Langford;,https://doi.org/10.1007/3-540-68697-5_6
+crypto/crypto96,1996,Cryptanalysis I: Asymmetric Systems,Hidden Collisions on DSS.,Serge Vaudenay;,https://doi.org/10.1007/3-540-68697-5_7
+crypto/crypto96,1996,Cryptanalysis I: Asymmetric Systems,"The Dark Side of ""Black-Box"" Cryptography, or: Should We Trust Capstone?",Adam L. Young;Moti Yung;,https://doi.org/10.1007/3-540-68697-5_8
+crypto/crypto96,1996,Cryptanalysis I: Asymmetric Systems,"Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and Other Systems.",Paul C. Kocher;,https://doi.org/10.1007/3-540-68697-5_9
+crypto/crypto96,1996,Hard Bits,All Bits ax+b mod p are Hard (Extended Abstract).,Mats Näslund;,https://doi.org/10.1007/3-540-68697-5_10
+crypto/crypto96,1996,Hard Bits,Hardness of Computing the Most Significant Bits of Secret Keys in Diffie-Hellman and Related Schemes.,Dan Boneh;Ramarathnam Venkatesan;,https://doi.org/10.1007/3-540-68697-5_11
+crypto/crypto96,1996,Signatures,Security of 2^t-Root Identification and Signatures.,Claus-Peter Schnorr;,https://doi.org/10.1007/3-540-68697-5_12
+crypto/crypto96,1996,Signatures,Robust and Efficient Sharing of RSA Functions.,Rosario Gennaro;Stanislaw Jarecki;Hugo Krawczyk;Tal Rabin;,https://doi.org/10.1007/3-540-68697-5_13
+crypto/crypto96,1996,Signatures,New Generation of Secure and Practical RSA-Based Signatures.,Ronald Cramer;Ivan Damgård;,https://doi.org/10.1007/3-540-68697-5_14
+crypto/crypto96,1996,Zero Knowledge,"Proving Without Knowing: On Oblivious, Agnostic and Blindolded Provers.",Markus Jakobsson;Moti Yung;,https://doi.org/10.1007/3-540-68697-5_15
+crypto/crypto96,1996,Zero Knowledge,Practical and Provably-Secure Commitment Schemes from Collision-Free Hashing.,Shai Halevi;Silvio Micali;,https://doi.org/10.1007/3-540-68697-5_16
+crypto/crypto96,1996,Cryptanalysis II:Symmetric Systems,Improved Differential Attacks on RC5.,Lars R. Knudsen;Willi Meier;,https://doi.org/10.1007/3-540-68697-5_17
+crypto/crypto96,1996,Cryptanalysis II:Symmetric Systems,Improving Implementable Meet-in-the-Middle Attacks by Orders of Magnitude.,Paul C. van Oorschot;Michael J. Wiener;,https://doi.org/10.1007/3-540-68697-5_18
+crypto/crypto96,1996,More on Symmetric Systems,"Key-Schedule Cryptanalysis of IDEA, G-DES, GOST, SAFER, and Triple-DES.",John Kelsey;Bruce Schneier;David A. Wagner;,https://doi.org/10.1007/3-540-68697-5_19
+crypto/crypto96,1996,More on Symmetric Systems,How to Protect DES Against Exhaustive Key Search.,Joe Kilian;Phillip Rogaway;,https://doi.org/10.1007/3-540-68697-5_20
+crypto/crypto96,1996,Diffie-Hellman Oracle,Diffie-Hellman Oracles.,Ueli M. Maurer;Stefan Wolf;,https://doi.org/10.1007/3-540-68697-5_21
+crypto/crypto96,1996,Diffie-Hellman Oracle,Algorithms for Black-Box Fields and their Application to Cryptography (Extended Abstract).,Dan Boneh;Richard J. Lipton;,https://doi.org/10.1007/3-540-68697-5_22
+crypto/crypto96,1996,Hashing and Authentication,Fast Hashing on the Pentium.,Antoon Bosselaers;René Govaerts;Joos Vandewalle;,https://doi.org/10.1007/3-540-68697-5_23
+crypto/crypto96,1996,Hashing and Authentication,On Fast and Provably Secure Message Authentication Based on Universal Hashing.,Victor Shoup;,https://doi.org/10.1007/3-540-68697-5_24
+crypto/crypto96,1996,Quantum Crypto,Quantum Cryptography over Underground Optical Fibers.,Richard J. Hughes;G. G. Luther;G. L. Morgan;Charles G. Peterson;C. M. Simmons;,https://doi.org/10.1007/3-540-68697-5_25
+crypto/crypto96,1996,Quantum Crypto,Quantum Key Distribution and String Oblivious Transfer in Noisy Channels.,Dominic Mayers;,https://doi.org/10.1007/3-540-68697-5_26
+crypto/crypto96,1996,Stream Ciphers,Linear Complexity of Periodic Sequences: A General Theory.,James L. Massey;Shirlei Serconek;,https://doi.org/10.1007/3-540-68697-5_27
+crypto/crypto96,1996,Stream Ciphers,Generalization of Siegenthaler Inequality and Schnorr-Vaudenay Multipermutations.,Paul Camion;Anne Canteaut;,https://doi.org/10.1007/3-540-68697-5_28
+crypto/crypto96,1996,Secret Sharing,Trade-offs Between Communication and Storage in Unconditionally Secure Schemes for Broadcast Encryption and Interactive Key Distribution.,Carlo Blundo;Luiz A. Frota Mattos;Douglas R. Stinson;,https://doi.org/10.1007/3-540-68697-5_29
+crypto/crypto96,1996,Secret Sharing,New Results on Visual Cryptography.,Stefan Droste;,https://doi.org/10.1007/3-540-68697-5_30

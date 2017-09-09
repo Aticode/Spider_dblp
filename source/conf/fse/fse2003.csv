@@ -1,0 +1,27 @@
+fse/fse2003,2003,Block Cipher Cryptanalysis,Cryptanalysis of IDEA-X/2.,Håvard Raddum;,https://doi.org/10.1007/978-3-540-39887-5_1
+fse/fse2003,2003,Block Cipher Cryptanalysis,Differential-Linear Cryptanalysis of Serpent.,Eli Biham;Orr Dunkelman;Nathan Keller;,https://doi.org/10.1007/978-3-540-39887-5_2
+fse/fse2003,2003,Block Cipher Cryptanalysis,Rectangle Attacks on 49-Round SHACAL-1.,Eli Biham;Orr Dunkelman;Nathan Keller;,https://doi.org/10.1007/978-3-540-39887-5_3
+fse/fse2003,2003,Block Cipher Cryptanalysis,Cryptanalysis of Block Ciphers Based on SHA-1 and MD5.,Markku-Juhani Olavi Saarinen;,https://doi.org/10.1007/978-3-540-39887-5_4
+fse/fse2003,2003,Block Cipher Cryptanalysis,Analysis of Involutional Ciphers: Khazad and Anubis.,Alex Biryukov;,https://doi.org/10.1007/978-3-540-39887-5_5
+fse/fse2003,2003,Boolean Functions and S-Boxes,On Plateaued Functions and Their Constructions.,Claude Carlet;Emmanuel Prouff;,https://doi.org/10.1007/978-3-540-39887-5_6
+fse/fse2003,2003,Boolean Functions and S-Boxes,Linear Redundancy in S-Boxes.,Joanne Fuller;William Millan;,https://doi.org/10.1007/978-3-540-39887-5_7
+fse/fse2003,2003,Stream Cipher Cryptanalysis,Loosening the KNOT.,Antoine Joux;Frédéric Muller;,https://doi.org/10.1007/978-3-540-39887-5_8
+fse/fse2003,2003,Stream Cipher Cryptanalysis,On the Resynchronization Attack.,Jovan Dj. Golic;Guglielmo Morgari;,https://doi.org/10.1007/978-3-540-39887-5_9
+fse/fse2003,2003,Stream Cipher Cryptanalysis,Cryptanalysis of SOBER-t32.,Steve Babbage;Christophe De Cannière;Joseph Lano;Bart Preneel;Joos Vandewalle;,https://doi.org/10.1007/978-3-540-39887-5_10
+fse/fse2003,2003,MACs,OMAC: One-Key CBC MAC.,Tetsu Iwata;Kaoru Kurosawa;,https://doi.org/10.1007/978-3-540-39887-5_11
+fse/fse2003,2003,MACs,A Concrete Security Analysis for 3GPP-MAC.,Dowon Hong;Ju-Sung Kang;Bart Preneel;Heuisu Ryu;,https://doi.org/10.1007/978-3-540-39887-5_12
+fse/fse2003,2003,MACs,New Attacks against Standardized MACs.,Antoine Joux;Guillaume Poupard;Jacques Stern;,https://doi.org/10.1007/978-3-540-39887-5_13
+fse/fse2003,2003,MACs,Analysis of RMAC.,Lars R. Knudsen;Tadayoshi Kohno;,https://doi.org/10.1007/978-3-540-39887-5_14
+fse/fse2003,2003,Side Channel Attacks,A Generic Protection against High-Order Differential Power Analysis.,Mehdi-Laurent Akkar;Louis Goubin;,https://doi.org/10.1007/978-3-540-39887-5_15
+fse/fse2003,2003,Side Channel Attacks,A New Class of Collision Attacks and Its Application to DES.,Kai Schramm;Thomas J. Wollinger;Christof Paar;,https://doi.org/10.1007/978-3-540-39887-5_16
+fse/fse2003,2003,Block Cipher Theory,Further Observations on the Structure of the AES Algorithm.,Beomsik Song;Jennifer Seberry;,https://doi.org/10.1007/978-3-540-39887-5_17
+fse/fse2003,2003,Block Cipher Theory,Optimal Key Ranking Procedures in a Statistical Cryptanalysis.,Pascal Junod;Serge Vaudenay;,https://doi.org/10.1007/978-3-540-39887-5_18
+fse/fse2003,2003,Block Cipher Theory,Improving the Upper Bound on the Maximum Differential and the Maximum Linear Hull Probability for SPN Structures and AES.,Sangwoo Park;Soo Hak Sung;Sangjin Lee;Jongin Lim;,https://doi.org/10.1007/978-3-540-39887-5_19
+fse/fse2003,2003,Block Cipher Theory,Linear Approximations of Addition Modulo 2n.,Johan Wallén;,https://doi.org/10.1007/978-3-540-39887-5_20
+fse/fse2003,2003,Block Cipher Theory,Block Ciphers and Systems of Quadratic Equations.,Alex Biryukov;Christophe De Cannière;,https://doi.org/10.1007/978-3-540-39887-5_21
+fse/fse2003,2003,New Designs,Turing: A Fast Stream Cipher.,Gregory G. Rose;Philip Hawkes;,https://doi.org/10.1007/978-3-540-39887-5_22
+fse/fse2003,2003,New Designs,Rabbit: A New High-Performance Stream Cipher.,Martin Boesgaard;Mette Vesterager;Thomas Pedersen;Jesper Christiansen;Ove Scavenius;,https://doi.org/10.1007/978-3-540-39887-5_23
+fse/fse2003,2003,New Designs,Helix: Fast Encryption and Authentication in a Single Cryptographic Primitive.,Niels Ferguson;Doug Whiting;Bruce Schneier;John Kelsey;Stefan Lucks;Tadayoshi Kohno;,https://doi.org/10.1007/978-3-540-39887-5_24
+fse/fse2003,2003,New Designs,PARSHA-256- - A New Parallelizable Hash Function and a Multithreaded Implementation.,Pinakpani Pal;Palash Sarkar;,https://doi.org/10.1007/978-3-540-39887-5_25
+fse/fse2003,2003,Modes of Operation,Practical Symmetric On-Line Encryption.,Pierre-Alain Fouque;Gwenaëlle Martinet;Guillaume Poupard;,https://doi.org/10.1007/978-3-540-39887-5_26
+fse/fse2003,2003,Modes of Operation,"The Security of ""One-Block-to-Many"" Modes of Operation.",Henri Gilbert;,https://doi.org/10.1007/978-3-540-39887-5_27

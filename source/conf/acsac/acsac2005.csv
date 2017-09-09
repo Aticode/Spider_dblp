@@ -1,0 +1,60 @@
+acsac/acsac2005,2005,Cover,Title Page.,,https://doi.org/10.1109/CSAC.2005.4
+acsac/acsac2005,2005,Cover,Copyright.,,https://doi.org/10.1109/CSAC.2005.1
+acsac/acsac2005,2005,Introduction,Message from Conference Chair.,,https://doi.org/10.1109/CSAC.2005.38
+acsac/acsac2005,2005,Introduction,Conference Committee.,,https://doi.org/10.1109/CSAC.2005.16
+acsac/acsac2005,2005,Introduction,Program Committee.,,https://doi.org/10.1109/CSAC.2005.46
+acsac/acsac2005,2005,Introduction,Tutorial Committee.,,https://doi.org/10.1109/CSAC.2005.57
+acsac/acsac2005,2005,Introduction,Reviewers.,,https://doi.org/10.1109/CSAC.2005.48
+acsac/acsac2005,2005,Introduction,Speaker Biographies.,,https://doi.org/10.1109/CSAC.2005.51
+acsac/acsac2005,2005,Distinguished Practitioner,We Need Assurance!,Brian D. Snow;,https://doi.org/10.1109/CSAC.2005.63
+acsac/acsac2005,2005,Track A:Software Security,Model Checking An Entire Linux Distribution for Security Violations.,Benjamin Schwarz;Hao Chen;David A. Wagner;Jeremy Lin;Wei Tu;Geoff Morrison;Jacob West;,https://doi.org/10.1109/CSAC.2005.39
+acsac/acsac2005,2005,Track A:Software Security,Strengthening Software Self-Checksumming via Self-Modifying Code.,Jonathon T. Giffin;Mihai Christodorescu;Louis Kruger;,https://doi.org/10.1109/CSAC.2005.53
+acsac/acsac2005,2005,Track A:Software Security,Countering Trusting Trust through Diverse Double-Compiling.,David Wheeler;,https://doi.org/10.1109/CSAC.2005.17
+acsac/acsac2005,2005,Track B:Network Intrusion Detection,A Framework for Detecting Network-based Code Injection Attacks Targeting Windows and UNIX.,Stig Andersson;Andrew J. Clark;George M. Mohay;Bradley L. Schatz;Jacob Zimmermann;,https://doi.org/10.1109/CSAC.2005.5
+acsac/acsac2005,2005,Track B:Network Intrusion Detection,Exploiting Independent State For Network Intrusion Detection.,Robin Sommer;Vern Paxson;,https://doi.org/10.1109/CSAC.2005.24
+acsac/acsac2005,2005,Track B:Network Intrusion Detection,A Host-Based Approach to Network Attack Chaining Analysis.,Paul Ammann;Joseph Pamula;Julie A. Street;Ronald W. Ritchey;,https://doi.org/10.1109/CSAC.2005.6
+acsac/acsac2005,2005,Track A:Security Designs,A Nitpicker's guide to a minimal-complexity secure GUI.,Norman Feske;Christian Helmuth;,https://doi.org/10.1109/CSAC.2005.7
+acsac/acsac2005,2005,Track A:Security Designs,A User-level Framework for Auditing and Monitoring.,Yongzheng Wu;Roland H. C. Yap;,https://doi.org/10.1109/CSAC.2005.8
+acsac/acsac2005,2005,Track A:Security Designs,TARP: Ticket-based Address Resolution Protocol.,Wesam Lootah;William Enck;Patrick D. McDaniel;,https://doi.org/10.1109/CSAC.2005.55
+acsac/acsac2005,2005,Track B:Protocol Analysis,Verify Results of Network Intrusion Alerts Using Lightweight Protocol Analysis.,Jingmin Zhou;Adam J. Carlson;Matt Bishop;,https://doi.org/10.1109/CSAC.2005.62
+acsac/acsac2005,2005,Track B:Protocol Analysis,Replay Attack in TCG Specification and Solution.,Danilo Bruschi;Lorenzo Cavallaro;Andrea Lanzi;Mattia Monga;,https://doi.org/10.1109/CSAC.2005.47
+acsac/acsac2005,2005,Track B:Protocol Analysis,Code Security Analysis of a Biometric Authentication System Using Automated Theorem Provers.,Jan Jürjens;,https://doi.org/10.1109/CSAC.2005.15
+acsac/acsac2005,2005,Track A:Vulnerability Assessment,Automated and Safe Vulnerability Assessment.,Fanglu Guo;Yang Yu;Tzi-cker Chiueh;,https://doi.org/10.1109/CSAC.2005.11
+acsac/acsac2005,2005,Track A:Vulnerability Assessment,Understanding Complex Network Attack Graphs through Clustered Adjacency Matrices.,Steven Noel;Sushil Jajodia;,https://doi.org/10.1109/CSAC.2005.58
+acsac/acsac2005,2005,Track A:Vulnerability Assessment,Intrusion Detection in RBAC-administered Databases.,Elisa Bertino;Ashish Kamra;Evimaria Terzi;Athena Vakali;,https://doi.org/10.1109/CSAC.2005.33
+acsac/acsac2005,2005,Track B:Hot Topics,How Does Information Assurance R&D Impact Information Assurance in Practice? Follow the money - Where does it Go - What is our ROI?,,https://doi.org/10.1109/CSAC.2005.30
+acsac/acsac2005,2005,Invited Essayist,User-Centered Security: Stepping Up to the Grand Challenge.,Mary Ellen Zurko;,https://doi.org/10.1109/CSAC.2005.60
+acsac/acsac2005,2005,Track A:Automation,ScriptGen: an automated script generation tool for honeyd.,Corrado Leita;Ken Mermoud;Marc Dacier;,https://doi.org/10.1109/CSAC.2005.49
+acsac/acsac2005,2005,Track A:Automation,Automatic Generation of Buffer Overflow Attack Signatures: An Approach Based on Program Behavior Models.,Zhenkai Liang;R. Sekar;,https://doi.org/10.1109/CSAC.2005.12
+acsac/acsac2005,2005,Track A:Automation,Evolving Successful Stack Overflow Attacks for Vulnerability Testing.,Hilmi Günes Kayacik;A. Nur Zincir-Heywood;Malcolm I. Heywood;,https://doi.org/10.1109/CSAC.2005.23
+acsac/acsac2005,2005,Track B:Security Analysis,Java for Mobile Devices: A Security Study.,Mourad Debbabi;Mohamed Saleh;Chamseddine Talhi;Sami Zhioua;,https://doi.org/10.1109/CSAC.2005.34
+acsac/acsac2005,2005,Track B:Security Analysis,Lessons Learned: A Security Analysis of the Internet Chess Club.,John Black;Martin Cochran;Martin Ryan Gardner;,https://doi.org/10.1109/CSAC.2005.36
+acsac/acsac2005,2005,Track B:Security Analysis,Building Evidence Graphs for Network Forensics Analysis.,Wei Wang;Thomas E. Daniels;,https://doi.org/10.1109/CSAC.2005.14
+acsac/acsac2005,2005,Track A:Operating System Security Mechanisms,Multi-Level Security Requirements for Hypervisors.,Paul A. Karger;,https://doi.org/10.1109/CSAC.2005.41
+acsac/acsac2005,2005,Track A:Operating System Security Mechanisms,Building a MAC-Based Security Architecture for the Xen Open-Source Hypervisor.,Reiner Sailer;Trent Jaeger;Enriquillo Valdez;Ramón Cáceres;Ronald Perez;Stefan Berger;John Linwood Griffin;Leendert van Doorn;,https://doi.org/10.1109/CSAC.2005.13
+acsac/acsac2005,2005,Track A:Operating System Security Mechanisms,e-NeXSh: Achieving an Effectively Non-Executable Stack and Heap via System-Call Policing.,Gaurav S. Kc;Angelos D. Keromytis;,https://doi.org/10.1109/CSAC.2005.22
+acsac/acsac2005,2005,Track B:Data Integrity,Dynamic Taint Propagation for Java.,Vivek Haldar;Deepak Chandra;Michael Franz;,https://doi.org/10.1109/CSAC.2005.21
+acsac/acsac2005,2005,Track B:Data Integrity,An Integrity Verification Scheme for DNS Zone file based on Security Impact Analysis.,Ramaswamy Chandramouli;Scott Rose;,https://doi.org/10.1109/CSAC.2005.9
+acsac/acsac2005,2005,Track B:Data Integrity,Paranoid: A Global Secure File Access Control System.,Fareed Zaffar;Gershon Kedem;Ashish Gehani;,https://doi.org/10.1109/CSAC.2005.42
+acsac/acsac2005,2005,Track C:Hot Topics,How to Develop a Career in Information Assurance and How to Advance in this Field.,Marla Collier;,https://doi.org/10.1109/CSAC.2005.31
+acsac/acsac2005,2005,Classic Papers,Looking Back at the Bell-La Padula Model.,David Elliott Bell;,https://doi.org/10.1109/CSAC.2005.37
+acsac/acsac2005,2005,Classic Papers,The Pump: A Decade of Covert Fun.,Myong H. Kang;Ira S. Moskowitz;Stanley Chincheck;,https://doi.org/10.1109/CSAC.2005.56
+acsac/acsac2005,2005,Track A:Malware,Design and Implementation of an Extrusion-based Break-In Detector for Personal Computers.,Weidong Cui;Randy H. Katz;Wai-tian Tan;,https://doi.org/10.1109/CSAC.2005.19
+acsac/acsac2005,2005,Track A:Malware,Detecting Intra-enterprise Scanning Worms based on Address Resolution.,David Whyte;Paul C. van Oorschot;Evangelos Kranakis;,https://doi.org/10.1109/CSAC.2005.20
+acsac/acsac2005,2005,Track A:Malware,Stealth Breakpoints.,Amit Vasudevan;Ramesh Yerraballi;,https://doi.org/10.1109/CSAC.2005.52
+acsac/acsac2005,2005,Track B:Panel,Highlights from the 2005 New Security Paradigms Workshop.,Simon N. Foley;Abe Singer;Michael E. Locasto;Stelios Sidiroglou;Angelos D. Keromytis;John P. McDermott;Julie Thorpe;Paul C. van Oorschot;Anil Somayaji;Richard Ford;Mark Bush;Alex Boulatov;,https://doi.org/10.1109/CSAC.2005.29
+acsac/acsac2005,2005,Track A:Distributed System Security,mSSL: Extending SSL to Support Data Sharing Among Collaborative Clients.,Jun Li;Xun Kang;,https://doi.org/10.1109/CSAC.2005.40
+acsac/acsac2005,2005,Track A:Distributed System Security,Layering Public Key Distribution Over Secure DNS using Authenticated Delegation.,John P. Jones;Daniel F. Berger;Chinya V. Ravishankar;,https://doi.org/10.1109/CSAC.2005.35
+acsac/acsac2005,2005,Track A:Distributed System Security,PorKI: Making User PKI Safe on Machines of Heterogeneous Trustworthiness.,Sara Sinclair;Sean W. Smith;,https://doi.org/10.1109/CSAC.2005.43
+acsac/acsac2005,2005,Track B:Access Control,Uniform Application-level Access Control Enforcement of Organizationwide Policies.,Tine Verhanneman;Frank Piessens;Bart De Win;Wouter Joosen;,https://doi.org/10.1109/CSAC.2005.59
+acsac/acsac2005,2005,Track B:Access Control,Using Continuous Biometric Verification to Protect Interactive Login Sessions.,Sandeep Kumar;Terence Sim;Rajkumar Janakiraman;Sheng Zhang;,https://doi.org/10.1109/CSAC.2005.61
+acsac/acsac2005,2005,Track B:Access Control,Improved Port Knocking with Strong Authentication.,Rennie deGraaf;John Aycock;Michael J. Jacobson Jr.;,https://doi.org/10.1109/CSAC.2005.32
+acsac/acsac2005,2005,Track A:Passwords and Applied Crypto,Graphical Passwords: A Survey.,Xiaoyuan Suo;Ying Zhu;G. Scott Owen;,https://doi.org/10.1109/CSAC.2005.27
+acsac/acsac2005,2005,Track A:Passwords and Applied Crypto,Have the cake and eat it too - Infusing usability into text-password based authentication systems.,Sundararaman Jeyaraman;Umut Topkara;,https://doi.org/10.1109/CSAC.2005.28
+acsac/acsac2005,2005,Track A:Passwords and Applied Crypto,Fault Attacks on Dual-Rail Encoded Systems.,Jason Waddle;David A. Wagner;,https://doi.org/10.1109/CSAC.2005.25
+acsac/acsac2005,2005,Track B:Defense in Depth/Database Security,Survivability Architecture of a Mission Critical System: The DPASA Example.,Jennifer Chong;Partha P. Pal;Michael Atighetchi;Paul Rubel;Franklin Webber;,https://doi.org/10.1109/CSAC.2005.54
+acsac/acsac2005,2005,Track B:Defense in Depth/Database Security,Generating Policies for Defense in Depth.,Paul Rubel;Michael Ihde;Steven A. Harp;Charles N. Payne;,https://doi.org/10.1109/CSAC.2005.26
+acsac/acsac2005,2005,Track B:Defense in Depth/Database Security,Defensive Execution of Transactional Processes against Attacks.,Meng Yu;Wanyu Zang;Peng Liu;,https://doi.org/10.1109/CSAC.2005.18
+acsac/acsac2005,2005,Track C:Privacy,Privacy Requirements Implemented with a JavaCard.,Anas Abou El Kalam;Yves Deswarte;,https://doi.org/10.1109/CSAC.2005.44
+acsac/acsac2005,2005,Track C:Privacy,Privacy-Preserving Alert Correlation: A Concept Hierarchy Based Approach.,Dingbang Xu;Peng Ning;,https://doi.org/10.1109/CSAC.2005.45
+acsac/acsac2005,2005,Track C:Privacy,Securing Email Archives through User Modeling.,Yiru Li;Anil Somayaji;,https://doi.org/10.1109/CSAC.2005.50

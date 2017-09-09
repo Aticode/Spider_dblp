@@ -1,0 +1,44 @@
+acsac/acsac2006,2006,Distinguished Practitioner,Privacy and Security in Public Health: Maintaining the Delicate Balance between Personal Privacy and Population Safety.,Dixie B. Baker;,https://doi.org/10.1109/ACSAC.2006.41
+acsac/acsac2006,2006,Applied Distributed Collaboration,Shamon: A System for Distributed Mandatory Access Control.,Jonathan M. McCune;Trent Jaeger;Stefan Berger;Ramón Cáceres;Reiner Sailer;,https://doi.org/10.1109/ACSAC.2006.47
+acsac/acsac2006,2006,Applied Distributed Collaboration,A Framework for a Collaborative DDoS Defense.,George C. Oikonomou;Jelena Mirkovic;Peter L. Reiher;Max Robinson;,https://doi.org/10.1109/ACSAC.2006.5
+acsac/acsac2006,2006,Applied Distributed Collaboration,V-COPS: A Vulnerability-Based Cooperative Alert Distribution System.,Shiping Chen;Dongyu Liu;Songqing Chen;Sushil Jajodia;,https://doi.org/10.1109/ACSAC.2006.54
+acsac/acsac2006,2006,Client Access in Untrusted Environments,Delegate: A Proxy Based Architecture for Secure Website Access from an Untrusted Machine.,Ravi Chandra Jammalamadaka;Timothy W. van der Horst;Sharad Mehrotra;Kent E. Seamons;Nalini Venkatasubramanian;,https://doi.org/10.1109/ACSAC.2006.23
+acsac/acsac2006,2006,Client Access in Untrusted Environments,KLASSP: Entering Passwords on a Spyware Infected Machine Using a Shared-Secret Proxy.,Dinei A. F. Florêncio;Cormac Herley;,https://doi.org/10.1109/ACSAC.2006.32
+acsac/acsac2006,2006,Client Access in Untrusted Environments,Vulnerability Analysis of MMS User Agents.,Collin Mulliner;Giovanni Vigna;,https://doi.org/10.1109/ACSAC.2006.55
+acsac/acsac2006,2006,Network Intrusion Detection,Backtracking Algorithmic Complexity Attacks against a NIDS.,Randy Smith;Cristian Estan;Somesh Jha;,https://doi.org/10.1109/ACSAC.2006.17
+acsac/acsac2006,2006,Network Intrusion Detection,NetSpy: Automatic Generation of Spyware Signatures for NIDS.,Hao Wang;Somesh Jha;Vinod Ganapathy;,https://doi.org/10.1109/ACSAC.2006.34
+acsac/acsac2006,2006,Network Intrusion Detection,Detecting Policy Violations through Traffic Analysis.,Jeffrey Horton;Reihaneh Safavi-Naini;,https://doi.org/10.1109/ACSAC.2006.24
+acsac/acsac2006,2006,Network Security,Practical Attack Graph Generation for Network Defense.,Kyle Ingols;Richard Lippmann;Keith Piwowarski;,https://doi.org/10.1109/ACSAC.2006.39
+acsac/acsac2006,2006,Network Security,Secure Distributed Cluster Formation in Wireless Sensor Networks.,Kun Sun;Pai Peng;Peng Ning;Cliff Wang;,https://doi.org/10.1109/ACSAC.2006.46
+acsac/acsac2006,2006,Network Security,Specification-Based Intrusion Detection in WLANs.,Rupinder Gill;Jason Smith;Andrew J. Clark;,https://doi.org/10.1109/ACSAC.2006.48
+acsac/acsac2006,2006,Security in Systems,From Languages to Systems: Understanding Practical Application Development in Security-typed Languages.,Boniface Hicks;Kiyan Ahmadizadeh;Patrick D. McDaniel;,https://doi.org/10.1109/ACSAC.2006.30
+acsac/acsac2006,2006,Security in Systems,An Internet Voting System Supporting User Privacy.,Aggelos Kiayias;Michael Korman;David Walluck;,https://doi.org/10.1109/ACSAC.2006.12
+acsac/acsac2006,2006,Security in Systems,A Study of Access Control Requirements for Healthcare Systems Based on Audit Trails from Access Logs.,Lillian Røstad;Ole Edsberg;,https://doi.org/10.1109/ACSAC.2006.8
+acsac/acsac2006,2006,Invited Essayist,Engineering Sufficiently Secure Computing.,Brian Witten;,https://doi.org/10.1109/ACSAC.2006.25
+acsac/acsac2006,2006,Applied Sandboxing,A Module System for Isolating Untrusted Software Extensions.,Philip W. L. Fong;Simon A. Orr;,https://doi.org/10.1109/ACSAC.2006.7
+acsac/acsac2006,2006,Applied Sandboxing,How to Automatically and Accurately Sandbox Microsoft IIS.,Wei Li;Lap-Chung Lam;Tzi-cker Chiueh;,https://doi.org/10.1109/ACSAC.2006.31
+acsac/acsac2006,2006,Applied Sandboxing,Data Sandboxing: A Technique for Enforcing Confidentiality Policies.,Tejas Khatiwala;Raj Swaminathan;V. N. Venkatakrishnan;,https://doi.org/10.1109/ACSAC.2006.22
+acsac/acsac2006,2006,Malware,On Detecting Camouflaging Worm.,Wei Yu;Xun Wang;Prasad Calyam;Dong Xuan;Wei Zhao;,https://doi.org/10.1109/ACSAC.2006.36
+acsac/acsac2006,2006,Malware,"Bluetooth Worms: Models, Dynamics, and Defense Implications.",Guanhua Yan;Stephan Eidenbenz;,https://doi.org/10.1109/ACSAC.2006.18
+acsac/acsac2006,2006,Malware,Back to the Future: A Framework for Automatic Malware Removal and System Repair.,Francis Hsu;Hao Chen;Thomas Ristenpart;Jason Li;Zhendong Su;,https://doi.org/10.1109/ACSAC.2006.16
+acsac/acsac2006,2006,Applied Detection Technologies,Static Detection of Vulnerabilities in x86 Executables.,Marco Cova;Viktoria Felmetsger;Greg Banks;Giovanni Vigna;,https://doi.org/10.1109/ACSAC.2006.50
+acsac/acsac2006,2006,Applied Detection Technologies,Foreign Code Detection on the Windows/X86 Platform.,Susanta Nanda;Wei Li;Lap-Chung Lam;Tzi-cker Chiueh;,https://doi.org/10.1109/ACSAC.2006.29
+acsac/acsac2006,2006,Applied Detection Technologies,PolyUnpack: Automating the Hidden-Code Extraction of Unpack-Executing Malware.,Paul Royal;Mitch Halpin;David Dagon;Robert Edmonds;Wenke Lee;,https://doi.org/10.1109/ACSAC.2006.38
+acsac/acsac2006,2006,Classic Papers,Fifteen Years after TX: A Look Back at High Assurance Multi-Level Secure Windowing.,Jeremy Epstein;,https://doi.org/10.1109/ACSAC.2006.28
+acsac/acsac2006,2006,Classic Papers,Risks of Untrustworthiness.,Peter G. Neumann;,https://doi.org/10.1109/ACSAC.2006.45
+acsac/acsac2006,2006,Applied Randomization,Address-Space Randomization for Windows Systems.,Lixin Li;James E. Just;R. Sekar;,https://doi.org/10.1109/ACSAC.2006.10
+acsac/acsac2006,2006,Applied Randomization,Address Space Layout Permutation (ASLP): Towards Fine-Grained Randomization of Commodity Software.,Chongkyung Kil;Jinsuk Jun;Christopher Bookholt;Jun Xu;Peng Ning;,https://doi.org/10.1109/ACSAC.2006.9
+acsac/acsac2006,2006,Applied Randomization,Known/Chosen Key Attacks against Software Instruction Set Randomization.,Yoav Weiss;Elena Gabriela Barrantes;,https://doi.org/10.1109/ACSAC.2006.33
+acsac/acsac2006,2006,Intrusion Detection,Automatic Evaluation of Intrusion Detection Systems.,Frédéric Massicotte;François Gagnon;Yvan Labiche;Lionel C. Briand;Mathieu Couture;,https://doi.org/10.1109/ACSAC.2006.15
+acsac/acsac2006,2006,Intrusion Detection,Offloading IDS Computation to the GPU.,Nigel Jacob;Carla E. Brodley;,https://doi.org/10.1109/ACSAC.2006.35
+acsac/acsac2006,2006,Intrusion Detection,Anomaly Based Web Phishing Page Detection.,Ying Pan;Xuhua Ding;,https://doi.org/10.1109/ACSAC.2006.13
+acsac/acsac2006,2006,Messaging Security,Addressing SMTP-Based Mass-Mailing Activity within Enterprise Networks.,David Whyte;Paul C. van Oorschot;Evangelos Kranakis;,https://doi.org/10.1109/ACSAC.2006.11
+acsac/acsac2006,2006,Messaging Security,Using Attribute-Based Access Control to Enable Attribute-Based Messaging.,Rakeshbabu Bobba;Omid Fatemieh;Fariba Khan;Carl A. Gunter;Himanshu Khurana;,https://doi.org/10.1109/ACSAC.2006.53
+acsac/acsac2006,2006,Messaging Security,Enhancing Collaborative Spam Detection with Bloom Filters.,Jeff Yan;Pook Leong Cho;,https://doi.org/10.1109/ACSAC.2006.26
+acsac/acsac2006,2006,Countermeasures,Extended Protection against Stack Smashing Attacks without Performance Loss.,Yves Younan;Davide Pozza;Frank Piessens;Wouter Joosen;,https://doi.org/10.1109/ACSAC.2006.27
+acsac/acsac2006,2006,Countermeasures,PAST: Probabilistic Authentication of Sensor Timestamps.,Ashish Gehani;Surendar Chandra;,https://doi.org/10.1109/ACSAC.2006.37
+acsac/acsac2006,2006,Countermeasures,Towards Database Firewall: Mining the Damage Spreading Patterns.,Kun Bai;Peng Liu;,https://doi.org/10.1109/ACSAC.2006.52
+acsac/acsac2006,2006,Information Flow and Leakage,A General Dynamic Information Flow Tracking Framework for Security Applications.,Lap-Chung Lam;Tzi-cker Chiueh;,https://doi.org/10.1109/ACSAC.2006.6
+acsac/acsac2006,2006,Information Flow and Leakage,Covert and Side Channels Due to Processor Architecture.,Zhenghong Wang;Ruby B. Lee;,https://doi.org/10.1109/ACSAC.2006.20
+acsac/acsac2006,2006,Information Flow and Leakage,"CryptoPage: An Efficient Secure Architecture with Memory Encryption, Integrity and Information Leakage Protection.",Guillaume Duc;Ronan Keryell;,https://doi.org/10.1109/ACSAC.2006.21
+acsac/acsac2006,2006,Information Flow and Leakage,Protecting Privacy in Key-Value Search Systems.,Yinglian Xie;Michael K. Reiter;David R. O'Hallaron;,https://doi.org/10.1109/ACSAC.2006.43

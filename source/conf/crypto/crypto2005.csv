@@ -1,0 +1,33 @@
+crypto/crypto2005,2005,None,Efficient Collision Search Attacks on SHA-0.,Xiaoyun Wang;Hongbo Yu;Yiqun Lisa Yin;,https://doi.org/10.1007/11535218_1
+crypto/crypto2005,2005,None,Finding Collisions in the Full SHA-1.,Xiaoyun Wang;Yiqun Lisa Yin;Hongbo Yu;,https://doi.org/10.1007/11535218_2
+crypto/crypto2005,2005,None,Pebbling and Proofs of Work.,Cynthia Dwork;Moni Naor;Hoeteck Wee;,https://doi.org/10.1007/11535218_3
+crypto/crypto2005,2005,None,Composition Does Not Imply Adaptive Security.,Krzysztof Pietrzak;,https://doi.org/10.1007/11535218_4
+crypto/crypto2005,2005,None,On the Discrete Logarithm Problem on Algebraic Tori.,Robert Granger;Frederik Vercauteren;,https://doi.org/10.1007/11535218_5
+crypto/crypto2005,2005,None,A Practical Attack on a Braid Group Based Cryptographic Protocol.,Alexei G. Myasnikov;Vladimir Shpilrain;Alexander Ushakov;,https://doi.org/10.1007/11535218_6
+crypto/crypto2005,2005,None,The Conditional Correlation Attack: A Practical Attack on Bluetooth Encryption.,Yi Lu;Willi Meier;Serge Vaudenay;,https://doi.org/10.1007/11535218_7
+crypto/crypto2005,2005,None,Unconditional Characterizations of Non-interactive Zero-Knowledge.,Rafael Pass;Abhi Shelat;,https://doi.org/10.1007/11535218_8
+crypto/crypto2005,2005,None,Impossibility and Feasibility Results for Zero Knowledge with Public Keys.,Joël Alwen;Giuseppe Persiano;Ivan Visconti;,https://doi.org/10.1007/11535218_9
+crypto/crypto2005,2005,None,Communication-Efficient Non-interactive Proofs of Knowledge with Online Extractors.,Marc Fischlin;,https://doi.org/10.1007/11535218_10
+crypto/crypto2005,2005,None,A Formal Treatment of Onion Routing.,Jan Camenisch;Anna Lysyanskaya;,https://doi.org/10.1007/11535218_11
+crypto/crypto2005,2005,None,Simple and Efficient Shuffling with Provable Correctness and ZK Privacy.,Kun Peng;Colin Boyd;Ed Dawson;,https://doi.org/10.1007/11535218_12
+crypto/crypto2005,2005,None,"Searchable Encryption Revisited: Consistency Properties, Relation to Anonymous IBE, and Extensions.",Michel Abdalla;Mihir Bellare;Dario Catalano;Eike Kiltz;Tadayoshi Kohno;Tanja Lange;John Malone-Lee;Gregory Neven;Pascal Paillier;Haixia Shi;,https://doi.org/10.1007/11535218_13
+crypto/crypto2005,2005,None,Private Searching on Streaming Data.,Rafail Ostrovsky;William E. Skeith III;,https://doi.org/10.1007/11535218_14
+crypto/crypto2005,2005,None,Privacy-Preserving Set Operations.,Lea Kissner;Dawn Xiaodong Song;,https://doi.org/10.1007/11535218_15
+crypto/crypto2005,2005,None,Collusion Resistant Broadcast Encryption with Short Ciphertexts and Private Keys.,Dan Boneh;Craig Gentry;Brent Waters;,https://doi.org/10.1007/11535218_16
+crypto/crypto2005,2005,None,Generic Transformation for Scalable Broadcast Encryption Schemes.,Jung Yeon Hwang;Dong Hoon Lee;Jongin Lim;,https://doi.org/10.1007/11535218_17
+crypto/crypto2005,2005,None,Authenticating Pervasive Devices with Human Protocols.,Ari Juels;Stephen A. Weis;,https://doi.org/10.1007/11535218_18
+crypto/crypto2005,2005,None,Secure Communications over Insecure Channels Based on Short Authenticated Strings.,Serge Vaudenay;,https://doi.org/10.1007/11535218_19
+crypto/crypto2005,2005,None,"On Codes, Matroids and Secure Multi-party Computation from Linear Secret Sharing Schemes.",Ronald Cramer;Vanesa Daza;Ignacio Gracia;Jorge Jiménez Urroz;Gregor Leander;Jaume Martí-Farré;Carles Padró;,https://doi.org/10.1007/11535218_20
+crypto/crypto2005,2005,None,Black-Box Secret Sharing from Primitive Sets in Algebraic Number Fields.,Ronald Cramer;Serge Fehr;Martijn Stam;,https://doi.org/10.1007/11535218_21
+crypto/crypto2005,2005,None,Secure Computation Without Authentication.,Boaz Barak;Ran Canetti;Yehuda Lindell;Rafael Pass;Tal Rabin;,https://doi.org/10.1007/11535218_22
+crypto/crypto2005,2005,None,Constant-Round Multiparty Computation Using a Black-Box Pseudorandom Generator.,Ivan Damgård;Yuval Ishai;,https://doi.org/10.1007/11535218_23
+crypto/crypto2005,2005,None,Secure Computation of Constant-Depth Circuits with Applications to Database Search Problems.,Omer Barkol;Yuval Ishai;,https://doi.org/10.1007/11535218_24
+crypto/crypto2005,2005,None,Analysis of Random Oracle Instantiation Scenarios for OAEP and Other Practical Schemes.,Alexandra Boldyreva;Marc Fischlin;,https://doi.org/10.1007/11535218_25
+crypto/crypto2005,2005,None,Merkle-Damgård Revisited: How to Construct a Hash Function.,Jean-Sébastien Coron;Yevgeniy Dodis;Cécile Malinaud;Prashant Puniya;,https://doi.org/10.1007/11535218_26
+crypto/crypto2005,2005,None,On the Generic Insecurity of the Full Domain Hash.,Yevgeniy Dodis;Roberto Oliveira;Krzysztof Pietrzak;,https://doi.org/10.1007/11535218_27
+crypto/crypto2005,2005,None,New Monotones and Lower Bounds in Unconditional Two-Party Computation.,Stefan Wolf;Jürg Wullschleger;,https://doi.org/10.1007/11535218_28
+crypto/crypto2005,2005,None,One-Way Secret-Key Agreement and Applications to Circuit Polarization and Immunization of Public-Key Encryption.,Thomas Holenstein;Renato Renner;,https://doi.org/10.1007/11535218_29
+crypto/crypto2005,2005,None,A Quantum Cipher with Near Optimal Key-Recycling.,Ivan Damgård;Thomas Brochmann Pedersen;Louis Salvail;,https://doi.org/10.1007/11535218_30
+crypto/crypto2005,2005,None,An Efficient CDH-Based Signature Scheme with a Tight Security Reduction.,Benoît Chevallier-Mames;,https://doi.org/10.1007/11535218_31
+crypto/crypto2005,2005,None,Improved Security Analyses for CBC MACs.,Mihir Bellare;Krzysztof Pietrzak;Phillip Rogaway;,https://doi.org/10.1007/11535218_32
+crypto/crypto2005,2005,None,HMQV: A High-Performance Secure Diffie-Hellman Protocol.,Hugo Krawczyk;,https://doi.org/10.1007/11535218_33

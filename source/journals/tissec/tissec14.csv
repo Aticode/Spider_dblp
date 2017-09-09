@@ -1,0 +1,32 @@
+tissec/tissec14,May 2011,Number 1,Introduction to special section SACMAT'08.,Ninghui Li;,http://doi.acm.org/10.1145/1952982.1952983
+tissec/tissec14,May 2011,Number 1,Detecting and resolving policy misconfigurations in access-control systems.,Lujo Bauer;Scott Garriss;Michael K. Reiter;,http://doi.acm.org/10.1145/1952982.1952984
+tissec/tissec14,May 2011,Number 1,Authorization recycling in hierarchical RBAC systems.,Qiang Wei;Jason Crampton;Konstantin Beznosov;Matei Ripeanu;,http://doi.acm.org/10.1145/1952982.1952985
+tissec/tissec14,May 2011,Number 1,Relations among privacy notions.,Jens-Matthias Bohli;Andreas Pashalidis;,http://doi.acm.org/10.1145/1952982.1952986
+tissec/tissec14,May 2011,Number 1,Robust and efficient authentication of video stream broadcasting.,Gabriele Oligeri;Stefano Chessa;Roberto Di Pietro;Gaetano Giunta;,http://doi.acm.org/10.1145/1952982.1952987
+tissec/tissec14,May 2011,Number 1,Cross-application data provenance and policy enforcement.,Brian Demsky;,http://doi.acm.org/10.1145/1952982.1952988
+tissec/tissec14,May 2011,Number 1,Practical defenses against pollution attacks in wireless network coding.,Jing Dong;Reza Curtmola;Cristina Nita-Rotaru;,http://doi.acm.org/10.1145/1952982.1952989
+tissec/tissec14,May 2011,Number 1,Nexus authorization logic (NAL): Design rationale and applications.,Fred B. Schneider;Kevin Walsh;Emin Gün Sirer;,http://doi.acm.org/10.1145/1952982.1952990
+tissec/tissec14,May 2011,Number 1,"Access control via belnap logic: Intuitive, expressive, and analyzable policy composition.",Glenn Bruns;Michael Huth;,http://doi.acm.org/10.1145/1952982.1952991
+tissec/tissec14,May 2011,Number 1,Access controls for oblivious and anonymous systems.,Scott E. Coull;Matthew Green;Susan Hohenberger;,http://doi.acm.org/10.1145/1952982.1952992
+tissec/tissec14,May 2011,Number 1,Lightweight RFID authentication with forward and backward security.,Mike Burmester;Jorge Munilla;,http://doi.acm.org/10.1145/1952982.1952993
+tissec/tissec14,May 2011,Number 1,Remote data checking using provable data possession.,Giuseppe Ateniese;Randal C. Burns;Reza Curtmola;Joseph Herring;Osama Khan;Lea Kissner;Zachary N. J. Peterson;Dawn Song;,http://doi.acm.org/10.1145/1952982.1952994
+tissec/tissec14,May 2011,Number 1,False data injection attacks against state estimation in electric power grids.,Yao Liu;Peng Ning;Michael K. Reiter;,http://doi.acm.org/10.1145/1952982.1952995
+tissec/tissec14,May 2011,Number 1,Practical and efficient cryptographic enforcement of interval-based access control policies.,Jason Crampton;,http://doi.acm.org/10.1145/1952982.1952996
+tissec/tissec14,September 2011,Number 2,Checksum-Aware Fuzzing Combined with Dynamic Taint Analysis and Symbolic Execution.,Tielei Wang;Tao Wei;Guofei Gu;Wei Zou;,http://doi.acm.org/10.1145/2019599.2019600
+tissec/tissec14,September 2011,Number 2,Formal Reasoning about Physical Properties of Security Protocols.,David A. Basin;Srdjan Capkun;Patrick Schaller;Benedikt Schmidt;,http://doi.acm.org/10.1145/2019599.2019601
+tissec/tissec14,September 2011,Number 2,Authenticated Dictionaries: Real-World Costs and Trade-Offs.,Scott A. Crosby;Dan S. Wallach;,http://doi.acm.org/10.1145/2019599.2019602
+tissec/tissec14,September 2011,Number 2,Security Seals on Voting Machines: A Case Study.,Andrew W. Appel;,http://doi.acm.org/10.1145/2019599.2019603
+tissec/tissec14,September 2011,Number 2,"Empowering End Users to Confine Their Own Applications: The Results of a Usability Study Comparing SELinux, AppArmor, and FBAC-LSM.",Z. Cliffe Schreuders;Tanya McGill;Christian Payne;,http://doi.acm.org/10.1145/2019599.2019604
+tissec/tissec14,September 2011,Number 2,Practical Oblivious Outsourced Storage.,Peter Williams;Radu Sion;Miroslava Sotáková;,http://doi.acm.org/10.1145/2019599.2019605
+tissec/tissec14,September 2011,Number 2,CANTINA+: A Feature-Rich Machine Learning Framework for Detecting Phishing Web Sites.,Guang Xiang;Jason I. Hong;Carolyn Penstein Rosé;Lorrie Faith Cranor;,http://doi.acm.org/10.1145/2019599.2019606
+tissec/tissec14,November 2011,Number 3,Guest Editorial SACMAT 2009 and 2010.,James Joshi;Barbara Carminati;,http://doi.acm.org/10.1145/2043621.2043622
+tissec/tissec14,November 2011,Number 3,Group-Centric Secure Information-Sharing Models for Isolated Groups.,Ram Krishnan;Jianwei Niu;Ravi S. Sandhu;William H. Winsborough;,http://doi.acm.org/10.1145/2043621.2043623
+tissec/tissec14,November 2011,Number 3,Combining Discretionary Policy with Mandatory Information Flow in Operating Systems.,Ziqing Mao;Ninghui Li;Hong Chen;Xuxian Jiang;,http://doi.acm.org/10.1145/2043621.2043624
+tissec/tissec14,November 2011,Number 3,"Access Control Policy Translation, Verification, and Minimization within Heterogeneous Data Federations.",Gregory Leighton;Denilson Barbosa;,http://doi.acm.org/10.1145/2043621.2043625
+tissec/tissec14,November 2011,Number 3,Private and Continual Release of Statistics.,T.-H. Hubert Chan;Elaine Shi;Dawn Song;,http://doi.acm.org/10.1145/2043621.2043626
+tissec/tissec14,November 2011,Number 3,The Frog-Boiling Attack: Limitations of Secure Network Coordinate Systems.,Eric Chan-Tin;Victor Heorhiadi;Nicholas Hopper;Yongdae Kim;,http://doi.acm.org/10.1145/2043621.2043627
+tissec/tissec14,December 2011,Number 4,Modeling key compromise impersonation attacks on group key exchange protocols.,M. Choudary Gorantla;Colin Boyd;Juan Manuel González Nieto;Mark Manulis;,http://doi.acm.org/10.1145/2043628.2043629
+tissec/tissec14,December 2011,Number 4,PEREA: Practical TTP-free revocation of repeatedly misbehaving anonymous users.,Man Ho Au;Patrick P. Tsang;Apu Kapadia;,http://doi.acm.org/10.1145/2043628.2043630
+tissec/tissec14,December 2011,Number 4,On two RFID privacy notions and their relations.,Yingjiu Li;Robert H. Deng;Junzuo Lai;Changshe Ma;,http://doi.acm.org/10.1145/2043628.2043631
+tissec/tissec14,December 2011,Number 4,Privacy-preserving distributed network troubleshooting - bridging the gap between theory and practice.,Martin Burkhart;Xenofontas A. Dimitropoulos;,http://doi.acm.org/10.1145/2043628.2043632
+tissec/tissec14,December 2011,Number 4,Server-side verification of client behavior in online games.,Darrell Bethea;Robert A. Cochran;Michael K. Reiter;,http://doi.acm.org/10.1145/2043628.2043633

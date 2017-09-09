@@ -1,0 +1,72 @@
+eurocrypt/eurocrypt89,1989,Public-key Cryptosystems,The Adolescence of Public-Key Cryptography (Abstract).,Whitfield Diffie;,https://doi.org/10.1007/3-540-46885-4_1
+eurocrypt/eurocrypt89,1989,Public-key Cryptosystems,A Secure Public-key Authentication Scheme.,Zvi Galil;Stuart Haber;Moti Yung;,https://doi.org/10.1007/3-540-46885-4_2
+eurocrypt/eurocrypt89,1989,Public-key Cryptosystems,How to Improve Signature Schemes.,Gilles Brassard;,https://doi.org/10.1007/3-540-46885-4_3
+eurocrypt/eurocrypt89,1989,Public-key Cryptosystems,A Generalization of El Gamal's Public Key Cryptosystem.,Walter J. Jaburek;,https://doi.org/10.1007/3-540-46885-4_4
+eurocrypt/eurocrypt89,1989,Public-key Cryptosystems,An Identity-Based Key-Exchange Protocol.,Christoph G. Günther;,https://doi.org/10.1007/3-540-46885-4_5
+eurocrypt/eurocrypt89,1989,Public-key Cryptosystems,How to Keep Authenticity Alive in a Computer Network.,Fritz Bauspieß;Hans-Joachim Knobloch;,https://doi.org/10.1007/3-540-46885-4_6
+eurocrypt/eurocrypt89,1989,Public-key Cryptosystems,The Use of Fractions in Public-Key Cryptosystems.,Hartmut Isselhorst;,https://doi.org/10.1007/3-540-46885-4_7
+eurocrypt/eurocrypt89,1989,Public-key Cryptosystems,A Practical Protocol for Large Group Oriented Networks.,Yair Frankel;,https://doi.org/10.1007/3-540-46885-4_8
+eurocrypt/eurocrypt89,1989,Theory,Counting Functions Satisfying a Higher Order Strict Avalanche Criterion.,Sheelagh Lloyd;,https://doi.org/10.1007/3-540-46885-4_9
+eurocrypt/eurocrypt89,1989,Theory,A Key Distribution System Based On Any One-Way Function (Extended Abstract).,George I. Davida;Yvo Desmedt;René Peralta;,https://doi.org/10.1007/3-540-46885-4_10
+eurocrypt/eurocrypt89,1989,Theory,Non-linearity of Exponent Permutations.,Josef Pieprzyk;,https://doi.org/10.1007/3-540-46885-4_11
+eurocrypt/eurocrypt89,1989,Theory,Informational Divergence Bounds for Authentication Codes.,Andrea Sgarro;,https://doi.org/10.1007/3-540-46885-4_12
+eurocrypt/eurocrypt89,1989,Theory,2n-Bit Hash-Functions Using n-Bit Symmetric Block Cipher Algorithms.,Jean-Jacques Quisquater;Marc Girault;,https://doi.org/10.1007/3-540-46885-4_13
+eurocrypt/eurocrypt89,1989,Theory,A Simple Technique for Diffusing Cryptoperiods.,Stig Fr. Mjølsnes;,https://doi.org/10.1007/3-540-46885-4_14
+eurocrypt/eurocrypt89,1989,Zero-knowledge Protocols,A General Zero-Knowledge Scheme (Extended Abstract).,Mike Burmester;Yvo Desmedt;Fred Piper;Michael Walker;,https://doi.org/10.1007/3-540-46885-4_15
+eurocrypt/eurocrypt89,1989,Zero-knowledge Protocols,Divertible Zero Knowledge Interactive Proofs and Commutative Random Self-Reducibility.,Tatsuaki Okamoto;Kazuo Ohta;,https://doi.org/10.1007/3-540-46885-4_16
+eurocrypt/eurocrypt89,1989,Zero-knowledge Protocols,Verifiable Disclosure of Secrets and Applications (Abstract).,Claude Crépeau;,https://doi.org/10.1007/3-540-46885-4_17
+eurocrypt/eurocrypt89,1989,Zero-knowledge Protocols,Practical Zero-Knowledge Proofs: Giving Hints and Using Deficiencies.,Joan Boyar;Katalin Friedl;Carsten Lund;,https://doi.org/10.1007/3-540-46885-4_18
+eurocrypt/eurocrypt89,1989,Zero-knowledge Protocols,An Alternative to the Fiat-Shamir Protocol.,Jacques Stern;,https://doi.org/10.1007/3-540-46885-4_19
+eurocrypt/eurocrypt89,1989,Zero-knowledge Protocols,Sorting out Zero-Knowledge.,Gilles Brassard;Claude Crépeau;,https://doi.org/10.1007/3-540-46885-4_20
+eurocrypt/eurocrypt89,1989,Zero-knowledge Protocols,Everything in NP can be Argued in Perfect Zero-Knowledge in a Bounded Number of Rounds (Extended Abstract).,Gilles Brassard;Claude Crépeau;Moti Yung;,https://doi.org/10.1007/3-540-46885-4_21
+eurocrypt/eurocrypt89,1989,Zero-knowledge Protocols,Zero-Knowledge Proofs of Computational Power (Extended Summary).,Moti Yung;,https://doi.org/10.1007/3-540-46885-4_22
+eurocrypt/eurocrypt89,1989,Zero-knowledge Protocols,More Efficient Match-Making and Satisfiability: The Five Card Trick.,Bert den Boer;,https://doi.org/10.1007/3-540-46885-4_23
+eurocrypt/eurocrypt89,1989,Applications,A Single Chip 1024 Bits RSA Processor.,André Vandermeulebroecke;Etienne Vanzieleghem;Tony Denayer;Paul G. A. Jespers;,https://doi.org/10.1007/3-540-46885-4_24
+eurocrypt/eurocrypt89,1989,Applications,Cryptel - The Practical Protection of an Existing Electronic Mail System.,Hedwig Cnudde;,https://doi.org/10.1007/3-540-46885-4_25
+eurocrypt/eurocrypt89,1989,Applications,Technical Security: The Starting Point.,Jan Van Auseloos;,https://doi.org/10.1007/3-540-46885-4_26
+eurocrypt/eurocrypt89,1989,Applications,Security in Open Distributed Processing.,Charles Siuda;,https://doi.org/10.1007/3-540-46885-4_27
+eurocrypt/eurocrypt89,1989,Applications,A European Call For Cryptographic Algorithms: Ripe; Race Integrity Primitives Evaluation.,Joos Vandewalle;David Chaum;Walter Fumy;Cees J. A. Jansen;Peter Landrock;Gert Roelofsen;,https://doi.org/10.1007/3-540-46885-4_28
+eurocrypt/eurocrypt89,1989,Signature and Untraceability,Legal Requirements Facing New Signature Technology.,Mireille Antoine;Jean-François Brakeland;Marc Eloy;Yves Poullet;,https://doi.org/10.1007/3-540-46885-4_29
+eurocrypt/eurocrypt89,1989,Signature and Untraceability,Online Cash Checks.,David Chaum;,https://doi.org/10.1007/3-540-46885-4_30
+eurocrypt/eurocrypt89,1989,Signature and Untraceability,Efficient Offline Electronic Checks (Extended Abstract).,David Chaum;Bert den Boer;Eugène van Heyst;Stig Fr. Mjølsnes;Adri Steenbeek;,https://doi.org/10.1007/3-540-46885-4_31
+eurocrypt/eurocrypt89,1989,Signature and Untraceability,Unconditional Sender and Recipient Untraceability in Spite of Active Attacks.,Michael Waidner;,https://doi.org/10.1007/3-540-46885-4_32
+eurocrypt/eurocrypt89,1989,Signature and Untraceability,Detection of Disrupters in the DC Protocol.,Jurjen N. Bos;Bert den Boer;,https://doi.org/10.1007/3-540-46885-4_33
+eurocrypt/eurocrypt89,1989,Cryptanalysis,Random Mapping Statistics.,Philippe Flajolet;Andrew M. Odlyzko;,https://doi.org/10.1007/3-540-46885-4_34
+eurocrypt/eurocrypt89,1989,Cryptanalysis,Factoring by Electronic Mail.,Arjen K. Lenstra;Mark S. Manasse;,https://doi.org/10.1007/3-540-46885-4_35
+eurocrypt/eurocrypt89,1989,Cryptanalysis,Cryptanalysis of Short RSA Secret Exponents (Abstract).,Michael J. Wiener;,https://doi.org/10.1007/3-540-46885-4_36
+eurocrypt/eurocrypt89,1989,Cryptanalysis,How to Break the Direct RSA-Implementation of Mixes.,Birgit Pfitzmann;Andreas Pfitzmann;,https://doi.org/10.1007/3-540-46885-4_37
+eurocrypt/eurocrypt89,1989,Cryptanalysis,An Information-Theoretic Treatment of Homophonic Substitution.,Hakon N. Jendal;Yves J. B. Kuhn;James L. Massey;,https://doi.org/10.1007/3-540-46885-4_38
+eurocrypt/eurocrypt89,1989,Cryptanalysis,Cryptanalysis of a Modified Rotor Machine.,Peer Wichmann;,https://doi.org/10.1007/3-540-46885-4_39
+eurocrypt/eurocrypt89,1989,Cryptanalysis,Cryptanalysis of Video Encryption Based on Space-Filling Curves.,Michael Bertilsson;Ernest F. Brickell;Ingemar Ingemarsson;,https://doi.org/10.1007/3-540-46885-4_40
+eurocrypt/eurocrypt89,1989,Cryptanalysis,Impossibility and Optimality Results on Constructing Pseudorandom Permutations (Extended Abstract).,Yuliang Zheng;Tsutomu Matsumoto;Hideki Imai;,https://doi.org/10.1007/3-540-46885-4_41
+eurocrypt/eurocrypt89,1989,Cryptanalysis,On the Security of Schnorr's Pseudo Random Generator.,Rainer A. Rueppel;,https://doi.org/10.1007/3-540-46885-4_42
+eurocrypt/eurocrypt89,1989,Cryptanalysis,How Easy is Collision Search? Application to DES (Extended Summary).,Jean-Jacques Quisquater;Jean-Paul Delescaille;,https://doi.org/10.1007/3-540-46885-4_43
+eurocrypt/eurocrypt89,1989,Sharing and Authentication Schemes,Prepositioned Shared Secret and/or Shared Control Schemes.,Gustavus J. Simmons;,https://doi.org/10.1007/3-540-46885-4_44
+eurocrypt/eurocrypt89,1989,Sharing and Authentication Schemes,Some Ideal Secret Sharing Schemes.,Ernest F. Brickell;,https://doi.org/10.1007/3-540-46885-4_45
+eurocrypt/eurocrypt89,1989,Sharing and Authentication Schemes,Cartesian Authentication Schemes.,Marijke De Soete;Klaus Vedder;Michael Walker;,https://doi.org/10.1007/3-540-46885-4_46
+eurocrypt/eurocrypt89,1989,Sharing and Authentication Schemes,"How to Say ""No"".",Albrecht Beutelspacher;,https://doi.org/10.1007/3-540-46885-4_47
+eurocrypt/eurocrypt89,1989,Sharing and Authentication Schemes,Key Minimal Authentication Systems for Unconditional Secrecy.,Philippe Godlewski;Chris J. Mitchell;,https://doi.org/10.1007/3-540-46885-4_48
+eurocrypt/eurocrypt89,1989,Sequences,Parallel Generation of Recurring Sequences.,Christoph G. Günther;,https://doi.org/10.1007/3-540-46885-4_49
+eurocrypt/eurocrypt89,1989,Sequences,Keysystem Sequences with a Good Linear Complexity Profile for Every STrating Point.,Harald Niederreiter;,https://doi.org/10.1007/3-540-46885-4_50
+eurocrypt/eurocrypt89,1989,Sequences,On the Complexity of Pseudo-Random Sequences - Or: If You Can Describe a Sequence It Can't be Random.,Thomas Beth;Zong-Duo Dai;,https://doi.org/10.1007/3-540-46885-4_51
+eurocrypt/eurocrypt89,1989,Sequences,Feedforward Functions Defined By de Bruijn Sequences.,Zong-Duo Dai;Kencheng Zeng;,https://doi.org/10.1007/3-540-46885-4_52
+eurocrypt/eurocrypt89,1989,Sequences,Nonlinearity Criteria for Cryptographic Functions.,Willi Meier;Othmar Staffelbach;,https://doi.org/10.1007/3-540-46885-4_53
+eurocrypt/eurocrypt89,1989,Sequences,On the Linear Complexity of Feedback Registers (Extended Abstract).,Agnes Hui Chan;Mark Goresky;Andrew Klapper;,https://doi.org/10.1007/3-540-46885-4_54
+eurocrypt/eurocrypt89,1989,Sequences,Linear Complexity Profiles and Continued Fractions.,Muzhong Wang;,https://doi.org/10.1007/3-540-46885-4_55
+eurocrypt/eurocrypt89,1989,Sequences,A Fats Correlation Attack on Nonlinearly Feedforward Filtered Shift-Register Sequences.,Réjane Forré;,https://doi.org/10.1007/3-540-46885-4_56
+eurocrypt/eurocrypt89,1989,Algorithms,On the Complexity and Efficiency of a New Key Exchange System.,Johannes A. Buchmann;Stephan Düllmann;Hugh C. Williams;,https://doi.org/10.1007/3-540-46885-4_57
+eurocrypt/eurocrypt89,1989,Algorithms,A New Multiple Key Cipher and an Improved Voting Scheme.,Colin Boyd;,https://doi.org/10.1007/3-540-46885-4_58
+eurocrypt/eurocrypt89,1989,Algorithms,Atkin's Test: News From the Front.,François Morain;,https://doi.org/10.1007/3-540-46885-4_59
+eurocrypt/eurocrypt89,1989,Algorithms,Fast Generation of Secure RSA-Moduli with Almost Maximal Diversity.,Ueli M. Maurer;,https://doi.org/10.1007/3-540-46885-4_60
+eurocrypt/eurocrypt89,1989,Old Problems,Deciphering Bronze Age Scripts of Crete - The Case of Linear A.,Yves Duhoux;,https://doi.org/10.1007/3-540-46885-4_61
+eurocrypt/eurocrypt89,1989,Rump Session (Impromptu Talks),Faster Primality Testing (Extended Abstract).,Wieb Bosma;Marc-Paul van der Hulst;,https://doi.org/10.1007/3-540-46885-4_62
+eurocrypt/eurocrypt89,1989,Rump Session (Impromptu Talks),Private-Key Algebraic-Code Cryptosystems with High Information Rates (Extended Abstract).,Tzonelih Hwang;T. R. N. Rao;,https://doi.org/10.1007/3-540-46885-4_63
+eurocrypt/eurocrypt89,1989,Rump Session (Impromptu Talks),Zero-Knowledge Procedures for Confidential Access to Medical Records (Extended Summary).,Jean-Jacques Quisquater;André Bouckaert;,https://doi.org/10.1007/3-540-46885-4_64
+eurocrypt/eurocrypt89,1989,Rump Session (Impromptu Talks),Full Secure Key Exchange and Authentication with no Previously Shared Secrets.,Josep Domingo-Ferrer;Llorenç Huguet i Rotger;,https://doi.org/10.1007/3-540-46885-4_65
+eurocrypt/eurocrypt89,1989,Rump Session (Impromptu Talks),Varying Feedback Shift Registers.,Yves Roggeman;,https://doi.org/10.1007/3-540-46885-4_66
+eurocrypt/eurocrypt89,1989,Rump Session (Impromptu Talks),"A Cryptanalysis of Stepk, m-Cascades.",Dieter Gollmann;William G. Chambers;,https://doi.org/10.1007/3-540-46885-4_67
+eurocrypt/eurocrypt89,1989,Rump Session (Impromptu Talks),Efficient Identification and Signatures for Smart Cards (Abstract).,Claus-Peter Schnorr;,https://doi.org/10.1007/3-540-46885-4_68
+eurocrypt/eurocrypt89,1989,Rump Session (Impromptu Talks),The Dining Cryptographers in the Disco - Underconditional Sender and Recipient Untraceability with Computationally Secure Serviceability (Abstract).,Michael Waidner;Birgit Pfitzmann;,https://doi.org/10.1007/3-540-46885-4_69
+eurocrypt/eurocrypt89,1989,Rump Session (Impromptu Talks),Some Conditions on the Linear Complexity Profiles of Certain Binary Sequences.,Glyn Carter;,https://doi.org/10.1007/3-540-46885-4_70
+eurocrypt/eurocrypt89,1989,Rump Session (Impromptu Talks),On the Design of Permutation P in DES Type Cryptosystems.,Lawrence Brown;Jennifer Seberry;,https://doi.org/10.1007/3-540-46885-4_71
+eurocrypt/eurocrypt89,1989,Rump Session (Impromptu Talks),A Fast Elliptic Curve Cryptosystem.,Gordon B. Agnew;Ronald C. Mullin;Scott A. Vanstone;,https://doi.org/10.1007/3-540-46885-4_72

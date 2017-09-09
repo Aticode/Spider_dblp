@@ -1,0 +1,35 @@
+asiacrypt/asiacrypt2007,2007,Number Theory and Elliptic Curve,A Kilobit Special Number Field Sieve Factorization.,Kazumaro Aoki;Jens Franke;Thorsten Kleinjung;Arjen K. Lenstra;Dag Arne Osvik;,https://doi.org/10.1007/978-3-540-76900-2_1
+asiacrypt/asiacrypt2007,2007,Number Theory and Elliptic Curve,When e-th Roots Become Easier Than Factoring.,Antoine Joux;David Naccache;Emmanuel Thomé;,https://doi.org/10.1007/978-3-540-76900-2_2
+asiacrypt/asiacrypt2007,2007,Number Theory and Elliptic Curve,Faster Addition and Doubling on Elliptic Curves.,Daniel J. Bernstein;Tanja Lange;,https://doi.org/10.1007/978-3-540-76900-2_3
+asiacrypt/asiacrypt2007,2007,Protocol,A Non-interactive Shuffle with Pairing Based Verifiability.,Jens Groth;Steve Lu;,https://doi.org/10.1007/978-3-540-76900-2_4
+asiacrypt/asiacrypt2007,2007,Protocol,On Privacy Models for RFID.,Serge Vaudenay;,https://doi.org/10.1007/978-3-540-76900-2_5
+asiacrypt/asiacrypt2007,2007,Invited Talk,Obtaining Universally Compoable Security: Towards the Bare Bones of Trust.,Ran Canetti;,https://doi.org/10.1007/978-3-540-76900-2_6
+asiacrypt/asiacrypt2007,2007,Hash Function Design,A Simple Variant of the Merkle-Damgård Scheme with a Permutation.,Shoichi Hirose;Je Hong Park;Aaram Yun;,https://doi.org/10.1007/978-3-540-76900-2_7
+asiacrypt/asiacrypt2007,2007,Hash Function Design,Seven-Property-Preserving Iterated Hashing: ROX.,Elena Andreeva;Gregory Neven;Bart Preneel;Thomas Shrimpton;,https://doi.org/10.1007/978-3-540-76900-2_8
+asiacrypt/asiacrypt2007,2007,Hash Function Design,How to Build a Hash Function from Any Collision-Resistant Function.,Thomas Ristenpart;Thomas Shrimpton;,https://doi.org/10.1007/978-3-540-76900-2_9
+asiacrypt/asiacrypt2007,2007,Group/Broadcast Cryptography,Fully Anonymous Group Signatures Without Random Oracles.,Jens Groth;,https://doi.org/10.1007/978-3-540-76900-2_10
+asiacrypt/asiacrypt2007,2007,Group/Broadcast Cryptography,Group Encryption.,Aggelos Kiayias;Yiannis Tsiounis;Moti Yung;,https://doi.org/10.1007/978-3-540-76900-2_11
+asiacrypt/asiacrypt2007,2007,Group/Broadcast Cryptography,Identity-Based Broadcast Encryption with Constant Size Ciphertexts and Private Keys.,Cécile Delerablée;,https://doi.org/10.1007/978-3-540-76900-2_12
+asiacrypt/asiacrypt2007,2007,MAC and Implementation,Boosting Merkle-Damgård Hashing for Message Authentication.,Kan Yasuda;,https://doi.org/10.1007/978-3-540-76900-2_13
+asiacrypt/asiacrypt2007,2007,MAC and Implementation,On Efficient Message Authentication Via Block Cipher Design Techniques.,Goce Jakimoski;K. P. Subbalakshmi;,https://doi.org/10.1007/978-3-540-76900-2_14
+asiacrypt/asiacrypt2007,2007,MAC and Implementation,Symmetric Key Cryptography on Modern Graphics Hardware.,Jason Yang;James Goodman;,https://doi.org/10.1007/978-3-540-76900-2_15
+asiacrypt/asiacrypt2007,2007,Multiparty Computation,Blind Identity-Based Encryption and Simulatable Oblivious Transfer.,Matthew Green;Susan Hohenberger;,https://doi.org/10.1007/978-3-540-76900-2_16
+asiacrypt/asiacrypt2007,2007,Multiparty Computation,Multi-party Indirect Indexing and Applications.,Matthew K. Franklin;Mark A. Gondree;Payman Mohassel;,https://doi.org/10.1007/978-3-540-76900-2_17
+asiacrypt/asiacrypt2007,2007,Multiparty Computation,Two-Party Computing with Encrypted Data.,Seung Geol Choi;Ariel Elbaz;Ari Juels;Tal Malkin;Moti Yung;,https://doi.org/10.1007/978-3-540-76900-2_18
+asiacrypt/asiacrypt2007,2007,Block Ciphers,Known-Key Distinguishers for Some Block Ciphers.,Lars R. Knudsen;Vincent Rijmen;,https://doi.org/10.1007/978-3-540-76900-2_19
+asiacrypt/asiacrypt2007,2007,Block Ciphers,Generic Attacks on Unbalanced Feistel Schemes with Expanding Functions.,Jacques Patarin;Valérie Nachef;Côme Berbain;,https://doi.org/10.1007/978-3-540-76900-2_20
+asiacrypt/asiacrypt2007,2007,Block Ciphers,On Tweaking Luby-Rackoff Blockciphers.,David Goldenberg;Susan Hohenberger;Moses Liskov;Elizabeth Crump Schwartz;Hakan Seyalioglu;,https://doi.org/10.1007/978-3-540-76900-2_21
+asiacrypt/asiacrypt2007,2007,Multiparty Computation,Secure Protocols with Asymmetric Trust.,Ivan Damgård;Yvo Desmedt;Matthias Fitzi;Jesper Buus Nielsen;,https://doi.org/10.1007/978-3-540-76900-2_22
+asiacrypt/asiacrypt2007,2007,Multiparty Computation,Simple and Efficient Perfectly-Secure Asynchronous MPC.,Zuzana Beerliová-Trubíniová;Martin Hirt;,https://doi.org/10.1007/978-3-540-76900-2_23
+asiacrypt/asiacrypt2007,2007,Multiparty Computation,Efficient Byzantine Agreement with Faulty Minority.,Zuzana Beerliová-Trubíniová;Martin Hirt;Micha Riser;,https://doi.org/10.1007/978-3-540-76900-2_24
+asiacrypt/asiacrypt2007,2007,Multiparty Computation,Information-Theoretic Security Without an Honest Majority.,Anne Broadbent;Alain Tapp;,https://doi.org/10.1007/978-3-540-76900-2_25
+asiacrypt/asiacrypt2007,2007,Foundation,Black-Box Extension Fields and the Inexistence of Field-Homomorphic One-Way Permutations.,Ueli M. Maurer;Dominik Raub;,https://doi.org/10.1007/978-3-540-76900-2_26
+asiacrypt/asiacrypt2007,2007,Foundation,Concurrent Statistical Zero-Knowledge Arguments for NP from One Way Functions.,Vipul Goyal;Ryan Moriarty;Rafail Ostrovsky;Amit Sahai;,https://doi.org/10.1007/978-3-540-76900-2_27
+asiacrypt/asiacrypt2007,2007,Foundation,Anonymous Quantum Communication.,Gilles Brassard;Anne Broadbent;Joseph Fitzsimons;Sébastien Gambs;Alain Tapp;,https://doi.org/10.1007/978-3-540-76900-2_28
+asiacrypt/asiacrypt2007,2007,Invited Talk,Authenticated Key Exchange and Key Encapsulation in the Standard Model.,Tatsuaki Okamoto;,https://doi.org/10.1007/978-3-540-76900-2_29
+asiacrypt/asiacrypt2007,2007,Public Key Encryption,Miniature CCA2 PK Encryption: Tight Security Without Redundancy.,Xavier Boyen;,https://doi.org/10.1007/978-3-540-76900-2_30
+asiacrypt/asiacrypt2007,2007,Public Key Encryption,Bounded CCA2-Secure Encryption.,Ronald Cramer;Goichiro Hanaoka;Dennis Hofheinz;Hideki Imai;Eike Kiltz;Rafael Pass;Abhi Shelat;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-540-76900-2_31
+asiacrypt/asiacrypt2007,2007,Public Key Encryption,Relations Among Notions of Non-malleability for Encryption.,Rafael Pass;Abhi Shelat;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-540-76900-2_32
+asiacrypt/asiacrypt2007,2007,Cryptanalysis,Cryptanalysis of the Tiger Hash Function.,Florian Mendel;Vincent Rijmen;,https://doi.org/10.1007/978-3-540-76900-2_33
+asiacrypt/asiacrypt2007,2007,Cryptanalysis,Cryptanalysis of Grindahl.,Thomas Peyrin;,https://doi.org/10.1007/978-3-540-76900-2_34
+asiacrypt/asiacrypt2007,2007,Cryptanalysis,A Key Recovery Attack on Edon80.,Martin Hell;Thomas Johansson;,https://doi.org/10.1007/978-3-540-76900-2_35

@@ -1,0 +1,38 @@
+sp/sp2013,2013,None,All Your IFCException Are Belong to Us.,Catalin Hritcu;Michael Greenberg;Ben Karel;Benjamin C. Pierce;Greg Morrisett;,https://doi.org/10.1109/SP.2013.10
+sp/sp2013,2013,None,"Declarative, Temporal, and Practical Programming with Capabilities.",William R. Harris;Somesh Jha;Thomas W. Reps;Jonathan Anderson;Robert N. M. Watson;,https://doi.org/10.1109/SP.2013.11
+sp/sp2013,2013,None,Towards Practical Reactive Security Audit Using Extended Static Checkers.,Julien Vanegue;Shuvendu K. Lahiri;,https://doi.org/10.1109/SP.2013.12
+sp/sp2013,2013,None,SoK: Eternal War in Memory.,Laszlo Szekeres;Mathias Payer;Tao Wei;Dawn Song;,https://doi.org/10.1109/SP.2013.13
+sp/sp2013,2013,None,The Parrot Is Dead: Observing Unobservable Network Communications.,Amir Houmansadr;Chad Brubaker;Vitaly Shmatikov;,https://doi.org/10.1109/SP.2013.14
+sp/sp2013,2013,None,"Trawling for Tor Hidden Services: Detection, Measurement, Deanonymization.",Alex Biryukov;Ivan Pustogarov;Ralf-Philipp Weinmann;,https://doi.org/10.1109/SP.2013.15
+sp/sp2013,2013,None,SoK: P2PWNED - Modeling and Evaluating the Resilience of Peer-to-Peer Botnets.,Christian Rossow;Dennis Andriesse;Tillmann Werner;Brett Stone-Gross;Daniel Plohmann;Christian J. Dietrich;Herbert Bos;,https://doi.org/10.1109/SP.2013.17
+sp/sp2013,2013,None,Finding the Linchpins of the Dark Web: a Study on Topologically Dedicated Hosts on Malicious Web Infrastructures.,Zhou Li;Sumayah A. Alrwais;Yinglian Xie;Fang Yu;XiaoFeng Wang;,https://doi.org/10.1109/SP.2013.18
+sp/sp2013,2013,None,The Crossfire Attack.,Min Suk Kang;Soo Bum Lee;Virgil D. Gligor;,https://doi.org/10.1109/SP.2013.19
+sp/sp2013,2013,None,Ghost Talk: Mitigating EMI Signal Injection Attacks against Analog Sensors.,Denis Foo Kune;John D. Backes;Shane S. Clark;Daniel B. Kramer;Matthew R. Reynolds;Kevin Fu;Yongdae Kim;Wenyuan Xu;,https://doi.org/10.1109/SP.2013.20
+sp/sp2013,2013,None,On Limitations of Friendly Jamming for Confidentiality.,Nils Ole Tippenhauer;Luka Malisa;Aanjhan Ranganathan;Srdjan Capkun;,https://doi.org/10.1109/SP.2013.21
+sp/sp2013,2013,None,Ally Friendly Jamming: How to Jam Your Enemy and Maintain Your Own Wireless Connectivity at the Same Time.,Wenbo Shen;Peng Ning;Xiaofan He;Huaiyu Dai;,https://doi.org/10.1109/SP.2013.22
+sp/sp2013,2013,None,Practical Timing Side Channel Attacks against Kernel Space ASLR.,Ralf Hund;Carsten Willems;Thorsten Holz;,https://doi.org/10.1109/SP.2013.23
+sp/sp2013,2013,None,PrivExec: Private Execution as an Operating System Service.,Kaan Onarlioglu;Collin Mulliner;William K. Robertson;Engin Kirda;,https://doi.org/10.1109/SP.2013.24
+sp/sp2013,2013,None,A Hybrid Architecture for Interactive Verifiable Computation.,Victor Vu;Srinath T. V. Setty;Andrew J. Blumberg;Michael Walfish;,https://doi.org/10.1109/SP.2013.48
+sp/sp2013,2013,None,Pinocchio: Nearly Practical Verifiable Computation.,Bryan Parno;Jon Howell;Craig Gentry;Mariana Raykova;,https://doi.org/10.1109/SP.2013.47
+sp/sp2013,2013,None,ObliviStore: High Performance Oblivious Cloud Storage.,Emil Stefanov;Elaine Shi;,https://doi.org/10.1109/SP.2013.25
+sp/sp2013,2013,None,Hiding Information in Flash Memory.,Yinglei Wang;Wing-Kei S. Yu;Sarah Q. Xu;Edwin Kan;G. Edward Suh;,https://doi.org/10.1109/SP.2013.26
+sp/sp2013,2013,None,PUFs in Security Protocols: Attack Models and Security Evaluations.,Ulrich Rührmair;Marten van Dijk;,https://doi.org/10.1109/SP.2013.27
+sp/sp2013,2013,None,SoK: Secure Data Deletion.,Joel Reardon;David A. Basin;Srdjan Capkun;,https://doi.org/10.1109/SP.2013.28
+sp/sp2013,2013,None,Anon-Pass: Practical Anonymous Subscriptions.,Michael Z. Lee;Alan M. Dunn;Brent Waters;Emmett Witchel;Jonathan Katz;,https://doi.org/10.1109/SP.2013.29
+sp/sp2013,2013,None,Privacy-Preserving Ridge Regression on Hundreds of Millions of Records.,Valeria Nikolaenko;Udi Weinsberg;Stratis Ioannidis;Marc Joye;Dan Boneh;Nina Taft;,https://doi.org/10.1109/SP.2013.30
+sp/sp2013,2013,None,A Scanner Darkly: Protecting User Privacy from Perceptual Applications.,Suman Jana;Arvind Narayanan;Vitaly Shmatikov;,https://doi.org/10.1109/SP.2013.31
+sp/sp2013,2013,None,Caveat Coercitor: Coercion-Evidence in Electronic Voting.,Gurchetan S. Grewal;Mark Dermot Ryan;Sergiu Bursuc;Peter Y. A. Ryan;,https://doi.org/10.1109/SP.2013.32
+sp/sp2013,2013,None,SoK: The Evolution of Sybil Defense via Social Networks.,Lorenzo Alvisi;Allen Clement;Alessandro Epasto;Silvio Lattanzi;Alessandro Panconesi;,https://doi.org/10.1109/SP.2013.33
+sp/sp2013,2013,None,Zerocoin: Anonymous Distributed E-Cash from Bitcoin.,Ian Miers;Christina Garman;Matthew Green;Aviel D. Rubin;,https://doi.org/10.1109/SP.2013.34
+sp/sp2013,2013,None,seL4: From General Purpose to a Proof of Information Flow Enforcement.,Toby C. Murray;Daniel Matichuk;Matthew Brassil;Peter Gammie;Timothy Bourke;Sean Seefried;Corey Lewis;Xin Gao;Gerwin Klein;,https://doi.org/10.1109/SP.2013.35
+sp/sp2013,2013,None,"Design, Implementation and Verification of an eXtensible and Modular Hypervisor Framework.",Amit Vasudevan;Sagar Chaki;Limin Jia;Jonathan M. McCune;James Newsome;Anupam Datta;,https://doi.org/10.1109/SP.2013.36
+sp/sp2013,2013,None,Implementing TLS with Verified Cryptographic Security.,Karthikeyan Bhargavan;Cédric Fournet;Markulf Kohlweiss;Alfredo Pironti;Pierre-Yves Strub;,https://doi.org/10.1109/SP.2013.37
+sp/sp2013,2013,None,An Ideal-Security Protocol for Order-Preserving Encoding.,Raluca A. Popa;Frank H. Li;Nickolai Zeldovich;,https://doi.org/10.1109/SP.2013.38
+sp/sp2013,2013,None,Efficient Garbling from a Fixed-Key Blockcipher.,Mihir Bellare;Viet Tung Hoang;Sriram Keelveedhi;Phillip Rogaway;,https://doi.org/10.1109/SP.2013.39
+sp/sp2013,2013,None,Circuit Structures for Improving Efficiency of Security and Privacy Tools.,Samee Zahur;David Evans;,https://doi.org/10.1109/SP.2013.40
+sp/sp2013,2013,None,SoK: SSL and HTTPS: Revisiting Past Challenges and Evaluating Certificate Trust Model Enhancements.,Jeremy Clark;Paul C. van Oorschot;,https://doi.org/10.1109/SP.2013.41
+sp/sp2013,2013,None,Lucky Thirteen: Breaking the TLS and DTLS Record Protocols.,Nadhem J. AlFardan;Kenneth G. Paterson;,https://doi.org/10.1109/SP.2013.42
+sp/sp2013,2013,None,Cookieless Monster: Exploring the Ecosystem of Web-Based Device Fingerprinting.,Nick Nikiforakis;Alexandros Kapravelos;Wouter Joosen;Christopher Kruegel;Frank Piessens;Giovanni Vigna;,https://doi.org/10.1109/SP.2013.43
+sp/sp2013,2013,None,Practical Control Flow Integrity and Randomization for Binary Executables.,Chao Zhang;Tao Wei;Zhaofeng Chen;Lei Duan;Laszlo Szekeres;Stephen McCamant;Dawn Song;Wei Zou;,https://doi.org/10.1109/SP.2013.44
+sp/sp2013,2013,None,Just-In-Time Code Reuse: On the Effectiveness of Fine-Grained Address Space Layout Randomization.,Kevin Z. Snow;Fabian Monrose;Lucas Davi;Alexandra Dmitrienko;Christopher Liebchen;Ahmad-Reza Sadeghi;,https://doi.org/10.1109/SP.2013.45
+sp/sp2013,2013,None,Welcome to the Entropics: Boot-Time Entropy in Embedded Devices.,Keaton Mowery;Michael Yung Chung Wei;David Kohlbrenner;Hovav Shacham;Steven Swanson;,https://doi.org/10.1109/SP.2013.46

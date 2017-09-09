@@ -1,0 +1,30 @@
+asiacrypt/asiacrypt2006,2006,Attacks on Hash Functions,Finding SHA-1 Characteristics: General Results and Applications.,Christophe De Cannière;Christian Rechberger;,https://doi.org/10.1007/11935230_1
+asiacrypt/asiacrypt2006,2006,Attacks on Hash Functions,Improved Collision Search for SHA-0.,Yusuke Naito;Yu Sasaki;Takeshi Shimoyama;Jun Yajima;Noboru Kunihiro;Kazuo Ohta;,https://doi.org/10.1007/11935230_2
+asiacrypt/asiacrypt2006,2006,Attacks on Hash Functions,Forgery and Partial Key-Recovery Attacks on HMAC and NMAC Using Hash Collisions.,Scott Contini;Yiqun Lisa Yin;,https://doi.org/10.1007/11935230_3
+asiacrypt/asiacrypt2006,2006,Stream Ciphers and Boolean Functions,New Guess-and-Determine Attack on the Self-Shrinking Generator.,Bin Zhang;Dengguo Feng;,https://doi.org/10.1007/11935230_4
+asiacrypt/asiacrypt2006,2006,Stream Ciphers and Boolean Functions,On the (In)security of Stream Ciphers Based on Arrays and Modular Addition.,Souradyuti Paul;Bart Preneel;,https://doi.org/10.1007/11935230_5
+asiacrypt/asiacrypt2006,2006,Stream Ciphers and Boolean Functions,Construction and Analysis of Boolean Functions of 2t+1 Variables with Maximum Algebraic Immunity.,Na Li;Wen-Feng Qi;,https://doi.org/10.1007/11935230_6
+asiacrypt/asiacrypt2006,2006,Biometrics and ECC Computation,Secure Sketch for Biometric Templates.,Qiming Li;Yagiz Sutcu;Nasir D. Memon;,https://doi.org/10.1007/11935230_7
+asiacrypt/asiacrypt2006,2006,Biometrics and ECC Computation,The 2-Adic CM Method for Genus 2 Curves with Application to Cryptography.,Pierrick Gaudry;T. Houtmann;David R. Kohel;Christophe Ritzenthaler;A. Weng;,https://doi.org/10.1007/11935230_8
+asiacrypt/asiacrypt2006,2006,Biometrics and ECC Computation,Extending Scalar Multiplication Using Double Bases.,Roberto Maria Avanzi;Vassil S. Dimitrov;Christophe Doche;Francesco Sica;,https://doi.org/10.1007/11935230_9
+asiacrypt/asiacrypt2006,2006,ID-Based Schemes,HIBE With Short Public Parameters Without Random Oracle.,Sanjit Chatterjee;Palash Sarkar;,https://doi.org/10.1007/11935230_10
+asiacrypt/asiacrypt2006,2006,ID-Based Schemes,Forward-Secure and Searchable Broadcast Encryption with Short Ciphertexts and Private Keys.,Nuttapong Attrapadung;Jun Furukawa;Hideki Imai;,https://doi.org/10.1007/11935230_11
+asiacrypt/asiacrypt2006,2006,ID-Based Schemes,On the Generic Construction of Identity-Based Signatures with Additional Properties.,David Galindo;Javier Herranz;Eike Kiltz;,https://doi.org/10.1007/11935230_12
+asiacrypt/asiacrypt2006,2006,Public-Key Schemes,On the Provable Security of an Efficient RSA-Based Pseudorandom Generator.,Ron Steinfeld;Josef Pieprzyk;Huaxiong Wang;,https://doi.org/10.1007/11935230_13
+asiacrypt/asiacrypt2006,2006,Public-Key Schemes,On the Security of OAEP.,Alexandra Boldyreva;Marc Fischlin;,https://doi.org/10.1007/11935230_14
+asiacrypt/asiacrypt2006,2006,Public-Key Schemes,Relationship Between Standard Model Plaintext Awareness and Message Hiding.,Isamu Teranishi;Wakaha Ogata;,https://doi.org/10.1007/11935230_15
+asiacrypt/asiacrypt2006,2006,RSA and Factorization,On the Equivalence of RSA and Factoring Regarding Generic Ring Algorithms.,Gregor Leander;Andy Rupp;,https://doi.org/10.1007/11935230_16
+asiacrypt/asiacrypt2006,2006,RSA and Factorization,Trading One-Wayness Against Chosen-Ciphertext Security in Factoring-Based Encryption.,Pascal Paillier;Jorge Luis Villar;,https://doi.org/10.1007/11935230_17
+asiacrypt/asiacrypt2006,2006,RSA and Factorization,A Strategy for Finding Roots of Multivariate Polynomials with New Applications in Attacking RSA Variants.,Ellen Jochemsz;Alexander May;,https://doi.org/10.1007/11935230_18
+asiacrypt/asiacrypt2006,2006,Construction of Hash Function,Indifferentiable Security Analysis of Popular Hash Functions with Prefix-Free Padding.,Donghoon Chang;Sangjin Lee;Mridul Nandi;Moti Yung;,https://doi.org/10.1007/11935230_19
+asiacrypt/asiacrypt2006,2006,Construction of Hash Function,Multi-Property-Preserving Hash Domain Extension and the EMD Transform.,Mihir Bellare;Thomas Ristenpart;,https://doi.org/10.1007/11935230_20
+asiacrypt/asiacrypt2006,2006,Construction of Hash Function,Combining Compression Functions and Block Cipher-Based Hash Functions.,Thomas Peyrin;Henri Gilbert;Frédéric Muller;Matthew J. B. Robshaw;,https://doi.org/10.1007/11935230_21
+asiacrypt/asiacrypt2006,2006,Protocols,A Scalable Password-Based Group Key Exchange Protocol in the Standard Model.,Michel Abdalla;David Pointcheval;,https://doi.org/10.1007/11935230_22
+asiacrypt/asiacrypt2006,2006,Protocols,A Weakness in Some Oblivious Transfer and Zero-Knowledge Protocols.,Ventzislav Nikov;Svetla Nikova;Bart Preneel;,https://doi.org/10.1007/11935230_23
+asiacrypt/asiacrypt2006,2006,Protocols,Almost Optimum Secret Sharing Schemes Secure Against Cheating for Arbitrary Secret Distribution.,Satoshi Obana;Toshinori Araki;,https://doi.org/10.1007/11935230_24
+asiacrypt/asiacrypt2006,2006,Block Ciphers,KFC - The Krazy Feistel Cipher.,Thomas Baignères;Matthieu Finiasz;,https://doi.org/10.1007/11935230_25
+asiacrypt/asiacrypt2006,2006,Block Ciphers,Generic Attacks on Unbalanced Feistel Schemes with Contracting Functions.,Jacques Patarin;Valérie Nachef;Côme Berbain;,https://doi.org/10.1007/11935230_26
+asiacrypt/asiacrypt2006,2006,Block Ciphers,New Cryptanalytic Results on IDEA.,Eli Biham;Orr Dunkelman;Nathan Keller;,https://doi.org/10.1007/11935230_27
+asiacrypt/asiacrypt2006,2006,Signatures,New Approach for Selectively Convertible Undeniable Signature Schemes.,Kaoru Kurosawa;Tsuyoshi Takagi;,https://doi.org/10.1007/11935230_28
+asiacrypt/asiacrypt2006,2006,Signatures,Simulation-Sound NIZK Proofs for a Practical Language and Constant Size Group Signatures.,Jens Groth;,https://doi.org/10.1007/11935230_29
+asiacrypt/asiacrypt2006,2006,Signatures,Analysis of One Popular Group Signature Scheme.,Zhengjun Cao;,https://doi.org/10.1007/11935230_30

@@ -1,0 +1,46 @@
+asiacrypt/asiacrypt91,1991,Invited Lecture,"The Transition from Mechanisms to Electronic Computers, 1940 to 1950.",Donald W. Davies;,https://doi.org/10.1007/3-540-57332-1_1
+asiacrypt/asiacrypt91,1991,Differential Cryptanalysis and DES-Like Cryptosystems,Cryptanalysis of LOKI.,Lars R. Knudsen;,https://doi.org/10.1007/3-540-57332-1_2
+asiacrypt/asiacrypt91,1991,Differential Cryptanalysis and DES-Like Cryptosystems,Improving Resistance to Differential Cryptanalysis and the Redesign of LOKI.,Lawrence Brown;Matthew Kwan;Josef Pieprzyk;Jennifer Seberry;,https://doi.org/10.1007/3-540-57332-1_3
+asiacrypt/asiacrypt91,1991,Differential Cryptanalysis and DES-Like Cryptosystems,A Method to Estimate the Number of Ciphertext Pairs for Differential Cryptanalysis.,Hiroshi Miyano;,https://doi.org/10.1007/3-540-57332-1_4
+asiacrypt/asiacrypt91,1991,Differential Cryptanalysis and DES-Like Cryptosystems,Construction of DES-like S-boxes Based on Boolean Functions Satisfyieng the SAC.,Kwangjo Kim;,https://doi.org/10.1007/3-540-57332-1_5
+asiacrypt/asiacrypt91,1991,Differential Cryptanalysis and DES-Like Cryptosystems,The Data Base of Selected Permutations (Extended Abstract).,Jun-Hui Yang;Zong-Duo Dai;Kencheng Zeng;,https://doi.org/10.1007/3-540-57332-1_6
+asiacrypt/asiacrypt91,1991,Hashing and Signature Schemes,A Framework for the Design of One-Way Hash Functions Including Cryptanalysis of Damgård's One-Way Function Based on a Cellular Automaton.,Joan Daemen;René Govaerts;Joos Vandewalle;,https://doi.org/10.1007/3-540-57332-1_7
+asiacrypt/asiacrypt91,1991,Hashing and Signature Schemes,How to Construct A Family of Strong One Way Permutations.,Babak Sadeghiyan;Yuliang Zheng;Josef Pieprzyk;,https://doi.org/10.1007/3-540-57332-1_8
+asiacrypt/asiacrypt91,1991,Hashing and Signature Schemes,On Claw Free Families.,Wakaha Ogata;Kaoru Kurosawa;,https://doi.org/10.1007/3-540-57332-1_9
+asiacrypt/asiacrypt91,1991,Hashing and Signature Schemes,Sibling Intractable Function Families and Their Applications (Extended Abstract).,Yuliang Zheng;Thomas Hardjono;Josef Pieprzyk;,https://doi.org/10.1007/3-540-57332-1_10
+asiacrypt/asiacrypt91,1991,Hashing and Signature Schemes,A Digital Multisignature Scheme Based on the Fiat-Shamir Scheme.,Kazuo Ohta;Tatsuaki Okamoto;,https://doi.org/10.1007/3-540-57332-1_11
+asiacrypt/asiacrypt91,1991,"Secret Sharing, Threshold, an Authentication Codes",A Generalized Secret Sharing Scheme With Cheater Detection.,Hung-Yu Lin;Lein Harn;,https://doi.org/10.1007/3-540-57332-1_12
+asiacrypt/asiacrypt91,1991,"Secret Sharing, Threshold, an Authentication Codes",Generalized Threshold Cryptosystems.,Chi-Sung Laih;Lein Harn;,https://doi.org/10.1007/3-540-57332-1_13
+asiacrypt/asiacrypt91,1991,"Secret Sharing, Threshold, an Authentication Codes",Feistel Type Authentication Codes.,Reihaneh Safavi-Naini;,https://doi.org/10.1007/3-540-57332-1_14
+asiacrypt/asiacrypt91,1991,Invited Lecture,Research Activities on Cryptology in Korea.,Man Y. Rhee;,https://doi.org/10.1007/3-540-57332-1_15
+asiacrypt/asiacrypt91,1991,Block Ciphers - Foundations and Analysis,On Necessary and Sufficient Conditions for the Construction of Super Pseudorandom Permutations.,Babak Sadeghiyan;Josef Pieprzyk;,https://doi.org/10.1007/3-540-57332-1_16
+asiacrypt/asiacrypt91,1991,Block Ciphers - Foundations and Analysis,A Construction of a Cioher From a Single Pseudorandom Permutation.,Shimon Even;Yishay Mansour;,https://doi.org/10.1007/3-540-57332-1_17
+asiacrypt/asiacrypt91,1991,Block Ciphers - Foundations and Analysis,Optima Perfect Randomizers.,Josef Pieprzyk;Babak Sadeghiyan;,https://doi.org/10.1007/3-540-57332-1_18
+asiacrypt/asiacrypt91,1991,Block Ciphers - Foundations and Analysis,A General Purpose Technique for Locating Key Scheduling Weakness in DES-like Cryptosystems (Extended Abstract).,Matthew Kwan;Josef Pieprzyk;,https://doi.org/10.1007/3-540-57332-1_19
+asiacrypt/asiacrypt91,1991,Block Ciphers - Foundations and Analysis,Results of Switching-Closure-Test on FEAL (Extended Abstract).,Hikaru Morita;Kazuo Ohta;Shoji Miyaguchi;,https://doi.org/10.1007/3-540-57332-1_20
+asiacrypt/asiacrypt91,1991,Invited Lecture,IC-Cards and Telecommunication Services.,Jun-ichi Mizusawa;,https://doi.org/10.1007/3-540-57332-1_21
+asiacrypt/asiacrypt91,1991,Cryptanalysis and New Ciphers,Cryptanalysis of Several Conference Key Distribution Schemes.,Atsushi Shimbo;Shin-ichi Kawamura;,https://doi.org/10.1007/3-540-57332-1_22
+asiacrypt/asiacrypt91,1991,Cryptanalysis and New Ciphers,Revealing Information with Partial Period Correlations (Extended Abstract).,Andrew Klapper;Mark Goresky;,https://doi.org/10.1007/3-540-57332-1_23
+asiacrypt/asiacrypt91,1991,Cryptanalysis and New Ciphers,Extended Majority Voting and Private-Key Algebraic-Code Encryptions.,Joost Meijers;Johan van Tilburg;,https://doi.org/10.1007/3-540-57332-1_24
+asiacrypt/asiacrypt91,1991,Cryptanalysis and New Ciphers,A Secure Analog Speech Scrambler Using the Discrete Cosine Transform.,Bruce Goldburg;Ed Dawson;S. Sridharan;,https://doi.org/10.1007/3-540-57332-1_25
+asiacrypt/asiacrypt91,1991,Proof Systems and Interactive Protocols,On Oblivious Transfer Protocol and Its Application for the Exchange of Secrets.,Lein Harn;Hung-Yu Lin;,https://doi.org/10.1007/3-540-57332-1_26
+asiacrypt/asiacrypt91,1991,Proof Systems and Interactive Protocols,4 Move Perfect ZKIP of Knowledge with No Assumption.,Takeshi Saito;Kaoru Kurosawa;Kouichi Sakurai;,https://doi.org/10.1007/3-540-57332-1_27
+asiacrypt/asiacrypt91,1991,Proof Systems and Interactive Protocols,On the Complexity of Constant Round ZKIP of Possession of Knowledge.,Toshiya Itoh;Kouichi Sakurai;,https://doi.org/10.1007/3-540-57332-1_28
+asiacrypt/asiacrypt91,1991,Proof Systems and Interactive Protocols,On the Power of Two-Local Random Reductions.,Lance Fortnow;Mario Szegedy;,https://doi.org/10.1007/3-540-57332-1_29
+asiacrypt/asiacrypt91,1991,Proof Systems and Interactive Protocols,"A Note On One-Prover, Instance-Hiding Zero-Knowledge Proof Systems.",Joan Feigenbaum;Rafail Ostrovsky;,https://doi.org/10.1007/3-540-57332-1_30
+asiacrypt/asiacrypt91,1991,Proof Systems and Interactive Protocols,An Efficient Zero-Knowledge Scheme for the Discrete Logarithm Based on Smooth Numbers.,Yvo Desmedt;Mike Burmester;,https://doi.org/10.1007/3-540-57332-1_31
+asiacrypt/asiacrypt91,1991,Proof Systems and Interactive Protocols,An Extensin of Zero-Knowledge Proofs and Its Applications.,Tatsuaki Okamoto;,https://doi.org/10.1007/3-540-57332-1_32
+asiacrypt/asiacrypt91,1991,Proof Systems and Interactive Protocols,Any Language in IP Has a Divertable ZKIP.,Toshiya Itoh;Kouichi Sakurai;Hiroki Shizuya;,https://doi.org/10.1007/3-540-57332-1_33
+asiacrypt/asiacrypt91,1991,Proof Systems and Interactive Protocols,A Multi-Purpose Proof System - for Identity and Membership Proofs.,Chaosheng Shu;Tsutomu Matsumoto;Hideki Imai;,https://doi.org/10.1007/3-540-57332-1_34
+asiacrypt/asiacrypt91,1991,Proof Systems and Interactive Protocols,Formal Verification of Probabilistic Properties in Cryptographic Protocols (Extended Abstract).,Marie-Jeanne Toussaint;,https://doi.org/10.1007/3-540-57332-1_35
+asiacrypt/asiacrypt91,1991,Invited Lecture IV,Cryptography and Machine Learning.,Ronald L. Rivest;,https://doi.org/10.1007/3-540-57332-1_36
+asiacrypt/asiacrypt91,1991,Public-Key Ciphers - Foundations and Analysis,Speeding up Prime Number Generation.,Jørgen Brandt;Ivan Damgård;Peter Landrock;,https://doi.org/10.1007/3-540-57332-1_37
+asiacrypt/asiacrypt91,1991,Public-Key Ciphers - Foundations and Analysis,Two Efficient Server-Aided Secret Computation Protocols Based on the Addition Sequence.,Chi-Sung Laih;Sung-Ming Yen;Lein Harn;,https://doi.org/10.1007/3-540-57332-1_38
+asiacrypt/asiacrypt91,1991,Public-Key Ciphers - Foundations and Analysis,On Ordinary Elliptic Curve Cryptosystems.,Atsuko Miyaji;,https://doi.org/10.1007/3-540-57332-1_39
+asiacrypt/asiacrypt91,1991,Public-Key Ciphers - Foundations and Analysis,Cryptanalysis of Another Knapsack Cryptosystem.,Antoine Joux;Jacques Stern;,https://doi.org/10.1007/3-540-57332-1_40
+asiacrypt/asiacrypt91,1991,Impromptu Talks,Collisions for Schnorr's Hash Function FFT-Hash Presented at Crypto '91.,Joan Daemen;Antoon Bosselaers;René Govaerts;Joos Vandewalle;,https://doi.org/10.1007/3-540-57332-1_41
+asiacrypt/asiacrypt91,1991,Impromptu Talks,On NIST's Proposed Digital Signature Standard.,Ronald L. Rivest;,https://doi.org/10.1007/3-540-57332-1_42
+asiacrypt/asiacrypt91,1991,Impromptu Talks,A Known-Plaintext Attack of FEAL-4 Based on the System of Linear Equations on Difference.,Toshinobu Kaneko;,https://doi.org/10.1007/3-540-57332-1_43
+asiacrypt/asiacrypt91,1991,Impromptu Talks,Simultaneous Attacks in Differential Cryptanalysis (Getting More Pairs Per Encryption).,Matthew Kwan;,https://doi.org/10.1007/3-540-57332-1_44
+asiacrypt/asiacrypt91,1991,Impromptu Talks,"Privacy, Cryptographic Pseudonyms, and The State of Health.",Stig Fr. Mjølsnes;,https://doi.org/10.1007/3-540-57332-1_45
+asiacrypt/asiacrypt91,1991,Impromptu Talks,Limitations of the Even-Mansour Construction.,Joan Daemen;,https://doi.org/10.1007/3-540-57332-1_46

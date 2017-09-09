@@ -1,0 +1,40 @@
+crypto/crypto81,1981,None,The Generation of Cryptographically Strong Pseudo-Random Sequences.,Adi Shamir;,None
+crypto/crypto81,1981,None,On the Necessity of Exhaustive Search for System-Invariant Cryptanalysis.,Martin E. Hellman;Ehud D. Karnin;Justin M. Reyneri;,None
+crypto/crypto81,1981,None,Time-Memory-Processor Tradeoffs.,Hamid R. Amirazizi;Martin E. Hellman;,None
+crypto/crypto81,1981,None,Primality Testing.,Leonard M. Adleman;,None
+crypto/crypto81,1981,None,Coin Flipping by Telephone.,Manuel Blum;,None
+crypto/crypto81,1981,None,High-Speed Hardware Implementation of the Knapsack Cipher.,Paul S. Henry;R. D. Nash;,None
+crypto/crypto81,1981,None,A Polynomial Time Solution for Compact Knapsacks.,Hamid R. Amirazizi;Ehud D. Karnin;Justin M. Reyneri;,None
+crypto/crypto81,1981,None,Some Comments on the Knapsack Problem.,Ingemar Ingemarsson;,None
+crypto/crypto81,1981,None,Variant of a Public Key Cryptosystem Based on Goppa Codes.,John P. Jordan;,None
+crypto/crypto81,1981,None,A System for Point-of-Sale or Access User Authentication and Identification.,Gustavus J. Simmons;,None
+crypto/crypto81,1981,None,One-way Sequence for Transaction Verification.,Alan G. Konheim;,None
+crypto/crypto81,1981,None,DES '81: An Update.,Miles E. Smid;,None
+crypto/crypto81,1981,None,Some Regular Properties of the DES.,Donald W. Davies;,None
+crypto/crypto81,1981,None,Subtractive Encryptors - Alternatives to the DES.,Don R. Morrison;,None
+crypto/crypto81,1981,None,Towards a Design Procedure for Cryptosecure Substitution Boxes.,J. A. Gordon;,None
+crypto/crypto81,1981,None,An Optimally Secure Relativized Cryptosystem.,Gilles Brassard;,None
+crypto/crypto81,1981,None,Scrambling and Randomization.,Subhash C. Kak;,None
+crypto/crypto81,1981,None,Memo: A Hybrid Approach to Encrypted Electronic Mail.,Brian P. Schanning;J. Kowalchuk;,None
+crypto/crypto81,1981,None,Digital Signature Scheme for Computer Communication Networks.,Henk Meijer;Selim G. Akl;,None
+crypto/crypto81,1981,None,The Design and Analysis of Cryptographic Protocols.,Richard A. DeMillo;Nancy A. Lynch;Michael Merritt;,None
+crypto/crypto81,1981,None,Local Network Cryptosystem Architecture.,Thomas A. Berson;,None
+crypto/crypto81,1981,None,"Software Protection Using ""Communal Key Cryptosystems"".",George B. Purdy;Gustavus J. Simmons;James Studier;,None
+crypto/crypto81,1981,None,Some Cryptographic Techniques for File Protection.,Stephen T. Kent;,None
+crypto/crypto81,1981,None,A Password Extension for Improved Human Factors.,Sig Porter;,None
+crypto/crypto81,1981,None,Key Management from a Security Viewpoint.,G. R. Blakley;,None
+crypto/crypto81,1981,None,Implementation of a Hybrid {RSA/DES} Key Management System.,Y. Alfred Lau;Tom McPherson;,None
+crypto/crypto81,1981,None,"Cryptography, the Next Two Decades.",Whitfield Diffie;,None
+crypto/crypto81,1981,None,Security Mechanisms in Electronic Cards.,Stephen B. Weinstein;,None
+crypto/crypto81,1981,None,"Current Market: Products, Costs, Trends.",J. Michael Nye;,None
+crypto/crypto81,1981,None,Results on Sampling-based Scrambling for Secure Speech Communication.,Lin-Shan Lee;Ger-Chih Chou;,None
+crypto/crypto81,1981,None,Some Thoughts on Speech Encryption.,Aaron D. Wyner;,None
+crypto/crypto81,1981,None,Nonlinear Feedback Shift Register Sequences.,H. J. Beker;,None
+crypto/crypto81,1981,None,Evaluating Relative Security of Commercial ComSec Devices.,Albert L. Lang;Janet T. Vasek;,None
+crypto/crypto81,1981,None,Limitations on the Use of Encryption to Enforce Mandatory Security.,Morrie Gasser;,None
+crypto/crypto81,1981,None,The Import/Export Dilemma.,J. Michael Nye;,None
+crypto/crypto81,1981,None,Verification by Anonymous Monitors.,David Chaum;,None
+crypto/crypto81,1981,None,A General Public Key System.,Ernst Henze;,None
+crypto/crypto81,1981,None,Discussion of Adleman's Subexponential Algorithm for Computing Discrete Logarithms.,Tore Herlestam;,None
+crypto/crypto81,1981,None,Protocol for Signing Contracts.,Shimon Even;,None
+crypto/crypto81,1981,None,National Security and Commercial Security: Division of Responsibility.,Whitfield Diffie;Melville Klein;Michael L. Dertouzos;Andrew Gleason;Dean Smith;,None

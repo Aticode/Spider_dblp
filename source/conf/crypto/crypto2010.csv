@@ -1,0 +1,39 @@
+crypto/crypto2010,2010,Leakage,Circular and Leakage Resilient Public-Key Encryption under Subgroup Indistinguishability - (or: Quadratic Residuosity Strikes Back).,Zvika Brakerski;Shafi Goldwasser;,https://doi.org/10.1007/978-3-642-14623-7_1
+crypto/crypto2010,2010,Leakage,Leakage-Resilient Pseudorandom Functions and Side-Channel Attacks on Feistel Networks.,Yevgeniy Dodis;Krzysztof Pietrzak;,https://doi.org/10.1007/978-3-642-14623-7_2
+crypto/crypto2010,2010,Leakage,Protecting Cryptographic Keys against Continual Leakage.,Ali Juma;Yevgeniy Vahlis;,https://doi.org/10.1007/978-3-642-14623-7_3
+crypto/crypto2010,2010,Leakage,Securing Computation against Continuous Leakage.,Shafi Goldwasser;Guy N. Rothblum;,https://doi.org/10.1007/978-3-642-14623-7_4
+crypto/crypto2010,2010,Lattice,An Efficient and Parallel Gaussian Sampler for Lattices.,Chris Peikert;,https://doi.org/10.1007/978-3-642-14623-7_5
+crypto/crypto2010,2010,Lattice,Lattice Basis Delegation in Fixed Dimension and Shorter-Ciphertext Hierarchical IBE.,Shweta Agrawal;Dan Boneh;Xavier Boyen;,https://doi.org/10.1007/978-3-642-14623-7_6
+crypto/crypto2010,2010,Homomorphic Encryption,Toward Basing Fully Homomorphic Encryption on Worst-Case Hardness.,Craig Gentry;,https://doi.org/10.1007/978-3-642-14623-7_7
+crypto/crypto2010,2010,Homomorphic Encryption,Additively Homomorphic Encryption with d-Operand Multiplications.,Carlos Aguilar Melchor;Philippe Gaborit;Javier Herranz;,https://doi.org/10.1007/978-3-642-14623-7_8
+crypto/crypto2010,2010,Homomorphic Encryption,i-Hop Homomorphic Encryption and Rerandomizable Yao Circuits.,Craig Gentry;Shai Halevi;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-642-14623-7_9
+crypto/crypto2010,2010,Theory and Applications,"Interactive Locking, Zero-Knowledge PCPs, and Unconditional Cryptography.",Vipul Goyal;Yuval Ishai;Mohammad Mahmoody;Amit Sahai;,https://doi.org/10.1007/978-3-642-14623-7_10
+crypto/crypto2010,2010,Theory and Applications,Fully Secure Functional Encryption with General Relations from the Decisional Linear Assumption.,Tatsuaki Okamoto;Katsuyuki Takashima;,https://doi.org/10.1007/978-3-642-14623-7_11
+crypto/crypto2010,2010,Theory and Applications,Structure-Preserving Signatures and Commitments to Group Elements.,Masayuki Abe;Georg Fuchsbauer;Jens Groth;Kristiyan Haralambiev;Miyako Ohkubo;,https://doi.org/10.1007/978-3-642-14623-7_12
+crypto/crypto2010,2010,Theory and Applications,Efficient Indifferentiable Hashing into Ordinary Elliptic Curves.,Eric Brier;Jean-Sébastien Coron;Thomas Icart;David Madore;Hugues Randriam;Mehdi Tibouchi;,https://doi.org/10.1007/978-3-642-14623-7_13
+crypto/crypto2010,2010,"Key Exchange, OAEP/RSA, CCA",Credential Authenticated Identification and Key Exchange.,Jan Camenisch;Nathalie Casati;Thomas Groß;Victor Shoup;,https://doi.org/10.1007/978-3-642-14623-7_14
+crypto/crypto2010,2010,"Key Exchange, OAEP/RSA, CCA",Password-Authenticated Session-Key Generation on the Internet in the Plain Model.,Vipul Goyal;Abhishek Jain;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-642-14623-7_15
+crypto/crypto2010,2010,"Key Exchange, OAEP/RSA, CCA",Instantiability of RSA-OAEP under Chosen-Plaintext Attack.,Eike Kiltz;Adam O'Neill;Adam D. Smith;,https://doi.org/10.1007/978-3-642-14623-7_16
+crypto/crypto2010,2010,"Key Exchange, OAEP/RSA, CCA",Efficient Chosen-Ciphertext Security via Extractable Hash Proofs.,Hoeteck Wee;,https://doi.org/10.1007/978-3-642-14623-7_17
+crypto/crypto2010,2010,Attacks,Factorization of a 768-Bit RSA Modulus.,Thorsten Kleinjung;Kazumaro Aoki;Jens Franke;Arjen K. Lenstra;Emmanuel Thomé;Joppe W. Bos;Pierrick Gaudry;Alexander Kruppa;Peter L. Montgomery;Dag Arne Osvik;Herman J. J. te Riele;Andrey Timofeev;Paul Zimmermann;,https://doi.org/10.1007/978-3-642-14623-7_18
+crypto/crypto2010,2010,Attacks,Correcting Errors in RSA Private Keys.,Wilko Henecka;Alexander May;Alexander Meurer;,https://doi.org/10.1007/978-3-642-14623-7_19
+crypto/crypto2010,2010,Attacks,Improved Differential Attacks for ECHO and Grøstl.,Thomas Peyrin;,https://doi.org/10.1007/978-3-642-14623-7_20
+crypto/crypto2010,2010,Attacks,A Practical-Time Related-Key Attack on the KASUMI Cryptosystem Used in GSM and 3G Telephony.,Orr Dunkelman;Nathan Keller;Adi Shamir;,https://doi.org/10.1007/978-3-642-14623-7_21
+crypto/crypto2010,2010,Composition,Universally Composable Incoercibility.,Dominique Unruh;Jörn Müller-Quade;,https://doi.org/10.1007/978-3-642-14623-7_22
+crypto/crypto2010,2010,Composition,Concurrent Non-Malleable Zero Knowledge Proofs.,Huijia Lin;Rafael Pass;Wei-Lung Dustin Tseng;Muthuramakrishnan Venkitasubramaniam;,https://doi.org/10.1007/978-3-642-14623-7_23
+crypto/crypto2010,2010,Composition,Equivalence of Uniform Key Agreement and Composition Insecurity.,Chongwon Cho;Chen-Kuei Lee;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-642-14623-7_24
+crypto/crypto2010,2010,Computation Delegation and Obfuscation,Non-interactive Verifiable Computing: Outsourcing Computation to Untrusted Workers.,Rosario Gennaro;Craig Gentry;Bryan Parno;,https://doi.org/10.1007/978-3-642-14623-7_25
+crypto/crypto2010,2010,Computation Delegation and Obfuscation,Improved Delegation of Computation Using Fully Homomorphic Encryption.,Kai-Min Chung;Yael Tauman Kalai;Salil P. Vadhan;,https://doi.org/10.1007/978-3-642-14623-7_26
+crypto/crypto2010,2010,Computation Delegation and Obfuscation,Oblivious RAM Revisited.,Benny Pinkas;Tzachy Reinman;,https://doi.org/10.1007/978-3-642-14623-7_27
+crypto/crypto2010,2010,Computation Delegation and Obfuscation,On Strong Simulation and Composable Point Obfuscation.,Nir Bitansky;Ran Canetti;,https://doi.org/10.1007/978-3-642-14623-7_28
+crypto/crypto2010,2010,Multiparty Computation,Protocols for Multiparty Coin Toss with Dishonest Majority.,Amos Beimel;Eran Omri;Ilan Orlov;,https://doi.org/10.1007/978-3-642-14623-7_29
+crypto/crypto2010,2010,Multiparty Computation,Multiparty Computation for Dishonest Majority: From Passive to Active Security at Low Cost.,Ivan Damgård;Claudio Orlandi;,https://doi.org/10.1007/978-3-642-14623-7_30
+crypto/crypto2010,2010,Multiparty Computation,Secure Multiparty Computation with Minimal Interaction.,Yuval Ishai;Eyal Kushilevitz;Anat Paskin;,https://doi.org/10.1007/978-3-642-14623-7_31
+crypto/crypto2010,2010,Multiparty Computation,A Zero-One Law for Cryptographic Complexity with Respect to Computational UC Security.,Hemanta K. Maji;Manoj Prabhakaran;Mike Rosulek;,https://doi.org/10.1007/978-3-642-14623-7_32
+crypto/crypto2010,2010,Pseudorandomness,On Generalized Feistel Networks.,Viet Tung Hoang;Phillip Rogaway;,https://doi.org/10.1007/978-3-642-14623-7_33
+crypto/crypto2010,2010,Pseudorandomness,Cryptographic Extraction and Key Derivation: The HKDF Scheme.,Hugo Krawczyk;,https://doi.org/10.1007/978-3-642-14623-7_34
+crypto/crypto2010,2010,Pseudorandomness,Time Space Tradeoffs for Attacks against One-Way Functions and PRGs.,Anindya De;Luca Trevisan;Madhur Tulsiani;,https://doi.org/10.1007/978-3-642-14623-7_35
+crypto/crypto2010,2010,Pseudorandomness,Pseudorandom Functions and Permutations Provably Secure against Related-Key Attacks.,Mihir Bellare;David Cash;,https://doi.org/10.1007/978-3-642-14623-7_36
+crypto/crypto2010,2010,Quantum,Secure Two-Party Quantum Evaluation of Unitaries against Specious Adversaries.,Frédéric Dupuis;Jesper Buus Nielsen;Louis Salvail;,https://doi.org/10.1007/978-3-642-14623-7_37
+crypto/crypto2010,2010,Quantum,On the Efficiency of Classical and Quantum Oblivious Transfer Reductions.,Severin Winkler;Jürg Wullschleger;,https://doi.org/10.1007/978-3-642-14623-7_38
+crypto/crypto2010,2010,Quantum,"Sampling in a Quantum Population, and Applications.",Niek J. Bouman;Serge Fehr;,https://doi.org/10.1007/978-3-642-14623-7_39

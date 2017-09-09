@@ -1,0 +1,56 @@
+ccs/ccs2007,2007,None,Assurance and evaluation: what next?,Steven B. Lipner;,http://doi.acm.org/10.1145/1315245.1315246
+ccs/ccs2007,2007,Web applications security,An analysis of browser domain-isolation bugs and a light-weight transparent defense mechanism.,Shuo Chen;David Ross;Yi-Min Wang;,http://doi.acm.org/10.1145/1315245.1315248
+ccs/ccs2007,2007,Web applications security,CANDID: preventing sql injection attacks using dynamic candidate evaluations.,Sruthi Bandhakavi;Prithvi Bisht;P. Madhusudan;V. N. Venkatakrishnan;,http://doi.acm.org/10.1145/1315245.1315249
+ccs/ccs2007,2007,Web applications security,Multi-module vulnerability analysis of web-based applications.,Davide Balzarotti;Marco Cova;Viktoria Felmetsger;Giovanni Vigna;,http://doi.acm.org/10.1145/1315245.1315250
+ccs/ccs2007,2007,Authentication and passwords,"Do background images improve ""draw a secret"" graphical passwords?",Paul Dunphy;Jeff Yan;,http://doi.acm.org/10.1145/1315245.1315252
+ccs/ccs2007,2007,Authentication and passwords,Beamauth: two-factor web authentication with a bookmark.,Ben Adida;,http://doi.acm.org/10.1145/1315245.1315253
+ccs/ccs2007,2007,Authentication and passwords,Dynamic pharming attacks and locked same-origin policies for web browsers.,Chris Karlof;Umesh Shankar;J. Doug Tygar;David A. Wagner;,http://doi.acm.org/10.1145/1315245.1315254
+ccs/ccs2007,2007,Anonymity,Blacklistable anonymous credentials: blocking misbehaving users without ttps.,Patrick P. Tsang;Man Ho Au;Apu Kapadia;Sean W. Smith;,http://doi.acm.org/10.1145/1315245.1315256
+ccs/ccs2007,2007,Anonymity,How much anonymity does network latency leak?,Nicholas Hopper;Eugene Y. Vasserman;Eric Chan-Tin;,http://doi.acm.org/10.1145/1315245.1315257
+ccs/ccs2007,2007,Anonymity,Denial of service or denial of security?,Nikita Borisov;George Danezis;Prateek Mittal;Parisa Tabriz;,http://doi.acm.org/10.1145/1315245.1315258
+ccs/ccs2007,2007,Operating systems and malware,Automated detection of persistent kernel control-flow attacks.,Nick L. Petroni Jr.;Michael W. Hicks;,http://doi.acm.org/10.1145/1315245.1315260
+ccs/ccs2007,2007,Operating systems and malware,Panorama: capturing system-wide information flow for malware detection and analysis.,Heng Yin;Dawn Xiaodong Song;Manuel Egele;Christopher Kruegel;Engin Kirda;,http://doi.acm.org/10.1145/1315245.1315261
+ccs/ccs2007,2007,Operating systems and malware,"Stealthy malware detection through vmm-based ""out-of-the-box"" semantic view reconstruction.",Xuxian Jiang;Xinyuan Wang;Dongyan Xu;,http://doi.acm.org/10.1145/1315245.1315262
+ccs/ccs2007,2007,Traffic analysis and location privacy,"Shunting: a hardware/software architecture for flexible, high-performance network intrusion prevention.",José M. González;Vern Paxson;Nicholas Weaver;,http://doi.acm.org/10.1145/1315245.1315264
+ccs/ccs2007,2007,Traffic analysis and location privacy,Highly efficient techniques for network forensics.,Miroslav Ponec;Paul Giura;Hervé Brönnimann;Joel Wein;,http://doi.acm.org/10.1145/1315245.1315265
+ccs/ccs2007,2007,Traffic analysis and location privacy,Preserving privacy in gps traces via uncertainty-aware path cloaking.,Baik Hoh;Marco Gruteser;Hui Xiong;Ansaf Alrabady;,http://doi.acm.org/10.1145/1315245.1315266
+ccs/ccs2007,2007,Cryptography,Robust computational secret sharing and a unified account of classical secret-sharing goals.,Phillip Rogaway;Mihir Bellare;,http://doi.acm.org/10.1145/1315245.1315268
+ccs/ccs2007,2007,Cryptography,Chosen-ciphertext secure proxy re-encryption.,Ran Canetti;Susan Hohenberger;,http://doi.acm.org/10.1145/1315245.1315269
+ccs/ccs2007,2007,Cryptography,Attribute-based encryption with non-monotonic access structures.,Rafail Ostrovsky;Amit Sahai;Brent Waters;,http://doi.acm.org/10.1145/1315245.1315270
+ccs/ccs2007,2007,Network security,Optimal security hardening using multi-objective optimization on attack tree models of networks.,Rinku Dewri;Nayot Poolsappasit;Indrajit Ray;Darrell Whitley;,http://doi.acm.org/10.1145/1315245.1315272
+ccs/ccs2007,2007,Network security,On the accuracy of decentralized virtual coordinate systems in adversarial networks.,David John Zage;Cristina Nita-Rotaru;,http://doi.acm.org/10.1145/1315245.1315273
+ccs/ccs2007,2007,Network security,Analyzing the vulnerability of superpeer networks against attack.,Bivas Mitra;Fernando Peruani;Sujoy Ghose;Niloy Ganguly;,http://doi.acm.org/10.1145/1315245.1315274
+ccs/ccs2007,2007,Network security,Towards automated provisioning of secure virtualized networks.,Serdar Cabuk;Chris I. Dalton;HariGovind V. Ramasamy;Matthias Schunter;,http://doi.acm.org/10.1145/1315245.1315275
+ccs/ccs2007,2007,Election systems and applied cryptography,Split-ballot voting: everlasting privacy with distributed trust.,Tal Moran;Moni Naor;,http://doi.acm.org/10.1145/1315245.1315277
+ccs/ccs2007,2007,Election systems and applied cryptography,An independent audit framework for software dependent voting systems.,Sujata Garera;Aviel D. Rubin;,http://doi.acm.org/10.1145/1315245.1315278
+ccs/ccs2007,2007,Election systems and applied cryptography,Forward-secure signatures in untrusted update environments: efficient and generic constructions.,Benoît Libert;Jean-Jacques Quisquater;Moti Yung;,http://doi.acm.org/10.1145/1315245.1315279
+ccs/ccs2007,2007,Election systems and applied cryptography,"Ordered multisignatures and identity-based sequential aggregate signatures, with applications to secure routing.",Alexandra Boldyreva;Craig Gentry;Adam O'Neill;Dae Hyun Yum;,http://doi.acm.org/10.1145/1315245.1315280
+ccs/ccs2007,2007,Side and covert channels detection,An information-theoretic model for adaptive side-channel attacks.,Boris Köpf;David A. Basin;,http://doi.acm.org/10.1145/1315245.1315282
+ccs/ccs2007,2007,Side and covert channels detection,Covert channels in privacy-preserving identification systems.,Daniel V. Bailey;Dan Boneh;Eu-Jin Goh;Ari Juels;,http://doi.acm.org/10.1145/1315245.1315283
+ccs/ccs2007,2007,Side and covert channels detection,Detecting covert timing channels: an entropy-based approach.,Steven Gianvecchio;Haining Wang;,http://doi.acm.org/10.1145/1315245.1315284
+ccs/ccs2007,2007,Protocols and spam filters,Polyglot: automatic extraction of protocol message format using dynamic binary analysis.,Juan Caballero;Heng Yin;Zhenkai Liang;Dawn Xiaodong Song;,http://doi.acm.org/10.1145/1315245.1315286
+ccs/ccs2007,2007,Protocols and spam filters,Harvesting verifiable challenges from oblivious online sources.,J. Alex Halderman;Brent Waters;,http://doi.acm.org/10.1145/1315245.1315287
+ccs/ccs2007,2007,Protocols and spam filters,Filtering spam with behavioral blacklisting.,Anirudh Ramachandran;Nick Feamster;Santosh Vempala;,http://doi.acm.org/10.1145/1315245.1315288
+ccs/ccs2007,2007,Internet security,ConceptDoppler: a weather tracker for internet censorship.,Jedidiah R. Crandall;Daniel Zinn;Michael Byrd;Earl T. Barr;Rich East;,http://doi.acm.org/10.1145/1315245.1315290
+ccs/ccs2007,2007,Internet security,Asirra: a CAPTCHA that exploits interest-aligned manual image categorization.,Jeremy Elson;John R. Douceur;Jon Howell;Jared Saul;,http://doi.acm.org/10.1145/1315245.1315291
+ccs/ccs2007,2007,Internet security,An inquiry into the nature and causes of the wealth of internet miscreants.,Jason Franklin;Adrian Perrig;Vern Paxson;Stefan Savage;,http://doi.acm.org/10.1145/1315245.1315292
+ccs/ccs2007,2007,Key management,Hardware-rooted trust for secure key management and transient trust.,Jeffrey S. Dwoskin;Ruby B. Lee;,http://doi.acm.org/10.1145/1315245.1315294
+ccs/ccs2007,2007,Key management,Robust key generation from signal envelopes in wireless networks.,Babak Azimi-Sadjadi;Aggelos Kiayias;Alejandra Mercado;Bülent Yener;,http://doi.acm.org/10.1145/1315245.1315295
+ccs/ccs2007,2007,Key management,Robust group key agreement using short broadcasts.,Stanislaw Jarecki;Jihye Kim;Gene Tsudik;,http://doi.acm.org/10.1145/1315245.1315296
+ccs/ccs2007,2007,Policies,Protecting browsers from dns rebinding attacks.,Collin Jackson;Adam Barth;Andrew Bortz;Weidong Shao;Dan Boneh;,http://doi.acm.org/10.1145/1315245.1315298
+ccs/ccs2007,2007,Policies,Alpaca: extensible authorization for distributed services.,Chris Lesniewski-Laas;Bryan Ford;Jacob Strauss;Robert Morris;M. Frans Kaashoek;,http://doi.acm.org/10.1145/1315245.1315299
+ccs/ccs2007,2007,Policies,Efficient policy analysis for administrative role based access control.,Scott D. Stoller;Ping Yang;C. R. Ramakrishnan;Mikhail I. Gofman;,http://doi.acm.org/10.1145/1315245.1315300
+ccs/ccs2007,2007,Cryptography and cryptoanalysis,Provably secure ciphertext policy ABE.,Ling Cheung;Calvin C. Newport;,http://doi.acm.org/10.1145/1315245.1315302
+ccs/ccs2007,2007,Cryptography and cryptoanalysis,Security under key-dependent inputs.,Shai Halevi;Hugo Krawczyk;,http://doi.acm.org/10.1145/1315245.1315303
+ccs/ccs2007,2007,Cryptography and cryptoanalysis,Cryptanalysis of the windows random number generator.,Leo Dorrendorf;Zvi Gutterman;Benny Pinkas;,http://doi.acm.org/10.1145/1315245.1315304
+ccs/ccs2007,2007,Data privacy,Secure two-party k-means clustering.,Paul Bunn;Rafail Ostrovsky;,http://doi.acm.org/10.1145/1315245.1315306
+ccs/ccs2007,2007,Data privacy,Privacy-preserving remote diagnostics.,Justin Brickell;Donald E. Porter;Vitaly Shmatikov;Emmett Witchel;,http://doi.acm.org/10.1145/1315245.1315307
+ccs/ccs2007,2007,Data privacy,Automaton segmentation: a new approach to preserve privacy in xml information brokering.,Fengjun Li;Bo Luo;Peng Liu;Dongwon Lee;Chao-Hsien Chu;,http://doi.acm.org/10.1145/1315245.1315308
+ccs/ccs2007,2007,Data privacy,Privacy preserving error resilient dna searching through oblivious automata.,Juan Ramón Troncoso-Pastoriza;Stefan Katzenbeisser;Mehmet Utku Celik;,http://doi.acm.org/10.1145/1315245.1315309
+ccs/ccs2007,2007,Software security,Predicting vulnerable software components.,Stephan Neuhaus;Thomas Zimmermann;Christian Holler;Andreas Zeller;,http://doi.acm.org/10.1145/1315245.1315311
+ccs/ccs2007,2007,Software security,On the infeasibility of modeling polymorphic shellcode.,Yingbo Song;Michael E. Locasto;Angelos Stavrou;Angelos D. Keromytis;Salvatore J. Stolfo;,http://doi.acm.org/10.1145/1315245.1315312
+ccs/ccs2007,2007,Software security,The geometry of innocent flesh on the bone: return-into-libc without function calls (on the x86).,Hovav Shacham;,http://doi.acm.org/10.1145/1315245.1315313
+ccs/ccs2007,2007,Software security,Memsherlock: an automated debugger for unknown memory corruption vulnerabilities.,Emre Can Sezer;Peng Ning;Chongkyung Kil;Jun Xu;,http://doi.acm.org/10.1145/1315245.1315314
+ccs/ccs2007,2007,Data disclosure,Information disclosure under realistic assumptions: privacy versus optimality.,Lei Zhang;Sushil Jajodia;Alexander Brodsky;,http://doi.acm.org/10.1145/1315245.1315316
+ccs/ccs2007,2007,Data disclosure,Pors: proofs of retrievability for large files.,Ari Juels;Burton S. Kaliski Jr.;,http://doi.acm.org/10.1145/1315245.1315317
+ccs/ccs2007,2007,Data disclosure,Provable data possession at untrusted stores.,Giuseppe Ateniese;Randal C. Burns;Reza Curtmola;Joseph Herring;Lea Kissner;Zachary N. J. Peterson;Dawn Xiaodong Song;,http://doi.acm.org/10.1145/1315245.1315318

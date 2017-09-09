@@ -1,0 +1,27 @@
+ccs/ccs2002,2002,Cryptographic protocols,Authenticated encryption in SSH: provably fixing the SSH binary packet protocol.,Mihir Bellare;Tadayoshi Kohno;Chanathip Namprempre;,http://doi.acm.org/10.1145/586110.586112
+ccs/ccs2002,2002,Cryptographic protocols,The verification of an industrial payment protocol: the SET purchase phase.,Giampaolo Bella;Lawrence C. Paulson;Fabio Massacci;,http://doi.acm.org/10.1145/586110.586113
+ccs/ccs2002,2002,Cryptographic protocols,Design and implementation of the idemix anonymous credential system.,Jan Camenisch;Els Van Herreweghen;,http://doi.acm.org/10.1145/586110.586114
+ccs/ccs2002,2002,Key management and key exchange,A temporal key management scheme for secure broadcasting of XML documents.,Elisa Bertino;Barbara Carminati;Elena Ferrari;,http://doi.acm.org/10.1145/586110.586116
+ccs/ccs2002,2002,Key management and key exchange,A key-management scheme for distributed sensor networks.,Laurent Eschenauer;Virgil D. Gligor;,http://doi.acm.org/10.1145/586110.586117
+ccs/ccs2002,2002,Key management and key exchange,"Efficient, DoS-resistant, secure key exchange for internet protocols.",William Aiello;Steven M. Bellovin;Matt Blaze;John Ioannidis;Omer Reingold;Ran Canetti;Angelos D. Keromytis;,http://doi.acm.org/10.1145/586110.586118
+ccs/ccs2002,2002,Emerging applications,Defending against redirect attacks in mobile IP.,Robert H. Deng;Jianying Zhou;Feng Bao;,http://doi.acm.org/10.1145/586110.586120
+ccs/ccs2002,2002,Emerging applications,Almost entirely correct mixing with applications to voting.,Dan Boneh;Philippe Golle;,http://doi.acm.org/10.1145/586110.586121
+ccs/ccs2002,2002,Emerging applications,DRM: doesn't realy mean digital copyright management.,L. Jean Camp;,http://doi.acm.org/10.1145/586110.586122
+ccs/ccs2002,2002,Cryptography,Asynchronous verifiable secret sharing and proactive cryptosystems.,Christian Cachin;Klaus Kursawe;Anna Lysyanskaya;Reto Strobl;,http://doi.acm.org/10.1145/586110.586124
+ccs/ccs2002,2002,Cryptography,Authenticated-encryption with associated-data.,Phillip Rogaway;,http://doi.acm.org/10.1145/586110.586125
+ccs/ccs2002,2002,Cryptography,Generic implementations of elliptic curve cryptography using partial reduction.,Nils Gura;Hans Eberle;Sheueling Chang Shantz;,http://doi.acm.org/10.1145/586110.586126
+ccs/ccs2002,2002,Network security,Efficient packet marking for large-scale IP traceback.,Michael T. Goodrich;,http://doi.acm.org/10.1145/586110.586128
+ccs/ccs2002,2002,Network security,Sensor-based intrusion detection for intra-domain distance-vector routing.,Vishal Mittal;Giovanni Vigna;,http://doi.acm.org/10.1145/586110.586129
+ccs/ccs2002,2002,Network security,Code red worm propagation modeling and analysis.,Cliff Changchun Zou;Weibo Gong;Donald F. Towsley;,http://doi.acm.org/10.1145/586110.586130
+ccs/ccs2002,2002,Authentication and authorization,Silicon physical random functions.,Blaise Gassend;Dwaine E. Clarke;Marten van Dijk;Srinivas Devadas;,http://doi.acm.org/10.1145/586110.586132
+ccs/ccs2002,2002,Authentication and authorization,Securing passwords against dictionary attacks.,Benny Pinkas;Tomas Sander;,http://doi.acm.org/10.1145/586110.586133
+ccs/ccs2002,2002,Authentication and authorization,Policy algebras for access control the predicate case.,Duminda Wijesekera;Sushil Jajodia;,http://doi.acm.org/10.1145/586110.586134
+ccs/ccs2002,2002,Peer to peer networks,Query-flood DoS attacks in gnutella.,Neil Daswani;Hector Garcia-Molina;,http://doi.acm.org/10.1145/586110.586136
+ccs/ccs2002,2002,Peer to peer networks,Tarzan: a peer-to-peer anonymizing network layer.,Michael J. Freedman;Robert Morris;,http://doi.acm.org/10.1145/586110.586137
+ccs/ccs2002,2002,Peer to peer networks,A reputation-based approach for choosing reliable resources in peer-to-peer networks.,Ernesto Damiani;Sabrina De Capitani di Vimercati;Stefano Paraboschi;Pierangela Samarati;Fabio Violante;,http://doi.acm.org/10.1145/586110.586138
+ccs/ccs2002,2002,Analysis and verification,"Scalable, graph-based network vulnerability analysis.",Paul Ammann;Duminda Wijesekera;Saket Kaushik;,http://doi.acm.org/10.1145/586110.586140
+ccs/ccs2002,2002,Analysis and verification,Runtime verification of authorization hook placement for the linux security modules framework.,Antony Edwards;Trent Jaeger;Xiaolan Zhang;,http://doi.acm.org/10.1145/586110.586141
+ccs/ccs2002,2002,Analysis and verification,MOPS: an infrastructure for examining security properties of software.,Hao Chen;David A. Wagner;,http://doi.acm.org/10.1145/586110.586142
+ccs/ccs2002,2002,Intrusion detection,Constructing attack scenarios through correlation of intrusion alerts.,Peng Ning;Yun Cui;Douglas S. Reeves;,http://doi.acm.org/10.1145/586110.586144
+ccs/ccs2002,2002,Intrusion detection,Mimicry attacks on host-based intrusion detection systems.,David A. Wagner;Paolo Soto;,http://doi.acm.org/10.1145/586110.586145
+ccs/ccs2002,2002,Intrusion detection,Specification-based anomaly detection: a new approach for detecting network intrusions.,R. Sekar;Ajay K. Gupta;J. Frullo;T. Shanbhag;A. Tiwari;H. Yang;S. Zhou;,http://doi.acm.org/10.1145/586110.586146

@@ -1,0 +1,40 @@
+crypto/crypto84,1984,Public Key Cryptosystems and Signatures,A Prototype Encryption System Using Public Key.,Stephen C. Serpell;C. B. Brookson;B. L. Clark;,https://doi.org/10.1007/3-540-39568-7_1
+crypto/crypto84,1984,Public Key Cryptosystems and Signatures,A Public Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms.,Taher El Gamal;,https://doi.org/10.1007/3-540-39568-7_2
+crypto/crypto84,1984,Public Key Cryptosystems and Signatures,A Public Key Cryptosystem Based on the Word Problem.,Neal R. Wagner;Marianne R. Magyarik;,https://doi.org/10.1007/3-540-39568-7_3
+crypto/crypto84,1984,Public Key Cryptosystems and Signatures,Efficient Signature Schemes Based on Polynomial Equations.,H. Ong;Claus-Peter Schnorr;Adi Shamir;,https://doi.org/10.1007/3-540-39568-7_4
+crypto/crypto84,1984,Public Key Cryptosystems and Signatures,Identity-Based Cryptosystems and Signature Schemes.,Adi Shamir;,https://doi.org/10.1007/3-540-39568-7_5
+crypto/crypto84,1984,Public Key Cryptosystems and Signatures,A Knapsack Type Public Key Cryptosystem Based On Arithmetic in Finite Fields.,Benny Chor;Ronald L. Rivest;,https://doi.org/10.1007/3-540-39568-7_6
+crypto/crypto84,1984,Public Key Cryptosystems and Signatures,Some Public Key Crypto-Functions as Intractable as Factorization.,Hugh C. Williams;,https://doi.org/10.1007/3-540-39568-7_7
+crypto/crypto84,1984,Cryptosystems and Other Hard Problems,Computing Logarithms in GF(2n).,Ian F. Blake;Ronald C. Mullin;Scott A. Vanstone;,https://doi.org/10.1007/3-540-39568-7_8
+crypto/crypto84,1984,Cryptosystems and Other Hard Problems,Wyner's Analog Encryption Scheme: Results of a Simulation.,Burton S. Kaliski Jr.;,https://doi.org/10.1007/3-540-39568-7_9
+crypto/crypto84,1984,Cryptosystems and Other Hard Problems,On Rotation Group and Encryption of Analog Signals.,Su-Shing Chen;,https://doi.org/10.1007/3-540-39568-7_10
+crypto/crypto84,1984,Cryptosystems and Other Hard Problems,The History of Book Ciphers.,Albert C. Leighton;Stephen M. Matyas;,https://doi.org/10.1007/3-540-39568-7_11
+crypto/crypto84,1984,Cryptosystems and Other Hard Problems,An Update on Factorization at Sandia National Laboratories (Abstract).,James A. Davis;Diane B. Holdridge;,https://doi.org/10.1007/3-540-39568-7_12
+crypto/crypto84,1984,Cryptosystems and Other Hard Problems,An LSI Digital Encryption Processor (DEP).,R. C. Fairfield;A. Matusevich;J. Plany;,https://doi.org/10.1007/3-540-39568-7_13
+crypto/crypto84,1984,Cryptosystems and Other Hard Problems,Efficient Hardware and Software Implementations for the DES.,Marc Davio;Yvo Desmedt;Jo Goubert;Frank Hoornaert;Jean-Jacques Quisquater;,https://doi.org/10.1007/3-540-39568-7_14
+crypto/crypto84,1984,Cryptosystems and Other Hard Problems,Efficient Hardware Implementation of the DES.,Frank Hoornaert;Jo Goubert;Yvo Desmedt;,https://doi.org/10.1007/3-540-39568-7_15
+crypto/crypto84,1984,Cryptosystems and Other Hard Problems,A Self-Synchronizing Cascaded Cipher System With Dynamic Control of Error-Propagation.,Norman Proctor;,https://doi.org/10.1007/3-540-39568-7_16
+crypto/crypto84,1984,Randomness And Its Concomitants,Efficient and Secure Pseudo-Random Number Generation.,Umesh V. Vazirani;Vijay V. Vazirani;,https://doi.org/10.1007/3-540-39568-7_17
+crypto/crypto84,1984,Randomness And Its Concomitants,An LSI Random Number Generator (RNG).,R. C. Fairfield;R. L. Mortenson;K. B. Coulthart;,https://doi.org/10.1007/3-540-39568-7_18
+crypto/crypto84,1984,Randomness And Its Concomitants,Generalized Linear Threshold Scheme.,Suresh C. Kothari;,https://doi.org/10.1007/3-540-39568-7_19
+crypto/crypto84,1984,Randomness And Its Concomitants,Security of Ramp Schemes.,G. R. Blakley;Catherine A. Meadows;,https://doi.org/10.1007/3-540-39568-7_20
+crypto/crypto84,1984,Randomness And Its Concomitants,A Fast Pseudo Random Permutation Generator With Applications to Cryptology.,Selim G. Akl;Henk Meijer;,https://doi.org/10.1007/3-540-39568-7_21
+crypto/crypto84,1984,Randomness And Its Concomitants,On the Cryptographic Applications of Random Functions.,Oded Goldreich;Shafi Goldwasser;Silvio Micali;,https://doi.org/10.1007/3-540-39568-7_22
+crypto/crypto84,1984,Randomness And Its Concomitants,An Efficient Probabilistic Public-Key Encryption Scheme Which Hides All Partial Information.,Manuel Blum;Shafi Goldwasser;,https://doi.org/10.1007/3-540-39568-7_23
+crypto/crypto84,1984,Analysis and Cryptanalysis,RSA/Rabin Least Significant Bits are 1/2 + 1/(poly(log N)) Secure.,Benny Chor;Oded Goldreich;,https://doi.org/10.1007/3-540-39568-7_24
+crypto/crypto84,1984,Analysis and Cryptanalysis,"Information Theory Without the Finiteness Assumption, I: Cryptosystems as Group-Theoretic Objects.",G. R. Blakley;,https://doi.org/10.1007/3-540-39568-7_25
+crypto/crypto84,1984,Analysis and Cryptanalysis,Cryptanalysis of ADFGVX Encipherment Systems (Extended Abstract).,Alan G. Konheim;,https://doi.org/10.1007/3-540-39568-7_26
+crypto/crypto84,1984,Analysis and Cryptanalysis,Breaking Iterated Knapsacks.,Ernest F. Brickell;,https://doi.org/10.1007/3-540-39568-7_27
+crypto/crypto84,1984,Analysis and Cryptanalysis,Dependence of Output on Input in DES: Small Avalanche Characteristics.,Yvo Desmedt;Jean-Jacques Quisquater;Marc Davio;,https://doi.org/10.1007/3-540-39568-7_28
+crypto/crypto84,1984,Analysis and Cryptanalysis,DES Has No Per Round Linear Factors.,James A. Reeds;John L. Manferdelli;,https://doi.org/10.1007/3-540-39568-7_29
+crypto/crypto84,1984,Protocols and Authentication,A Message Authenticator Algorithm Suitable for A Mainframe Computer.,Donald W. Davies;,https://doi.org/10.1007/3-540-39568-7_30
+crypto/crypto84,1984,Protocols and Authentication,Key Management for Secure Electronic Funds Transfer in a Retail Environment.,Henry Beker;Michael Walker;,https://doi.org/10.1007/3-540-39568-7_31
+crypto/crypto84,1984,Protocols and Authentication,Authentication Theory/Coding Theory.,Gustavus J. Simmons;,https://doi.org/10.1007/3-540-39568-7_32
+crypto/crypto84,1984,Protocols and Authentication,New Secret Codes Can Prevent a Computerized Big Brother (Abstract).,David Chaum;,https://doi.org/10.1007/3-540-39568-7_33
+crypto/crypto84,1984,Protocols and Authentication,Fair Exchange of Secrets.,Tom Tedrick;,https://doi.org/10.1007/3-540-39568-7_34
+crypto/crypto84,1984,Protocols and Authentication,"Cryptoprotocols: Subscription to a Public Key, the Secret Blocking and the Multi-Player Mental Poker Game (Extended Abstract).",Moti Yung;,https://doi.org/10.1007/3-540-39568-7_35
+crypto/crypto84,1984,Protocols and Authentication,Poker Protocols.,Steven Fortune;Michael Merritt;,https://doi.org/10.1007/3-540-39568-7_36
+crypto/crypto84,1984,Impromptu Talks,"A ""Paradoxical'""Solution to the Signature Problem (Abstract).",Shafi Goldwasser;Silvio Micali;Ronald L. Rivest;,https://doi.org/10.1007/3-540-39568-7_37
+crypto/crypto84,1984,Impromptu Talks,Sequence Complexity as a Test for Cryptographic Systems.,A. K. Leung;Stafford E. Tavares;,https://doi.org/10.1007/3-540-39568-7_38
+crypto/crypto84,1984,Impromptu Talks,An Update on Quantum Cryptography.,Charles H. Bennett;Gilles Brassard;,https://doi.org/10.1007/3-540-39568-7_39
+crypto/crypto84,1984,Impromptu Talks,"How to Keep a Secret Alive: Extensible Partial Key, Key Safeguarding, and Threshold Systems.",David Chaum;,https://doi.org/10.1007/3-540-39568-7_40

@@ -1,0 +1,40 @@
+infocom/infocom2000-1,2000,Ad Hoc Networks,Performance Comparison of Two On-demand Routing Protocols for Ad Hoc Networks.,Samir Ranjan Das;Charles E. Perkins;Elizabeth M. Belding-Royer;,https://doi.org/10.1109/INFCOM.2000.832168
+infocom/infocom2000-1,2000,Ad Hoc Networks,Medium Access Control Protocols using Directional Antennas in Ad Hoc Networks.,Young-Bae Ko;Vinaychandra Shankarkumar;Nitin H. Vaidya;,https://doi.org/10.1109/INFCOM.2000.832169
+infocom/infocom2000-1,2000,Ad Hoc Networks,Energy Conserving Routing in Wireless Ad-hoc Networks.,Jae-Hwan Chang;Leandros Tassiulas;,https://doi.org/10.1109/INFCOM.2000.832170
+infocom/infocom2000-1,2000,Ad Hoc Networks,Max-Min D-Cluster Formation in Wireless Ad Hoc Networks.,Alan D. Amis;Ravi Prakash;Dung Huynh;Thai Vuong;,https://doi.org/10.1109/INFCOM.2000.832171
+infocom/infocom2000-1,2000,Congestion Control,On the Use of Destination Set Grouping to Improve Inter-Receiver Fairness for Multicast ABR Sessions.,Tianji Jiang;Mostafa H. Ammar;Ellen W. Zegura;,https://doi.org/10.1109/INFCOM.2000.832172
+infocom/infocom2000-1,2000,Congestion Control,Distributed Algorithms for Computation of Fair Rates in Multirate Multicast Trees.,Saswati Sarkar;Leandros Tassiulas;,https://doi.org/10.1109/INFCOM.2000.832173
+infocom/infocom2000-1,2000,Congestion Control,Receiver-Initiated Multicasting with Multiple QoS Constraints.,Aiguo Fei;Mario Gerla;,https://doi.org/10.1109/INFCOM.2000.832174
+infocom/infocom2000-1,2000,Congestion Control,On Service Models for Multicast Transmission in Heterogeneous Environments.,Matthias Grossglauser;Jean-Chrysostome Bolot;,https://doi.org/10.1109/INFCOM.2000.832175
+infocom/infocom2000-1,2000,Internet Telephony and Packet Audio,DOSA: An Architecture for Providing Robust IP Telephony Service.,Charles R. Kalmanek;William T. Marshall;Partho Pratim Mishra;Doug Nortz;K. K. Ramakrishnan;,https://doi.org/10.1109/INFCOM.2000.832176
+infocom/infocom2000-1,2000,Internet Telephony and Packet Audio,Management of Advanced Services in H.323 Internet Protocol Telephony.,Bernard Pagurek;Jinrong Tang;Tony White;Roch H. Glitho;,https://doi.org/10.1109/INFCOM.2000.832177
+infocom/infocom2000-1,2000,Internet Telephony and Packet Audio,An Empirical Study of Internet Audio Traffic.,Art Mena;John S. Heidemann;,https://doi.org/10.1109/INFCOM.2000.832178
+infocom/infocom2000-1,2000,Internet Telephony and Packet Audio,Effects of Interleaving on RTP Header Compression.,Colin Perkins;Jon Crowcroft;,https://doi.org/10.1109/INFCOM.2000.832179
+infocom/infocom2000-1,2000,QoS Routing,Networks with Advance Reservations: The Routing Perspective.,Roch Guérin;Ariel Orda;,https://doi.org/10.1109/INFCOM.2000.832180
+infocom/infocom2000-1,2000,QoS Routing,QoS Routing: The Precomputation Perspective.,Ariel Orda;Alexander Sprintson;,https://doi.org/10.1109/INFCOM.2000.832181
+infocom/infocom2000-1,2000,QoS Routing,QoS Routing with Performance-Dependent Costs.,Funda Ergün;Rakesh K. Sinha;Lisa Zhang;,https://doi.org/10.1109/INFCOM.2000.832182
+infocom/infocom2000-1,2000,QoS Routing,On Scalable QoS Routing: Performance Evaluation of Topology Aggregation.,Fang Hao;Ellen W. Zegura;,https://doi.org/10.1109/INFCOM.2000.832183
+infocom/infocom2000-1,2000,Queueing,Coupled Processors with Regularly Varying Service Times.,Sem C. Borst;Onno J. Boxma;Predrag R. Jelenkovic;,https://doi.org/10.1109/INFCOM.2000.832184
+infocom/infocom2000-1,2000,Queueing,General QBD Processes with Applications to Overload Control.,Sung Ho Choi;Khosrow Sohraby;Bara Kim;,https://doi.org/10.1109/INFCOM.2000.832185
+infocom/infocom2000-1,2000,Queueing,Cell Loss Asymptotics in Buffers Fed by Heterogeneous Longtailed Sources.,Nikolay B. Likhanov;Ravi Mazumdar;,https://doi.org/10.1109/INFCOM.2000.832186
+infocom/infocom2000-1,2000,Queueing,General Discrete-Time Queueing Systems with Correlated Batch Arrivals and Departures.,Reza Jafari;Khosrow Sohraby;,https://doi.org/10.1109/INFCOM.2000.832187
+infocom/infocom2000-1,2000,Mobility,Approximation Models of Wireless Cellular Networks Using Moment Matching.,Kenneth Mitchell;Khosrow Sohraby;Appie van de Liefvoort;Jerry Place;,https://doi.org/10.1109/INFCOM.2000.832188
+infocom/infocom2000-1,2000,Mobility,Efficient Handoff Rerouting Algorithms: A Competitive On-Line Algorithmic Approach.,Yigal Bejerano;Israel Cidon;Joseph Naor;,https://doi.org/10.1109/INFCOM.2000.832189
+infocom/infocom2000-1,2000,Mobility,An Intersystem Handoff Technique for IMT-2000 Systems.,Janise McNair;Ian F. Akyildiz;Michael D. Bender;,https://doi.org/10.1109/INFCOM.2000.832190
+infocom/infocom2000-1,2000,Mobility,Analysis of a Mobile Cellular Systems with Hand-off Priority and Hysteresis Control.,Sung Ho Choi;Khosrow Sohraby;,https://doi.org/10.1109/INFCOM.2000.832191
+infocom/infocom2000-1,2000,Bandwidth Allocation,Dynamic Bandwidth Allocation in a Circuit-Switched Satellite Network: Provision of Deterministic and Statistical QoS Guarantees.,Nicola Blefari-Melazzi;Mauro Femminella;Gianluca Reali;,https://doi.org/10.1109/INFCOM.2000.832192
+infocom/infocom2000-1,2000,Bandwidth Allocation,Abstraction and Constraint Satisfaction Techniques for Planning Bandwidth Allocation.,Christian Frei;Boi Faltings;,https://doi.org/10.1109/INFCOM.2000.832193
+infocom/infocom2000-1,2000,Bandwidth Allocation,Receiver Based Management of Low Bandwidth Access Links.,Neil T. Spring;Maureen Chesire;Mark Berryman;Vivek Sahasranaman;Thomas E. Anderson;Brian N. Bershad;,https://doi.org/10.1109/INFCOM.2000.832194
+infocom/infocom2000-1,2000,Bandwidth Allocation,Fair Bandwidth Sharing Among Virtual Networks: A Capacity Resizing Approach.,Rahul Garg;Huzur Saran;,https://doi.org/10.1109/INFCOM.2000.832195
+infocom/infocom2000-1,2000,Topology Discovery and Network Measurement,Topology Discovery in Heterogeneous IP Networks.,Yuri Breitbart;Minos N. Garofalakis;Cliff Martin;Rajeev Rastogi;S. Seshadri;Abraham Silberschatz;,https://doi.org/10.1109/INFCOM.2000.832196
+infocom/infocom2000-1,2000,Topology Discovery and Network Measurement,Dynamic Distance Maps of the Internet.,Wolfgang Theilmann;Kurt Rothermel;,https://doi.org/10.1109/INFCOM.2000.832197
+infocom/infocom2000-1,2000,Topology Discovery and Network Measurement,A Network Measurement Architecture for Adaptive Applications.,Mark Stemm;Srinivasan Seshan;Randy H. Katz;,https://doi.org/10.1109/INFCOM.2000.832198
+infocom/infocom2000-1,2000,Topology Discovery and Network Measurement,On the Placement of Internet Instrumentation.,Sugih Jamin;Cheng Jin;Yixin Jin;Danny Raz;Yuval Shavitt;Lixia Zhang;,https://doi.org/10.1109/INFCOM.2000.832199
+infocom/infocom2000-1,2000,Network Architecture,Transport Network Architectures in an IP World.,Robert D. Doverspike;Steven J. Phillips;Jeffery Westbrook;,https://doi.org/10.1109/INFCOM.2000.832200
+infocom/infocom2000-1,2000,Network Architecture,Satellite over Satellite (SOS) Network: A Novel Architecture for Satellite Network.,JaeOok Lee;Sun Kang;,https://doi.org/10.1109/INFCOM.2000.832201
+infocom/infocom2000-1,2000,Network Architecture,Network Border Patrol.,Célio Albuquerque;Brett J. Vickers;Tatsuya Suda;,https://doi.org/10.1109/INFCOM.2000.832202
+infocom/infocom2000-1,2000,Network Architecture,Performance of Hashing-Based Schemes for Internet Load Balancing.,Zhiruo Cao;Zheng Wang;Ellen W. Zegura;,https://doi.org/10.1109/INFCOM.2000.832203
+infocom/infocom2000-1,2000,Traffic Modeling,A Predictability Analysis of Network Traffic.,Aimin Sang;San-qi Li;,https://doi.org/10.1109/INFCOM.2000.832204
+infocom/infocom2000-1,2000,Traffic Modeling,Performance Impacts of Multi-Scaling in Wide-Area TCP/IP Traffic.,Ashok Erramilli;Onuttom Narayan;Arnold L. Neidhardt;Iraj Saniee;,https://doi.org/10.1109/INFCOM.2000.832205
+infocom/infocom2000-1,2000,Traffic Modeling,Variance of Aggregated Web Traffic.,Robert Morris;Dong Lin;,https://doi.org/10.1109/INFCOM.2000.832206
+infocom/infocom2000-1,2000,Traffic Modeling,A New Approach to Model the Stationary Behavior of TCP Connections.,Claudio Casetti;Michela Meo;,https://doi.org/10.1109/INFCOM.2000.832207

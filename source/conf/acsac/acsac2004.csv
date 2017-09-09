@@ -1,0 +1,41 @@
+acsac/acsac2004,2004,Distinguished Practitioner,The Trustworthy Computing Security Development Lifecycle.,Steven B. Lipner;,https://doi.org/10.1109/CSAC.2004.41
+acsac/acsac2004,2004,Intrusion Detection,An Intrusion Detection Tool for AODV-Based Ad hoc Wireless Networks.,Giovanni Vigna;Sumit Gwalani;Kavitha Srinivasan;Elizabeth M. Belding-Royer;Richard A. Kemmerer;,https://doi.org/10.1109/CSAC.2004.6
+acsac/acsac2004,2004,Intrusion Detection,Automatic Generation and Analysis of NIDS Attacks.,Shai Rubin;Somesh Jha;Barton P. Miller;,https://doi.org/10.1109/CSAC.2004.9
+acsac/acsac2004,2004,Intrusion Detection,Reasoning About Complementary Intrusion Evidence.,Yan Zhai;Peng Ning;Purush Iyer;Douglas S. Reeves;,https://doi.org/10.1109/CSAC.2004.29
+acsac/acsac2004,2004,Start Seeing Security,Towards Secure Design Choices for Implementing Graphical Passwords.,Julie Thorpe;Paul C. van Oorschot;,https://doi.org/10.1109/CSAC.2004.44
+acsac/acsac2004,2004,Start Seeing Security,Visualizing and Identifying Intrusion Context from System Calls Trace.,Zhuowei Li;Amitabha Das;,https://doi.org/10.1109/CSAC.2004.48
+acsac/acsac2004,2004,Start Seeing Security,Visualizing Enterprise-Wide Security (VIEWS).,J. J. Brennan;Mindy Rudell;Donald B. Faatz;Carson Zimmerman;,https://doi.org/10.1109/CSAC.2004.49
+acsac/acsac2004,2004,Software Safety,A Dynamic Technique for Eliminating Buffer Overflow Vulnerabilities (and Other Memory Errors).,Martin C. Rinard;Cristian Cadar;Daniel Dumitran;Daniel M. Roy;Tudor Leu;,https://doi.org/10.1109/CSAC.2004.2
+acsac/acsac2004,2004,Software Safety,Detecting Kernel-Level Rootkits Through Binary Analysis.,Christopher Krügel;William K. Robertson;Giovanni Vigna;,https://doi.org/10.1109/CSAC.2004.19
+acsac/acsac2004,2004,Software Safety,Detecting Exploit Code Execution in Loadable Kernel Modules.,Haizhi Xu;Wenliang Du;Steve J. Chapin;,https://doi.org/10.1109/CSAC.2004.18
+acsac/acsac2004,2004,Panel,The Relationship of System & Product Specifications and Evaluations.,Marshall D. Abrams;,https://doi.org/10.1109/CSAC.2004.40
+acsac/acsac2004,2004,Malware,Using Predators to Combat Worms and Viruses: A Simulation-Based Study.,Ajay K. Gupta;Daniel C. DuVarney;,https://doi.org/10.1109/CSAC.2004.47
+acsac/acsac2004,2004,Malware,High-Fidelity Modeling of Computer Network Worms.,Kalyan S. Perumalla;Srikanth Sundaragopalan;,https://doi.org/10.1109/CSAC.2004.21
+acsac/acsac2004,2004,Malware,"Worm Detection, Early Warning and Response Based on Local Victim Information.",Guofei Gu;Monirul I. Sharif;Xinzhou Qin;David Dagon;Wenke Lee;George F. Riley;,https://doi.org/10.1109/CSAC.2004.51
+acsac/acsac2004,2004,Malware,Cozilet: Transparent Encapsulation to Prevent Abuse of Trusted Applets.,Hisashi Kojima;Ikuya Morikawa;Yuko Nakayama;Yuji Yamaoka;,https://doi.org/10.1109/CSAC.2004.13
+acsac/acsac2004,2004,Audit Analysis,Extracting Attack Manifestations to Determine Log Data Requirements for Intrusion Detection.,Emilie Lundin Barse;Erland Jonsson;,https://doi.org/10.1109/CSAC.2004.20
+acsac/acsac2004,2004,Audit Analysis,Detecting Attacks That Exploit Application-Logic Errors Through Application-Level Auditing.,Jingyu Zhou;Giovanni Vigna;,https://doi.org/10.1109/CSAC.2004.17
+acsac/acsac2004,2004,Audit Analysis,"Design, Implementation, and Evaluation of A Repairable Database Management System.",Tzi-cker Chiueh;Dhruv Pilania;,https://doi.org/10.1109/CSAC.2004.15
+acsac/acsac2004,2004,Audit Analysis,RACOON: Rapidly Generating User Command Data For Anomaly Detection From Customizable Templates.,Ramkumar Chinchani;Aarthie Muthukrishnan;Madhusudhanan Chandrasekaran;Shambhu J. Upadhyaya;,https://doi.org/10.1109/CSAC.2004.28
+acsac/acsac2004,2004,Classic Papers,"If A1 is the Answer, What was the Question? An Edgy Na?f's Retrospective on Promulgating the Trusted Computer Systems Evaluation Criteria.",Marvin Schaefer;,https://doi.org/10.1109/CSAC.2004.22
+acsac/acsac2004,2004,Classic Papers,"A Look Back at ""Security Problems in the TCP/IP Protocol Suite"".",Steven M. Bellovin;,https://doi.org/10.1109/CSAC.2004.3
+acsac/acsac2004,2004,Middleware,Vulnerabilities and Security Threats in Structured Overlay Networks: A Quantitative Analysis.,Mudhakar Srivatsa;Ling Liu;,https://doi.org/10.1109/CSAC.2004.50
+acsac/acsac2004,2004,Middleware,Securing Java RMI-Based Distributed Applications.,Ninghui Li;John C. Mitchell;Derrick Tong;,https://doi.org/10.1109/CSAC.2004.34
+acsac/acsac2004,2004,Middleware,.NET Security: Lessons Learned and Missed from Java.,Nathanael Paul;David Evans;,https://doi.org/10.1109/CSAC.2004.1
+acsac/acsac2004,2004,Insider Threat,"Tracing the Root of ""Rootable"" Processes.",Amit Purohit;Vishnu Navda;Tzi-cker Chiueh;,https://doi.org/10.1109/CSAC.2004.45
+acsac/acsac2004,2004,Insider Threat,Open-Source Applications of TCPA Hardware.,John Marchesini;Sean W. Smith;Omen Wild;Joshua Stabiner;Alex Barsamian;,https://doi.org/10.1109/CSAC.2004.25
+acsac/acsac2004,2004,Insider Threat,Security Policies to Mitigate Insider Threat in the Document Control Domain.,Suranjan Pramanik;Vidyaraman Sankaranarayanan;Shambhu J. Upadhyaya;,https://doi.org/10.1109/CSAC.2004.35
+acsac/acsac2004,2004,Network Security,Nabs: A System for Detecting Resource Abuses via Characterization of Flow Content Type.,Kulesh Shanmugasundaram;Mehdi Kharrazi;Nasir D. Memon;,https://doi.org/10.1109/CSAC.2004.24
+acsac/acsac2004,2004,Network Security,Static Analyzer of Vicious Executables (SAVE).,Andrew H. Sung;Jianyun Xu;Patrick Chavez;Srinivas Mukkamala;,https://doi.org/10.1109/CSAC.2004.37
+acsac/acsac2004,2004,Network Security,CTCP: A Transparent Centralized TCP/IP Architecture for Network Security.,Fu-Hau Hsu;Tzi-cker Chiueh;,https://doi.org/10.1109/CSAC.2004.14
+acsac/acsac2004,2004,Panel,The Cyber Enemy Within ... Countering the Threat from Malicious Insiders.,Dick Brackney;Terrance Goan;Allen Ott;Lockheed Martin;,https://doi.org/10.1109/CSAC.2004.39
+acsac/acsac2004,2004,Event Correlation,Correlating Intrusion Events and Building Attack Scenarios Through Attack Graph Distances.,Steven Noel;Eric Robertson;Sushil Jajodia;,https://doi.org/10.1109/CSAC.2004.11
+acsac/acsac2004,2004,Event Correlation,Alert Correlation through Triggering Events and Common Resources.,Dingbang Xu;Peng Ning;,https://doi.org/10.1109/CSAC.2004.5
+acsac/acsac2004,2004,Event Correlation,Attack Plan Recognition and Prediction Using Causal Networks.,Xinzhou Qin;Wenke Lee;,https://doi.org/10.1109/CSAC.2004.7
+acsac/acsac2004,2004,Panel,Themes and Highlights of the New Security Paradigms Workshop 2004.,Carla Marceau;Simon N. Foley;,https://doi.org/10.1109/CSAC.2004.42
+acsac/acsac2004,2004,Access Control Policy,PEACE: A Policy-Based Establishment of Ad-hoc Communities.,Sye Loong Keoh;Emil Lupu;Morris Sloman;,https://doi.org/10.1109/CSAC.2004.26
+acsac/acsac2004,2004,Access Control Policy,Role-Based Delegation Model/ Hierarchical Roles (RBDM1).,Ezedin Barka;Ravi S. Sandhu;,https://doi.org/10.1109/CSAC.2004.31
+acsac/acsac2004,2004,Access Control Policy,"Mohammad A. Al-Kahtani, Ravi Sandhu.",Mohammad A. Al-Kahtani;Ravi S. Sandhu;,https://doi.org/10.1109/CSAC.2004.32
+acsac/acsac2004,2004,Innovative Design,Designing Good Deceptions in Defense of Information Systems.,Neil C. Rowe;,https://doi.org/10.1109/CSAC.2004.16
+acsac/acsac2004,2004,Innovative Design,A Serial Combination of Anomaly and Misuse IDSes Applied to HTTP Traffic.,Elvis Tombini;Hervé Debar;Ludovic Mé;Mireille Ducassé;,https://doi.org/10.1109/CSAC.2004.4
+acsac/acsac2004,2004,Innovative Design,Securing a Remote Terminal Application with a Mobile Trusted Device.,Alina Oprea;Dirk Balfanz;Glenn Durfee;Diana K. Smetters;,https://doi.org/10.1109/CSAC.2004.33

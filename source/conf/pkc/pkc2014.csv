@@ -1,0 +1,38 @@
+pkc/pkc2014,2014,Chosen Ciphertext Security,Simple Chosen-Ciphertext Security from Low-Noise LPN.,Eike Kiltz;Daniel Masny;Krzysztof Pietrzak;,https://doi.org/10.1007/978-3-642-54631-0_1
+pkc/pkc2014,2014,Chosen Ciphertext Security,Leakage-Flexible CCA-secure Public-Key Encryption: Simple Construction and Free of Pairing.,Baodong Qin;Shengli Liu;,https://doi.org/10.1007/978-3-642-54631-0_2
+pkc/pkc2014,2014,Chosen Ciphertext Security,A Black-Box Construction of a CCA2 Encryption Scheme from a Plaintext Aware (sPA1) Encryption Scheme.,Dana Dachman-Soled;,https://doi.org/10.1007/978-3-642-54631-0_3
+pkc/pkc2014,2014,Chosen Ciphertext Security,Chosen Ciphertext Security via UCE.,Takahiro Matsuda;Goichiro Hanaoka;,https://doi.org/10.1007/978-3-642-54631-0_4
+pkc/pkc2014,2014,Re-encryption,Proxy Re-encryption from Lattices.,Elena Kirshanova;,https://doi.org/10.1007/978-3-642-54631-0_5
+pkc/pkc2014,2014,Re-encryption,"Re-encryption, Functional Re-encryption, and Multi-hop Re-encryption: A Framework for Achieving Obfuscation-Based Security and Instantiations from Lattices.",Nishanth Chandran;Melissa Chase;Feng-Hao Liu;Ryo Nishimaki;Keita Xagawa;,https://doi.org/10.1007/978-3-642-54631-0_6
+pkc/pkc2014,2014,Verifiable Outsourcing,Verifiable Set Operations over Outsourced Databases.,Ran Canetti;Omer Paneth;Dimitrios Papadopoulos;Nikos Triandopoulos;,https://doi.org/10.1007/978-3-642-54631-0_7
+pkc/pkc2014,2014,Verifiable Outsourcing,Verifiable Oblivious Storage.,Daniel Apon;Jonathan Katz;Elaine Shi;Aishwarya Thiruvengadam;,https://doi.org/10.1007/978-3-642-54631-0_8
+pkc/pkc2014,2014,Verifiable Outsourcing,Achieving Privacy in Verifiable Computation with Multiple Servers - Without FHE and without Pre-processing.,Prabhanjan Ananth;Nishanth Chandran;Vipul Goyal;Bhavana Kanukurthi;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-642-54631-0_9
+pkc/pkc2014,2014,Verifiable Outsourcing,Efficient Delegation of Zero-Knowledge Proofs of Knowledge in a Pairing-Friendly Setting.,Sébastien Canard;David Pointcheval;Olivier Sanders;,https://doi.org/10.1007/978-3-642-54631-0_10
+pkc/pkc2014,2014,Cryptanalysis,Rounding and Chaining LLL: Finding Faster Small Roots of Univariate Polynomial Congruences.,Jingguo Bi;Jean-Sébastien Coron;Jean-Charles Faugère;Phong Q. Nguyen;Guénaël Renault;Rina Zeitoun;,https://doi.org/10.1007/978-3-642-54631-0_11
+pkc/pkc2014,2014,Cryptanalysis,Elliptic and Hyperelliptic Curves: A Practical Security Analysis.,Joppe W. Bos;Craig Costello;Andrea Miele;,https://doi.org/10.1007/978-3-642-54631-0_12
+pkc/pkc2014,2014,Cryptanalysis,Discrete Logarithm in GF(2809) with FFS.,Razvan Barbulescu;Cyril Bouvier;Jérémie Detrey;Pierrick Gaudry;Hamza Jeljeli;Emmanuel Thomé;Marion Videau;Paul Zimmermann;,https://doi.org/10.1007/978-3-642-54631-0_13
+pkc/pkc2014,2014,Identity- and Attribute-Based Encryption,"Identity-Based Lossy Trapdoor Functions: New Definitions, Hierarchical Extensions, and Implications.",Alex Escala;Javier Herranz;Benoît Libert;Carla Ràfols;,https://doi.org/10.1007/978-3-642-54631-0_14
+pkc/pkc2014,2014,Identity- and Attribute-Based Encryption,Bounded-Collusion Identity-Based Encryption from Semantically-Secure Public-Key Encryption: Generic Constructions with Short Ciphertexts.,Stefano Tessaro;David A. Wilson;,https://doi.org/10.1007/978-3-642-54631-0_15
+pkc/pkc2014,2014,Identity- and Attribute-Based Encryption,A Framework and Compact Constructions for Non-monotonic Attribute-Based Encryption.,Shota Yamada;Nuttapong Attrapadung;Goichiro Hanaoka;Noboru Kunihiro;,https://doi.org/10.1007/978-3-642-54631-0_16
+pkc/pkc2014,2014,Identity- and Attribute-Based Encryption,Online/Offline Attribute-Based Encryption.,Susan Hohenberger;Brent Waters;,https://doi.org/10.1007/978-3-642-54631-0_17
+pkc/pkc2014,2014,Enhanced Encryption,Scale-Invariant Fully Homomorphic Encryption over the Integers.,Jean-Sébastien Coron;Tancrède Lepoint;Mehdi Tibouchi;,https://doi.org/10.1007/978-3-642-54631-0_18
+pkc/pkc2014,2014,Enhanced Encryption,Enhanced Chosen-Ciphertext Security and Applications.,Dana Dachman-Soled;Georg Fuchsbauer;Payman Mohassel;Adam O'Neill;,https://doi.org/10.1007/978-3-642-54631-0_19
+pkc/pkc2014,2014,Signature Schemes,Lattice-Based Group Signature Scheme with Verifier-Local Revocation.,Adeline Langlois;San Ling;Khoa Nguyen;Huaxiong Wang;,https://doi.org/10.1007/978-3-642-54631-0_20
+pkc/pkc2014,2014,Signature Schemes,Leakage-Resilient Signatures with Graceful Degradation.,Jesper Buus Nielsen;Daniele Venturi;Angela Zottarel;,https://doi.org/10.1007/978-3-642-54631-0_21
+pkc/pkc2014,2014,Signature Schemes,On the Lossiness of the Rabin Trapdoor Function.,Yannick Seurin;,https://doi.org/10.1007/978-3-642-54631-0_22
+pkc/pkc2014,2014,Cryptanalysis,Solving Random Subset Sum Problem by l p -norm SVP Oracle.,Gengran Hu;Yanbin Pan;Feng Zhang;,https://doi.org/10.1007/978-3-642-54631-0_23
+pkc/pkc2014,2014,Cryptanalysis,Parallel Gauss Sieve Algorithm: Solving the SVP Challenge over a 128-Dimensional Ideal Lattice.,Tsukasa Ishiguro;Shinsaku Kiyomoto;Yutaka Miyake;Tsuyoshi Takagi;,https://doi.org/10.1007/978-3-642-54631-0_24
+pkc/pkc2014,2014,Cryptanalysis,Lazy Modulus Switching for the BKW Algorithm on LWE.,Martin R. Albrecht;Jean-Charles Faugère;Robert Fitzpatrick;Ludovic Perret;,https://doi.org/10.1007/978-3-642-54631-0_25
+pkc/pkc2014,2014,Cryptanalysis,Practical Cryptanalysis of a Public-Key Encryption Scheme Based on New Multivariate Quadratic Assumptions.,Martin R. Albrecht;Jean-Charles Faugère;Robert Fitzpatrick;Ludovic Perret;Yosuke Todo;Keita Xagawa;,https://doi.org/10.1007/978-3-642-54631-0_26
+pkc/pkc2014,2014,Related-Key Security,Related Randomness Attacks for Public Key Encryption.,Kenneth G. Paterson;Jacob C. N. Schuldt;Dale L. Sibborn;,https://doi.org/10.1007/978-3-642-54631-0_27
+pkc/pkc2014,2014,Related-Key Security,Encryption Schemes Secure under Related-Key and Key-Dependent Message Attacks.,Florian Böhl;Gareth T. Davies;Dennis Hofheinz;,https://doi.org/10.1007/978-3-642-54631-0_28
+pkc/pkc2014,2014,Functional Authentication,Functional Signatures and Pseudorandom Functions.,Elette Boyle;Shafi Goldwasser;Ioana Ivan;,https://doi.org/10.1007/978-3-642-54631-0_29
+pkc/pkc2014,2014,Functional Authentication,Policy-Based Signatures.,Mihir Bellare;Georg Fuchsbauer;,https://doi.org/10.1007/978-3-642-54631-0_30
+pkc/pkc2014,2014,Functional Authentication,Generalizing Homomorphic MACs for Arithmetic Circuits.,Dario Catalano;Dario Fiore;Rosario Gennaro;Luca Nizzardo;,https://doi.org/10.1007/978-3-642-54631-0_31
+pkc/pkc2014,2014,Quantum Impossibility,General Impossibility of Group Homomorphic Encryption in the Quantum World.,Frederik Armknecht;Tommaso Gagliardoni;Stefan Katzenbeisser;Andreas Peter;,https://doi.org/10.1007/978-3-642-54631-0_32
+pkc/pkc2014,2014,Privacy,On Minimal Assumptions for Sender-Deniable Public Key Encryption.,Dana Dachman-Soled;,https://doi.org/10.1007/978-3-642-54631-0_33
+pkc/pkc2014,2014,Privacy,Traceable Group Encryption.,Benoît Libert;Moti Yung;Marc Joye;Thomas Peters;,https://doi.org/10.1007/978-3-642-54631-0_34
+pkc/pkc2014,2014,Privacy,Practical Covert Authentication.,Stanislaw Jarecki;,https://doi.org/10.1007/978-3-642-54631-0_35
+pkc/pkc2014,2014,Protocols,Fine-Tuning Groth-Sahai Proofs.,Alex Escala;Jens Groth;,https://doi.org/10.1007/978-3-642-54631-0_36
+pkc/pkc2014,2014,Protocols,Cross-Domain Secure Computation.,Chongwon Cho;Sanjam Garg;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-642-54631-0_37
+pkc/pkc2014,2014,Protocols,On the Security of the Pre-shared Key Ciphersuites of TLS.,Yong Li;Sven Schäge;Zheng Yang;Florian Kohlar;Jörg Schwenk;,https://doi.org/10.1007/978-3-642-54631-0_38

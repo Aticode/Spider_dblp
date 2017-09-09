@@ -1,0 +1,33 @@
+eurocrypt/eurocrypt2011,2011,Invited Talks,The Arithmetic Codex: Theory and Applications.,Ronald Cramer;,https://doi.org/10.1007/978-3-642-20465-4_1
+eurocrypt/eurocrypt2011,2011,Invited Talks,Lattice Reduction Algorithms: Theory and Practice.,Phong Q. Nguyen;,https://doi.org/10.1007/978-3-642-20465-4_2
+eurocrypt/eurocrypt2011,2011,Lattice-Based Cryptography,Efficient Authentication from Hard Learning Problems.,Eike Kiltz;Krzysztof Pietrzak;David Cash;Abhishek Jain;Daniele Venturi;,https://doi.org/10.1007/978-3-642-20465-4_3
+eurocrypt/eurocrypt2011,2011,Lattice-Based Cryptography,Making NTRU as Secure as Worst-Case Problems over Ideal Lattices.,Damien Stehlé;Ron Steinfeld;,https://doi.org/10.1007/978-3-642-20465-4_4
+eurocrypt/eurocrypt2011,2011,Implementation and Side Channels,Faster Explicit Formulas for Computing Pairings over Ordinary Curves.,Diego F. Aranha;Koray Karabina;Patrick Longa;Catherine H. Gebotys;Julio López;,https://doi.org/10.1007/978-3-642-20465-4_5
+eurocrypt/eurocrypt2011,2011,Implementation and Side Channels,Pushing the Limits: A Very Compact and a Threshold Implementation of AES.,Amir Moradi;Axel Poschmann;San Ling;Christof Paar;Huaxiong Wang;,https://doi.org/10.1007/978-3-642-20465-4_6
+eurocrypt/eurocrypt2011,2011,Implementation and Side Channels,Fully Leakage-Resilient Signatures.,Elette Boyle;Gil Segev;Daniel Wichs;,https://doi.org/10.1007/978-3-642-20465-4_7
+eurocrypt/eurocrypt2011,2011,Implementation and Side Channels,A Formal Study of Power Variability Issues and Side-Channel Attacks for Nanoscale Devices.,Mathieu Renauld;François-Xavier Standaert;Nicolas Veyrat-Charvillon;Dina Kamel;Denis Flandre;,https://doi.org/10.1007/978-3-642-20465-4_8
+eurocrypt/eurocrypt2011,2011,Homomorphic Cryptography,Implementing Gentry's Fully-Homomorphic Encryption Scheme.,Craig Gentry;Shai Halevi;,https://doi.org/10.1007/978-3-642-20465-4_9
+eurocrypt/eurocrypt2011,2011,Homomorphic Cryptography,Homomorphic Signatures for Polynomial Functions.,Dan Boneh;David Mandell Freeman;,https://doi.org/10.1007/978-3-642-20465-4_10
+eurocrypt/eurocrypt2011,2011,Homomorphic Cryptography,Semi-homomorphic Encryption and Multiparty Computation.,Rikke Bendlin;Ivan Damgård;Claudio Orlandi;Sarah Zakarias;,https://doi.org/10.1007/978-3-642-20465-4_11
+eurocrypt/eurocrypt2011,2011,Signature Schemes,Tight Proofs for Signature Schemes without Random Oracles.,Sven Schäge;,https://doi.org/10.1007/978-3-642-20465-4_12
+eurocrypt/eurocrypt2011,2011,Signature Schemes,Adaptive Pseudo-free Groups and Applications.,Dario Catalano;Dario Fiore;Bogdan Warinschi;,https://doi.org/10.1007/978-3-642-20465-4_13
+eurocrypt/eurocrypt2011,2011,Signature Schemes,Commuting Signatures and Verifiable Encryption.,Georg Fuchsbauer;,https://doi.org/10.1007/978-3-642-20465-4_14
+eurocrypt/eurocrypt2011,2011,Information-Theoretic Cryptography,"Secure Authentication from a Weak Key, without Leaking Information.",Niek J. Bouman;Serge Fehr;,https://doi.org/10.1007/978-3-642-20465-4_15
+eurocrypt/eurocrypt2011,2011,Information-Theoretic Cryptography,Secret Keys from Channel Noise.,Hadi Ahmadi;Reihaneh Safavi-Naini;,https://doi.org/10.1007/978-3-642-20465-4_16
+eurocrypt/eurocrypt2011,2011,Information-Theoretic Cryptography,Almost Optimum t-Cheater Identifiable Secret Sharing Schemes.,Satoshi Obana;,https://doi.org/10.1007/978-3-642-20465-4_17
+eurocrypt/eurocrypt2011,2011,Symmetric Key Cryptography,"On Linear Hulls, Statistical Saturation Attacks, PRESENT and a Cryptanalysis of PUFFIN.",Gregor Leander;,https://doi.org/10.1007/978-3-642-20465-4_18
+eurocrypt/eurocrypt2011,2011,Symmetric Key Cryptography,Domain Extension for MACs Beyond the Birthday Barrier.,Yevgeniy Dodis;John P. Steinberger;,https://doi.org/10.1007/978-3-642-20465-4_19
+eurocrypt/eurocrypt2011,2011,Attacks and Algorithms,Statistical Attack on RC4 - Distinguishing WPA.,Pouyan Sepehrdad;Serge Vaudenay;Martin Vuagnoux;,https://doi.org/10.1007/978-3-642-20465-4_20
+eurocrypt/eurocrypt2011,2011,Attacks and Algorithms,Improved Generic Algorithms for Hard Knapsacks.,Anja Becker;Jean-Sébastien Coron;Antoine Joux;,https://doi.org/10.1007/978-3-642-20465-4_21
+eurocrypt/eurocrypt2011,2011,Secure Computation,Two-Output Secure Computation with Malicious Adversaries.,Abhi Shelat;Chih-Hao Shen;,https://doi.org/10.1007/978-3-642-20465-4_22
+eurocrypt/eurocrypt2011,2011,Secure Computation,Efficient Non-interactive Secure Computation.,Yuval Ishai;Eyal Kushilevitz;Rafail Ostrovsky;Manoj Prabhakaran;Amit Sahai;,https://doi.org/10.1007/978-3-642-20465-4_23
+eurocrypt/eurocrypt2011,2011,Secure Computation,Towards a Game Theoretic View of Secure Computation.,Gilad Asharov;Ran Canetti;Carmit Hazay;,https://doi.org/10.1007/978-3-642-20465-4_24
+eurocrypt/eurocrypt2011,2011,Secure Computation,Highly-Efficient Universally-Composable Commitments Based on the DDH Assumption.,Yehuda Lindell;,https://doi.org/10.1007/978-3-642-20465-4_25
+eurocrypt/eurocrypt2011,2011,Composability,Concurrent Composition in the Bounded Quantum Storage Model.,Dominique Unruh;,https://doi.org/10.1007/978-3-642-20465-4_26
+eurocrypt/eurocrypt2011,2011,Composability,Careful with Composition: Limitations of the Indifferentiability Framework.,Thomas Ristenpart;Hovav Shacham;Thomas Shrimpton;,https://doi.org/10.1007/978-3-642-20465-4_27
+eurocrypt/eurocrypt2011,2011,Key Dependent Message Security,Efficient Circuit-Size Independent Public Key Encryption with KDM Security.,Tal Malkin;Isamu Teranishi;Moti Yung;,https://doi.org/10.1007/978-3-642-20465-4_28
+eurocrypt/eurocrypt2011,2011,Key Dependent Message Security,Key-Dependent Message Security: Generic Amplification and Completeness.,Benny Applebaum;,https://doi.org/10.1007/978-3-642-20465-4_29
+eurocrypt/eurocrypt2011,2011,Public Key Encryption,Unbounded HIBE and Attribute-Based Encryption.,Allison B. Lewko;Brent Waters;,https://doi.org/10.1007/978-3-642-20465-4_30
+eurocrypt/eurocrypt2011,2011,Public Key Encryption,Decentralizing Attribute-Based Encryption.,Allison B. Lewko;Brent Waters;,https://doi.org/10.1007/978-3-642-20465-4_31
+eurocrypt/eurocrypt2011,2011,Public Key Encryption,Threshold and Revocation Cryptosystems via Extractable Hash Proofs.,Hoeteck Wee;,https://doi.org/10.1007/978-3-642-20465-4_32
+eurocrypt/eurocrypt2011,2011,Public Key Encryption,Deniable Encryption with Negligible Detection Probability: An Interactive Construction.,Markus Dürmuth;David Mandell Freeman;,https://doi.org/10.1007/978-3-642-20465-4_33

@@ -1,0 +1,34 @@
+tcc/tcc2008,2008,None,Incrementally Verifiable Computation or Proofs of Knowledge Imply Time/Space Efficiency.,Paul Valiant;,https://doi.org/10.1007/978-3-540-78524-8_1
+tcc/tcc2008,2008,None,On Seed-Incompressible Functions.,Shai Halevi;Steven Myers;Charles Rackoff;,https://doi.org/10.1007/978-3-540-78524-8_2
+tcc/tcc2008,2008,None,Asymptotically Efficient Lattice-Based Digital Signatures.,Vadim Lyubashevsky;Daniele Micciancio;,https://doi.org/10.1007/978-3-540-78524-8_3
+tcc/tcc2008,2008,None,Basing Weak Public-Key Cryptography on Strong One-Way Functions.,Eli Biham;Yaron J. Goren;Yuval Ishai;,https://doi.org/10.1007/978-3-540-78524-8_4
+tcc/tcc2008,2008,None,Which Languages Have 4-Round Zero-Knowledge Proofs?,Jonathan Katz;,https://doi.org/10.1007/978-3-540-78524-8_5
+tcc/tcc2008,2008,None,How to Achieve Perfect Simulation and A Complete Problem for Non-interactive Perfect Zero-Knowledge.,Lior Malka;,https://doi.org/10.1007/978-3-540-78524-8_6
+tcc/tcc2008,2008,None,General Properties of Quantum Zero-Knowledge Proofs.,Hirotada Kobayashi;,https://doi.org/10.1007/978-3-540-78524-8_7
+tcc/tcc2008,2008,None,The Layered Games Framework for Specifications and Analysis of Security Protocols.,Amir Herzberg;Igal Yoffe;,https://doi.org/10.1007/978-3-540-78524-8_8
+tcc/tcc2008,2008,None,Universally Composable Multi-party Computation with an Unreliable Common Reference String.,Vipul Goyal;Jonathan Katz;,https://doi.org/10.1007/978-3-540-78524-8_9
+tcc/tcc2008,2008,None,Efficient Protocols for Set Intersection and Pattern Matching with Security Against Malicious and Covert Adversaries.,Carmit Hazay;Yehuda Lindell;,https://doi.org/10.1007/978-3-540-78524-8_10
+tcc/tcc2008,2008,None,Fast Private Norm Estimation and Heavy Hitters.,Joe Kilian;André Madeira;Martin J. Strauss;Xuan Zheng;,https://doi.org/10.1007/978-3-540-78524-8_11
+tcc/tcc2008,2008,None,Matroids Can Be Far from Ideal Secret Sharing.,Amos Beimel;Noam Livne;Carles Padró;,https://doi.org/10.1007/978-3-540-78524-8_12
+tcc/tcc2008,2008,None,Perfectly-Secure MPC with Linear Communication Complexity.,Zuzana Beerliová-Trubíniová;Martin Hirt;,https://doi.org/10.1007/978-3-540-78524-8_13
+tcc/tcc2008,2008,None,MPC vs. SFE: Perfect Security in a Unified Corruption Model.,Zuzana Beerliová-Trubíniová;Matthias Fitzi;Martin Hirt;Ueli M. Maurer;Vassilis Zikas;,https://doi.org/10.1007/978-3-540-78524-8_14
+tcc/tcc2008,2008,None,Bridging Game Theory and Cryptography: Recent Results and Future Directions.,Jonathan Katz;,https://doi.org/10.1007/978-3-540-78524-8_15
+tcc/tcc2008,2008,None,Verifiably Secure Devices.,Sergei Izmalkov;Matt Lepinski;Silvio Micali;,https://doi.org/10.1007/978-3-540-78524-8_16
+tcc/tcc2008,2008,None,Lower Bounds on Implementing Robust and Resilient Mediators.,Ittai Abraham;Danny Dolev;Joseph Y. Halpern;,https://doi.org/10.1007/978-3-540-78524-8_17
+tcc/tcc2008,2008,None,Cryptography and Game Theory: Designing Protocols for Exchanging Information.,Gillat Kol;Moni Naor;,https://doi.org/10.1007/978-3-540-78524-8_18
+tcc/tcc2008,2008,None,Equivocal Blind Signatures and Adaptive UC-Security.,Aggelos Kiayias;Hong-Sheng Zhou;,https://doi.org/10.1007/978-3-540-78524-8_19
+tcc/tcc2008,2008,None,P-signatures and Noninteractive Anonymous Credentials.,Mira Belenkiy;Melissa Chase;Markulf Kohlweiss;Anna Lysyanskaya;,https://doi.org/10.1007/978-3-540-78524-8_20
+tcc/tcc2008,2008,None,Multi-property Preserving Combiners for Hash Functions.,Marc Fischlin;Anja Lehmann;,https://doi.org/10.1007/978-3-540-78524-8_21
+tcc/tcc2008,2008,None,OT-Combiners via Secure Computation.,Danny Harnik;Yuval Ishai;Eyal Kushilevitz;Jesper Buus Nielsen;,https://doi.org/10.1007/978-3-540-78524-8_22
+tcc/tcc2008,2008,None,Semi-honest to Malicious Oblivious Transfer - The Black-Box Way.,Iftach Haitner;,https://doi.org/10.1007/978-3-540-78524-8_23
+tcc/tcc2008,2008,None,Black-Box Construction of a Non-malleable Encryption Scheme from Any Semantically Secure One.,Seung Geol Choi;Dana Dachman-Soled;Tal Malkin;Hoeteck Wee;,https://doi.org/10.1007/978-3-540-78524-8_24
+tcc/tcc2008,2008,None,A Linear Lower Bound on the Communication Complexity of Single-Server Private Information Retrieval.,Iftach Haitner;Jonathan J. Hoch;Gil Segev;,https://doi.org/10.1007/978-3-540-78524-8_25
+tcc/tcc2008,2008,None,Randomness Extraction Via delta -Biased Masking in the Presence of a Quantum Attacker.,Serge Fehr;Christian Schaffner;,https://doi.org/10.1007/978-3-540-78524-8_26
+tcc/tcc2008,2008,None,An Equivalence Between Zero Knowledge and Commitments.,Shien Jin Ong;Salil P. Vadhan;,https://doi.org/10.1007/978-3-540-78524-8_27
+tcc/tcc2008,2008,None,Interactive and Noninteractive Zero Knowledge are Equivalent in the Help Model.,André Chailloux;Dragos Florin Ciocan;Iordanis Kerenidis;Salil P. Vadhan;,https://doi.org/10.1007/978-3-540-78524-8_28
+tcc/tcc2008,2008,None,The Round-Complexity of Black-Box Zero-Knowledge: A Combinatorial Characterization.,Daniele Micciancio;Scott Yilek;,https://doi.org/10.1007/978-3-540-78524-8_29
+tcc/tcc2008,2008,None,On Constant-Round Concurrent Zero-Knowledge.,Rafael Pass;Muthuramakrishnan Venkitasubramaniam;,https://doi.org/10.1007/978-3-540-78524-8_30
+tcc/tcc2008,2008,None,Concurrent Non-malleable Commitments from Any One-Way Function.,Huijia Lin;Rafael Pass;Muthuramakrishnan Venkitasubramaniam;,https://doi.org/10.1007/978-3-540-78524-8_31
+tcc/tcc2008,2008,None,Faster and Shorter Password-Authenticated Key Exchange.,Rosario Gennaro;,https://doi.org/10.1007/978-3-540-78524-8_32
+tcc/tcc2008,2008,None,Saving Private Randomness in One-Way Functions and Pseudorandom Generators.,Nenad Dedic;Danny Harnik;Leonid Reyzin;,https://doi.org/10.1007/978-3-540-78524-8_33
+tcc/tcc2008,2008,None,Degradation and Amplification of Computational Hardness.,Shai Halevi;Tal Rabin;,https://doi.org/10.1007/978-3-540-78524-8_34

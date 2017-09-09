@@ -1,0 +1,27 @@
+fse/fse2006,2006,Stream Ciphers,Cryptanalysis of Achterbahn.,Thomas Johansson;Willi Meier;Frédéric Muller;,https://doi.org/10.1007/11799313_1
+fse/fse2006,2006,Stream Ciphers,Cryptanalysis of Grain.,Côme Berbain;Henri Gilbert;Alexander Maximov;,https://doi.org/10.1007/11799313_2
+fse/fse2006,2006,Stream Ciphers,Cryptanalysis of the Stream Cipher DECIM.,Hongjun Wu;Bart Preneel;,https://doi.org/10.1007/11799313_3
+fse/fse2006,2006,Block Ciphers,On Feistel Structures Using a Diffusion Switching Mechanism.,Taizo Shirai;Kyoji Shibutani;,https://doi.org/10.1007/11799313_4
+fse/fse2006,2006,Block Ciphers,Pseudorandom Permutation Families over Abelian Groups.,Louis Granboulan;Éric Levieil;Gilles Piret;,https://doi.org/10.1007/11799313_5
+fse/fse2006,2006,Block Ciphers,A Zero-Dimensional Gröbner Basis for AES-128.,Johannes A. Buchmann;Andrei Pyshkin;Ralf-Philipp Weinmann;,https://doi.org/10.1007/11799313_6
+fse/fse2006,2006,Hash Functions,Cryptanalysis of the Full HAVAL with 4 and 5 Passes.,Hongbo Yu;Xiaoyun Wang;Aaram Yun;Sangwoo Park;,https://doi.org/10.1007/11799313_7
+fse/fse2006,2006,Hash Functions,Collisions and Near-Collisions for Reduced-Round Tiger.,John Kelsey;Stefan Lucks;,https://doi.org/10.1007/11799313_8
+fse/fse2006,2006,Hash Functions,Analysis of Step-Reduced SHA-256.,Florian Mendel;Norbert Pramstaller;Christian Rechberger;Vincent Rijmen;,https://doi.org/10.1007/11799313_9
+fse/fse2006,2006,Analysis,Improved Linear Distinguishers for SNOW 2.0.,Kaisa Nyberg;Johan Wallén;,https://doi.org/10.1007/11799313_10
+fse/fse2006,2006,Analysis,Reducing the Space Complexity of BDD-Based Attacks on Keystream Generators.,Matthias Krause;Dirk Stegemann;,https://doi.org/10.1007/11799313_11
+fse/fse2006,2006,Analysis,Breaking the ICE - Finding Multicollisions in Iterated Concatenated and Expanded (ICE) Hash Functions.,Jonathan J. Hoch;Adi Shamir;,https://doi.org/10.1007/11799313_12
+fse/fse2006,2006,Proposals,A New Dedicated 256-Bit Hash Function: FORK-256.,Deukjo Hong;Donghoon Chang;Jaechul Sung;Sangjin Lee;Seokhie Hong;Jaesang Lee;Dukjae Moon;Sungtaek Chee;,https://doi.org/10.1007/11799313_13
+fse/fse2006,2006,Proposals,Some Plausible Constructions of Double-Block-Length Hash Functions.,Shoichi Hirose;,https://doi.org/10.1007/11799313_14
+fse/fse2006,2006,Proposals,Provably Secure MACs from Differentially-Uniform Permutations and AES-Based Implementations.,Kazuhiko Minematsu;Yukiyasu Tsunoo;,https://doi.org/10.1007/11799313_15
+fse/fse2006,2006,Hash Functions,Searching for Differential Paths in MD4.,Martin Schläffer;Elisabeth Oswald;,https://doi.org/10.1007/11799313_16
+fse/fse2006,2006,Hash Functions,A Study of the MD5 Attacks: Insights and Improvements.,John Black;Martin Cochran;Trevor Highland;,https://doi.org/10.1007/11799313_17
+fse/fse2006,2006,Hash Functions,The Impact of Carries on the Complexity of Collision Attacks on SHA-1.,Florian Mendel;Norbert Pramstaller;Christian Rechberger;Vincent Rijmen;,https://doi.org/10.1007/11799313_18
+fse/fse2006,2006,Modes and Models,A New Mode of Encryption Providing a Tweakable Strong Pseudo-random Permutation.,Debrup Chakraborty;Palash Sarkar;,https://doi.org/10.1007/11799313_19
+fse/fse2006,2006,Modes and Models,New Blockcipher Modes of Operation with Beyond the Birthday Bound Security.,Tetsu Iwata;,https://doi.org/10.1007/11799313_20
+fse/fse2006,2006,Modes and Models,"The Ideal-Cipher Model, Revisited: An Uninstantiable Blockcipher-Based Hash Function.",John Black;,https://doi.org/10.1007/11799313_21
+fse/fse2006,2006,Implementation and Bounds,How Far Can We Go on the x64 Processors?,Mitsuru Matsui;,https://doi.org/10.1007/11799313_22
+fse/fse2006,2006,Implementation and Bounds,Computing the Algebraic Immunity Efficiently.,Frédéric Didier;Jean-Pierre Tillich;,https://doi.org/10.1007/11799313_23
+fse/fse2006,2006,Implementation and Bounds,Upper Bounds on Algebraic Immunity of Boolean Power Functions.,Yassir Nawaz;Guang Gong;Kishan Chand Gupta;,https://doi.org/10.1007/11799313_24
+fse/fse2006,2006,Stream Ciphers,Chosen-Ciphertext Attacks Against MOSQUITO.,Antoine Joux;Frédéric Muller;,https://doi.org/10.1007/11799313_25
+fse/fse2006,2006,Stream Ciphers,Distinguishing Attacks on the Stream Cipher Py.,Souradyuti Paul;Bart Preneel;Gautham Sekar;,https://doi.org/10.1007/11799313_26
+fse/fse2006,2006,Stream Ciphers,Resynchronization Attacks on WG and LEX.,Hongjun Wu;Bart Preneel;,https://doi.org/10.1007/11799313_27

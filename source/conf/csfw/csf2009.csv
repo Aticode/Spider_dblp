@@ -1,0 +1,22 @@
+csfw/csf2009,2009,Protocol Design,More Anonymous Onion Routing Through Trust.,Aaron Johnson;Paul F. Syverson;,https://doi.org/10.1109/CSF.2009.27
+csfw/csf2009,2009,Protocol Design,Minimal Message Complexity of Asynchronous Multi-party Contract Signing.,Sjouke Mauw;Sasa Radomirovic;Mohammad Torabi Dashti;,https://doi.org/10.1109/CSF.2009.15
+csfw/csf2009,2009,Protocol Design,"Authentication without Elision: Partially Specified Protocols, Associated Data, and Cryptographic Models Described by Code.",Phillip Rogaway;Till Stegers;,https://doi.org/10.1109/CSF.2009.23
+csfw/csf2009,2009,Information Flow,Tight Enforcement of Information-Release Policies for Dynamic Languages.,Aslan Askarov;Andrei Sabelfeld;,https://doi.org/10.1109/CSF.2009.22
+csfw/csf2009,2009,Information Flow,Updatable Security Views.,J. Nathan Foster;Benjamin C. Pierce;Steve Zdancewic;,https://doi.org/10.1109/CSF.2009.25
+csfw/csf2009,2009,Web Security,Language-Based Isolation of Untrusted JavaScript.,Sergio Maffeis;Ankur Taly;,https://doi.org/10.1109/CSF.2009.11
+csfw/csf2009,2009,Web Security,Securing Timeout Instructions in Web Applications.,Alejandro Russo;Andrei Sabelfeld;,https://doi.org/10.1109/CSF.2009.16
+csfw/csf2009,2009,Protocol Analysis,Modeling and Verifying Physical Properties of Security Protocols for Wireless Networks.,Patrick Schaller;Benedikt Schmidt;David A. Basin;Srdjan Capkun;,https://doi.org/10.1109/CSF.2009.6
+csfw/csf2009,2009,Protocol Analysis,Cryptographic Protocol Synthesis and Verification for Multiparty Sessions.,Karthikeyan Bhargavan;Ricardo Corin;Pierre-Malo Deniélou;Cédric Fournet;James J. Leifer;,https://doi.org/10.1109/CSF.2009.26
+csfw/csf2009,2009,Protocol Analysis,A Secure Cryptographic Token Interface.,Christian Cachin;Nishanth Chandran;,https://doi.org/10.1109/CSF.2009.7
+csfw/csf2009,2009,Protocols,Using ProVerif to Analyze Protocols with Diffie-Hellman Exponentiation.,Ralf Küsters;Tomasz Truderung;,https://doi.org/10.1109/CSF.2009.17
+csfw/csf2009,2009,Protocols,ASPIER: An Automated Framework for Verifying Security Protocol Implementations.,Sagar Chaki;Anupam Datta;,https://doi.org/10.1109/CSF.2009.20
+csfw/csf2009,2009,Protocols,Inputs of Coma: Static Detection of Denial-of-Service Vulnerabilities.,Richard M. Chang;Guofei Jiang;Franjo Ivancic;Sriram Sankaranarayanan;Vitaly Shmatikov;,https://doi.org/10.1109/CSF.2009.13
+csfw/csf2009,2009,Authorization,Specification and Analysis of Dynamic Authorisation Policies.,Moritz Y. Becker;,https://doi.org/10.1109/CSF.2009.14
+csfw/csf2009,2009,Authorization,Policy Compliance in Collaborative Systems.,Max I. Kanovich;Paul D. Rowe;Andre Scedrov;,https://doi.org/10.1109/CSF.2009.19
+csfw/csf2009,2009,Authorization,Advice from Belnap Policies.,Chris Hankin;Flemming Nielson;Hanne Riis Nielson;,https://doi.org/10.1109/CSF.2009.8
+csfw/csf2009,2009,Verification Methods,Expressive Power of Definite Clauses for Verifying Authenticity.,Gilberto Filé;Roberto Vigo;,https://doi.org/10.1109/CSF.2009.12
+csfw/csf2009,2009,Verification Methods,A Method for Proving Observational Equivalence.,Véronique Cortier;Stéphanie Delaune;,https://doi.org/10.1109/CSF.2009.9
+csfw/csf2009,2009,Verification Methods,Decidable Analysis for a Class of Cryptographic Group Protocols with Unbounded Lists.,Najah Chridi;Mathieu Turuani;Michaël Rusinowitch;,https://doi.org/10.1109/CSF.2009.10
+csfw/csf2009,2009,Protocols,Universally Composable Symmetric Encryption.,Ralf Küsters;Max Tuengerthal;,https://doi.org/10.1109/CSF.2009.18
+csfw/csf2009,2009,Protocols,Achieving Security Despite Compromise Using Zero-knowledge.,Michael Backes;Martin P. Grochulla;Catalin Hritcu;Matteo Maffei;,https://doi.org/10.1109/CSF.2009.24
+csfw/csf2009,2009,Protocols,A Provably Secure and Efficient Countermeasure against Timing Attacks.,Boris Köpf;Markus Dürmuth;,https://doi.org/10.1109/CSF.2009.21

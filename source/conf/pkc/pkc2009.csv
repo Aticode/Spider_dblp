@@ -1,0 +1,28 @@
+pkc/pkc2009,2009,Number Theory,Implicit Factoring: On Polynomial Time Factoring Given Only an Implicit Hint.,Alexander May;Maike Ritzenhofen;,https://doi.org/10.1007/978-3-642-00468-1_1
+pkc/pkc2009,2009,Number Theory,The Security of All Bits Using List Decoding.,Paz Morillo;Carla Ràfols;,https://doi.org/10.1007/978-3-642-00468-1_2
+pkc/pkc2009,2009,Number Theory,A New Lattice Construction for Partial Key Exposure Attack for RSA.,Yoshinori Aono;,https://doi.org/10.1007/978-3-642-00468-1_3
+pkc/pkc2009,2009,Number Theory,Subset-Restricted Random Walks for Pollard rho Method on Fpm.,Minkyu Kim;Jung Hee Cheon;Jin Hong;,https://doi.org/10.1007/978-3-642-00468-1_4
+pkc/pkc2009,2009,Applications and Protocols,Signing a Linear Subspace: Signature Schemes for Network Coding.,Dan Boneh;David Mandell Freeman;Jonathan Katz;Brent Waters;,https://doi.org/10.1007/978-3-642-00468-1_5
+pkc/pkc2009,2009,Applications and Protocols,Improving the Boneh-Franklin Traitor Tracing Scheme.,Pascal Junod;Alexandre Karlov;Arjen K. Lenstra;,https://doi.org/10.1007/978-3-642-00468-1_6
+pkc/pkc2009,2009,Applications and Protocols,Modeling Key Compromise Impersonation Attacks on Group Key Exchange Protocols.,M. Choudary Gorantla;Colin Boyd;Juan Manuel González Nieto;,https://doi.org/10.1007/978-3-642-00468-1_7
+pkc/pkc2009,2009,Applications and Protocols,Zero-Knowledge Proofs with Witness Elimination.,Aggelos Kiayias;Hong-Sheng Zhou;,https://doi.org/10.1007/978-3-642-00468-1_8
+pkc/pkc2009,2009,Multi-Party Protocols,Distributed Public-Key Cryptography from Weak Secrets.,Michel Abdalla;Xavier Boyen;Céline Chevalier;David Pointcheval;,https://doi.org/10.1007/978-3-642-00468-1_9
+pkc/pkc2009,2009,Multi-Party Protocols,Asynchronous Multiparty Computation: Theory and Implementation.,Ivan Damgård;Martin Geisler;Mikkel Krøigaard;Jesper Buus Nielsen;,https://doi.org/10.1007/978-3-642-00468-1_10
+pkc/pkc2009,2009,Multi-Party Protocols,Multi-Party Computation with Omnipresent Adversary.,Hossein Ghodosi;Josef Pieprzyk;,https://doi.org/10.1007/978-3-642-00468-1_11
+pkc/pkc2009,2009,Identity-Based Encryption,Blind and Anonymous Identity-Based Encryption and Authorised Private Searches on Public Key Encrypted Data.,Jan Camenisch;Markulf Kohlweiss;Alfredo Rial;Caroline Sheedy;,https://doi.org/10.1007/978-3-642-00468-1_12
+pkc/pkc2009,2009,Identity-Based Encryption,Anonymous Hierarchical Identity-Based Encryption with Constant Size Ciphertexts.,Jae Hong Seo;Tetsutaro Kobayashi;Miyako Ohkubo;Koutarou Suzuki;,https://doi.org/10.1007/978-3-642-00468-1_13
+pkc/pkc2009,2009,Identity-Based Encryption,Towards Black-Box Accountable Authority IBE with Short Ciphertexts and Private Keys.,Benoît Libert;Damien Vergnaud;,https://doi.org/10.1007/978-3-642-00468-1_14
+pkc/pkc2009,2009,Identity-Based Encryption,Removing Escrow from Identity-Based Encryption.,Sherman S. M. Chow;,https://doi.org/10.1007/978-3-642-00468-1_15
+pkc/pkc2009,2009,Signatures,On the Theory and Practice of Personal Digital Signatures.,Ivan Damgård;Gert Læssøe Mikkelsen;,https://doi.org/10.1007/978-3-642-00468-1_16
+pkc/pkc2009,2009,Signatures,Security of Blind Signatures under Aborts.,Marc Fischlin;Dominique Schröder;,https://doi.org/10.1007/978-3-642-00468-1_17
+pkc/pkc2009,2009,Signatures,Security of Sanitizable Signatures Revisited.,Christina Brzuska;Marc Fischlin;Tobias Freudenreich;Anja Lehmann;Marcus Page;Jakob Schelbert;Dominique Schröder;Florian Volk;,https://doi.org/10.1007/978-3-642-00468-1_18
+pkc/pkc2009,2009,Signatures,Identification of Multiple Invalid Signatures in Pairing-Based Batched Signatures.,Brian J. Matt;,https://doi.org/10.1007/978-3-642-00468-1_19
+pkc/pkc2009,2009,Encryption,CCA-Secure Proxy Re-encryption without Pairings.,Jun Shao;Zhenfu Cao;,https://doi.org/10.1007/978-3-642-00468-1_20
+pkc/pkc2009,2009,Encryption,Compact CCA-Secure Encryption for Messages of Arbitrary Length.,Masayuki Abe;Eike Kiltz;Tatsuaki Okamoto;,https://doi.org/10.1007/978-3-642-00468-1_21
+pkc/pkc2009,2009,Encryption,Verifiable Rotation of Homomorphic Encryptions.,Sebastiaan de Hoogh;Berry Schoenmakers;Boris Skoric;José Villegas;,https://doi.org/10.1007/978-3-642-00468-1_22
+pkc/pkc2009,2009,New Cryptosystems and Optimizations,A Practical Key Recovery Attack on Basic TCHo.,Mathias Herrmann;Gregor Leander;,https://doi.org/10.1007/978-3-642-00468-1_23
+pkc/pkc2009,2009,New Cryptosystems and Optimizations,An Algebraic Surface Cryptosystem.,Koichiro Akiyama;Yasuhiro Goto;Hideyuki Miyake;,https://doi.org/10.1007/978-3-642-00468-1_24
+pkc/pkc2009,2009,New Cryptosystems and Optimizations,Fast Multibase Methods and Other Several Optimizations for Elliptic Curve Scalar Multiplication.,Patrick Longa;Catherine H. Gebotys;,https://doi.org/10.1007/978-3-642-00468-1_25
+pkc/pkc2009,2009,Group Signatures and Anonymous Credentials,Revocable Group Signature Schemes with Constant Costs for Signing and Verifying.,Toru Nakanishi;Hiroki Fujii;Yuta Hira;Nobuo Funabiki;,https://doi.org/10.1007/978-3-642-00468-1_26
+pkc/pkc2009,2009,Group Signatures and Anonymous Credentials,An Accumulator Based on Bilinear Maps and Efficient Revocation for Anonymous Credentials.,Jan Camenisch;Markulf Kohlweiss;Claudio Soriente;,https://doi.org/10.1007/978-3-642-00468-1_27
+pkc/pkc2009,2009,Group Signatures and Anonymous Credentials,Controlling Access to an Oblivious Database Using Stateful Anonymous Credentials.,Scott E. Coull;Matthew Green;Susan Hohenberger;,https://doi.org/10.1007/978-3-642-00468-1_28

@@ -1,0 +1,38 @@
+srds/srds2003,2003,Dependable Multicasting,Reliably Networking a Multicast Repository.,Wang Lam;Hector Garcia-Molina;,https://doi.org/10.1109/RELDIS.2003.1238050
+srds/srds2003,2003,Dependable Multicasting,NEEM: Network-Friendly Epidemic Multicast.,José Orlando Pereira;Luís E. T. Rodrigues;M. João Monteiro;Rui Carlos Oliveira;Anne-Marie Kermarrec;,https://doi.org/10.1109/RELDIS.2003.1238051
+srds/srds2003,2003,Dependable Multicasting,Epidemic Spreading in Real Networks: An Eigenvalue Viewpoint.,Yang Wang;Deepayan Chakrabarti;Chenxi Wang;Christos Faloutsos;,https://doi.org/10.1109/RELDIS.2003.1238052
+srds/srds2003,2003,Dependable Multicasting,Group Communication Protocols under Errors.,Claudio Basile;Long Wang;Zbigniew Kalbarczyk;Ravishankar K. Iyer;,https://doi.org/10.1109/RELDIS.2003.1238053
+srds/srds2003,2003,Peer-to-Peer and Beyond,Network Awareness and Failure Resilience in Self-Organising Overlay Networks.,Laurent Massoulié;Anne-Marie Kermarrec;Ayalvadi J. Ganesh;,https://doi.org/10.1109/RELDIS.2003.1238054
+srds/srds2003,2003,Peer-to-Peer and Beyond,Reliable Peer-to-Peer Information Monitoring through Replication.,Bugra Gedik;Ling Liu;,https://doi.org/10.1109/RELDIS.2003.1238055
+srds/srds2003,2003,Peer-to-Peer and Beyond,Federation Web: A Scheme to Compound Authorization Chains on Large-Scale Distributed Systems.,Altair Olivo Santin;Joni da Silva Fraga;Frank Siqueira;Emerson Ribeiro de Mello;,https://doi.org/10.1109/RELDIS.2003.1238056
+srds/srds2003,2003,Peer-to-Peer and Beyond,Buffer Management in Probabilistic Peer-to-Peer Communication Protocols.,Boris Koldehofe;,https://doi.org/10.1109/RELDIS.2003.1238057
+srds/srds2003,2003,Replication,Component Replication in Distributed Systems: A Case Study Using Enterprise Java Beans.,Achmad I. Kistijantoro;Graham Morgan;Santosh K. Shrivastava;Mark C. Little;,https://doi.org/10.1109/RELDIS.2003.1238058
+srds/srds2003,2003,Replication,Autonomous Replication for High Availability in Unstructured P2P Systems.,Francisco Matias Cuenca-Acuna;Richard P. Martin;Thu D. Nguyen;,https://doi.org/10.1109/RELDIS.2003.1238059
+srds/srds2003,2003,Replication,Performance Virtualization for Large-Scale Storage Systems.,David D. Chambliss;Guillermo A. Alvarez;Prashant Pandey;Divyesh Jadav;Jian Xu;Ram Menon;Tzongyu P. Lee;,https://doi.org/10.1109/RELDIS.2003.1238060
+srds/srds2003,2003,Replication,Preventing Orphan Requests in the Context of Replicated Invocation.,Stefan Pleisch;Arnas Kupsys;André Schiper;,https://doi.org/10.1109/RELDIS.2003.1238061
+srds/srds2003,2003,Checkpointing,Performance and Effectiveness Analysis of Checkpointing in Mobile Environments.,Xinyu Chen;Michael R. Lyu;,https://doi.org/10.1109/RELDIS.2003.1238062
+srds/srds2003,2003,Checkpointing,Raptor: Integrating Checkpoints and Thread Migration for Cluster Management.,Hazim Shafi;Evan Speight;John K. Bennett;,https://doi.org/10.1109/RELDIS.2003.1238063
+srds/srds2003,2003,Invited Address,AMSD: A Dependability Roadmap for the Information Society in Europe.,Luca Simoncini;,https://doi.org/10.1109/RELDIS.2003.1238064
+srds/srds2003,2003,Making Services Robust,Easy: Engineering High Availability QoS in wServices.,Eliezer Dekel;Oleg Frenkel;Gera Goft;Yosef Moatti;,https://doi.org/10.1109/RELDIS.2003.1238065
+srds/srds2003,2003,Making Services Robust,Coordinated Forward Error Recovery for Composite Web Services.,Ferda Tartanoglu;Valérie Issarny;Alexander B. Romanovsky;Nicole Lévy;,https://doi.org/10.1109/RELDIS.2003.1238066
+srds/srds2003,2003,Making Services Robust,Service Continuations: An Operating System Mechanism for Dynamic Migration of Internet Service Sessions.,Florin Sultan;Aniruddha Bohra;Liviu Iftode;,https://doi.org/10.1109/RELDIS.2003.1238067
+srds/srds2003,2003,Frameworks and Protocols,Appia vs. Cactus: Comparing Protocol Composition Frameworks.,Sergio Mena;Xavier Cuvellier;Christophe Grégoire;André Schiper;,https://doi.org/10.1109/RELDIS.2003.1238068
+srds/srds2003,2003,Frameworks and Protocols,A Systematic Approach to the Development of Event Based Applications.,Pascal Fenkam;Harald C. Gall;Mehdi Jazayeri;,https://doi.org/10.1109/RELDIS.2003.1238069
+srds/srds2003,2003,Frameworks and Protocols,TCP-Friendly Many-to-Many End-to-End Congestion Control.,Tal Anker;Danny Dolev;Ilya Shnayderman;Innocenty Sukhov;,https://doi.org/10.1109/RELDIS.2003.1238070
+srds/srds2003,2003,Frameworks and Protocols,A Reconfigurable Byzantine Quorum Approach for the Agile Store.,Lei Kong;Arun Subbiah;Mustaque Ahamad;Douglas M. Blough;,https://doi.org/10.1109/RELDIS.2003.1238071
+srds/srds2003,2003,Security,A Reliable Key Authentication Schema for Secure Multicast Communications.,Roberto Di Pietro;Antonio Durante;Luigi V. Mancini;,https://doi.org/10.1109/RELDIS.2003.1238073
+srds/srds2003,2003,Security,Pesto Flavoured Security.,Feike W. Dillema;Tage Stabell-Kulø;,https://doi.org/10.1109/RELDIS.2003.1238074
+srds/srds2003,2003,Security,SNARE: A Strong Security Scheme for Network-Attached Storage.,Yingwu Zhu;Yiming Hu;,https://doi.org/10.1109/RELDIS.2003.1238075
+srds/srds2003,2003,Security,Transparent Runtime Randomization for Security.,Jun Xu;Zbigniew Kalbarczyk;Ravishankar K. Iyer;,https://doi.org/10.1109/RELDIS.2003.1238076
+srds/srds2003,2003,Experimental Evaluation,An Experimental Evaluation of Correlated Network Partitions in the Coda Distributed File System.,Ryan M. Lefever;Michel Cukier;William H. Sanders;,https://doi.org/10.1109/RELDIS.2003.1238077
+srds/srds2003,2003,Experimental Evaluation,Hazard Analysis of Complex Distributed Railway Systems.,Pasquale di Tommaso;Rosaria Esposito;Pietro Marmo;Antonio Orazzo;,https://doi.org/10.1109/RELDIS.2003.1238078
+srds/srds2003,2003,Experimental Evaluation,Assessing the Dependability of OGSA Middleware by Fault Injection.,Nik Looker;Jie Xu;,https://doi.org/10.1109/RELDIS.2003.1238079
+srds/srds2003,2003,Experimental Evaluation,Improving the Multiple Errors Detection Coverage in Distributed Embedded Systems.,Sara Blanc;Pedro J. Gil;,https://doi.org/10.1109/RELDIS.2003.1238081
+srds/srds2003,2003,Panel,Trustworthiness of Open Information Systems: How Should It Be Achieved?,Paulo Veríssimo;,https://doi.org/10.1109/RELDIS.2003.1238082
+srds/srds2003,2003,System Engineering,Transparent Fault-Tolerant Java Virtual Machine.,Roy Friedman;Alon Kama;,https://doi.org/10.1109/RELDIS.2003.1238083
+srds/srds2003,2003,System Engineering,Fault Tolerance Technology for Autonomous Decentralized Database Systems.,Carlos Perez Leguizamo;Dake Wang;Kinji Mori;,https://doi.org/10.1109/RELDIS.2003.1238084
+srds/srds2003,2003,System Engineering,The Design and Implementation of a JCA-Compliant Capture Protection Infrastructure.,Michael K. Reiter;Asad Samar;Chenxi Wang;,https://doi.org/10.1109/RELDIS.2003.1238086
+srds/srds2003,2003,System Engineering,Distributed Programming for Dummies: A Shifting Transformation Technique.,Carole Delporte-Gallet;Hugues Fauconnier;Rachid Guerraoui;Bastian Pochon;,https://doi.org/10.1109/RELDIS.2003.1238088
+srds/srds2003,2003,Coping with Failure Models,Randomized Asynchronous Consensus with Imperfect Communications.,Ulrich Schmid;Christof Fetzer;,https://doi.org/10.1109/RELDIS.2003.1238089
+srds/srds2003,2003,Coping with Failure Models,Sharing Memory with Semi-Byzantine Clients and Faulty Storage Servers.,Hagit Attiya;Amir Bar-Or;,https://doi.org/10.1109/RELDIS.2003.1238090
+srds/srds2003,2003,Coping with Failure Models,Modeling and Detecting Failures in Next-generation Distributed Multimedia Applications.,Domenico Cotroneo;Cristiano di Flora;Generoso Paolillo;Stefano Russo;,https://doi.org/10.1109/RELDIS.2003.1238091

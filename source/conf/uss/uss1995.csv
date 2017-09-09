@@ -1,0 +1,22 @@
+uss/uss1995,1995,None,Keynote Address: Why are our Systems Insecure? Must they always be?,Stephen T. Walker;,None
+uss/uss1995,1995,None,Information Security Technology? Don't Rely on It. A Case Study in Social Engineering.,Ira S. Winkler;Brian Dealy;,https://www.usenix.org/legacy/publications/library/proceedings/security95/winkler.html
+uss/uss1995,1995,None,A Simple Active Attack Against TCP.,Laurent Joncheray;,https://www.usenix.org/legacy/publications/library/proceedings/security95/joncheray.html
+uss/uss1995,1995,None,WAN-hacking with AutoHack: Auditing Security Behind the Firewall.,Alec Muffett;,https://www.usenix.org/legacy/publications/library/proceedings/security95/muffett.html
+uss/uss1995,1995,None,Kerberos Security with Clocks Adrift.,Don Davis;Daniel E. Geer;,https://www.usenix.org/legacy/publications/library/proceedings/security95/davis.html
+uss/uss1995,1995,None,Design and Implementation of Modular Key Management Protocol and IP Secure Tunnel on AIX.,Pau-Chen Cheng;Juan A. Garay;Amir Herzberg;Hugo Krawczyk;,https://www.usenix.org/legacy/publications/library/proceedings/security95/cheng.html
+uss/uss1995,1995,None,Network Randomization Protocol: A Proactive Pseudo-Random Generator.,Chee-Seng Chow;Amir Herzberg;,https://www.usenix.org/legacy/publications/library/proceedings/security95/chow.html
+uss/uss1995,1995,None,Implementing a Secure rlogin Environment: A Case Study of Using a Secure Network Layer Protocol.,Gene H. Kim;Hilarie K. Orman;Sean W. O'Malley;,https://www.usenix.org/legacy/publications/library/proceedings/security95/kim.html
+uss/uss1995,1995,None,STEL: Secure TELnet.,David Vincenzetti;Stefano Taino;Fabio Bolognesi;,https://www.usenix.org/legacy/publications/library/proceedings/security95/vincenzetti.html
+uss/uss1995,1995,None,Session-Layer Encryption.,Matt Blaze;Steven M. Bellovin;,https://www.usenix.org/legacy/publications/library/proceedings/security95/blaze.html
+uss/uss1995,1995,None,File-Based Network Collaboration System.,Toshinari Takahashi;Atsushi Shimbo;Masao Murota;,https://www.usenix.org/legacy/publications/library/proceedings/security95/takahashi.html
+uss/uss1995,1995,None,Safe Use of X Window System Protocol Across a Firewall.,Brian L. Kahn;,https://www.usenix.org/legacy/publications/library/proceedings/security95/kahn.html
+uss/uss1995,1995,None,An Architecture for Advanced Packet Filtering and Access Policy.,Andrew Molitor;,https://www.usenix.org/legacy/publications/library/proceedings/security95/molitor.html
+uss/uss1995,1995,None,A Domain and Type Enforcement UNIX Prototype.,Lee Badger;Daniel F. Sterne;David L. Sherman;Kenneth M. Walker;Sheila A. Haghighat;,https://www.usenix.org/legacy/publications/library/proceedings/security95/badger.html
+uss/uss1995,1995,None,Providing Policy Control Over Object Operations in a Mach-Based System.,Spencer E. Minear;,https://www.usenix.org/legacy/publications/library/proceedings/security95/minear.html
+uss/uss1995,1995,None,Joining Security Realms: A Single Login for NetWare and Kerberos.,William A. Adamson;Jim Rees;Peter Honeyman;,https://www.usenix.org/legacy/publications/library/proceedings/security95/adamson.html
+uss/uss1995,1995,None,Independent One-Time Passwords.,Aviel D. Rubin;,https://www.usenix.org/legacy/publications/library/proceedings/security95/rubin.html
+uss/uss1995,1995,None,One-Time Passwords in Everything (OPIE): Experiences with Building and Using Strong Authentication.,Daniel McDonald;Randall J. Atkinson;Craig Metz;,https://www.usenix.org/legacy/publications/library/proceedings/security95/mcdonald.html
+uss/uss1995,1995,None,Improving the Trustworthiness of Evidence Derived from Security Trace Files.,Ennio Pozzetti;Vidar Vetland;,https://www.usenix.org/legacy/publications/library/proceedings/security95/pozzetti.html
+uss/uss1995,1995,None,Using the Domain Name System for System Break-ins.,Steven M. Bellovin;,https://www.usenix.org/legacy/publications/library/proceedings/security95/bellovin.html
+uss/uss1995,1995,None,DNS and BIND Security Issues.,Paul Vixie;,https://www.usenix.org/legacy/publications/library/proceedings/security95/vixie.html
+uss/uss1995,1995,None,MIME Object Security Services: Issues in a Multi-User Environment.,James M. Galvin;Mark Feldman;,https://www.usenix.org/legacy/publications/library/proceedings/security95/galvin.html

@@ -1,0 +1,21 @@
+fse/fse2010,2010,Stream Ciphers and Block Ciphers,Cryptanalysis of the DECT Standard Cipher.,Karsten Nohl;Erik Tews;Ralf-Philipp Weinmann;,https://doi.org/10.1007/978-3-642-13858-4_1
+fse/fse2010,2010,Stream Ciphers and Block Ciphers,Improving the Generalized Feistel.,Tomoyasu Suzaki;Kazuhiko Minematsu;,https://doi.org/10.1007/978-3-642-13858-4_2
+fse/fse2010,2010,Stream Ciphers and Block Ciphers,Nonlinear Equivalence of Stream Ciphers.,Sondre Rønjom;Carlos Cid;,https://doi.org/10.1007/978-3-642-13858-4_3
+fse/fse2010,2010,RFID and Implementations,Lightweight Privacy Preserving Authentication for RFID Using a Stream Cipher.,Olivier Billet;Jonathan Etrog;Henri Gilbert;,https://doi.org/10.1007/978-3-642-13858-4_4
+fse/fse2010,2010,RFID and Implementations,Fast Software AES Encryption.,Dag Arne Osvik;Joppe W. Bos;Deian Stefan;David Canright;,https://doi.org/10.1007/978-3-642-13858-4_5
+fse/fse2010,2010,Hash Functions,Attacking the Knudsen-Preneel Compression Functions.,Onur Özen;Thomas Shrimpton;Martijn Stam;,https://doi.org/10.1007/978-3-642-13858-4_6
+fse/fse2010,2010,Hash Functions,Finding Preimages of Tiger Up to 23 Steps.,Lei Wang;Yu Sasaki;,https://doi.org/10.1007/978-3-642-13858-4_7
+fse/fse2010,2010,Hash Functions,Cryptanalysis of ESSENCE.,María Naya-Plasencia;Andrea Röck;Jean-Philippe Aumasson;Yann Laigle-Chapuy;Gaëtan Leurent;Willi Meier;Thomas Peyrin;,https://doi.org/10.1007/978-3-642-13858-4_8
+fse/fse2010,2010,Theory,Domain Extension for Enhanced Target Collision-Resistant Hash Functions.,Ilya Mironov;,https://doi.org/10.1007/978-3-642-13858-4_9
+fse/fse2010,2010,Theory,Security Analysis of the Mode of JH Hash Function.,Rishiraj Bhattacharyya;Avradip Mandal;Mridul Nandi;,https://doi.org/10.1007/978-3-642-13858-4_10
+fse/fse2010,2010,Theory,Enhanced Security Notions for Dedicated-Key Hash Functions: Definitions and Relationships.,Mohammad Reza Reyhanitabar;Willy Susilo;Yi Mu;,https://doi.org/10.1007/978-3-642-13858-4_11
+fse/fse2010,2010,Message Authentication Codes,A Unified Method for Improving PRF Bounds for a Class of Blockcipher Based MACs.,Mridul Nandi;,https://doi.org/10.1007/978-3-642-13858-4_12
+fse/fse2010,2010,Message Authentication Codes,How to Thwart Birthday Attacks against MACs via Small Randomness.,Kazuhiko Minematsu;,https://doi.org/10.1007/978-3-642-13858-4_13
+fse/fse2010,2010,Message Authentication Codes,Constructing Rate-1 MACs from Related-Key Unpredictable Block Ciphers: PGV Model Revisited.,Liting Zhang;Wenling Wu;Peng Wang;Lei Zhang;Shuang Wu;Bo Liang;,https://doi.org/10.1007/978-3-642-13858-4_14
+fse/fse2010,2010,Hash Functions,Higher Order Differential Attack on Step-Reduced Variants of Luffa v1.,Dai Watanabe;Yasuo Hatano;Tsuyoshi Yamada;Toshinobu Kaneko;,https://doi.org/10.1007/978-3-642-13858-4_15
+fse/fse2010,2010,Hash Functions,Rebound Attack on Reduced-Round Versions of JH.,Vincent Rijmen;Deniz Toz;Kerem Varici;,https://doi.org/10.1007/978-3-642-13858-4_16
+fse/fse2010,2010,Hash Functions III (Short Presentation),Pseudo-cryptanalysis of the Original Blue Midnight Wish.,Søren S. Thomsen;,https://doi.org/10.1007/978-3-642-13858-4_17
+fse/fse2010,2010,Hash Functions III (Short Presentation),Differential and Invertibility Properties of BLAKE.,Jean-Philippe Aumasson;Jian Guo;Simon Knellwolf;Krystian Matusiewicz;Willi Meier;,https://doi.org/10.1007/978-3-642-13858-4_18
+fse/fse2010,2010,Cryptanalysis,Rotational Cryptanalysis of ARX.,Dmitry Khovratovich;Ivica Nikolic;,https://doi.org/10.1007/978-3-642-13858-4_19
+fse/fse2010,2010,Cryptanalysis,Another Look at Complementation Properties.,Charles Bouillaguet;Orr Dunkelman;Gaëtan Leurent;Pierre-Alain Fouque;,https://doi.org/10.1007/978-3-642-13858-4_20
+fse/fse2010,2010,Cryptanalysis,Super-Sbox Cryptanalysis: Improved Attacks for AES-Like Permutations.,Henri Gilbert;Thomas Peyrin;,https://doi.org/10.1007/978-3-642-13858-4_21

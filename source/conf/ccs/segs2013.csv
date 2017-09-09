@@ -1,0 +1,12 @@
+ccs/segs2013,2013,Smart grid standards & protocols,A security protocol for information-centric networking in smart grids.,Bárbara Vieira;Erik Poll;,http://doi.acm.org/10.1145/2516930.2516932
+ccs/segs2013,2013,Smart grid standards & protocols,DLMS/COSEM security level enhancement to construct secure advanced metering infrastructure.,Jaeduck Choi;Incheol Shin;,http://doi.acm.org/10.1145/2516930.2516949
+ccs/segs2013,2013,Smart grid standards & protocols,Securing ZigBee smart energy profile 1.x with OpenECC library.,Xinxin Fan;Guang Gong;,http://doi.acm.org/10.1145/2516930.2516946
+ccs/segs2013,2013,Monitoring,Detecting intrusions in encrypted control traffic.,Maarten Hoeve;,http://doi.acm.org/10.1145/2516930.2516945
+ccs/segs2013,2013,Monitoring,Semantic security analysis of SCADA networks to detect malicious control commands in power grids.,Hui Lin;Adam J. Slagell;Zbigniew Kalbarczyk;Peter W. Sauer;Ravishankar K. Iyer;,http://doi.acm.org/10.1145/2516930.2516947
+ccs/segs2013,2013,Monitoring,A distributed monitoring architecture for AMIs: minimizing the number of monitoring nodes and enabling collided packet recovery.,Incheol Shin;Jun Ho Huh;Yuseok Jeon;David M. Nicol;,http://doi.acm.org/10.1145/2516930.2516948
+ccs/segs2013,2013,Data protection & privacy,Protection of consumer data in the smart grid compliant with the German smart metering guideline.,Anna Biselli;Elke Franz;Maurílio Pereira Coutinho;,http://doi.acm.org/10.1145/2516930.2516933
+ccs/segs2013,2013,Data protection & privacy,Customer-centric energy usage data management and sharing in smart grid systems.,Gaurav Lahoti;Daisuke Mashima;Wei-Peng Chen;,http://doi.acm.org/10.1145/2516930.2516935
+ccs/segs2013,2013,Data protection & privacy,Implementation of privacy-friendly aggregation for the smart grid.,Benessa Defend;Klaus Kursawe;,http://doi.acm.org/10.1145/2516930.2516936
+ccs/segs2013,2013,Data protection & privacy,Smart meter aggregation via secret-sharing.,George Danezis;Cédric Fournet;Markulf Kohlweiss;Santiago Zanella Béguelin;,http://doi.acm.org/10.1145/2516930.2516944
+ccs/segs2013,2013,Formal descriptions,A formal model for sustainable vehicle-to-grid management.,Mohammad Ashiqur Rahman;Fadi Mohsen;Ehab Al-Shaer;,http://doi.acm.org/10.1145/2516930.2516937
+ccs/segs2013,2013,Formal descriptions,Toward a cyber-physical topology language: applications to NERC CIP audit.,Gabriel A. Weaver;Carmen Cheh;Edmond Rogers;William H. Sanders;Dennis Gammel;,http://doi.acm.org/10.1145/2516930.2516934

@@ -1,0 +1,21 @@
+srds/srds88,1988,Session 1:Recovery in Distributed Systems,Independent Checkpointing and Concurrent Rollback for Recovery in Distributed Systems - An Optimistic Approach.,Bharat K. Bhargava;Shy-Renn Lian;,https://doi.org/10.1109/RELDIS.1988.25775
+srds/srds88,1988,Session 1:Recovery in Distributed Systems,Checkpointing and Rollback Recovery in a Distributed System Using Common Time Base.,Parameswaran Ramanathan;Kang G. Shin;,https://doi.org/10.1109/RELDIS.1988.25776
+srds/srds88,1988,Session 1:Recovery in Distributed Systems,A Commit Protocol for Checkpointing Transactions.,Pui Ng;,https://doi.org/10.1109/RELDIS.1988.25777
+srds/srds88,1988,Session 2:Managing Replication and Network Partition,Pessimistic Protocols for Quasi-Partitioned Distributed Database Systems.,Leszek Lilien;Thai M. Chung;,https://doi.org/10.1109/RELDIS.1988.25778
+srds/srds88,1988,Session 2:Managing Replication and Network Partition,Quorum Consensus Algorithms for Secure and Reliable Data.,Divyakant Agrawal;Amr El Abbadi;,https://doi.org/10.1109/RELDIS.1988.25779
+srds/srds88,1988,Session 2:Managing Replication and Network Partition,"A Robust, Distributed Election Protocol.",Junguk L. Kim;Geneva G. Belford;,https://doi.org/10.1109/RELDIS.1988.25780
+srds/srds88,1988,Session 3:Fault-Tolerance Techniques,A Experimental Investigation of Software Diversity in a Fault-Tolerant Avionics Application.,Alper K. Caglayan;Paul R. Lorczak;Dave E. Eckhardt;,https://doi.org/10.1109/RELDIS.1988.25781
+srds/srds88,1988,Session 3:Fault-Tolerance Techniques,An Analysis of the Performance Impacts of Lookahead Execution in the Conversation Scheme.,K. H. Kim;Seung-Min Yang;,https://doi.org/10.1109/RELDIS.1988.25782
+srds/srds88,1988,Session 3:Fault-Tolerance Techniques,Task Allocation for Optimized System Reliability.,Jia-Ping Wang;Sol M. Shatz;,https://doi.org/10.1109/RELDIS.1988.25783
+srds/srds88,1988,Session 4:Fault-Tolerant Protocols,Interactive Consistency with Multiple Failure Modes.,Philip M. Thambidurai;You-Keun Park;,https://doi.org/10.1109/RELDIS.1988.25784
+srds/srds88,1988,Session 4:Fault-Tolerant Protocols,An Implementation of Reliable Broadcast Using an Unreliable Multicast Facility.,Hector Garcia-Molina;Boris Kogan;,https://doi.org/10.1109/RELDIS.1988.25786
+srds/srds88,1988,Session 4:Fault-Tolerant Protocols,A Fault-Tolerant Protocol for Atomic Broadcast.,Shyh-Wei Luan;Virgil D. Gligor;,https://doi.org/10.1109/RELDIS.1988.25787
+srds/srds88,1988,Session 5:Voting and Fault Diagnosis,A Realistic Evaluation of Optimistic Dynamic Voting.,Darrell D. E. Long;Jehan-François Pâris;,https://doi.org/10.1109/RELDIS.1988.25788
+srds/srds88,1988,Session 5:Voting and Fault Diagnosis,Vote Assignments in Weighted Voting Mechanisms.,Zhijun Tong;Richard Y. Kain;,https://doi.org/10.1109/RELDIS.1988.25789
+srds/srds88,1988,Session 5:Voting and Fault Diagnosis,On the Diagnosis of Byzantine Faults.,K. V. S. Ramarao;Joel C. Adams;,https://doi.org/10.1109/RELDIS.1988.25790
+srds/srds88,1988,Session 6:Experimental Systems,Implementation of RAID.,Bharat K. Bhargava;John Riedl;,https://doi.org/10.1109/RELDIS.1988.25791
+srds/srds88,1988,Session 6:Experimental Systems,Recovery in the Clouds Kernel.,David V. Pitts;,https://doi.org/10.1109/RELDIS.1988.25792
+srds/srds88,1988,Session 6:Experimental Systems,Transaction Management in a Distributed Database System for Local Area Networks.,Marek Rusinkiewicz;Dimitrios Georgakopoulos;,https://doi.org/10.1109/RELDIS.1988.25793
+srds/srds88,1988,Session 7:Consistency Maintenance,Recovering Imprecise Transactions with Real-Time Constraints.,Susan V. Vrbsky;Kwei-Jay Lin;,https://doi.org/10.1109/RELDIS.1988.25794
+srds/srds88,1988,Session 7:Consistency Maintenance,Distributed Locking: A Mechanism for Constructing Highly Available Objects.,C. Thomas Wilkes;Richard J. LeBlanc;,https://doi.org/10.1109/RELDIS.1988.25795
+srds/srds88,1988,Session 7:Consistency Maintenance,The Commit/Abort Problem in Type-Specific Locking.,Jerre D. Noe;Jörg Kaiser;Reinhold Kröger;Edgar Nett;,https://doi.org/10.1109/RELDIS.1988.25796

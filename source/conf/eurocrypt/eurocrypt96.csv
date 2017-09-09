@@ -1,0 +1,34 @@
+eurocrypt/eurocrypt96,1996,Cryptanalysis,Low-Exponent RSA with Related Messages.,Don Coppersmith;Matthew K. Franklin;Jacques Patarin;Michael K. Reiter;,https://doi.org/10.1007/3-540-68339-9_1
+eurocrypt/eurocrypt96,1996,Cryptanalysis,Generating EIGamal Signatures Without Knowing the Secret Key.,Daniel Bleichenbacher;,https://doi.org/10.1007/3-540-68339-9_2
+eurocrypt/eurocrypt96,1996,Cryptanalysis,On the Security of Two MAC Algorithms.,Bart Preneel;Paul C. van Oorschot;,https://doi.org/10.1007/3-540-68339-9_3
+eurocrypt/eurocrypt96,1996,Public Key Cryptosystems,Hidden Fields Equations (HFE) and Isomorphisms of Polynomials (IP): Two New Families of Asymmetric Algorithms.,Jacques Patarin;,https://doi.org/10.1007/3-540-68339-9_4
+eurocrypt/eurocrypt96,1996,Public Key Cryptosystems,A Public Key Cryptosystem Based on Elliptic Curves over Z/nZ Equivalent to Factoring.,Bernd Meyer;Volker Müller;,https://doi.org/10.1007/3-540-68339-9_5
+eurocrypt/eurocrypt96,1996,Public Key Cryptosystems,Public Key Encryption and Signature Schemes Based on Polynomials over Zn.,Jörg Schwenk;Jörg Eisfeld;,https://doi.org/10.1007/3-540-68339-9_6
+eurocrypt/eurocrypt96,1996,New Schemes and Protocols,Multi-Autority Secret-Ballot Elections with Linear Work.,Ronald Cramer;Matthew K. Franklin;Berry Schoenmakers;Moti Yung;,https://doi.org/10.1007/3-540-68339-9_7
+eurocrypt/eurocrypt96,1996,New Schemes and Protocols,Asymmetric Fingerprinting (Extended Abstract).,Birgit Pfitzmann;Matthias Schunter;,https://doi.org/10.1007/3-540-68339-9_8
+eurocrypt/eurocrypt96,1996,Multi-Party Computation,Homomorphisms of Secret Sharing Schemes: A Tool for Verifiable Signature Sharing.,Mike Burmester;,https://doi.org/10.1007/3-540-68339-9_9
+eurocrypt/eurocrypt96,1996,Multi-Party Computation,Efficient Multiplicative Sharing Schemes.,Simon R. Blackburn;Mike Burmester;Yvo Desmedt;Peter R. Wild;,https://doi.org/10.1007/3-540-68339-9_10
+eurocrypt/eurocrypt96,1996,Multi-Party Computation,Equivocable Oblivious Transfer.,Donald Beaver;,https://doi.org/10.1007/3-540-68339-9_11
+eurocrypt/eurocrypt96,1996,Proofs of Knowledge,Short Discrete Proofs.,Joan Boyar;René Peralta;,https://doi.org/10.1007/3-540-68339-9_12
+eurocrypt/eurocrypt96,1996,Proofs of Knowledge,Designated Verifier Proofs and Their Applications.,Markus Jakobsson;Kazue Sako;Russell Impagliazzo;,https://doi.org/10.1007/3-540-68339-9_13
+eurocrypt/eurocrypt96,1996,Number Theory and Algorithms,Finding a Small Root of a Univariate Modular Equation.,Don Coppersmith;,https://doi.org/10.1007/3-540-68339-9_14
+eurocrypt/eurocrypt96,1996,Number Theory and Algorithms,New Modular Multiplication Algorithms for Fast Modular Exponentiation.,Seong-Min Hong;Sang-Yeop Oh;Hyunsoo Yoon;,https://doi.org/10.1007/3-540-68339-9_15
+eurocrypt/eurocrypt96,1996,Number Theory and Algorithms,Finding a Small Root of a Bivariate Integer Equation; Factoring with High Bits Known.,Don Coppersmith;,https://doi.org/10.1007/3-540-68339-9_16
+eurocrypt/eurocrypt96,1996,Secret Sharing,Publicly Verifiable Secret Sharing.,Markus Stadler;,https://doi.org/10.1007/3-540-68339-9_17
+eurocrypt/eurocrypt96,1996,Secret Sharing,Optimum Secret Sharing Scheme Secure against Cheating.,Wakaha Ogata;Kaoru Kurosawa;,https://doi.org/10.1007/3-540-68339-9_18
+eurocrypt/eurocrypt96,1996,Cryptanalysis,The Security of the Gabidulin Public Key Cryptosystem.,Keith Gibson;,https://doi.org/10.1007/3-540-68339-9_19
+eurocrypt/eurocrypt96,1996,Cryptanalysis,Non-Linear Approximations in Linear Cryptanalysis.,Lars R. Knudsen;Matthew J. B. Robshaw;,https://doi.org/10.1007/3-540-68339-9_20
+eurocrypt/eurocrypt96,1996,Cryptanalysis,On the Difficulty of Software Key Escrow.,Lars R. Knudsen;Torben P. Pedersen;,https://doi.org/10.1007/3-540-68339-9_21
+eurocrypt/eurocrypt96,1996,Pseudorandomness,An Efficient Pseudo-Random Generator Provably as Secure as Syndrome Decoding.,Jean-Bernard Fischer;Jacques Stern;,https://doi.org/10.1007/3-540-68339-9_22
+eurocrypt/eurocrypt96,1996,Pseudorandomness,On the Existence of Secure Feedback Registers (Extended Abstract).,Andrew Klapper;,https://doi.org/10.1007/3-540-68339-9_23
+eurocrypt/eurocrypt96,1996,Cryptographic Functions,Fast Low Order Approximation of Cryptographic Functions.,Jovan Dj. Golic;,https://doi.org/10.1007/3-540-68339-9_24
+eurocrypt/eurocrypt96,1996,Cryptographic Functions,Construction of t-Resilient Functions over a Finite Alphabet.,Paul Camion;Anne Canteaut;,https://doi.org/10.1007/3-540-68339-9_25
+eurocrypt/eurocrypt96,1996,Cryptographic Functions,Auto-Correlations and New Bounds on the Nonlinearity of Boolean Functions.,Xian-Mo Zhang;Yuliang Zheng;,https://doi.org/10.1007/3-540-68339-9_26
+eurocrypt/eurocrypt96,1996,Cryptographic Functions,Foiling Birthday Attacks in Length-Doubling Transformations - Benes: A Non-Reversible Alternative to Feistel.,William Aiello;Ramarathnam Venkatesan;,https://doi.org/10.1007/3-540-68339-9_27
+eurocrypt/eurocrypt96,1996,Key Management and Identification Schemes,Session Key Distribution Using Smart Cards.,Victor Shoup;Aviel D. Rubin;,https://doi.org/10.1007/3-540-68339-9_28
+eurocrypt/eurocrypt96,1996,Key Management and Identification Schemes,On Diffie-Hellman Key Agreement with Short Exponents.,Paul C. van Oorschot;Michael J. Wiener;,https://doi.org/10.1007/3-540-68339-9_29
+eurocrypt/eurocrypt96,1996,Key Management and Identification Schemes,On the Security of a Practical Identification Scheme.,Victor Shoup;,https://doi.org/10.1007/3-540-68339-9_30
+eurocrypt/eurocrypt96,1996,Digital Signature Schemes,Robust Threshold DSS Signatures.,Rosario Gennaro;Stanislaw Jarecki;Hugo Krawczyk;Tal Rabin;,https://doi.org/10.1007/3-540-68339-9_31
+eurocrypt/eurocrypt96,1996,Digital Signature Schemes,New Convertible Undeniable Signature Schemes.,Ivan Damgård;Torben P. Pedersen;,https://doi.org/10.1007/3-540-68339-9_32
+eurocrypt/eurocrypt96,1996,Digital Signature Schemes,Security Proofs for Signature Schemes.,David Pointcheval;Jacques Stern;,https://doi.org/10.1007/3-540-68339-9_33
+eurocrypt/eurocrypt96,1996,Digital Signature Schemes,The Exact Security of Digital Signatures - HOw to Sign with RSA and Rabin.,Mihir Bellare;Phillip Rogaway;,https://doi.org/10.1007/3-540-68339-9_34

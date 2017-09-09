@@ -1,0 +1,23 @@
+csfw/csf2010,2010,None,Approximation and Randomization for Quantitative Information-Flow Analysis.,Boris Köpf;Andrey Rybalchenko;,https://doi.org/10.1109/CSF.2010.8
+csfw/csf2010,2010,None,Quantitative Information Flow - Verification Hardness and Possibilities.,Hirotoshi Yasuoka;Tachio Terauchi;,https://doi.org/10.1109/CSF.2010.9
+csfw/csf2010,2010,None,Quantification of Integrity.,Michael R. Clarkson;Fred B. Schneider;,https://doi.org/10.1109/CSF.2010.10
+csfw/csf2010,2010,None,Vulnerability Bounds and Leakage Resilience of Blinded Cryptography under Timing Attacks.,Boris Köpf;Geoffrey Smith;,https://doi.org/10.1109/CSF.2010.11
+csfw/csf2010,2010,None,Modeling and Verifying Ad Hoc Routing Protocols.,Mathilde Arnaud;Véronique Cortier;Stéphanie Delaune;,https://doi.org/10.1109/CSF.2010.12
+csfw/csf2010,2010,None,Formal Verification of Privacy for RFID Systems.,Mayla Brusò;Konstantinos Chatzikokolakis;Jerry den Hartog;,https://doi.org/10.1109/CSF.2010.13
+csfw/csf2010,2010,None,Robustness Guarantees for Anonymity.,Gilles Barthe;Alejandro Hevia;Zhengqin Luo;Tamara Rezk;Bogdan Warinschi;,https://doi.org/10.1109/CSF.2010.14
+csfw/csf2010,2010,None,Analysing Unlinkability and Anonymity Using the Applied Pi Calculus.,Myrto Arapinis;Tom Chothia;Eike Ritter;Mark Ryan;,https://doi.org/10.1109/CSF.2010.15
+csfw/csf2010,2010,None,A Game-Based Definition of Coercion-Resistance and Its Applications.,Ralf Küsters;Tomasz Truderung;Andreas Vogt;,https://doi.org/10.1109/CSF.2010.16
+csfw/csf2010,2010,None,"Towards Quantitative Analysis of Proofs of Authorization: Applications, Framework, and Techniques.",Adam J. Lee;Ting Yu;,https://doi.org/10.1109/CSF.2010.17
+csfw/csf2010,2010,None,Constraining Credential Usage in Logic-Based Access Control.,Lujo Bauer;Limin Jia;Divya Sharma;,https://doi.org/10.1109/CSF.2010.18
+csfw/csf2010,2010,None,Information Flow in Credential Systems.,Moritz Y. Becker;,https://doi.org/10.1109/CSF.2010.19
+csfw/csf2010,2010,None,Dynamic vs. Static Flow-Sensitive Security Analysis.,Alejandro Russo;Andrei Sabelfeld;,https://doi.org/10.1109/CSF.2010.20
+csfw/csf2010,2010,None,Information Flow Monitor Inlining.,Andrey Chudnov;David A. Naumann;,https://doi.org/10.1109/CSF.2010.21
+csfw/csf2010,2010,None,Required Information Release.,Stephen Chong;,https://doi.org/10.1109/CSF.2010.22
+csfw/csf2010,2010,None,Strong Invariants for the Efficient Construction of Machine-Checked Protocol Security Proofs.,Simon Meier;Cas J. F. Cremers;David A. Basin;,https://doi.org/10.1109/CSF.2010.23
+csfw/csf2010,2010,None,A Machine-Checked Formalization of Sigma-Protocols.,Gilles Barthe;Daniel Hedin;Santiago Zanella Béguelin;Benjamin Grégoire;Sylvain Heraud;,https://doi.org/10.1109/CSF.2010.24
+csfw/csf2010,2010,None,Impossibility Results for Secret Establishment.,Benedikt Schmidt;Patrick Schaller;David A. Basin;,https://doi.org/10.1109/CSF.2010.25
+csfw/csf2010,2010,None,A Framework for the Sound Specification of Cryptographic Tasks.,Juan A. Garay;Aggelos Kiayias;Hong-Sheng Zhou;,https://doi.org/10.1109/CSF.2010.26
+csfw/csf2010,2010,None,Towards a Formal Foundation of Web Security.,Devdatta Akhawe;Adam Barth;Peifung E. Lam;John C. Mitchell;Dawn Song;,https://doi.org/10.1109/CSF.2010.27
+csfw/csf2010,2010,None,Automating Open Bisimulation Checking for the Spi Calculus.,Alwen Tiu;Jeremy E. Dawson;,https://doi.org/10.1109/CSF.2010.28
+csfw/csf2010,2010,None,Protocol Composition for Arbitrary Primitives.,Stefan Ciobaca;Véronique Cortier;,https://doi.org/10.1109/CSF.2010.29
+csfw/csf2010,2010,None,On Protection by Layout Randomization.,Martín Abadi;Gordon D. Plotkin;,https://doi.org/10.1109/CSF.2010.30

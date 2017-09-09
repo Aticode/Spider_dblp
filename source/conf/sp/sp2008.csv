@@ -1,0 +1,28 @@
+sp/sp2008,2008,None,SybilLimit: A Near-Optimal Social Network Defense against Sybil Attacks.,Haifeng Yu;Phillip B. Gibbons;Michael Kaminsky;Feng Xiao;,https://doi.org/10.1109/SP.2008.13
+sp/sp2008,2008,None,Anonymous Networking with Minimum Latency in Multihop Networks.,Parvathinathan Venkitasubramaniam;Lang Tong;,https://doi.org/10.1109/SP.2008.18
+sp/sp2008,2008,None,Spot Me if You Can: Uncovering Spoken Phrases in Encrypted VoIP Conversations.,Charles V. Wright;Lucas Ballard;Scott E. Coull;Fabian Monrose;Gerald M. Masson;,https://doi.org/10.1109/SP.2008.21
+sp/sp2008,2008,None,Preserving Caller Anonymity in Voice-over-IP Networks.,Mudhakar Srivatsa;Ling Liu;Arun Iyengar;,https://doi.org/10.1109/SP.2008.10
+sp/sp2008,2008,None,Jamming-resistant Key Establishment using Uncoordinated Frequency Hopping.,Mario Strasser;Christina Pöpper;Srdjan Capkun;Mario Cagalj;,https://doi.org/10.1109/SP.2008.9
+sp/sp2008,2008,None,Casting out Demons: Sanitizing Training Data for Anomaly Sensors.,Gabriela F. Cretu;Angelos Stavrou;Michael E. Locasto;Salvatore J. Stolfo;Angelos D. Keromytis;,https://doi.org/10.1109/SP.2008.11
+sp/sp2008,2008,None,Efficient and Robust TCP Stream Normalization.,Mythili Vutukuru;Hari Balakrishnan;Vern Paxson;,https://doi.org/10.1109/SP.2008.27
+sp/sp2008,2008,None,Robust De-anonymization of Large Sparse Datasets.,Arvind Narayanan;Vitaly Shmatikov;,https://doi.org/10.1109/SP.2008.33
+sp/sp2008,2008,None,Pacemakers and Implantable Cardiac Defibrillators: Software Radio Attacks and Zero-Power Defenses.,Daniel Halperin;Thomas S. Heydt-Benjamin;Benjamin Ransford;Shane S. Clark;Benessa Defend;Will Morgan;Kevin Fu;Tadayoshi Kohno;William H. Maisel;,https://doi.org/10.1109/SP.2008.31
+sp/sp2008,2008,None,Automatic Patch-Based Exploit Generation is Possible: Techniques and Implications.,David Brumley;Pongsin Poosankam;Dawn Xiaodong Song;Jiang Zheng;,https://doi.org/10.1109/SP.2008.17
+sp/sp2008,2008,None,Compromising Reflections-or-How to Read LCD Monitors around the Corner.,Michael Backes;Markus Dürmuth;Dominique Unruh;,https://doi.org/10.1109/SP.2008.25
+sp/sp2008,2008,None,ClearShot: Eavesdropping on Keyboard Input from Video.,Davide Balzarotti;Marco Cova;Giovanni Vigna;,https://doi.org/10.1109/SP.2008.28
+sp/sp2008,2008,None,XFA: Faster Signature Matching with Extended Automata.,Randy Smith;Cristian Estan;Somesh Jha;,https://doi.org/10.1109/SP.2008.14
+sp/sp2008,2008,None,Zero-Knowledge in the Applied Pi-calculus and Automated Verification of the Direct Anonymous Attestation Protocol.,Michael Backes;Matteo Maffei;Dominique Unruh;,https://doi.org/10.1109/SP.2008.23
+sp/sp2008,2008,None,Towards Practical Privacy for Genomic Computation.,Somesh Jha;Louis Kruger;Vitaly Shmatikov;,https://doi.org/10.1109/SP.2008.34
+sp/sp2008,2008,None,Lares: An Architecture for Secure Active Monitoring Using Virtualization.,Bryan D. Payne;Martim Carbone;Monirul I. Sharif;Wenke Lee;,https://doi.org/10.1109/SP.2008.24
+sp/sp2008,2008,None,Practical Proactive Integrity Preservation: A Basis for Malware Defense.,Weiqing Sun;R. Sekar;Gaurav Poothia;Tejas Karandikar;,https://doi.org/10.1109/SP.2008.35
+sp/sp2008,2008,None,Preventing Memory Error Exploits with WIT.,Periklis Akritidis;Cristian Cadar;Costin Raiciu;Manuel Costa;Miguel Castro;,https://doi.org/10.1109/SP.2008.30
+sp/sp2008,2008,None,Thinking Inside the Box: System-Level Failures of Tamper Proofing.,Saar Drimer;Steven J. Murdoch;Ross J. Anderson;,https://doi.org/10.1109/SP.2008.16
+sp/sp2008,2008,None,Cloaker: Hardware Supported Rootkit Concealment.,Francis M. David;Ellick Chan;Jeffrey C. Carlyle;Roy H. Campbell;,https://doi.org/10.1109/SP.2008.8
+sp/sp2008,2008,None,Predictable Design of Network-Based Covert Communication Systems.,Ronald William Smith;George Scott Knight;,https://doi.org/10.1109/SP.2008.26
+sp/sp2008,2008,None,Verifying the Safety of User Pointer Dereferences.,Suhabe Bugrara;Alex Aiken;,https://doi.org/10.1109/SP.2008.15
+sp/sp2008,2008,None,Expressive Declassification Policies and Modular Static Enforcement.,Anindya Banerjee;David A. Naumann;Stan Rosenberg;,https://doi.org/10.1109/SP.2008.20
+sp/sp2008,2008,None,Civitas: Toward a Secure Voting System.,Michael R. Clarkson;Stephen Chong;Andrew C. Myers;,https://doi.org/10.1109/SP.2008.32
+sp/sp2008,2008,None,Fable: A Language for Enforcing User-defined Security Policies.,Nikhil Swamy;Brian J. Corcoran;Michael Hicks;,https://doi.org/10.1109/SP.2008.29
+sp/sp2008,2008,None,Saner: Composing Static and Dynamic Analysis to Validate Sanitization in Web Applications.,Davide Balzarotti;Marco Cova;Viktoria Felmetsger;Nenad Jovanovic;Engin Kirda;Christopher Kruegel;Giovanni Vigna;,https://doi.org/10.1109/SP.2008.22
+sp/sp2008,2008,None,Secure Web Browsing with the OP Web Browser.,Chris Grier;Shuo Tang;Samuel T. King;,https://doi.org/10.1109/SP.2008.19
+sp/sp2008,2008,None,Automated Formal Analysis of a Protocol for Secure File Sharing on Untrusted Storage.,Bruno Blanchet;Avik Chaudhuri;,https://doi.org/10.1109/SP.2008.12

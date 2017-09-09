@@ -1,0 +1,42 @@
+eurocrypt/eurocrypt2013,2013,None,Candidate Multilinear Maps from Ideal Lattices.,Sanjam Garg;Craig Gentry;Shai Halevi;,https://doi.org/10.1007/978-3-642-38348-9_1
+eurocrypt/eurocrypt2013,2013,None,Lossy Codes and a New Variant of the Learning-With-Errors Problem.,Nico Döttling;Jörn Müller-Quade;,https://doi.org/10.1007/978-3-642-38348-9_2
+eurocrypt/eurocrypt2013,2013,None,A Toolkit for Ring-LWE Cryptography.,Vadim Lyubashevsky;Chris Peikert;Oded Regev;,https://doi.org/10.1007/978-3-642-38348-9_3
+eurocrypt/eurocrypt2013,2013,None,Regularity of Lossy RSA on Subdomains and Its Applications.,Mark Lewko;Adam O'Neill;Adam D. Smith;,https://doi.org/10.1007/978-3-642-38348-9_4
+eurocrypt/eurocrypt2013,2013,None,Efficient Cryptosystems from 2 k -th Power Residue Symbols.,Marc Joye;Benoît Libert;,https://doi.org/10.1007/978-3-642-38348-9_5
+eurocrypt/eurocrypt2013,2013,None,Deterministic Public-Key Encryption for Adaptively Chosen Plaintext Distributions.,Ananth Raghunathan;Gil Segev;Salil P. Vadhan;,https://doi.org/10.1007/978-3-642-38348-9_6
+eurocrypt/eurocrypt2013,2013,None,How to Watermark Cryptographic Functions.,Ryo Nishimaki;,https://doi.org/10.1007/978-3-642-38348-9_7
+eurocrypt/eurocrypt2013,2013,None,Security Evaluations beyond Computing Power.,Nicolas Veyrat-Charvillon;Benoît Gérard;François-Xavier Standaert;,https://doi.org/10.1007/978-3-642-38348-9_8
+eurocrypt/eurocrypt2013,2013,None,Masking against Side-Channel Attacks: A Formal Security Proof.,Emmanuel Prouff;Matthieu Rivain;,https://doi.org/10.1007/978-3-642-38348-9_9
+eurocrypt/eurocrypt2013,2013,None,Leakage-Resilient Cryptography from Minimal Assumptions.,Carmit Hazay;Adriana López-Alt;Hoeteck Wee;Daniel Wichs;,https://doi.org/10.1007/978-3-642-38348-9_10
+eurocrypt/eurocrypt2013,2013,None,Faster Index Calculus for the Medium Prime Case Application to 1175-bit and 1425-bit Finite Fields.,Antoine Joux;,https://doi.org/10.1007/978-3-642-38348-9_11
+eurocrypt/eurocrypt2013,2013,None,Fast Cryptography in Genus 2.,Joppe W. Bos;Craig Costello;Hüseyin Hisil;Kristin E. Lauter;,https://doi.org/10.1007/978-3-642-38348-9_12
+eurocrypt/eurocrypt2013,2013,None,"Graph-Theoretic Algorithms for the ""Isomorphism of Polynomials"" Problem.",Charles Bouillaguet;Pierre-Alain Fouque;Amandine Véber;,https://doi.org/10.1007/978-3-642-38348-9_13
+eurocrypt/eurocrypt2013,2013,None,Cryptanalysis of Full RIPEMD-128.,Franck Landelle;Thomas Peyrin;,https://doi.org/10.1007/978-3-642-38348-9_14
+eurocrypt/eurocrypt2013,2013,None,New Collision Attacks on SHA-1 Based on Optimal Joint Local-Collision Analysis.,Marc Stevens;,https://doi.org/10.1007/978-3-642-38348-9_15
+eurocrypt/eurocrypt2013,2013,None,Improving Local Collisions: New Attacks on Reduced SHA-256.,Florian Mendel;Tomislav Nad;Martin Schläffer;,https://doi.org/10.1007/978-3-642-38348-9_16
+eurocrypt/eurocrypt2013,2013,None,Dynamic Proofs of Retrievability via Oblivious RAM.,David Cash;Alptekin Küpçü;Daniel Wichs;,https://doi.org/10.1007/978-3-642-38348-9_17
+eurocrypt/eurocrypt2013,2013,None,Message-Locked Encryption and Secure Deduplication.,Mihir Bellare;Sriram Keelveedhi;Thomas Ristenpart;,https://doi.org/10.1007/978-3-642-38348-9_18
+eurocrypt/eurocrypt2013,2013,None,Keccak.,Guido Bertoni;Joan Daemen;Michaël Peeters;Gilles Van Assche;,https://doi.org/10.1007/978-3-642-38348-9_19
+eurocrypt/eurocrypt2013,2013,None,Batch Fully Homomorphic Encryption over the Integers.,Jung Hee Cheon;Jean-Sébastien Coron;Jinsu Kim;Moon Sung Lee;Tancrède Lepoint;Mehdi Tibouchi;Aaram Yun;,https://doi.org/10.1007/978-3-642-38348-9_20
+eurocrypt/eurocrypt2013,2013,None,Practical Homomorphic MACs for Arithmetic Circuits.,Dario Catalano;Dario Fiore;,https://doi.org/10.1007/978-3-642-38348-9_21
+eurocrypt/eurocrypt2013,2013,None,Streaming Authenticated Data Structures.,Charalampos Papamanthou;Elaine Shi;Roberto Tamassia;Ke Yi;,https://doi.org/10.1007/978-3-642-38348-9_22
+eurocrypt/eurocrypt2013,2013,None,Improved Key Recovery Attacks on Reduced-Round AES in the Single-Key Setting.,Patrick Derbez;Pierre-Alain Fouque;Jérémy Jean;,https://doi.org/10.1007/978-3-642-38348-9_23
+eurocrypt/eurocrypt2013,2013,None,New Links between Differential and Linear Cryptanalysis.,Céline Blondeau;Kaisa Nyberg;,https://doi.org/10.1007/978-3-642-38348-9_24
+eurocrypt/eurocrypt2013,2013,None,Towards Key-Length Extension with Optimal Security: Cascade Encryption and Xor-cascade Encryption.,Jooyoung Lee;,https://doi.org/10.1007/978-3-642-38348-9_25
+eurocrypt/eurocrypt2013,2013,None,Ideal-Cipher (Ir)reducibility for Blockcipher-Based Hash Functions.,Paul Baecher;Pooya Farshim;Marc Fischlin;Martijn Stam;,https://doi.org/10.1007/978-3-642-38348-9_26
+eurocrypt/eurocrypt2013,2013,None,Limitations of the Meta-reduction Technique: The Case of Schnorr Signatures.,Marc Fischlin;Nils Fleischhacker;,https://doi.org/10.1007/978-3-642-38348-9_27
+eurocrypt/eurocrypt2013,2013,None,Practical Signatures from Standard Assumptions.,Florian Böhl;Dennis Hofheinz;Tibor Jager;Jessica Koch;Jae Hong Seo;Christoph Striecks;,https://doi.org/10.1007/978-3-642-38348-9_28
+eurocrypt/eurocrypt2013,2013,None,Locally Computable UOWHF with Linear Shrinkage.,Benny Applebaum;Yoni Moses;,https://doi.org/10.1007/978-3-642-38348-9_29
+eurocrypt/eurocrypt2013,2013,None,Amplification of Chosen-Ciphertext Security.,Huijia Lin;Stefano Tessaro;,https://doi.org/10.1007/978-3-642-38348-9_30
+eurocrypt/eurocrypt2013,2013,None,Circular Chosen-Ciphertext Security with Compact Ciphertexts.,Dennis Hofheinz;,https://doi.org/10.1007/978-3-642-38348-9_31
+eurocrypt/eurocrypt2013,2013,None,MiniLEGO: Efficient Secure Two-Party Computation from General Assumptions.,Tore Kasper Frederiksen;Thomas Pelle Jakobsen;Jesper Buus Nielsen;Peter Sebastian Nordholt;Claudio Orlandi;,https://doi.org/10.1007/978-3-642-38348-9_32
+eurocrypt/eurocrypt2013,2013,None,How to Hide Circuits in MPC an Efficient Framework for Private Function Evaluation.,Payman Mohassel;Seyed Saeed Sadeghian;,https://doi.org/10.1007/978-3-642-38348-9_33
+eurocrypt/eurocrypt2013,2013,None,Multi-party Computation of Polynomials and Branching Programs without Simultaneous Interaction.,S. Dov Gordon;Tal Malkin;Mike Rosulek;Hoeteck Wee;,https://doi.org/10.1007/978-3-642-38348-9_34
+eurocrypt/eurocrypt2013,2013,None,Quantum-Secure Message Authentication Codes.,Dan Boneh;Mark Zhandry;,https://doi.org/10.1007/978-3-642-38348-9_35
+eurocrypt/eurocrypt2013,2013,None,One-Sided Device-Independent QKD and Position-Based Cryptography from Monogamy Games.,Marco Tomamichel;Serge Fehr;Jedrzej Kaniewski;Stephanie Wehner;,https://doi.org/10.1007/978-3-642-38348-9_36
+eurocrypt/eurocrypt2013,2013,None,Quadratic Span Programs and Succinct NIZKs without PCPs.,Rosario Gennaro;Craig Gentry;Bryan Parno;Mariana Raykova;,https://doi.org/10.1007/978-3-642-38348-9_37
+eurocrypt/eurocrypt2013,2013,None,Zero-Knowledge Argument for Polynomial Evaluation with Application to Blacklists.,Stephanie Bayer;Jens Groth;,https://doi.org/10.1007/978-3-642-38348-9_38
+eurocrypt/eurocrypt2013,2013,None,Resource-Restricted Indifferentiability.,Grégory Demay;Peter Gazi;Martin Hirt;Ueli Maurer;,https://doi.org/10.1007/978-3-642-38348-9_39
+eurocrypt/eurocrypt2013,2013,None,On Concurrently Secure Computation in the Multiple Ideal Query Model.,Vipul Goyal;Abhishek Jain;,https://doi.org/10.1007/978-3-642-38348-9_40
+eurocrypt/eurocrypt2013,2013,None,Universally Composable Secure Computation with (Malicious) Physically Uncloneable Functions.,Rafail Ostrovsky;Alessandra Scafuro;Ivan Visconti;Akshay Wadia;,https://doi.org/10.1007/978-3-642-38348-9_41
+eurocrypt/eurocrypt2013,2013,None,How to Garble RAM Programs.,Steve Lu;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-642-38348-9_42

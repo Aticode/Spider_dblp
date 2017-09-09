@@ -1,0 +1,28 @@
+raid/raid2015,2015,Hardware,Ensemble Learning for Low-Level Hardware-Supported Malware Detection.,Khaled N. Khasawneh;Meltem Ozsoy;Caleb Donovick;Nael B. Abu-Ghazaleh;Dmitry V. Ponomarev;,https://doi.org/10.1007/978-3-319-26362-5_1
+raid/raid2015,2015,Hardware,Physical-Layer Detection of Hardware Keyloggers.,Ryan M. Gerdes;Saptarshi Mallick;,https://doi.org/10.1007/978-3-319-26362-5_2
+raid/raid2015,2015,Hardware,Reverse Engineering Intel Last-Level Cache Complex Addressing Using Performance Counters.,Clémentine Maurice;Nicolas Le Scouarnec;Christoph Neumann;Olivier Heen;Aurélien Francillon;,https://doi.org/10.1007/978-3-319-26362-5_3
+raid/raid2015,2015,Hardware,Hardware-Assisted Fine-Grained Code-Reuse Attack Detection.,Pinghai Yuan;Qingkai Zeng;Xuhua Ding;,https://doi.org/10.1007/978-3-319-26362-5_4
+raid/raid2015,2015,Networks,Haetae: Scaling the Performance of Network Intrusion Detection with Many-Core Processors.,Jaehyun Nam;Muhammad Jamshed;Byungkwon Choi;Dongsu Han;KyoungSoo Park;,https://doi.org/10.1007/978-3-319-26362-5_5
+raid/raid2015,2015,Networks,Demystifying the IP Blackspace.,Quentin Jacquemart;Pierre-Antoine Vervier;Guillaume Urvoy-Keller;Ernst W. Biersack;,https://doi.org/10.1007/978-3-319-26362-5_6
+raid/raid2015,2015,Networks,Providing Dynamic Control to Passive Network Security Monitoring.,Johanna Amann;Robin Sommer;,https://doi.org/10.1007/978-3-319-26362-5_7
+raid/raid2015,2015,Hardening,Probabilistic Inference on Integrity for Access Behavior Based Malware Detection.,Weixuan Mao;Zhongmin Cai;Don Towsley;Xiaohong Guan;,https://doi.org/10.1007/978-3-319-26362-5_8
+raid/raid2015,2015,Hardening,Counteracting Data-Only Malware with Code Pointer Examination.,Thomas Kittel;Sebastian Vogl;Julian Kirsch;Claudia Eckert;,https://doi.org/10.1007/978-3-319-26362-5_9
+raid/raid2015,2015,Hardening,Xede: Practical Exploit Early Detection.,Meining Nie;Purui Su;Qi Li;Zhi Wang;Lingyun Ying;Jinlong Hu;Dengguo Feng;,https://doi.org/10.1007/978-3-319-26362-5_10
+raid/raid2015,2015,Attack Detection,Preventing Exploits in Microsoft Office Documents Through Content Randomization.,Charles Smutz;Angelos Stavrou;,https://doi.org/10.1007/978-3-319-26362-5_11
+raid/raid2015,2015,Attack Detection,Improving Accuracy of Static Integer Overflow Detection in Binary.,Yang Zhang;Xiaoshan Sun;Yi Deng;Liang Cheng;Shuke Zeng;Yu Fu;Dengguo Feng;,https://doi.org/10.1007/978-3-319-26362-5_12
+raid/raid2015,2015,Attack Detection,A Formal Framework for Program Anomaly Detection.,Xiaokui Shu;Danfeng (Daphne) Yao;Barbara G. Ryder;,https://doi.org/10.1007/978-3-319-26362-5_13
+raid/raid2015,2015,Web and Net,jÄk: Using Dynamic Analysis to Crawl and Test Modern Web Applications.,Giancarlo Pellegrino;Constantin Tschürtz;Eric Bodden;Christian Rossow;,https://doi.org/10.1007/978-3-319-26362-5_14
+raid/raid2015,2015,Web and Net,WYSISNWIV: What You Scan Is Not What I Visit.,Qilang Yang;Dimitrios Damopoulos;Georgios Portokalidis;,https://doi.org/10.1007/978-3-319-26362-5_15
+raid/raid2015,2015,Web and Net,SDN Rootkits: Subverting Network Operating Systems of Software-Defined Networks.,Christian Röpke;Thorsten Holz;,https://doi.org/10.1007/978-3-319-26362-5_16
+raid/raid2015,2015,Android,AppSpear: Bytecode Decrypting and DEX Reassembling for Packed Android Malware.,Wenbo Yang;Yuanyuan Zhang;Juanru Li;Junliang Shu;Bodong Li;Wenjun Hu;Dawu Gu;,https://doi.org/10.1007/978-3-319-26362-5_17
+raid/raid2015,2015,Android,HelDroid: Dissecting and Detecting Mobile Ransomware.,Nicoló Andronio;Stefano Zanero;Federico Maggi;,https://doi.org/10.1007/978-3-319-26362-5_18
+raid/raid2015,2015,Android,"Continuous Authentication on Mobile Devices Using Power Consumption, Touch Gestures and Physical Movement of Users.",Rahul Murmuria;Angelos Stavrou;Daniel Barbará;Dan Fleck;,https://doi.org/10.1007/978-3-319-26362-5_19
+raid/raid2015,2015,Privacy,Privacy Risk Assessment on Online Photos.,Haitao Xu;Haining Wang;Angelos Stavrou;,https://doi.org/10.1007/978-3-319-26362-5_20
+raid/raid2015,2015,Privacy,Privacy is Not an Option: Attacking the IPv6 Privacy Extension.,Johanna Ullrich;Edgar R. Weippl;,https://doi.org/10.1007/978-3-319-26362-5_21
+raid/raid2015,2015,Evaluating Solutions,Evaluation of Intrusion Detection Systems in Virtualized Environments Using Attack Injection.,Aleksandar Milenkoski;Bryan D. Payne;Nuno Antunes;Marco Vieira;Samuel Kounev;Alberto Avritzer;Matthias Luft;,https://doi.org/10.1007/978-3-319-26362-5_22
+raid/raid2015,2015,Evaluating Solutions,Security Analysis of PHP Bytecode Protection Mechanisms.,Dario Weißer;Johannes Dahse;Thorsten Holz;,https://doi.org/10.1007/978-3-319-26362-5_23
+raid/raid2015,2015,Evaluating Solutions,Radmin: Early Detection of Application-Level Resource Exhaustion and Starvation Attacks.,Mohamed Elsabagh;Daniel Barbará;Dan Fleck;Angelos Stavrou;,https://doi.org/10.1007/978-3-319-26362-5_24
+raid/raid2015,2015,Evaluating Solutions,Towards Automatic Inference of Kernel Object Semantics from Binary Code.,Junyuan Zeng;Zhiqiang Lin;,https://doi.org/10.1007/978-3-319-26362-5_25
+raid/raid2015,2015,Attack Detection,BotWatcher - Transparent and Generic Botnet Tracking.,Thomas Barabosch;Adrian Dombeck;Khaled Yakdan;Elmar Gerhards-Padilla;,https://doi.org/10.1007/978-3-319-26362-5_26
+raid/raid2015,2015,Attack Detection,Elite: Automatic Orchestration of Elastic Detection Services to Secure Cloud Hosting.,Yangyi Chen;Vincent Bindschaedler;XiaoFeng Wang;Stefan Berger;Dimitrios E. Pendarakis;,https://doi.org/10.1007/978-3-319-26362-5_27
+raid/raid2015,2015,Attack Detection,AmpPot: Monitoring and Defending Against Amplification DDoS Attacks.,Lukas Krämer;Johannes Krupp;Daisuke Makita;Tomomi Nishizoe;Takashi Koide;Katsunari Yoshioka;Christian Rossow;,https://doi.org/10.1007/978-3-319-26362-5_28

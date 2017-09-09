@@ -1,0 +1,21 @@
+srds/srds94,1994,Fault-Tolerant Algorithms,Fault Tolerance in a Multisensor Environment.,D. N. Jayasimha;,https://doi.org/10.1109/RELDIS.1994.336914
+srds/srds94,1994,Fault-Tolerant Algorithms,A Methodology for Constructing a Stabiliying Crash-Tolerant Application.,Jeffery C. Line;Sukumar Ghosh;,https://doi.org/10.1109/RELDIS.1994.336913
+srds/srds94,1994,Fault-Tolerant Algorithms,Probabilistic Internal Clock Synchronization.,Flaviu Cristian;Christof Fetzer;,https://doi.org/10.1109/RELDIS.1994.336912
+srds/srds94,1994,Checkpointing,Reducing Interprocessor Dependence in Recoverable Distributed Shared Memory.,Bob Janssens;W. Kent Fuchs;,https://doi.org/10.1109/RELDIS.1994.336911
+srds/srds94,1994,Checkpointing,Coordinated Checkpointing-Rollback Error Recovery for Distributed Shared Memory Multicomputers.,G. Janakiraman;Yuval Tamir;,https://doi.org/10.1109/RELDIS.1994.336910
+srds/srds94,1994,Checkpointing,Analysis of Checkpointing Schemes for Multiprocessor Systems.,Avi Ziv;Jehoshua Bruck;,https://doi.org/10.1109/RELDIS.1994.336909
+srds/srds94,1994,Stochastic Analysis,An Environment for Importance Sampling Based on Stochastic Activity Networks.,W. Douglas Obal II;William H. Sanders;,https://doi.org/10.1109/RELDIS.1994.336908
+srds/srds94,1994,Stochastic Analysis,Reliability Analysis of a Hardware and Software Fault Tolerant Parallel Processor.,Joanne Bechta Dugan;,https://doi.org/10.1109/RELDIS.1994.336907
+srds/srds94,1994,Stochastic Analysis,Probabilistic Validation using Worst Event Driven amd Importance Sampling Simulation.,Nacéra Bennacer;Gerard Florin;Stéphane Natkin;,https://doi.org/10.1109/RELDIS.1994.336906
+srds/srds94,1994,Transaction-Based Systems,PLinda 2.0: A Transactional/Checkpointing Approach to Fault Tolerant Linda.,Karpjoo Jeong;Dennis E. Shasha;,https://doi.org/10.1109/RELDIS.1994.336905
+srds/srds94,1994,Transaction-Based Systems,Nested Dynamic Actions - How to Solve the Fault Containment Problem in a Cooperative Action Model.,Edgar Nett;Beatrice Weiler;,https://doi.org/10.1109/RELDIS.1994.336904
+srds/srds94,1994,Transaction-Based Systems,An Efficient Recovery Scheme for Locking-Based Distributed Database Systems.,Junguk L. Kim;Taesoon Park;,https://doi.org/10.1109/RELDIS.1994.336903
+srds/srds94,1994,Formal Methods,Interaction of Formal Design Systems in the Development of a Fault-Tolerant Clock Synchronization Circuit.,Paul S. Miner;Shyamsundar Pullela;Steven D. Johnson;,https://doi.org/10.1109/RELDIS.1994.336902
+srds/srds94,1994,Formal Methods,Simulating Fail-Stop in Asynchronous Distributed Systems.,Laura S. Sabel;Keith Marzullo;,https://doi.org/10.1109/RELDIS.1994.336901
+srds/srds94,1994,Formal Methods,A Protocol Description Language for Customizing Semantics.,Daniel C. Sturman;Gul Agha;,https://doi.org/10.1109/RELDIS.1994.336900
+srds/srds94,1994,Message Passing,A Replication-Transparent Remote Invocation Protocol.,Luís E. T. Rodrigues;Ellen H. Siegel;Paulo Veríssimo;,https://doi.org/10.1109/RELDIS.1994.336899
+srds/srds94,1994,Message Passing,Efficient Treatment of Failures in RPC Systems.,Valérie Issarny;Gilles Muller;Isabelle Puaut;,https://doi.org/10.1109/RELDIS.1994.336898
+srds/srds94,1994,Message Passing,Exploiting Program Semantics for Efficient Instrumentation of Distributed Event Recognitions.,Madalene Spezialetti;Rajiv Gupta;,https://doi.org/10.1109/RELDIS.1994.336897
+srds/srds94,1994,Reconfiguration and Load Balancing,Processing of Read-Only Queries at a Remote Backup.,Christos A. Polyzois;Hector Garcia-Molina;,https://doi.org/10.1109/RELDIS.1994.336896
+srds/srds94,1994,Reconfiguration and Load Balancing,Transparent Load Sharing in Distributed Systems: Decentralized Design Alternatives Based on the Condor Package.,Chao-Ju Hou;Kang G. Shin;Thomas Kaeppel Tsukada;,https://doi.org/10.1109/RELDIS.1994.336895
+srds/srds94,1994,Reconfiguration and Load Balancing,Distributed Reconfiguration of Multiprocessor Systems.,Theodora A. Varvarigou;John A. Trotter;,https://doi.org/10.1109/RELDIS.1994.336894

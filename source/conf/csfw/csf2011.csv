@@ -1,0 +1,21 @@
+csfw/csf2011,2011,Security Protocol Verification,Guiding a General-Purpose C Verifier to Prove Cryptographic Protocols.,François Dupressoir;Andrew D. Gordon;Jan Jürjens;David A. Naumann;,https://doi.org/10.1109/CSF.2011.8
+csfw/csf2011,2011,Security Protocol Verification,Integrated Specification and Verification of Security Protocols and Policies.,Simone Frau;Mohammad Torabi Dashti;,https://doi.org/10.1109/CSF.2011.9
+csfw/csf2011,2011,Security Protocol Verification,StatVerif: Verification of Stateful Processes.,Myrto Arapinis;Eike Ritter;Mark Dermot Ryan;,https://doi.org/10.1109/CSF.2011.10
+csfw/csf2011,2011,Security Protocol Verification,Automated Proofs for Diffie-Hellman-Based Key Exchanges.,Long Ngo;Colin Boyd;Juanma González Nieto;,https://doi.org/10.1109/CSF.2011.11
+csfw/csf2011,2011,Security Protocol Verification,Formal Analysis of Protocols Based on TPM State Registers.,Stéphanie Delaune;Steve Kremer;Mark Dermot Ryan;Graham Steel;,https://doi.org/10.1109/CSF.2011.12
+csfw/csf2011,2011,Authorization and Security Policies,Resource-Aware Authorization Policies for Statically Typed Cryptographic Protocols.,Michele Bugliesi;Stefano Calzavara;Fabienne Eigner;Matteo Maffei;,https://doi.org/10.1109/CSF.2011.13
+csfw/csf2011,2011,Authorization and Security Policies,Obstruction-Free Authorization Enforcement: Aligning Security with Business Objectives.,David A. Basin;Samuel J. Burri;Günter Karjoth;,https://doi.org/10.1109/CSF.2011.14
+csfw/csf2011,2011,Authorization and Security Policies,Dynamic Enforcement of Knowledge-Based Security Policies.,Piotr Mardziel;Stephen Magill;Michael Hicks;Mudhakar Srivatsa;,https://doi.org/10.1109/CSF.2011.15
+csfw/csf2011,2011,Language-Based Security,Modular Protections against Non-control Data Attacks.,Cole Schlesinger;Karthik Pattabiraman;Nikhil Swamy;David Walker;Benjamin G. Zorn;,https://doi.org/10.1109/CSF.2011.16
+csfw/csf2011,2011,Language-Based Security,Static Analysis for Efficient Hybrid Information-Flow Control.,Scott Moore;Stephen Chong;,https://doi.org/10.1109/CSF.2011.17
+csfw/csf2011,2011,Language-Based Security,Local Memory via Layout Randomization.,Radha Jagadeesan;Corin Pitcher;Julian Rathke;James Riely;,https://doi.org/10.1109/CSF.2011.18
+csfw/csf2011,2011,Information Flow,A Statistical Test for Information Leaks Using Continuous Mutual Information.,Tom Chothia;Apratim Guha;,https://doi.org/10.1109/CSF.2011.19
+csfw/csf2011,2011,Information Flow,Information-Theoretic Bounds for Differentially Private Mechanisms.,Gilles Barthe;Boris Köpf;,https://doi.org/10.1109/CSF.2011.20
+csfw/csf2011,2011,Information Flow,The Complexity of Quantitative Information Flow Problems.,Pavol Cerný;Krishnendu Chatterjee;Thomas A. Henzinger;,https://doi.org/10.1109/CSF.2011.21
+csfw/csf2011,2011,Information Flow,Assumptions and Guarantees for Compositional Noninterference.,Heiko Mantel;David Sands;Henning Sudbrock;,https://doi.org/10.1109/CSF.2011.22
+csfw/csf2011,2011,Security Notions and Specifications,Vertical Protocol Composition.,Thomas Groß;Sebastian Mödersheim;,https://doi.org/10.1109/CSF.2011.23
+csfw/csf2011,2011,Security Notions and Specifications,Termination-Insensitive Computational Indistinguishability (and Applications to Computational Soundness).,Dominique Unruh;,https://doi.org/10.1109/CSF.2011.24
+csfw/csf2011,2011,Security Notions and Specifications,Security for Key Management Interfaces.,Steve Kremer;Graham Steel;Bogdan Warinschi;,https://doi.org/10.1109/CSF.2011.25
+csfw/csf2011,2011,Security Notions and Specifications,A Formal Framework for Provenance Security.,James Cheney;,https://doi.org/10.1109/CSF.2011.26
+csfw/csf2011,2011,Privacy and Anonymity,Attacking and Fixing Helios: An Analysis of Ballot Secrecy.,Véronique Cortier;Ben Smyth;,https://doi.org/10.1109/CSF.2011.27
+csfw/csf2011,2011,Privacy and Anonymity,Regret Minimizing Audits: A Learning-Theoretic Basis for Privacy Protection.,Jeremiah Blocki;Nicolas Christin;Anupam Datta;Arunesh Sinha;,https://doi.org/10.1109/CSF.2011.28

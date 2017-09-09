@@ -1,0 +1,28 @@
+fse/fse2001,2001,Cryptanalysis of Block Ciphers,The Saturation Attack - A Bait for Twofish.,Stefan Lucks;,https://doi.org/10.1007/3-540-45473-X_1
+fse/fse2001,2001,Cryptanalysis of Block Ciphers,Linear Cryptanalysis of Reduced Round Serpent.,Eli Biham;Orr Dunkelman;Nathan Keller;,https://doi.org/10.1007/3-540-45473-X_2
+fse/fse2001,2001,Cryptanalysis of Block Ciphers,Cryptanalysis of the Mercy Block Cipher.,Scott R. Fluhrer;,https://doi.org/10.1007/3-540-45473-X_3
+fse/fse2001,2001,Hash Functions and Boolean Functions,Producing Collisions for PANAMA.,Vincent Rijmen;Bart Van Rompay;Bart Preneel;Joos Vandewalle;,https://doi.org/10.1007/3-540-45473-X_4
+fse/fse2001,2001,Hash Functions and Boolean Functions,The RIPEMD and RIPEMD Improved Variants of MD4 Are Not Collision Free.,Christophe Debaert;Henri Gilbert;,https://doi.org/10.1007/3-540-45473-X_5
+fse/fse2001,2001,Hash Functions and Boolean Functions,New Constructions of Resilient Boolean Functions with Maximal Nonlinearity.,Yuriy Tarannikov;,https://doi.org/10.1007/3-540-45473-X_6
+fse/fse2001,2001,Modes of Operations,Optimized Self-Synchronizing Mode of Operation.,Ammar Alkassar;Alexander Geraldy;Birgit Pfitzmann;Ahmad-Reza Sadeghi;,https://doi.org/10.1007/3-540-45473-X_7
+fse/fse2001,2001,Modes of Operations,Fast Encryption and Authentication: XCBC Encryption and XECB Authentication Modes.,Virgil D. Gligor;Pompiliu Donescu;,https://doi.org/10.1007/3-540-45473-X_8
+fse/fse2001,2001,Modes of Operations,Incremental Unforgeable Encryption.,Enrico Buonanno;Jonathan Katz;Moti Yung;,https://doi.org/10.1007/3-540-45473-X_9
+fse/fse2001,2001,Cryptanalysis of Stream Ciphers,ZIP Attacks with Reduced Known Plaintext.,Michael Stay;,https://doi.org/10.1007/3-540-45473-X_10
+fse/fse2001,2001,Cryptanalysis of Stream Ciphers,Cryptanalysis of the SEAL 3.0 Pseudorandom Function Family.,Scott R. Fluhrer;,https://doi.org/10.1007/3-540-45473-X_11
+fse/fse2001,2001,Cryptanalysis of Stream Ciphers,Cryptanalysis of SBLH.,Goce Jakimovski;Ljupco Kocarev;,https://doi.org/10.1007/3-540-45473-X_12
+fse/fse2001,2001,Cryptanalysis of Stream Ciphers,A Practical Attack on Broadcast RC4.,Itsik Mantin;Adi Shamir;,https://doi.org/10.1007/3-540-45473-X_13
+fse/fse2001,2001,Cryptanalysis of Block Ciphers,Improved SQUARE Attacks against Reduced-Round HIEROCRYPT.,Paulo S. L. M. Barreto;Vincent Rijmen;Jorge Nakahara Jr.;Bart Preneel;Joos Vandewalle;Hae Yong Kim;,https://doi.org/10.1007/3-540-45473-X_14
+fse/fse2001,2001,Cryptanalysis of Block Ciphers,Differential Cryptanalysis of Q.,Eli Biham;Vladimir Furman;Michal Misztal;Vincent Rijmen;,https://doi.org/10.1007/3-540-45473-X_15
+fse/fse2001,2001,Cryptanalysis of Block Ciphers,Differential Cryptanalysis of Nimbus.,Vladimir Furman;,https://doi.org/10.1007/3-540-45473-X_16
+fse/fse2001,2001,Cryptanalysis of Stream Ciphers,Fast Correlation Attack Algorithm with List Decoding and an Application.,Miodrag J. Mihaljevic;Marc P. C. Fossorier;Hideki Imai;,https://doi.org/10.1007/3-540-45473-X_17
+fse/fse2001,2001,Cryptanalysis of Stream Ciphers,Bias in the LEVIATHAN Stream Cipher.,Paul Crowley;Stefan Lucks;,https://doi.org/10.1007/3-540-45473-X_18
+fse/fse2001,2001,Cryptanalysis of Stream Ciphers,Analysis of SSC2.,Daniel Bleichenbacher;Willi Meier;,https://doi.org/10.1007/3-540-45473-X_19
+fse/fse2001,2001,Pseudo-Randomness,Round Security and Super-Pseudorandomness of MISTY Type Structure.,Tetsu Iwata;Tomonobu Yoshino;Tomohiro Yuasa;Kaoru Kurosawa;,https://doi.org/10.1007/3-540-45473-X_20
+fse/fse2001,2001,Pseudo-Randomness,New Results on the Pseudorandomness of Some Blockcipher Constructions.,Henri Gilbert;Marine Minier;,https://doi.org/10.1007/3-540-45473-X_21
+fse/fse2001,2001,FSE 2001 Special Talk,NESSIE: A European Approach to Evaluate Cryptographic Algorithms.,Bart Preneel;,https://doi.org/10.1007/3-540-45473-X_22
+fse/fse2001,2001,Cryptanalysis of Block Ciphers,Related Key Attacks on Reduced Round KASUMI.,Mark Blunden;Adrian Escott;,https://doi.org/10.1007/3-540-45473-X_23
+fse/fse2001,2001,Cryptanalysis of Block Ciphers,Security of Camellia against Truncated Differential Cryptanalysis.,Masayuki Kanda;Tsutomu Matsumoto;,https://doi.org/10.1007/3-540-45473-X_24
+fse/fse2001,2001,Cryptanalysis of Block Ciphers,Impossible Differential Cryptanalysis of Zodiac.,Deukjo Hong;Jaechul Sung;Shiho Moriai;Sangjin Lee;Jongin Lim;,https://doi.org/10.1007/3-540-45473-X_25
+fse/fse2001,2001,Design and Evaluation,The Block Cipher SC2000.,Takeshi Shimoyama;Hitoshi Yanami;Kazuhiro Yokoyama;Masahiko Takenaka;Kouichi Itoh;Jun Yajima;Naoya Torii;Hidema Tanaka;,https://doi.org/10.1007/3-540-45473-X_26
+fse/fse2001,2001,Design and Evaluation,Flaws in Differential Cryptanalysis of Skipjack.,Louis Granboulan;,https://doi.org/10.1007/3-540-45473-X_27
+fse/fse2001,2001,Design and Evaluation,Efficient Algorithms for Computing Differential Properties of Addition.,Helger Lipmaa;Shiho Moriai;,https://doi.org/10.1007/3-540-45473-X_28

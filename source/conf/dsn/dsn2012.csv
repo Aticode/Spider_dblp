@@ -1,0 +1,51 @@
+dsn/dsn2012,2012,None,Instrumenting AUTOSAR for dependability assessment: A guidance framework.,Thorsten Piper;Stefan Winter;Paul Manns;Neeraj Suri;,https://doi.org/10.1109/DSN.2012.6263913
+dsn/dsn2012,2012,None,Binary mutation testing through dynamic translation.,Markus Becker;Christoph Kuznik;Mabel M. Joy;Tao Xie;Wolfgang Müller;,https://doi.org/10.1109/DSN.2012.6263914
+dsn/dsn2012,2012,None,DS-Bench Toolset: Tools for dependability benchmarking with simulation and assurance.,Hajime Fujita;Yutaka Matsuno;Toshihiro Hanawa;Mitsuhisa Sato;Shinpei Kato;Yutaka Ishikawa;,https://doi.org/10.1109/DSN.2012.6263915
+dsn/dsn2012,2012,None,Multi-Ring Paxos.,Parisa Jalili Marandi;Marco Primi;Fernando Pedone;,https://doi.org/10.1109/DSN.2012.6263916
+dsn/dsn2012,2012,None,Adaptive algorithms for diagnosing large-scale failures in computer networks.,Srikar Tati;Bong-Jun Ko;Guohong Cao;Ananthram Swami;Thomas F. La Porta;,https://doi.org/10.1109/DSN.2012.6263917
+dsn/dsn2012,2012,None,Mitigating the impact of ambient noise on Wireless Mesh Networks using adaptive link-quality-based packet replication.,Jesus Friginal;Juan-Carlos Ruiz-Garcia;David de Andrés;Antonio Bustos;,https://doi.org/10.1109/DSN.2012.6263918
+dsn/dsn2012,2012,None,Practical scrubbing: Getting to the bad sector at the right time.,George Amvrosiadis;Alina Oprea;Bianca Schroeder;,https://doi.org/10.1109/DSN.2012.6263919
+dsn/dsn2012,2012,None,Robust data sharing with key-value stores.,Cristina Basescu;Christian Cachin;Ittay Eyal;Robert Haas;Alessandro Sorniotti;Marko Vukolic;Ido Zachevsky;,https://doi.org/10.1109/DSN.2012.6263920
+dsn/dsn2012,2012,None,A framework for efficient evaluation of the fault tolerance of deduplicated storage systems.,Eric Rozier;William H. Sanders;,https://doi.org/10.1109/DSN.2012.6263921
+dsn/dsn2012,2012,None,Error injection-based study of soft error propagation in AMD Bulldozer microprocessor module.,Cristian Constantinescu;Mike Butler;Chris Weller;,https://doi.org/10.1109/DSN.2012.6263922
+dsn/dsn2012,2012,None,Understanding soft error propagation using Efficient vulnerability-driven fault injection.,Xin Xu;Man-Lap Li;,https://doi.org/10.1109/DSN.2012.6263923
+dsn/dsn2012,2012,None,Characterization of the error resiliency of power grid substation devices.,Kuan-Yu Tseng;Daniel Chen;Zbigniew Kalbarczyk;Ravishankar K. Iyer;,https://doi.org/10.1109/DSN.2012.6263924
+dsn/dsn2012,2012,None,High-performance parallel accelerator for flexible and efficient run-time monitoring.,Daniel Y. Deng;G. Edward Suh;,https://doi.org/10.1109/DSN.2012.6263925
+dsn/dsn2012,2012,None,Automatic fault characterization via abnormality-enhanced classification.,Greg Bronevetsky;Ignacio Laguna;Bronis R. de Supinski;Saurabh Bagchi;,https://doi.org/10.1109/DSN.2012.6263926
+dsn/dsn2012,2012,None,Draco: Statistical diagnosis of chronic problems in large distributed systems.,Soila Kavulya;Scott Daniels;Kaustubh R. Joshi;Matti A. Hiltunen;Rajeev Gandhi;Priya Narasimhan;,https://doi.org/10.1109/DSN.2012.6263927
+dsn/dsn2012,2012,None,Model-driven consolidation of Java workloads on multicores.,Danilo Ansaloni;Lydia Y. Chen;Evgenia Smirni;Walter Binder;,https://doi.org/10.1109/DSN.2012.6263928
+dsn/dsn2012,2012,None,Finite horizon analysis of infinite CTMDPs.,Peter Buchholz;,https://doi.org/10.1109/DSN.2012.6263929
+dsn/dsn2012,2012,None,Toward comprehensive and accurate simulation performance prediction of parallel file systems.,Miguel A. Erazo;Ting Li;Jason Liu;Stephan Eidenbenz;,https://doi.org/10.1109/DSN.2012.6263930
+dsn/dsn2012,2012,None,Scalable deferred update replication.,Daniele Sciascia;Fernando Pedone;Flavio Junqueira;,https://doi.org/10.1109/DSN.2012.6263931
+dsn/dsn2012,2012,None,Latent fault detection in large scale services.,Moshe Gabel;Assaf Schuster;Ran Gilad-Bachrach;Nikolaj Bjørner;,https://doi.org/10.1109/DSN.2012.6263932
+dsn/dsn2012,2012,None,Keep net working - on a dependable and fast networking stack.,Tomas Hruby;Dirk Vogt;Herbert Bos;Andrew S. Tanenbaum;,https://doi.org/10.1109/DSN.2012.6263933
+dsn/dsn2012,2012,None,A cost-based heterogeneous recovery scheme for distributed storage systems with RAID-6 codes.,Yunfeng Zhu;Patrick P. C. Lee;Liping Xiang;Yinlong Xu;Lingling Gao;,https://doi.org/10.1109/DSN.2012.6263934
+dsn/dsn2012,2012,None,A new symbolic approach for network reliability analysis.,Marco Beccuti;Andrea Bobbio;Giuliana Franceschinis;Roberta Terruggia;,https://doi.org/10.1109/DSN.2012.6263935
+dsn/dsn2012,2012,None,A study of soft error consequences in hard disk drives.,Timothy K. Tsai;Nawanol Theera-Ampornpunt;Saurabh Bagchi;,https://doi.org/10.1109/DSN.2012.6263936
+dsn/dsn2012,2012,None,Heuristics for optimizing matrix-based erasure codes for fault-tolerant storage systems.,James S. Plank;Catherine D. Schuman;B. Devin Robison;,https://doi.org/10.1109/DSN.2012.6263937
+dsn/dsn2012,2012,None,Algorithmic approaches to low overhead fault detection for sparse linear algebra.,Joseph Sloan;Rakesh Kumar;Greg Bronevetsky;,https://doi.org/10.1109/DSN.2012.6263938
+dsn/dsn2012,2012,None,Perspectives on software safety case development for unmanned aircraft.,Ewen Denney;Ganesh Pai;Ibrahim Habli;,https://doi.org/10.1109/DSN.2012.6263939
+dsn/dsn2012,2012,None,Scalable optimal countermeasure selection using implicit enumeration on attack countermeasure trees.,Arpan Roy;Dong Seong Kim;Kishor S. Trivedi;,https://doi.org/10.1109/DSN.2012.6263940
+dsn/dsn2012,2012,None,EliMet: Security metric elicitation in power grid critical infrastructures by observing system administrators' responsive behavior.,Saman A. Zonouz;Amir Houmansadr;Parisa Haghani;,https://doi.org/10.1109/DSN.2012.6263941
+dsn/dsn2012,2012,None,Time-efficient and cost-effective network hardening using attack graphs.,Massimiliano Albanese;Sushil Jajodia;Steven Noel;,https://doi.org/10.1109/DSN.2012.6263942
+dsn/dsn2012,2012,None,Taming Mr Hayes: Mitigating signaling based attacks on smartphones.,Collin Mulliner;Steffen Liebergeld;Matthias Lange;Jean-Pierre Seifert;,https://doi.org/10.1109/DSN.2012.6263943
+dsn/dsn2012,2012,None,A cross-layer approach for IP network protection.,Qiang Zheng;Jing Zhao;Guohong Cao;,https://doi.org/10.1109/DSN.2012.6263944
+dsn/dsn2012,2012,None,Epiphany: A location hiding architecture for protecting critical services from DDoS attacks.,Vamsi Kambhampati;Christos Papadopoulos;Daniel Massey;,https://doi.org/10.1109/DSN.2012.6263945
+dsn/dsn2012,2012,None,Assessing time coalescence techniques for the analysis of supercomputer logs.,Catello Di Martino;Marcello Cinque;Domenico Cotroneo;,https://doi.org/10.1109/DSN.2012.6263946
+dsn/dsn2012,2012,None,Optimization of data collection strategies for model-based evaluation and decision-making.,Robert G. Cain;Aad P. A. van Moorsel;,https://doi.org/10.1109/DSN.2012.6263947
+dsn/dsn2012,2012,None,Filtering log data: Finding the needles in the Haystack.,Li Yu;Ziming Zheng;Zhiling Lan;Terry Jones;Jim M. Brandt;Ann C. Gentile;,https://doi.org/10.1109/DSN.2012.6263948
+dsn/dsn2012,2012,None,RDIS: A recursively defined invertible set scheme to tolerate multiple stuck-at faults in resistive memory.,Rami G. Melhem;Rakan Maddah;Sangyeun Cho;,https://doi.org/10.1109/DSN.2012.6263949
+dsn/dsn2012,2012,None,RePRAM: Re-cycling PRAM faulty blocks for extended lifetime.,Jie Chen;Guru Venkataramani;H. Howie Huang;,https://doi.org/10.1109/DSN.2012.6263950
+dsn/dsn2012,2012,None,VARIUS-NTV: A microarchitectural model to capture the increased sensitivity of manycores to process variations at near-threshold voltages.,Ulya R. Karpuzcu;Krishna B. Kolluru;Nam Sung Kim;Josep Torrellas;,https://doi.org/10.1109/DSN.2012.6263951
+dsn/dsn2012,2012,None,Mitigating random variation with spare RIBs: Redundant intermediate bitslices.,David J. Palframan;Nam Sung Kim;Mikko H. Lipasti;,https://doi.org/10.1109/DSN.2012.6263952
+dsn/dsn2012,2012,None,Lightweight cooperative logging for fault replication in concurrent programs.,Nuno Machado;Paolo Romano;Luís E. T. Rodrigues;,https://doi.org/10.1109/DSN.2012.6263953
+dsn/dsn2012,2012,None,Confidentiality of event data in policy-based monitoring.,Mirko Montanari;Roy H. Campbell;,https://doi.org/10.1109/DSN.2012.6263954
+dsn/dsn2012,2012,None,Continuous authentication for mouse dynamics: A pattern-growth approach.,Chao Shen;Zhongmin Cai;Xiaohong Guan;,https://doi.org/10.1109/DSN.2012.6263955
+dsn/dsn2012,2012,None,NINEPIN: Non-invasive and energy efficient performance isolation in virtualized servers.,Palden Lama;Xiaobo Zhou;,https://doi.org/10.1109/DSN.2012.6263956
+dsn/dsn2012,2012,None,ExtraTime: Modeling and analysis of wearout due to transistor aging at microarchitecture-level.,Fabian Oboril;Mehdi Baradaran Tahoori;,https://doi.org/10.1109/DSN.2012.6263957
+dsn/dsn2012,2012,None,CFIMon: Detecting violation of control flow integrity using performance counters.,Yubin Xia;Yutao Liu;Haibo Chen;Binyu Zang;,https://doi.org/10.1109/DSN.2012.6263958
+dsn/dsn2012,2012,None,BLOCKWATCH: Leveraging similarity in parallel programs for error detection.,Jiesheng Wei;Karthik Pattabiraman;,https://doi.org/10.1109/DSN.2012.6263959
+dsn/dsn2012,2012,None,Low-cost program-level detectors for reducing silent data corruptions.,Siva Kumar Sastry Hari;Sarita V. Adve;Helia Naeimi;,https://doi.org/10.1109/DSN.2012.6263960
+dsn/dsn2012,2012,None,Safeguarding academic accounts and resources with the University Credential Abuse Auditing System.,Jing Zhang;Robin Berthier;Will Rhee;Michael Bailey;Partha P. Pal;Farnam Jahanian;William H. Sanders;,https://doi.org/10.1109/DSN.2012.6263961
+dsn/dsn2012,2012,None,A dependability analysis of hardware-assisted polling integrity checking systems.,Jiang Wang;Kun Sun;Angelos Stavrou;,https://doi.org/10.1109/DSN.2012.6263962
+dsn/dsn2012,2012,None,An empirical study of the robustness of Inter-component Communication in Android.,Amiya Kumar Maji;Fahad A. Arshad;Saurabh Bagchi;Jan S. Rellermeyer;,https://doi.org/10.1109/DSN.2012.6263963

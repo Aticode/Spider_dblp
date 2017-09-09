@@ -1,0 +1,47 @@
+eurocrypt/eurocrypt94,1994,Secret Sharing,Visual Cryptography.,Moni Naor;Adi Shamir;,https://doi.org/10.1007/BFb0053419
+eurocrypt/eurocrypt94,1994,Secret Sharing,The Size of a Share Must Be Large.,László Csirmaz;,https://doi.org/10.1007/BFb0053420
+eurocrypt/eurocrypt94,1994,Secret Sharing,A Linear Construction of Perfect Secret Sharing Schemes.,Marten van Dijk;,https://doi.org/10.1007/BFb0053421
+eurocrypt/eurocrypt94,1994,Secret Sharing,On the Dealer's Randomness Required in Secret Sharing Schemes.,Carlo Blundo;Antonio Giorgio Gaggia;Douglas R. Stinson;,https://doi.org/10.1007/BFb0053422
+eurocrypt/eurocrypt94,1994,Hash Functions,Black Box Cryptanalysis of Hash Networks Based on Multipermutations.,Claus-Peter Schnorr;Serge Vaudenay;,https://doi.org/10.1007/BFb0053423
+eurocrypt/eurocrypt94,1994,Hash Functions,A Practical Attack against Knapsack based Hash Functions (Extended Abstract).,Antoine Joux;Louis Granboulan;,https://doi.org/10.1007/BFb0053424
+eurocrypt/eurocrypt94,1994,Signatures,The Blinding of Weak Signatures (Extended Abstract).,Matthew K. Franklin;Moti Yung;,https://doi.org/10.1007/BFb0053425
+eurocrypt/eurocrypt94,1994,Signatures,Can D.S.A. be Improved? Complexity Trade-Offs with the Digital Signature Standard.,David Naccache;David M'Raïhi;Serge Vaudenay;Dan Raphaeli;,https://doi.org/10.1007/BFb0053426
+eurocrypt/eurocrypt94,1994,Signatures,Designated Confirmer Signatures.,David Chaum;,https://doi.org/10.1007/BFb0053427
+eurocrypt/eurocrypt94,1994,Cryptosystems,Optimal Asymmetric Encryption.,Mihir Bellare;Phillip Rogaway;,https://doi.org/10.1007/BFb0053428
+eurocrypt/eurocrypt94,1994,Cryptosystems,A Multiple-Iterated Trapdoor for Dense Compact Knapsacks.,Glenn A. Orton;,https://doi.org/10.1007/BFb0053429
+eurocrypt/eurocrypt94,1994,Cryptosystems,On the Security of Some Cryptosystems Based on Error-correcting Codes.,Florent Chabaud;,https://doi.org/10.1007/BFb0053430
+eurocrypt/eurocrypt94,1994,Zero-Knowledge and Protocol Methodology,Parallel Divertibility of Proofs of Knowledge (Extended Abstract).,Lidong Chen;Ivan Damgård;Torben P. Pedersen;,https://doi.org/10.1007/BFb0053431
+eurocrypt/eurocrypt94,1994,Zero-Knowledge and Protocol Methodology,Methodology for Digital Money based on General Cryptographic Tools.,Stefano D'Amiano;Giovanni Di Crescenzo;,https://doi.org/10.1007/BFb0053432
+eurocrypt/eurocrypt94,1994,Signatures,New Group Signature Schemes (Extended Abstract).,Lidong Chen;Torben P. Pedersen;,https://doi.org/10.1007/BFb0053433
+eurocrypt/eurocrypt94,1994,Signatures,Message Recovery for Signature Schemes Based on the Discrete Logarithm Problem.,Kaisa Nyberg;Rainer A. Rueppel;,https://doi.org/10.1007/BFb0053434
+eurocrypt/eurocrypt94,1994,Signatures,Threshold-Multisignature Schemes where Suspected Forgery Implies Traceability of Adversarial Shareholders.,Chuan-Ming Li;Tzonelih Hwang;Narn-Yih Lee;,https://doi.org/10.1007/BFb0053435
+eurocrypt/eurocrypt94,1994,Pseudorandom Generators,The Self-Shrinking Generator.,Willi Meier;Othmar Staffelbach;,https://doi.org/10.1007/BFb0053436
+eurocrypt/eurocrypt94,1994,Pseudorandom Generators,Feedback Registers Based on Ramified Extensions of the 2-Adic Numbers (Extended Abstract).,Mark Goresky;Andrew Klapper;,https://doi.org/10.1007/BFb0053437
+eurocrypt/eurocrypt94,1994,Pseudorandom Generators,General Lower Bound for the Linear Complexity of the Product of Shift-Register Sequences.,Rainer Göttfert;Harald Niederreiter;,https://doi.org/10.1007/BFb0053438
+eurocrypt/eurocrypt94,1994,Pseudorandom Generators,Embedding and Probabilistic Correlation Attacks on Clock-Controlled Shift Registers.,Jovan Dj. Golic;Luke O'Connor;,https://doi.org/10.1007/BFb0053439
+eurocrypt/eurocrypt94,1994,Authehntication Codes,Near Optimal Unconditionally Secure Authentication.,Richard Taylor;,https://doi.org/10.1007/BFb0053440
+eurocrypt/eurocrypt94,1994,Authehntication Codes,Authentication Codes in Plaintext and Chosen-content Attacks.,Reihaneh Safavi-Naini;L. Tombak;,https://doi.org/10.1007/BFb0053441
+eurocrypt/eurocrypt94,1994,Key Agreement and Key Distribution,Linking Information Reconciliation and Privacy Amplification (Extended Abstract).,Christian Cachin;Ueli M. Maurer;,https://doi.org/10.1007/BFb0053442
+eurocrypt/eurocrypt94,1994,Key Agreement and Key Distribution,A Secure and Efficient Conference Key Distribution System (Extended Abstract).,Mike Burmester;Yvo Desmedt;,https://doi.org/10.1007/BFb0053443
+eurocrypt/eurocrypt94,1994,Key Agreement and Key Distribution,Space Requirements for Broadcast Encryption.,Carlo Blundo;Antonella Cresti;,https://doi.org/10.1007/BFb0053444
+eurocrypt/eurocrypt94,1994,Key Agreement and Key Distribution,How to Break and Repair Leighton and Micali's Key Agreement Protocol.,Yuliang Zheng;,https://doi.org/10.1007/BFb0053445
+eurocrypt/eurocrypt94,1994,Protocols,Single-Term Divisible Electronic Coins.,Tony L. Eng;Tatsuaki Okamoto;,https://doi.org/10.1007/BFb0053446
+eurocrypt/eurocrypt94,1994,Protocols,Formal Requirements for Key Distribution Protocols.,Paul F. Syverson;Catherine A. Meadows;,https://doi.org/10.1007/BFb0053447
+eurocrypt/eurocrypt94,1994,Protocols,Breaking Efficient Anonymous Channel.,Birgit Pfitzmann;,https://doi.org/10.1007/BFb0053448
+eurocrypt/eurocrypt94,1994,Cryptanalysis and Block Ciphers,On Matsui's Linear Cryptanalysis.,Eli Biham;,https://doi.org/10.1007/BFb0053449
+eurocrypt/eurocrypt94,1994,Cryptanalysis and Block Ciphers,Links Between Differential and Linear Cryptanalysis.,Florent Chabaud;Serge Vaudenay;,https://doi.org/10.1007/BFb0053450
+eurocrypt/eurocrypt94,1994,Cryptanalysis and Block Ciphers,On Correlation Between the Order of S-boxes and the Strength of DES.,Mitsuru Matsui;,https://doi.org/10.1007/BFb0053451
+eurocrypt/eurocrypt94,1994,Cryptanalysis and Block Ciphers,Relationships Among Nonlinear Criteria (Extended Abstract).,Jennifer Seberry;Xian-Mo Zhang;Yuliang Zheng;,https://doi.org/10.1007/BFb0053452
+eurocrypt/eurocrypt94,1994,Number Theory and Algorithms,Efficient Exponentiation using Procomputation and Vector Addition Chains.,Peter de Rooij;,https://doi.org/10.1007/BFb0053453
+eurocrypt/eurocrypt94,1994,Number Theory and Algorithms,MIMD-Factorisation on Hypercubes.,Frank Damm;F.-P. Heider;G. Wambach;,https://doi.org/10.1007/BFb0053454
+eurocrypt/eurocrypt94,1994,Rump Session,"New Attacks on all Double Block Length Hash Functions of Hash Rate 1, including the Parallel-DM.",Lars R. Knudsen;Xuejia Lai;,https://doi.org/10.1007/BFb0053455
+eurocrypt/eurocrypt94,1994,Rump Session,New Potentially 'Weak' Keys for DES and LOKI (Extended Abstract).,Lars R. Knudsen;,https://doi.org/10.1007/BFb0053456
+eurocrypt/eurocrypt94,1994,Rump Session,Blackmailing using Undeniable Signatures.,Markus Jakobsson;,https://doi.org/10.1007/BFb0053457
+eurocrypt/eurocrypt94,1994,Rump Session,Blind Signatures Based on the Discrete Logarithm Problem.,Jan Camenisch;Jean-Marc Piveteau;Markus Stadler;,https://doi.org/10.1007/BFb0053458
+eurocrypt/eurocrypt94,1994,Rump Session,Comments on Soviet Encryption Algorithm.,Chris Charnes;Luke O'Connor;Josef Pieprzyk;Reihaneh Safavi-Naini;Yuliang Zheng;,https://doi.org/10.1007/BFb0053459
+eurocrypt/eurocrypt94,1994,Rump Session,Linear Approximation of Block Ciphers.,Kaisa Nyberg;,https://doi.org/10.1007/BFb0053460
+eurocrypt/eurocrypt94,1994,Rump Session,Memory Efficient Variants of Public-Key Schemes for Smart Card Applications.,Adi Shamir;,https://doi.org/10.1007/BFb0053461
+eurocrypt/eurocrypt94,1994,Rump Session,A Systematic Attack on Clock Controlled Cascades.,Renato Menicocci;,https://doi.org/10.1007/BFb0053462
+eurocrypt/eurocrypt94,1994,Rump Session,On A²-Codes Including Arbiter's Attacks.,Thomas Johansson;Ben J. M. Smeets;,https://doi.org/10.1007/BFb0053463
+eurocrypt/eurocrypt94,1994,Rump Session,An Improvement of Davies' Attack on DES.,Eli Biham;Alex Biryukov;,https://doi.org/10.1007/BFb0053464
+eurocrypt/eurocrypt94,1994,Rump Session,Q-Deformed Quantum Cryptography.,Jaroslav Hruby;,https://doi.org/10.1007/BFb0053465

@@ -1,0 +1,32 @@
+crypto/crypto2008,2008,Random Oracles,The Random Oracle Model and the Ideal Cipher Model Are Equivalent.,Jean-Sébastien Coron;Jacques Patarin;Yannick Seurin;,https://doi.org/10.1007/978-3-540-85174-5_1
+crypto/crypto2008,2008,Random Oracles,Programmable Hash Functions and Their Applications.,Dennis Hofheinz;Eike Kiltz;,https://doi.org/10.1007/978-3-540-85174-5_2
+crypto/crypto2008,2008,Applications,One-Time Programs.,Shafi Goldwasser;Yael Tauman Kalai;Guy N. Rothblum;,https://doi.org/10.1007/978-3-540-85174-5_3
+crypto/crypto2008,2008,Applications,Adaptive One-Way Functions and Applications.,Omkant Pandey;Rafael Pass;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-540-85174-5_4
+crypto/crypto2008,2008,Public-Key Crypto,Bits Security of the Elliptic Curve Diffie-Hellman Secret Keys.,Dimitar Jetchev;Ramarathnam Venkatesan;,https://doi.org/10.1007/978-3-540-85174-5_5
+crypto/crypto2008,2008,Public-Key Crypto,Improved Bounds on Security Reductions for Discrete Log Based Signatures.,Sanjam Garg;Raghav Bhaskar;Satyanarayana V. Lokam;,https://doi.org/10.1007/978-3-540-85174-5_6
+crypto/crypto2008,2008,Public-Key Crypto,Circular-Secure Encryption from Decision Diffie-Hellman.,Dan Boneh;Shai Halevi;Michael Hamburg;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-540-85174-5_7
+crypto/crypto2008,2008,Public-Key Crypto,Public-Key Locally-Decodable Codes.,Brett Hemenway;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-540-85174-5_8
+crypto/crypto2008,2008,Hash Functions,Key-Recovery Attacks on Universal Hash Function Based MAC Algorithms.,Helena Handschuh;Bart Preneel;,https://doi.org/10.1007/978-3-540-85174-5_9
+crypto/crypto2008,2008,Hash Functions,Cryptanalysis of the GOST Hash Function.,Florian Mendel;Norbert Pramstaller;Christian Rechberger;Marcin Kontak;Janusz Szmidt;,https://doi.org/10.1007/978-3-540-85174-5_10
+crypto/crypto2008,2008,Hash Functions,Preimages for Reduced SHA-0 and SHA-1.,Christophe De Cannière;Christian Rechberger;,https://doi.org/10.1007/978-3-540-85174-5_11
+crypto/crypto2008,2008,Cryptanalysis,On the Power of Power Analysis in the Real World: A Complete Break of the KeeLoqCode Hopping Scheme.,Thomas Eisenbarth;Timo Kasper;Amir Moradi;Christof Paar;Mahmoud Salmasizadeh;Mohammad T. Manzuri Shalmani;,https://doi.org/10.1007/978-3-540-85174-5_12
+crypto/crypto2008,2008,Cryptanalysis,Bug Attacks.,Eli Biham;Yaniv Carmeli;Adi Shamir;,https://doi.org/10.1007/978-3-540-85174-5_13
+crypto/crypto2008,2008,Multiparty Computation,Scalable Multiparty Computation with Nearly Optimal Work and Resilience.,Ivan Damgård;Yuval Ishai;Mikkel Krøigaard;Jesper Buus Nielsen;Adam D. Smith;,https://doi.org/10.1007/978-3-540-85174-5_14
+crypto/crypto2008,2008,Multiparty Computation,Cryptographic Complexity of Multi-Party Computation Problems: Classifications and Separations.,Manoj Prabhakaran;Mike Rosulek;,https://doi.org/10.1007/978-3-540-85174-5_15
+crypto/crypto2008,2008,Cryptanalysis,Cryptanalysis of MinRank.,Jean-Charles Faugère;Françoise Levy-dit-Vehel;Ludovic Perret;,https://doi.org/10.1007/978-3-540-85174-5_16
+crypto/crypto2008,2008,Cryptanalysis,New State Recovery Attack on RC4.,Alexander Maximov;Dmitry Khovratovich;,https://doi.org/10.1007/978-3-540-85174-5_17
+crypto/crypto2008,2008,Public-Key Crypto,Dynamic Threshold Public-Key Encryption.,Cécile Delerablée;David Pointcheval;,https://doi.org/10.1007/978-3-540-85174-5_18
+crypto/crypto2008,2008,Public-Key Crypto,"On Notions of Security for Deterministic Encryption, and Efficient Constructions without Random Oracles.",Alexandra Boldyreva;Serge Fehr;Adam O'Neill;,https://doi.org/10.1007/978-3-540-85174-5_19
+crypto/crypto2008,2008,Public-Key Crypto,Deterministic Encryption: Definitional Equivalences and Constructions without Random Oracles.,Mihir Bellare;Marc Fischlin;Adam O'Neill;Thomas Ristenpart;,https://doi.org/10.1007/978-3-540-85174-5_20
+crypto/crypto2008,2008,Public-Key Crypto,Communication Complexity in Algebraic Two-Party Protocols.,Rafail Ostrovsky;William E. Skeith III;,https://doi.org/10.1007/978-3-540-85174-5_21
+crypto/crypto2008,2008,Hash Functions,Beyond Uniformity: Better Security/Efficiency Tradeoffs for Compression Functions.,Martijn Stam;,https://doi.org/10.1007/978-3-540-85174-5_22
+crypto/crypto2008,2008,Hash Functions,"Compression from Collisions, or Why CRHF Combiners Have a Long Output.",Krzysztof Pietrzak;,https://doi.org/10.1007/978-3-540-85174-5_23
+crypto/crypto2008,2008,Hash Functions,Constructing Cryptographic Hash Functions from Fixed-Key Blockciphers.,Phillip Rogaway;John P. Steinberger;,https://doi.org/10.1007/978-3-540-85174-5_24
+crypto/crypto2008,2008,Privacy,Distributed Private Data Analysis: Simultaneously Solving How and What.,Amos Beimel;Kobbi Nissim;Eran Omri;,https://doi.org/10.1007/978-3-540-85174-5_25
+crypto/crypto2008,2008,Privacy,New Efficient Attacks on Statistical Disclosure Control Mechanisms.,Cynthia Dwork;Sergey Yekhanin;,https://doi.org/10.1007/978-3-540-85174-5_26
+crypto/crypto2008,2008,Multiparty Computation,Efficient Secure Linear Algebra in the Presence of Covert or Computationally Unbounded Adversaries.,Payman Mohassel;Enav Weinreb;,https://doi.org/10.1007/978-3-540-85174-5_27
+crypto/crypto2008,2008,Multiparty Computation,Collusion-Free Protocols in the Mediated Model.,Joël Alwen;Abhi Shelat;Ivan Visconti;,https://doi.org/10.1007/978-3-540-85174-5_28
+crypto/crypto2008,2008,Zero Knowledge,Efficient Constructions of Composable Commitments and Zero-Knowledge Proofs.,Yevgeniy Dodis;Victor Shoup;Shabsi Walfish;,https://doi.org/10.1007/978-3-540-85174-5_29
+crypto/crypto2008,2008,Zero Knowledge,Noninteractive Statistical Zero-Knowledge Proofs for Lattice Problems.,Chris Peikert;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-540-85174-5_30
+crypto/crypto2008,2008,Oblivious Transfer,A Framework for Efficient and Composable Oblivious Transfer.,Chris Peikert;Vinod Vaikuntanathan;Brent Waters;,https://doi.org/10.1007/978-3-540-85174-5_31
+crypto/crypto2008,2008,Oblivious Transfer,Founding Cryptography on Oblivious Transfer - Efficiently.,Yuval Ishai;Manoj Prabhakaran;Amit Sahai;,https://doi.org/10.1007/978-3-540-85174-5_32

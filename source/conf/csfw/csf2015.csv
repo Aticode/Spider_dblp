@@ -1,0 +1,35 @@
+csfw/csf2015,2015,None,Analyzing First-Order Role Based Access Control.,Carlos Cotrini Jiménez;Thilo Weghorn;David A. Basin;Manuel Clavel;,https://doi.org/10.1109/CSF.2015.8
+csfw/csf2015,2015,None,"Decomposing, Comparing, and Synthesizing Access Control Expressiveness Simulations.",William C. Garrison III;Adam J. Lee;,https://doi.org/10.1109/CSF.2015.9
+csfw/csf2015,2015,None,Compositional Typed Analysis of ARBAC Policies.,Stefano Calzavara;Alvise Rabitti;Michele Bugliesi;,https://doi.org/10.1109/CSF.2015.10
+csfw/csf2015,2015,None,Policy Privacy in Cryptographic Access Control.,Anna Lisa Ferrara;Georg Fuchsbauer;Bin Liu;Bogdan Warinschi;,https://doi.org/10.1109/CSF.2015.11
+csfw/csf2015,2015,None,Location Privacy via Differential Private Perturbation of Cloaking Area.,Hoa Ngo;Jong Kim;,https://doi.org/10.1109/CSF.2015.12
+csfw/csf2015,2015,None,Automatic Proofs of Privacy of Secure Multi-party Computation Protocols against Active Adversaries.,Martin Pettai;Peeter Laud;,https://doi.org/10.1109/CSF.2015.13
+csfw/csf2015,2015,None,A Game-Theoretic Study on Non-monetary Incentives in Data Analytics Projects with Privacy Implications.,Michela Chessa;Jens Grossklags;Patrick Loiseau;,https://doi.org/10.1109/CSF.2015.14
+csfw/csf2015,2015,None,A Cut Principle for Information Flow.,Joshua D. Guttman;Paul D. Rowe;,https://doi.org/10.1109/CSF.2015.15
+csfw/csf2015,2015,None,The Anatomy and Facets of Dynamic Policies.,Niklas Broberg;Bart van Delft;David Sands;,https://doi.org/10.1109/CSF.2015.16
+csfw/csf2015,2015,None,Hybrid Monitors for Concurrent Noninterference.,Aslan Askarov;Stephen Chong;Heiko Mantel;,https://doi.org/10.1109/CSF.2015.17
+csfw/csf2015,2015,None,Du-Vote: Remote Electronic Voting with Untrusted Computers.,Gurchetan S. Grewal;Mark Dermot Ryan;Liqun Chen;Michael R. Clarkson;,https://doi.org/10.1109/CSF.2015.18
+csfw/csf2015,2015,None,Decidability of Trace Equivalence for Protocols with Nonces.,Rémy Chrétien;Véronique Cortier;Stéphanie Delaune;,https://doi.org/10.1109/CSF.2015.19
+csfw/csf2015,2015,None,Set-Pi: Set Membership p-Calculus.,Alessandro Bruni;Sebastian Mödersheim;Flemming Nielson;Hanne Riis Nielson;,https://doi.org/10.1109/CSF.2015.20
+csfw/csf2015,2015,None,A Complete Characterization of Secure Human-Server Communication.,David A. Basin;Sasa Radomirovic;Michael Schläpfer;,https://doi.org/10.1109/CSF.2015.21
+csfw/csf2015,2015,None,A Definitional Framework for Functional Encryption.,Christian Matt;Ueli Maurer;,https://doi.org/10.1109/CSF.2015.22
+csfw/csf2015,2015,None,Reasoning about Policy Behavior in Logic-Based Trust Management Systems: Some Complexity Results and an Operational Framework.,Edelmira Pasarella;Jorge Lobo;,https://doi.org/10.1109/CSF.2015.23
+csfw/csf2015,2015,None,Picking vs. Guessing Secrets: A Game-Theoretic Analysis.,M. H. R. Khouzani;Piotr Mardziel;Carlos Cid;Mudhakar Srivatsa;,https://doi.org/10.1109/CSF.2015.24
+csfw/csf2015,2015,None,Program Actions as Actual Causes: A Building Block for Accountability.,Anupam Datta;Deepak Garg;Dilsun Kirli Kaynar;Divya Sharma;Arunesh Sinha;,https://doi.org/10.1109/CSF.2015.25
+csfw/csf2015,2015,None,BitWhisper: Covert Signaling Channel between Air-Gapped Computers Using Thermal Manipulations.,Mordechai Guri;Matan Monitz;Yisroel Mirski;Yuval Elovici;,https://doi.org/10.1109/CSF.2015.26
+csfw/csf2015,2015,None,A Parametric Family of Attack Models for Proxy Re-encryption.,David Nuñez;Isaac Agudo;Javier Lopez;,https://doi.org/10.1109/CSF.2015.27
+csfw/csf2015,2015,None,A Hybrid Approach for Proving Noninterference of Java Programs.,Ralf Küsters;Tomasz Truderung;Bernhard Beckert;Daniel Bruns;Michael Kirsten;Martin Mohr;,https://doi.org/10.1109/CSF.2015.28
+csfw/csf2015,2015,None,Android Permissions Unleashed.,Alessandro Armando;Roberto Carbone;Gabriele Costa;Alessio Merlo;,https://doi.org/10.1109/CSF.2015.29
+csfw/csf2015,2015,None,Cryptographic Enforcement of Language-Based Information Erasure.,Aslan Askarov;Scott Moore;Christos Dimoulas;Stephen Chong;,https://doi.org/10.1109/CSF.2015.30
+csfw/csf2015,2015,None,Value-Sensitive Hybrid Information Flow Control for a JavaScript-Like Language.,Daniel Hedin;Luciano Bello;Andrei Sabelfeld;,https://doi.org/10.1109/CSF.2015.31
+csfw/csf2015,2015,None,Information Flow Control for Event Handling and the DOM in Web Browsers.,Vineet Rajani;Abhishek Bichhawat;Deepak Garg;Christian Hammer;,https://doi.org/10.1109/CSF.2015.32
+csfw/csf2015,2015,None,An Analysis of Universal Information Flow Based on Self-Composition.,Christian Müller;Máté Kovács;Helmut Seidl;,https://doi.org/10.1109/CSF.2015.33
+csfw/csf2015,2015,None,On Power Splitting Games in Distributed Computation: The Case of Bitcoin Pooled Mining.,Loi Luu;Ratul Saha;Inian Parameshwaran;Prateek Saxena;Aquinas Hobor;,https://doi.org/10.1109/CSF.2015.34
+csfw/csf2015,2015,None,Symbolic Malleable Zero-Knowledge Proofs.,Michael Backes;Fabian Bendun;Matteo Maffei;Esfandiar Mohammadi;Kim Pecina;,https://doi.org/10.1109/CSF.2015.35
+csfw/csf2015,2015,None,A Mechanized Proof of Security for Searchable Symmetric Encryption.,Adam Petcher;Greg Morrisett;,https://doi.org/10.1109/CSF.2015.36
+csfw/csf2015,2015,None,Probabilistic Program Modeling for High-Precision Anomaly Classification.,Kui Xu;Danfeng (Daphne) Yao;Barbara G. Ryder;Ke Tian;,https://doi.org/10.1109/CSF.2015.37
+csfw/csf2015,2015,None,A Logic of Programs with Interface-Confined Code.,Limin Jia;Shayak Sen;Deepak Garg;Anupam Datta;,https://doi.org/10.1109/CSF.2015.38
+csfw/csf2015,2015,None,Rational Protection against Timing Attacks.,Goran Doychev;Boris Köpf;,https://doi.org/10.1109/CSF.2015.39
+csfw/csf2015,2015,None,Understanding and Enforcing Opacity.,Daniel Schoepe;Andrei Sabelfeld;,https://doi.org/10.1109/CSF.2015.41
+csfw/csf2015,2015,None,A Methodology for Information Flow Experiments.,Michael Carl Tschantz;Amit Datta;Anupam Datta;Jeannette M. Wing;,https://doi.org/10.1109/CSF.2015.40
+csfw/csf2015,2015,None,Flow-Limited Authorization.,Owen Arden;Jed Liu;Andrew C. Myers;,https://doi.org/10.1109/CSF.2015.42

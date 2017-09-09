@@ -1,0 +1,36 @@
+ccs/ccs2004p,2004,None,Trusting a trusted system.,John D. McLean;,http://doi.acm.org/10.1145/1030083.1030084
+ccs/ccs2004p,2004,Network intrusions,Operational experiences with high-volume network intrusion detection.,Holger Dreger;Anja Feldmann;Vern Paxson;Robin Sommer;,http://doi.acm.org/10.1145/1030083.1030086
+ccs/ccs2004p,2004,Network intrusions,On the difficulty of scalably detecting network attacks.,Kirill Levchenko;Ramamohan Paturi;George Varghese;,http://doi.acm.org/10.1145/1030083.1030087
+ccs/ccs2004p,2004,Network intrusions,Testing network-based intrusion detection signatures using mutant exploits.,Giovanni Vigna;William K. Robertson;Davide Balzarotti;,http://doi.acm.org/10.1145/1030083.1030088
+ccs/ccs2004p,2004,Network intrusions,Payload attribution via hierarchical bloom filters.,Kulesh Shanmugasundaram;Hervé Brönnimann;Nasir D. Memon;,http://doi.acm.org/10.1145/1030083.1030089
+ccs/ccs2004p,2004,Access control,On mutually-exclusive roles and separation of duty.,Ninghui Li;Ziad Bizri;Mahesh V. Tripunitara;,http://doi.acm.org/10.1145/1030083.1030091
+ccs/ccs2004p,2004,Access control,KNOW Why your access was denied: regulating feedback for usable security.,Apu Kapadia;Geetanjali Sampemane;Roy H. Campbell;,http://doi.acm.org/10.1145/1030083.1030092
+ccs/ccs2004p,2004,Access control,Comparing the expressive power of access control models.,Mahesh V. Tripunitara;Ninghui Li;,http://doi.acm.org/10.1145/1030083.1030093
+ccs/ccs2004p,2004,Applied cryptography,Attacking and repairing the winZip encryption scheme.,Tadayoshi Kohno;,http://doi.acm.org/10.1145/1030083.1030095
+ccs/ccs2004p,2004,Applied cryptography,Reusable cryptographic fuzzy extractors.,Xavier Boyen;,http://doi.acm.org/10.1145/1030083.1030096
+ccs/ccs2004p,2004,Applied cryptography,Cryptanalysis of a provably secure CRT-RSA algorithm.,David A. Wagner;,http://doi.acm.org/10.1145/1030083.1030097
+ccs/ccs2004p,2004,Network security,Pong-cache poisoning in GUESS.,Neil Daswani;Hector Garcia-Molina;,http://doi.acm.org/10.1145/1030083.1030099
+ccs/ccs2004p,2004,Network security,Web tap: detecting covert web traffic.,Kevin Borders;Atul Prakash;,http://doi.acm.org/10.1145/1030083.1030100
+ccs/ccs2004p,2004,Network security,On achieving software diversity for improved network security using distributed coloring algorithms.,Adam J. O'Donnell;Harish Sethu;,http://doi.acm.org/10.1145/1030083.1030101
+ccs/ccs2004p,2004,Credentials,Direct anonymous attestation.,Ernest F. Brickell;Jan Camenisch;Liqun Chen;,http://doi.acm.org/10.1145/1030083.1030103
+ccs/ccs2004p,2004,Credentials,Concealing complex policies with hidden credentials.,Robert W. Bradshaw;Jason E. Holt;Kent E. Seamons;,http://doi.acm.org/10.1145/1030083.1030104
+ccs/ccs2004p,2004,Credentials,k-anonymous secret handshakes with reusable credentials.,Shouhuai Xu;Moti Yung;,http://doi.acm.org/10.1145/1030083.1030105
+ccs/ccs2004p,2004,Credentials,Group signatures with verifier-local revocation.,Dan Boneh;Hovav Shacham;,http://doi.acm.org/10.1145/1030083.1030106
+ccs/ccs2004p,2004,Information flow,IP covert timing channels: design and detection.,Serdar Cabuk;Carla E. Brodley;Clay Shields;,http://doi.acm.org/10.1145/1030083.1030108
+ccs/ccs2004p,2004,Information flow,Private inference control.,David P. Woodruff;Jessica Staddon;,http://doi.acm.org/10.1145/1030083.1030109
+ccs/ccs2004p,2004,Information flow,Security policies for downgrading.,Stephen Chong;Andrew C. Myers;,http://doi.acm.org/10.1145/1030083.1030110
+ccs/ccs2004p,2004,Privacy,"Privacy and security in library RFID: issues, practices, and architectures.",David Molnar;David A. Wagner;,http://doi.acm.org/10.1145/1030083.1030112
+ccs/ccs2004p,2004,Privacy,Parallel mixing.,Philippe Golle;Ari Juels;,http://doi.acm.org/10.1145/1030083.1030113
+ccs/ccs2004p,2004,Privacy,Fragile mixing.,Michael K. Reiter;XiaoFeng Wang;,http://doi.acm.org/10.1145/1030083.1030114
+ccs/ccs2004p,2004,Puzzles and users,A PIN-entry method resilient against shoulder surfing.,Volker Roth;Kai Richter;Rene Freidinger;,http://doi.acm.org/10.1145/1030083.1030116
+ccs/ccs2004p,2004,Puzzles and users,New client puzzle outsourcing techniques for DoS resistance.,Brent Waters;Ari Juels;J. Alex Halderman;Edward W. Felten;,http://doi.acm.org/10.1145/1030083.1030117
+ccs/ccs2004p,2004,Puzzles and users,Mitigating bandwidth-exhaustion attacks using congestion puzzles.,XiaoFeng Wang;Michael K. Reiter;,http://doi.acm.org/10.1145/1030083.1030118
+ccs/ccs2004p,2004,Applications of formal methods,Verifying policy-based security for web services.,Karthikeyan Bhargavan;Cédric Fournet;Andrew D. Gordon;,http://doi.acm.org/10.1145/1030083.1030120
+ccs/ccs2004p,2004,Applications of formal methods,A decision procedure for the verification of security protocols with explicit destructors.,Stéphanie Delaune;Florent Jacquemard;,http://doi.acm.org/10.1145/1030083.1030121
+ccs/ccs2004p,2004,Applications of formal methods,Using build-integrated static checking to preserve correctness invariants.,Hao Chen;Jonathan S. Shapiro;,http://doi.acm.org/10.1145/1030083.1030122
+ccs/ccs2004p,2004,Operating systems security,On the effectiveness of address-space randomization.,Hovav Shacham;Matthew Page;Ben Pfaff;Eu-Jin Goh;Nagendra Modadugu;Dan Boneh;,http://doi.acm.org/10.1145/1030083.1030124
+ccs/ccs2004p,2004,Operating systems security,Attestation-based policy enforcement for remote access.,Reiner Sailer;Trent Jaeger;Xiaolan Zhang;Leendert van Doorn;,http://doi.acm.org/10.1145/1030083.1030125
+ccs/ccs2004p,2004,Operating systems security,Gray-box extraction of execution graphs for anomaly detection.,Debin Gao;Michael K. Reiter;Dawn Xiaodong Song;,http://doi.acm.org/10.1145/1030083.1030126
+ccs/ccs2004p,2004,Cryptographic tools,The dual receiver cryptosystem and its applications.,Theodore Diament;Homin K. Lee;Angelos D. Keromytis;Moti Yung;,http://doi.acm.org/10.1145/1030083.1030128
+ccs/ccs2004p,2004,Cryptographic tools,Versatile padding schemes for joint signature and encryption.,Yevgeniy Dodis;Michael J. Freedman;Stanislaw Jarecki;Shabsi Walfish;,http://doi.acm.org/10.1145/1030083.1030129
+ccs/ccs2004p,2004,Cryptographic tools,ID-based encryption for complex hierarchies with applications to forward security and broadcast encryption.,Danfeng Yao;Nelly Fazio;Yevgeniy Dodis;Anna Lysyanskaya;,http://doi.acm.org/10.1145/1030083.1030130

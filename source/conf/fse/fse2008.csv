@@ -1,0 +1,30 @@
+fse/fse2008,2008,SHA Collisions,Collisions for Step-Reduced SHA-256.,Ivica Nikolic;Alex Biryukov;,https://doi.org/10.1007/978-3-540-71039-4_1
+fse/fse2008,2008,SHA Collisions,Collisions on SHA-0 in One Hour.,Stéphane Manuel;Thomas Peyrin;,https://doi.org/10.1007/978-3-540-71039-4_2
+fse/fse2008,2008,New Hash Function Designs,The Hash Function Family LAKE.,Jean-Philippe Aumasson;Willi Meier;Raphael C.-W. Phan;,https://doi.org/10.1007/978-3-540-71039-4_3
+fse/fse2008,2008,New Hash Function Designs,SWIFFT: A Modest Proposal for FFT Hashing.,Vadim Lyubashevsky;Daniele Micciancio;Chris Peikert;Alon Rosen;,https://doi.org/10.1007/978-3-540-71039-4_4
+fse/fse2008,2008,Block Cipher Cryptanalysis (I),A Unified Approach to Related-Key Attacks.,Eli Biham;Orr Dunkelman;Nathan Keller;,https://doi.org/10.1007/978-3-540-71039-4_5
+fse/fse2008,2008,Block Cipher Cryptanalysis (I),Algebraic and Slide Attacks on KeeLoq.,Nicolas Courtois;Gregory V. Bard;David A. Wagner;,https://doi.org/10.1007/978-3-540-71039-4_6
+fse/fse2008,2008,Block Cipher Cryptanalysis (I),A Meet-in-the-Middle Attack on 8-Round AES.,Hüseyin Demirci;Ali Aydin Selçuk;,https://doi.org/10.1007/978-3-540-71039-4_7
+fse/fse2008,2008,Implementation Aspects,Block Ciphers Implementations Provably Secure Against Second Order Side Channel Analysis.,Matthieu Rivain;Emmanuelle Dottax;Emmanuel Prouff;,https://doi.org/10.1007/978-3-540-71039-4_8
+fse/fse2008,2008,Implementation Aspects,SQUASH - A New MAC with Provable Security Properties for Highly Constrained Devices Such as RFID Tags.,Adi Shamir;,https://doi.org/10.1007/978-3-540-71039-4_9
+fse/fse2008,2008,Implementation Aspects,Differential Fault Analysis of Trivium.,Michal Hojsík;Bohuslav Rudolf;,https://doi.org/10.1007/978-3-540-71039-4_10
+fse/fse2008,2008,Implementation Aspects,Accelerating the Whirlpool Hash Function Using Parallel Table Lookup and Fast Cyclical Permutation.,Yedidya Hilewitz;Yiqun Lisa Yin;Ruby B. Lee;,https://doi.org/10.1007/978-3-540-71039-4_11
+fse/fse2008,2008,Hash Function Cryptanalysis (I),Second Preimage Attack on 3-Pass HAVAL and Partial Key-Recovery Attacks on HMAC/NMAC-3-Pass HAVAL.,Eunjin Lee;Donghoon Chang;Jongsung Kim;Jaechul Sung;Seokhie Hong;,https://doi.org/10.1007/978-3-540-71039-4_12
+fse/fse2008,2008,Hash Function Cryptanalysis (I),Cryptanalysis of LASH.,Ron Steinfeld;Scott Contini;Krystian Matusiewicz;Josef Pieprzyk;Jian Guo;San Ling;Huaxiong Wang;,https://doi.org/10.1007/978-3-540-71039-4_13
+fse/fse2008,2008,Hash Function Cryptanalysis (I),A (Second) Preimage Attack on the GOST Hash Function.,Florian Mendel;Norbert Pramstaller;Christian Rechberger;,https://doi.org/10.1007/978-3-540-71039-4_14
+fse/fse2008,2008,Stream Cipher Cryptanalysis (I),Guess-and-Determine Algebraic Attack on the Self-Shrinking Generator.,Blandine Debraize;Louis Goubin;,https://doi.org/10.1007/978-3-540-71039-4_15
+fse/fse2008,2008,Stream Cipher Cryptanalysis (I),New Form of Permutation Bias and Secret Key Leakage in Keystream Bytes of RC4.,Subhamoy Maitra;Goutam Paul;,https://doi.org/10.1007/978-3-540-71039-4_16
+fse/fse2008,2008,Stream Cipher Cryptanalysis (I),Efficient Reconstruction of RC4 Keys from Internal States.,Eli Biham;Yaniv Carmeli;,https://doi.org/10.1007/978-3-540-71039-4_17
+fse/fse2008,2008,Security Bounds,An Improved Security Bound for HCTR.,Debrup Chakraborty;Mridul Nandi;,https://doi.org/10.1007/978-3-540-71039-4_18
+fse/fse2008,2008,Security Bounds,How to Encrypt with a Malicious Random Number Generator.,Seny Kamara;Jonathan Katz;,https://doi.org/10.1007/978-3-540-71039-4_19
+fse/fse2008,2008,Security Bounds,A One-Pass Mode of Operation for Deterministic Message Authentication- Security beyond the Birthday Barrier.,Kan Yasuda;,https://doi.org/10.1007/978-3-540-71039-4_20
+fse/fse2008,2008,Entropy,Post-Processing Functions for a Biased Physical Random Number Generator.,Patrick Lacharme;,https://doi.org/10.1007/978-3-540-71039-4_21
+fse/fse2008,2008,Entropy,Entropy of the Internal State of an FCSR in Galois Representation.,Andrea Röck;,https://doi.org/10.1007/978-3-540-71039-4_22
+fse/fse2008,2008,Block Cipher Cryptanalysis (II),Bit-Pattern Based Integral Attack.,Muhammad Reza Z'aba;Håvard Raddum;Matthew Henricksen;Ed Dawson;,https://doi.org/10.1007/978-3-540-71039-4_23
+fse/fse2008,2008,Block Cipher Cryptanalysis (II),Experiments on the Multiple Linear Cryptanalysis of Reduced Round Serpent.,Baudoin Collard;François-Xavier Standaert;Jean-Jacques Quisquater;,https://doi.org/10.1007/978-3-540-71039-4_24
+fse/fse2008,2008,Block Cipher Cryptanalysis (II),Impossible Differential Cryptanalysis of CLEFIA.,Yukiyasu Tsunoo;Etsuko Tsujihara;Maki Shigeri;Teruo Saito;Tomoyasu Suzaki;Hiroyasu Kubo;,https://doi.org/10.1007/978-3-540-71039-4_25
+fse/fse2008,2008,Hash Function Cryptanalysis (II),MD4 is Not One-Way.,Gaëtan Leurent;,https://doi.org/10.1007/978-3-540-71039-4_26
+fse/fse2008,2008,Hash Function Cryptanalysis (II),Improved Indifferentiability Security Analysis of chopMD Hash Function.,Donghoon Chang;Mridul Nandi;,https://doi.org/10.1007/978-3-540-71039-4_27
+fse/fse2008,2008,Hash Function Cryptanalysis (II),New Techniques for Cryptanalysis of Hash Functions and Improved Attacks on Snefru.,Eli Biham;,https://doi.org/10.1007/978-3-540-71039-4_28
+fse/fse2008,2008,Stream Cipher Cryptanalysis (II),On the Salsa20 Core Function.,Julio César Hernández Castro;Juan M. Estévez-Tapiador;Jean-Jacques Quisquater;,https://doi.org/10.1007/978-3-540-71039-4_29
+fse/fse2008,2008,Stream Cipher Cryptanalysis (II),"New Features of Latin Dances: Analysis of Salsa, ChaCha, and Rumba.",Jean-Philippe Aumasson;Simon Fischer;Shahram Khazaei;Willi Meier;Christian Rechberger;,https://doi.org/10.1007/978-3-540-71039-4_30

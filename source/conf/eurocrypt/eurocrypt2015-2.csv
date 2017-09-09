@@ -1,0 +1,27 @@
+eurocrypt/eurocrypt2015-2,2015,Signatures,Universal Signature Aggregators.,Susan Hohenberger;Venkata Koppula;Brent Waters;,https://doi.org/10.1007/978-3-662-46803-6_1
+eurocrypt/eurocrypt2015-2,2015,Signatures,Fully Structure-Preserving Signatures and Shrinking Commitments.,Masayuki Abe;Markulf Kohlweiss;Miyako Ohkubo;Mehdi Tibouchi;,https://doi.org/10.1007/978-3-662-46803-6_2
+eurocrypt/eurocrypt2015-2,2015,Zero-Knowledge Proofs,Disjunctions for Hash Proof Systems: New Constructions and Applications.,Michel Abdalla;Fabrice Benhamouda;David Pointcheval;,https://doi.org/10.1007/978-3-662-46803-6_3
+eurocrypt/eurocrypt2015-2,2015,Zero-Knowledge Proofs,Quasi-Adaptive NIZK for Linear Subspaces Revisited.,Eike Kiltz;Hoeteck Wee;,https://doi.org/10.1007/978-3-662-46803-6_4
+eurocrypt/eurocrypt2015-2,2015,Leakage-Resilient Cryptography,Leakage-Resilient Circuits Revisited - Optimal Number of Computing Components Without Leak-Free Hardware.,Dana Dachman-Soled;Feng-Hao Liu;Hong-Sheng Zhou;,https://doi.org/10.1007/978-3-662-46803-6_5
+eurocrypt/eurocrypt2015-2,2015,Leakage-Resilient Cryptography,Noisy Leakage Revisited.,Stefan Dziembowski;Sebastian Faust;Maciej Skorski;,https://doi.org/10.1007/978-3-662-46803-6_6
+eurocrypt/eurocrypt2015-2,2015,Garbled Circuits,Privacy-Free Garbled Circuits with Applications to Efficient Zero-Knowledge.,Tore Kasper Frederiksen;Jesper Buus Nielsen;Claudio Orlandi;,https://doi.org/10.1007/978-3-662-46803-6_7
+eurocrypt/eurocrypt2015-2,2015,Garbled Circuits,Two Halves Make a Whole - Reducing Data Transfer in Garbled Circuits Using Half Gates.,Samee Zahur;Mike Rosulek;David Evans;,https://doi.org/10.1007/978-3-662-46803-6_8
+eurocrypt/eurocrypt2015-2,2015,Crypto Currencies,One-Out-of-Many Proofs: Or How to Leak a Secret and Spend a Coin.,Jens Groth;Markulf Kohlweiss;,https://doi.org/10.1007/978-3-662-46803-6_9
+eurocrypt/eurocrypt2015-2,2015,Crypto Currencies,The Bitcoin Backbone Protocol: Analysis and Applications.,Juan A. Garay;Aggelos Kiayias;Nikos Leonardos;,https://doi.org/10.1007/978-3-662-46803-6_10
+eurocrypt/eurocrypt2015-2,2015,Secret Sharing,Linear Secret Sharing Schemes from Error Correcting Codes and Universal Hash Functions.,Ronald Cramer;Ivan Bjerre Damgård;Nico Döttling;Serge Fehr;Gabriele Spini;,https://doi.org/10.1007/978-3-662-46803-6_11
+eurocrypt/eurocrypt2015-2,2015,Secret Sharing,Function Secret Sharing.,Elette Boyle;Niv Gilboa;Yuval Ishai;,https://doi.org/10.1007/978-3-662-46803-6_12
+eurocrypt/eurocrypt2015-2,2015,Outsourcing Computations,Cluster Computing in Zero Knowledge.,Alessandro Chiesa;Eran Tromer;Madars Virza;,https://doi.org/10.1007/978-3-662-46803-6_13
+eurocrypt/eurocrypt2015-2,2015,Outsourcing Computations,Hosting Services on an Untrusted Cloud.,Dan Boneh;Divya Gupta;Ilya Mironov;Amit Sahai;,https://doi.org/10.1007/978-3-662-46803-6_14
+eurocrypt/eurocrypt2015-2,2015,Obfuscation and E-Voting,How to Obfuscate Programs Directly.,Joe Zimmerman;,https://doi.org/10.1007/978-3-662-46803-6_15
+eurocrypt/eurocrypt2015-2,2015,Obfuscation and E-Voting,End-to-End Verifiable Elections in the Standard Model.,Aggelos Kiayias;Thomas Zacharias;Bingsheng Zhang;,https://doi.org/10.1007/978-3-662-46803-6_16
+eurocrypt/eurocrypt2015-2,2015,Multi-party Computations,Cryptographic Agents: Towards a Unified Theory of Computing on Encrypted Data.,Shashank Agrawal;Shweta Agrawal;Manoj Prabhakaran;,https://doi.org/10.1007/978-3-662-46803-6_17
+eurocrypt/eurocrypt2015-2,2015,Multi-party Computations,"Executable Proofs, Input-Size Hiding Secure Computation and a New Ideal World.",Melissa Chase;Rafail Ostrovsky;Ivan Visconti;,https://doi.org/10.1007/978-3-662-46803-6_18
+eurocrypt/eurocrypt2015-2,2015,Encryption,Semantically Secure Order-Revealing Encryption: Multi-input Functional Encryption Without Obfuscation.,Dan Boneh;Kevin Lewi;Mariana Raykova;Amit Sahai;Mark Zhandry;Joe Zimmerman;,https://doi.org/10.1007/978-3-662-46803-6_19
+eurocrypt/eurocrypt2015-2,2015,Encryption,Improved Dual System ABE in Prime-Order Groups via Predicate Encodings.,Jie Chen;Romain Gay;Hoeteck Wee;,https://doi.org/10.1007/978-3-662-46803-6_20
+eurocrypt/eurocrypt2015-2,2015,Resistant Protocols,Resisting Randomness Subversion: Fast Deterministic and Hedged Public-Key Encryption in the Standard Model.,Mihir Bellare;Viet Tung Hoang;,https://doi.org/10.1007/978-3-662-46803-6_21
+eurocrypt/eurocrypt2015-2,2015,Resistant Protocols,Cryptographic Reverse Firewalls.,Ilya Mironov;Noah Stephens-Davidowitz;,https://doi.org/10.1007/978-3-662-46803-6_22
+eurocrypt/eurocrypt2015-2,2015,Key Exchange,Mind the Gap: Modular Machine-Checked Proofs of One-Round Key Exchange Protocols.,Gilles Barthe;Juan Manuel Crespo;Yassine Lakhnech;Benedikt Schmidt;,https://doi.org/10.1007/978-3-662-46803-6_23
+eurocrypt/eurocrypt2015-2,2015,Key Exchange,Authenticated Key Exchange from Ideal Lattices.,Jiang Zhang;Zhenfeng Zhang;Jintai Ding;Michael Snook;Özgür Dagdelen;,https://doi.org/10.1007/978-3-662-46803-6_24
+eurocrypt/eurocrypt2015-2,2015,Quantum Cryptography,Non-Interactive Zero-Knowledge Proofs in the Quantum Random Oracle Model.,Dominique Unruh;,https://doi.org/10.1007/978-3-662-46803-6_25
+eurocrypt/eurocrypt2015-2,2015,Quantum Cryptography,Privacy Amplification in the Isolated Qubits Model.,Yi-Kai Liu;,https://doi.org/10.1007/978-3-662-46803-6_26
+eurocrypt/eurocrypt2015-2,2015,Discrete Logarithms,Generic Hardness of the Multiple Discrete Logarithm Problem.,Aaram Yun;,https://doi.org/10.1007/978-3-662-46803-6_27

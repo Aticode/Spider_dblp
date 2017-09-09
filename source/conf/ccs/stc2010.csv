@@ -1,0 +1,12 @@
+ccs/stc2010,2010,None,"System security, platform security and usability.",Paul C. van Oorschot;,http://dl.acm.org/citation.cfm?id=1867636
+ccs/stc2010,2010,Invited papers,The road to trustworthy systems.,Gernot Heiser;June Andronick;Kevin Elphinstone;Gerwin Klein;Ihor Kuz;Leonid Ryzhyk;,http://dl.acm.org/citation.cfm?id=1867638
+ccs/stc2010,2010,Invited papers,Using hypervisors to secure commodity operating systems.,David Lie;Lionel Litty;,http://dl.acm.org/citation.cfm?id=1867639
+ccs/stc2010,2010,Full papers,Implementing an application-specific credential platform using late-launched mobile trusted module.,Sven Bugiel;Jan-Erik Ekberg;,http://dl.acm.org/citation.cfm?id=1867641
+ccs/stc2010,2010,Full papers,"Towards customizable, application specific mobile trusted modules.",Kurt Dietrich;Johannes Winter;,http://dl.acm.org/citation.cfm?id=1867642
+ccs/stc2010,2010,Full papers,"Small, stupid, and scalable: secure computing with faerieplay.",Alexander Iliev;Sean W. Smith;,http://dl.acm.org/citation.cfm?id=1867643
+ccs/stc2010,2010,Full papers,Hardware intrinsic security from D flip-flops.,Vincent van der Leest;Geert Jan Schrijen;Helena Handschuh;Pim Tuyls;,http://dl.acm.org/citation.cfm?id=1867644
+ccs/stc2010,2010,Full papers,Trusted virtual containers on demand.,Katelin A. Bailey;Sean W. Smith;,http://dl.acm.org/citation.cfm?id=1867645
+ccs/stc2010,2010,Short papers,Scalable integrity monitoring in virtualized environments.,Kenneth A. Goldman;Reiner Sailer;Dimitrios E. Pendarakis;Deepa Srinivasan;,http://dl.acm.org/citation.cfm?id=1867647
+ccs/stc2010,2010,Short papers,Separating hypervisor trusted computing base supported by hardware.,Carl Gebhardt;Chris I. Dalton;Allan Tomlinson;,http://dl.acm.org/citation.cfm?id=1867648
+ccs/stc2010,2010,Short papers,The diversity of TPMs and its effects on development: a case study of integrating the TPM into OpenSolaris.,Anna Shubina;Sergey Bratus;Wyllys Ingersol;Sean W. Smith;,http://dl.acm.org/citation.cfm?id=1867649
+ccs/stc2010,2010,Short papers,Trusted virtual domains on OpenSolaris: usable secure desktop environments.,Hans Löhr;Thomas Pöppelmann;Johannes Rave;Martin Steegmanns;Marcel Winandy;,http://dl.acm.org/citation.cfm?id=1867650

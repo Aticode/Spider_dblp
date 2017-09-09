@@ -1,0 +1,16 @@
+ccs/ccsw2014,2014,Invited Talks,Securing Cloud Environments for Enterprise Computing.,Joanne Martin;Koos Lodewijkx;,http://doi.acm.org/10.1145/2664168.2664185
+ccs/ccsw2014,2014,Invited Talks,Privacy vs. Efficacy in Cloud-based Threat Detection.,David A. McGrew;,http://doi.acm.org/10.1145/2664168.2664183
+ccs/ccsw2014,2014,Invited Talks,Reducing the Cost of Security in the Cloud.,Bryan D. Payne;,http://doi.acm.org/10.1145/2664168.2664184
+ccs/ccsw2014,2014,Memorial,Emil Stefanov: Bridging the Theory and Practice of Cloud Computing Security.,Elaine Shi;,http://doi.acm.org/10.1145/2664168.2673751
+ccs/ccsw2014,2014,Technical Presentations,Co-Location-Resistant Clouds.,Yossi Azar;Seny Kamara;Ishai Menache;Mariana Raykova;Bruce Shepard;,http://doi.acm.org/10.1145/2664168.2664179
+ccs/ccsw2014,2014,Technical Presentations,Reconciling End-to-End Confidentiality and Data Reduction In Cloud Storage.,Nathalie Baracaldo;Elli Androulaki;Joseph S. Glider;Alessandro Sorniotti;,http://doi.acm.org/10.1145/2664168.2664176
+ccs/ccsw2014,2014,Technical Presentations,Swap and Play: Live Updating Hypervisors and Its Application to Xen.,Franz Ferdinand Brasser;Mihai Bucicoiu;Ahmad-Reza Sadeghi;,http://doi.acm.org/10.1145/2664168.2664173
+ccs/ccsw2014,2014,Technical Presentations,RAID-PIR: Practical Multi-Server PIR.,Daniel Demmler;Amir Herzberg;Thomas Schneider;,http://doi.acm.org/10.1145/2664168.2664181
+ccs/ccsw2014,2014,Technical Presentations,Distributed Key Generation for Encrypted Deduplication: Achieving the Strongest Privacy.,Yitao Duan;,http://doi.acm.org/10.1145/2664168.2664169
+ccs/ccsw2014,2014,Technical Presentations,Efficient Certification and Zero-Knowledge Proofs of Knowledge on Infrastructure Topology Graphs.,Thomas R. Groß;,http://doi.acm.org/10.1145/2664168.2664175
+ccs/ccsw2014,2014,Technical Presentations,A Framework for Outsourcing of Secure Computation.,Thomas P. Jakobsen;Jesper Buus Nielsen;Claudio Orlandi;,http://doi.acm.org/10.1145/2664168.2664170
+ccs/ccsw2014,2014,Technical Presentations,Your Software at my Service: Security Analysis of SaaS Single Sign-On Solutions in the Cloud.,Christian Mainka;Vladislav Mladenov;Florian Feldmann;Julian Krautwald;Jörg Schwenk;,http://doi.acm.org/10.1145/2664168.2664172
+ccs/ccsw2014,2014,Technical Presentations,Guardians of the Clouds: When Identity Providers Fail.,Andreas Mayer;Marcus Niemietz;Vladislav Mladenov;Jörg Schwenk;,http://doi.acm.org/10.1145/2664168.2664171
+ccs/ccsw2014,2014,Technical Presentations,CloudSafetyNet: Detecting Data Leakage between Cloud Tenants.,Christian Priebe;Divya Muthukumaran;Dan O'Keeffe;David M. Eyers;Brian Shand;Rüdiger Kapitza;Peter R. Pietzuch;,http://doi.acm.org/10.1145/2664168.2664174
+ccs/ccsw2014,2014,Technical Presentations,Streaming Authenticated Data Structures: Abstraction and Implementation.,Yi Qian;Yupeng Zhang;Xi Chen;Charalampos Papamanthou;,http://doi.acm.org/10.1145/2664168.2664177
+ccs/ccsw2014,2014,Technical Presentations,Inevitable Failure: The Flawed Trust Assumption in the Cloud.,Yuqiong Sun;Giuseppe Petracca;Trent Jaeger;,http://doi.acm.org/10.1145/2664168.2664180

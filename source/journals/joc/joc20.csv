@@ -1,0 +1,20 @@
+joc/joc20,January 2007,Number 1,"Another Look at ""Provable Security"".",Neal Koblitz;Alfred Menezes;,https://doi.org/10.1007/s00145-005-0432-z
+joc/joc20,January 2007,Number 1,Deterministic Polynomial-Time Equivalence of Computing the RSA Secret Key and Factoring.,Jean-Sébastien Coron;Alexander May;,https://doi.org/10.1007/s00145-006-0433-6
+joc/joc20,January 2007,Number 1,Secure Distributed Key Generation for Discrete-Log Based Cryptosystems.,Rosario Gennaro;Stanislaw Jarecki;Hugo Krawczyk;Tal Rabin;,https://doi.org/10.1007/s00145-006-0347-3
+joc/joc20,January 2007,Number 1,Scalable Protocols for Authenticated Group Key Exchange.,Jonathan Katz;Moti Yung;,https://doi.org/10.1007/s00145-006-0361-5
+joc/joc20,January 2007,Number 1,Trapdoor Hard-to-Invert Group Isomorphisms and Their Application to Password-Based Authentication.,Dario Catalano;David Pointcheval;Thomas Pornin;,https://doi.org/10.1007/s00145-006-0431-8
+joc/joc20,April 2007,Number 2,The Security of the IAPM and IACBC Modes.,Johan Håstad;,https://doi.org/10.1007/s00145-006-0225-z
+joc/joc20,April 2007,Number 2,Constant-Round Oblivious Transfer in the Bounded Storage Model.,Yan Zong Ding;Danny Harnik;Alon Rosen;Ronen Shaltiel;,https://doi.org/10.1007/s00145-006-0438-1
+joc/joc20,April 2007,Number 2,Formal Proofs for the Security of Signcryption.,Joonsang Baek;Ron Steinfeld;Yuliang Zheng;,https://doi.org/10.1007/s00145-007-0211-0
+joc/joc20,April 2007,Number 2,Hierarchical Threshold Secret Sharing.,Tamir Tassa;,https://doi.org/10.1007/s00145-006-0334-8
+joc/joc20,July 2007,Number 3,A Forward-Secure Public-Key Encryption Scheme.,Ran Canetti;Shai Halevi;Jonathan Katz;,https://doi.org/10.1007/s00145-006-0442-5
+joc/joc20,July 2007,Number 3,Robust Information-Theoretic Private Information Retrieval.,Amos Beimel;Yoav Stahl;,https://doi.org/10.1007/s00145-007-0424-2
+joc/joc20,July 2007,Number 3,On Unconditionally Secure Distributed Oblivious Transfer.,Carlo Blundo;Paolo D'Arco;Alfredo De Santis;Douglas R. Stinson;,https://doi.org/10.1007/s00145-007-0327-2
+joc/joc20,July 2007,Number 3,Primality Proving via One Round in ECPP and One Iteration in AKS.,Qi Cheng;,https://doi.org/10.1007/s00145-006-0406-9
+joc/joc20,July 2007,Number 3,Theoretical Cryptanalysis of the Klimov-Shamir Number Generator TF-1.,Boaz Tsaban;,https://doi.org/10.1007/s00145-007-0564-4
+joc/joc20,July 2007,Number 3,Robust and Efficient Sharing of RSA Functions.,Rosario Gennaro;Tal Rabin;Stanislaw Jarecki;Hugo Krawczyk;,https://doi.org/10.1007/s00145-007-0201-2
+joc/joc20,July 2007,Number 3,RSA-Based Undeniable Signatures.,Rosario Gennaro;Tal Rabin;Hugo Krawczyk;,https://doi.org/10.1007/s00145-007-0202-1
+joc/joc20,July 2007,Number 3,Reconciling Two Views of Cryptography (The Computational Soundness of Formal Encryption).,Martín Abadi;Phillip Rogaway;,https://doi.org/10.1007/s00145-007-0203-0
+joc/joc20,October 2007,Number 4,Private Searching on Streaming Data.,Rafail Ostrovsky;William E. Skeith III;,https://doi.org/10.1007/s00145-007-0565-3
+joc/joc20,October 2007,Number 4,Concurrent Composition of Secure Protocols in the Timing Model.,Yael Tauman Kalai;Yehuda Lindell;Manoj Prabhakaran;,https://doi.org/10.1007/s00145-007-0567-1
+joc/joc20,October 2007,Number 4,Efficient Signature Schemes with Tight Reductions to the Diffie-Hellman Problems.,Eu-Jin Goh;Stanislaw Jarecki;Jonathan Katz;Nan Wang;,https://doi.org/10.1007/s00145-007-0549-3

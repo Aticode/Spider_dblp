@@ -1,0 +1,14 @@
+ccs/spsm2013,2013,Keynote address,Security composition in the real world: squaring the circle of mobile security with contemporary device economics.,Jon A. Geater;,http://doi.acm.org/10.1145/2516760.2516761
+ccs/spsm2013,2013,Platform hardening,Deadbolt: locking down android disk encryption.,Adam Skillen;David Barrera;Paul C. van Oorschot;,http://doi.acm.org/10.1145/2516760.2516771
+ccs/spsm2013,2013,Platform hardening,Native code execution control for attack mitigation on android.,Rafael Fedler;Marcel Kulicke;Julian Schütte;,http://doi.acm.org/10.1145/2516760.2516765
+ccs/spsm2013,2013,Malware detection,Sound and precise malware analysis for android via pushdown reachability and entry-point saturation.,Shuying Liang;Andrew W. Keep;Matthew Might;Steven Lyde;Thomas Gilray;Petey Aldous;David Van Horn;,http://doi.acm.org/10.1145/2516760.2516769
+ccs/spsm2013,2013,Malware detection,The curse of 140 characters: evaluating the efficacy of SMS spam detection on android.,Akshay Narayan;Prateek Saxena;,http://doi.acm.org/10.1145/2516760.2516772
+ccs/spsm2013,2013,Malware detection,This network is infected: HosTaGe - a low-interaction honeypot for mobile devices.,Emmanouil Vasilomanolakis;Shankar Karuppayah;Mathias Fischer;Max Mühlhäuser;Mihai Plasoianu;Lars Pandikow;Wulf Pfeiffer;,http://doi.acm.org/10.1145/2516760.2516763
+ccs/spsm2013,2013,Malware detection,"AndroTotal: a flexible, scalable toolbox and service for testing mobile malware detectors.",Federico Maggi;Andrea Valdi;Stefano Zanero;,http://doi.acm.org/10.1145/2516760.2516768
+ccs/spsm2013,2013,Attacks,Sleeping android: the danger of dormant permissions.,James Sellwood;Jason Crampton;,http://doi.acm.org/10.1145/2516760.2516774
+ccs/spsm2013,2013,Attacks,PIN skimmer: inferring PINs through the camera and microphone.,Laurent Simon;Ross J. Anderson;,http://doi.acm.org/10.1145/2516760.2516770
+ccs/spsm2013,2013,Privacy,A case of collusion: a study of the interface between ad libraries and their apps.,Theodore Book;Dan S. Wallach;,http://doi.acm.org/10.1145/2516760.2516762
+ccs/spsm2013,2013,Privacy,Please slow down!: the impact on tor performance from mobility.,Stephen Doswell;Nauman Aslam;David Kendall;Graham Sexton;,http://doi.acm.org/10.1145/2516760.2516773
+ccs/spsm2013,2013,Authentication,Secure enrollment and practical migration for mobile trusted execution environments.,Claudio Marforio;Nikolaos Karapanos;Claudio Soriente;Kari Kostiainen;Srdjan Capkun;,http://doi.acm.org/10.1145/2516760.2516764
+ccs/spsm2013,2013,Authentication,Securitas: user identification through RGB-NIR camera pair on mobile devices.,Shijia Pan;An Chen;Pei Zhang;,http://doi.acm.org/10.1145/2516760.2516766
+ccs/spsm2013,2013,Authentication,Passwords and interfaces: towards creating stronger passwords by using mobile phone handsets.,S. M. Taiabul Haque;Matthew K. Wright;Shannon Scielzo;,http://doi.acm.org/10.1145/2516760.2516767

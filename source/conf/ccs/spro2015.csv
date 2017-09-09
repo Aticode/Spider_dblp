@@ -1,0 +1,11 @@
+ccs/spro2015,2015,Keynotes,Software Security: Squaring the Circle?,Bart Preneel;,https://doi.org/10.1109/SPRO.2015.8
+ccs/spro2015,2015,Keynotes,Making Advanced Software Protection Tools Usable for Non-experts.,Bjorn De Sutter;,https://doi.org/10.1109/SPRO.2015.9
+ccs/spro2015,2015,Software Protection Techniques,Obfuscator-LLVM - Software Protection for the Masses.,Pascal Junod;Julien Rinaldini;Johan Wehrli;Julie Michielin;,https://doi.org/10.1109/SPRO.2015.10
+ccs/spro2015,2015,Software Protection Techniques,Matryoshka: Strengthening Software Protection via Nested Virtual Machines.,Sudeep Ghosh;Jason D. Hiser;Jack W. Davidson;,https://doi.org/10.1109/SPRO.2015.11
+ccs/spro2015,2015,Software Protection Techniques,Using Virtual Machine Protections to Enhance Whitebox Cryptography.,Joseph Gan;Roddy Kok;Pankaj Kohli;Yun Ding;Benjamin Mah;,https://doi.org/10.1109/SPRO.2015.12
+ccs/spro2015,2015,Software Protection Techniques,Obfuscating Windows DLLs.,Bert Abrath;Bart Coppens;Stijn Volckaert;Bjorn De Sutter;,https://doi.org/10.1109/SPRO.2015.13
+ccs/spro2015,2015,Software Protection Evaluation,Code Artificiality: A Metric for the Code Stealth Based on an N-Gram Model.,Yuichiro Kanzaki;Akito Monden;Christian S. Collberg;,https://doi.org/10.1109/SPRO.2015.14
+ccs/spro2015,2015,Software Protection Evaluation,Assessment of Data Obfuscation with Residue Number Coding.,Biniam Fisseha Demissie;Mariano Ceccato;Roberto Tiella;,https://doi.org/10.1109/SPRO.2015.15
+ccs/spro2015,2015,Formal Methods for Software Protection,A Framework for Measuring Software Obfuscation Resilience against Automated Attacks.,Sebastian Banescu;Martín Ochoa;Alexander Pretschner;,https://doi.org/10.1109/SPRO.2015.16
+ccs/spro2015,2015,Formal Methods for Software Protection,Automatic Discovery of Software Attacks via Backward Reasoning.,Cataldo Basile;Daniele Canavese;Jerome D'Annoville;Bjorn De Sutter;Fulvio Valenza;,https://doi.org/10.1109/SPRO.2015.17
+ccs/spro2015,2015,Formal Methods for Software Protection,Infections as Abstract Symbolic Finite Automata: Formal Model and Applications.,Mila Dalla Preda;Isabella Mastroeni;,https://doi.org/10.1109/SPRO.2015.18

@@ -1,0 +1,33 @@
+ches/ches2003,2003,Invited Talk,The Security Challenges of Ubiquitous Computing.,Frank Stajano;,https://doi.org/10.1007/978-3-540-45238-6_1
+ches/ches2003,2003,Side Channel Attack Methodology,Multi-channel Attacks.,Dakshi Agrawal;Josyula R. Rao;Pankaj Rohatgi;,https://doi.org/10.1007/978-3-540-45238-6_2
+ches/ches2003,2003,Side Channel Attack Methodology,Hidden Markov Model Cryptanalysis.,Chris Karlof;David A. Wagner;,https://doi.org/10.1007/978-3-540-45238-6_3
+ches/ches2003,2003,Side Channel Attack Methodology,Power-Analysis Attacks on an FPGA - First Experimental Results.,Siddika Berna Örs;Elisabeth Oswald;Bart Preneel;,https://doi.org/10.1007/978-3-540-45238-6_4
+ches/ches2003,2003,Hardware Factorization,Hardware to Solve Sparse Systems of Linear Equations over GF(2).,Willi Geiselmann;Rainer Steinwandt;,https://doi.org/10.1007/978-3-540-45238-6_5
+ches/ches2003,2003,Symmetric Ciphers:Side Channel Attacks and Countermeasures,Cryptanalysis of DES Implemented on Computers with Cache.,Yukiyasu Tsunoo;Teruo Saito;Tomoyasu Suzaki;Maki Shigeri;Hiroshi Miyauchi;,https://doi.org/10.1007/978-3-540-45238-6_6
+ches/ches2003,2003,Symmetric Ciphers:Side Channel Attacks and Countermeasures,"A Differential Fault Attack Technique against SPN Structures, with Application to the AES and KHAZAD.",Gilles Piret;Jean-Jacques Quisquater;,https://doi.org/10.1007/978-3-540-45238-6_7
+ches/ches2003,2003,Symmetric Ciphers:Side Channel Attacks and Countermeasures,A New Algorithm for Switching from Arithmetic to Boolean Masking.,Jean-Sébastien Coron;Alexei Tchulkine;,https://doi.org/10.1007/978-3-540-45238-6_8
+ches/ches2003,2003,Symmetric Ciphers:Side Channel Attacks and Countermeasures,DeKaRT: A New Paradigm for Key-Dependent Reversible Circuits.,Jovan Dj. Golic;,https://doi.org/10.1007/978-3-540-45238-6_9
+ches/ches2003,2003,Secure Hardware Logic,Parity-Based Concurrent Error Detection of Substitution-Permutation Network Block Ciphers.,Ramesh Karri;Grigori Kuznetsov;Michael Gössel;,https://doi.org/10.1007/978-3-540-45238-6_10
+ches/ches2003,2003,Secure Hardware Logic,Securing Encryption Algorithms against DPA at the Logic Level: Next Generation Smart Card Technology.,Kris Tiri;Ingrid Verbauwhede;,https://doi.org/10.1007/978-3-540-45238-6_11
+ches/ches2003,2003,Secure Hardware Logic,Security Evaluation of Asynchronous Circuits.,Jacques J. A. Fournier;Simon W. Moore;Huiyun Li;Robert D. Mullins;George S. Taylor;,https://doi.org/10.1007/978-3-540-45238-6_12
+ches/ches2003,2003,Random Number Generators,Design and Implementation of a True Random Number Generator Based on Digital Circuit Artifacts.,Michael Epstein;Laszlo Hars;Raymond Krasinski;Martin Rosner;Hao Zheng;,https://doi.org/10.1007/978-3-540-45238-6_13
+ches/ches2003,2003,Random Number Generators,True Random Number Generators Secure in a Changing Environment.,Boaz Barak;Ronen Shaltiel;Eran Tromer;,https://doi.org/10.1007/978-3-540-45238-6_14
+ches/ches2003,2003,Random Number Generators,How to Predict the Output of a Hardware Random Number Generator.,Markus Dichtl;,https://doi.org/10.1007/978-3-540-45238-6_15
+ches/ches2003,2003,Efficient Multiplication,On Low Complexity Bit Parallel Polynomial Basis Multipliers.,Arash Reyhani-Masoleh;M. Anwarul Hasan;,https://doi.org/10.1007/978-3-540-45238-6_16
+ches/ches2003,2003,Efficient Multiplication,"Efficient Modular Reduction Algorithm in IFq[x] and Its Application to ""Left to Right"" Modular Multiplication in IF2[x].",Jean-François Dhem;,https://doi.org/10.1007/978-3-540-45238-6_17
+ches/ches2003,2003,Efficient Multiplication,Faster Double-Size Modular Multiplication from Euclidean Multipliers.,Benoît Chevallier-Mames;Marc Joye;Pascal Paillier;,https://doi.org/10.1007/10931455_18
+ches/ches2003,2003,More on Efficient Artihmetic,Efficient Exponentiation for a Class of Finite Fields GF(2 n) Determined by Gauss Periods.,Soonhak Kwon;Chang Hoon Kim;Chun Pyo Hong;,https://doi.org/10.1007/978-3-540-45238-6_19
+ches/ches2003,2003,More on Efficient Artihmetic,GCD-Free Algorithms for Computing Modular Inverses.,Marc Joye;Pascal Paillier;,https://doi.org/10.1007/978-3-540-45238-6_20
+ches/ches2003,2003,Attacks on Asymmetric Cryptosystems,Attacking Unbalanced RSA-CRT Using SPA.,Pierre-Alain Fouque;Gwenaëlle Martinet;Guillaume Poupard;,https://doi.org/10.1007/978-3-540-45238-6_21
+ches/ches2003,2003,Attacks on Asymmetric Cryptosystems,The Doubling Attack - Why Upwards Is Better than Downwards.,Pierre-Alain Fouque;Frédéric Valette;,https://doi.org/10.1007/978-3-540-45238-6_22
+ches/ches2003,2003,Attacks on Asymmetric Cryptosystems,An Analysis of Goubin's Refined Power Analysis Attack.,Nigel P. Smart;,https://doi.org/10.1007/978-3-540-45238-6_23
+ches/ches2003,2003,Attacks on Asymmetric Cryptosystems,A New Type of Timing Attack: Application to GPS.,Julien Cathalo;François Koeune;Jean-Jacques Quisquater;,https://doi.org/10.1007/978-3-540-45238-6_24
+ches/ches2003,2003,Implementation of Symmetric Ciphers,Unified Hardware Architecture for 128-Bit Block Ciphers AES and Camellia.,Akashi Satoh;Sumio Morioka;,https://doi.org/10.1007/978-3-540-45238-6_25
+ches/ches2003,2003,Implementation of Symmetric Ciphers,Very Compact FPGA Implementation of the AES Algorithm.,Pawel Chodowiec;Kris Gaj;,https://doi.org/10.1007/978-3-540-45238-6_26
+ches/ches2003,2003,Implementation of Symmetric Ciphers,Efficient Implementation of Rijndael Encryption in Reconfigurable Hardware: Improvements and Design Tradeoffs.,François-Xavier Standaert;Gaël Rouvroy;Jean-Jacques Quisquater;Jean-Didier Legat;,https://doi.org/10.1007/978-3-540-45238-6_27
+ches/ches2003,2003,Hyperelliptic Curve Cryptography,Hyperelliptic Curve Cryptosystems: Closing the Performance Gap to Elliptic Curves.,Jan Pelzl;Thomas J. Wollinger;Jorge Guajardo;Christof Paar;,https://doi.org/10.1007/978-3-540-45238-6_28
+ches/ches2003,2003,Hyperelliptic Curve Cryptography,Countermeasures against Differential Power Analysis for Hyperelliptic Curve Cryptosystems.,Roberto Maria Avanzi;,https://doi.org/10.1007/978-3-540-45238-6_29
+ches/ches2003,2003,Countermeasures to Side Channel Leakage,A Practical Countermeasure against Address-Bit Differential Power Analysis.,Kouichi Itoh;Tetsuya Izu;Masahiko Takenaka;,https://doi.org/10.1007/978-3-540-45238-6_30
+ches/ches2003,2003,Countermeasures to Side Channel Leakage,A More Flexible Countermeasure against Side Channel Attacks Using Window Method.,Katsuyuki Okeya;Tsuyoshi Takagi;,https://doi.org/10.1007/978-3-540-45238-6_31
+ches/ches2003,2003,Security of Standards,On the Security of PKCS#11.,Jolyon Clulow;,https://doi.org/10.1007/978-3-540-45238-6_32
+ches/ches2003,2003,Security of Standards,Attacking RSA-Based Sessions in SSL/TLS.,Vlastimil Klíma;Ondrej Pokorný;Tomás Rosa;,https://doi.org/10.1007/978-3-540-45238-6_33

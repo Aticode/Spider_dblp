@@ -1,0 +1,54 @@
+ccs/ccs2006,2006,Invited Talks,Emergent properties in ad-hoc networks: a security perspective.,Virgil D. Gligor;,http://doi.acm.org/10.1145/1128817.1128819
+ccs/ccs2006,2006,Invited Talks,Secure information sharing enabled by Trusted Computing and PEI models.,Ravi S. Sandhu;Kumar Ranganathan;Xinwen Zhang;,http://doi.acm.org/10.1145/1128817.1128820
+ccs/ccs2006,2006,Invited Talks,TRUST: in cyberspace and beyond.,Shankar Sastry;,http://doi.acm.org/10.1145/1128817.1128821
+ccs/ccs2006,2006,Invited Talks,Attack graph generation and analysis.,Jeannette M. Wing;,http://doi.acm.org/10.1145/1128817.1128822
+ccs/ccs2006,2006,Invited Talks,Security vulnerabilities: from measurements to design.,Ravishankar K. Iyer;,http://doi.acm.org/10.1145/1128817.1128823
+ccs/ccs2006,2006,Invited Talks,Can machine learning be secure?,Marco Barreno;Blaine Nelson;Russell Sears;Anthony D. Joseph;J. D. Tygar;,http://doi.acm.org/10.1145/1128817.1128824
+ccs/ccs2006,2006,Security protocols,Improving secure server performance by re-balancing SSL/TLS handshakes.,Claude Castelluccia;Einar Mykletun;Gene Tsudik;,http://doi.acm.org/10.1145/1128817.1128826
+ccs/ccs2006,2006,Security protocols,Provably secure password-based authentication in TLS.,Michel Abdalla;Emmanuel Bresson;Olivier Chevassut;Bodo Möller;David Pointcheval;,http://doi.acm.org/10.1145/1128817.1128827
+ccs/ccs2006,2006,Security protocols,Certified mailing lists.,Himanshu Khurana;Hyung-Seok Hahm;,http://doi.acm.org/10.1145/1128817.1128828
+ccs/ccs2006,2006,Security protocols,Designated group credentials.,Ching Yu Ng;Willy Susilo;Yi Mu;,http://doi.acm.org/10.1145/1128817.1128829
+ccs/ccs2006,2006,Database security,Privacy-preserving semantic interoperation and access control of heterogeneous databases.,Prasenjit Mitra;Chi-Chun Pan;Peng Liu;Vijayalakshmi Atluri;,http://doi.acm.org/10.1145/1128817.1128831
+ccs/ccs2006,2006,Database security,Publicly verifiable ownership protection for relational databases.,Yingjiu Li;Robert Huijie Deng;,http://doi.acm.org/10.1145/1128817.1128832
+ccs/ccs2006,2006,Intrusion detection and modeling,Measuring intrusion detection capability: an information-theoretic approach.,Guofei Gu;Prahlad Fogla;David Dagon;Wenke Lee;Boris Skoric;,http://doi.acm.org/10.1145/1128817.1128834
+ccs/ccs2006,2006,Intrusion detection and modeling,Time series modeling for IDS alert management.,Jouni Viinikka;Hervé Debar;Ludovic Mé;Renaud Séguier;,http://doi.acm.org/10.1145/1128817.1128835
+ccs/ccs2006,2006,Intrusion detection and modeling,Augmenting storage with an intrusion response primitive to ensure the security of critical data.,Ashish Gehani;Surendar Chandra;Gershon Kedem;,http://doi.acm.org/10.1145/1128817.1128836
+ccs/ccs2006,2006,Intrusion detection and modeling,Design space and analysis of worm defense strategies.,David Brumley;Li-Hao Liu;Pongsin Poosankam;Dawn Xiaodong Song;,http://doi.acm.org/10.1145/1128817.1128837
+ccs/ccs2006,2006,P2P & ad hoc networks,Self-organised group key management for ad hoc networks.,Ling Luo;Reihaneh Safavi-Naini;Joonsang Baek;Willy Susilo;,http://doi.acm.org/10.1145/1128817.1128839
+ccs/ccs2006,2006,P2P & ad hoc networks,"Lightweight, pollution-attack resistant multicast authentication scheme.",Ya-Jeng Lin;Shiuhpyng Shieh;Warren W. Lin;,http://doi.acm.org/10.1145/1128817.1128840
+ccs/ccs2006,2006,Digital rights management and watermarking,An attack-localizing watermarking scheme for natural language documents.,Gaurav Gupta;Josef Pieprzyk;Huaxiong Wang;,http://doi.acm.org/10.1145/1128817.1128842
+ccs/ccs2006,2006,Digital rights management and watermarking,Tamper proofing and attack identification of corrupted image by using semi-fragile multiple-watermarking algorithm.,Soo-Chang Pei;Yi-Chong Zeng;,http://doi.acm.org/10.1145/1128817.1128843
+ccs/ccs2006,2006,Digital rights management and watermarking,Image-adaptive watermarking based on perceptually shaping watermark blockwise.,Xinshan Zhu;Yong Gao;Yan Zhu;,http://doi.acm.org/10.1145/1128817.1128844
+ccs/ccs2006,2006,Digital rights management and watermarking,Finding the original point set hidden among chaff.,Ee-Chien Chang;Ren Shen;Francis Weijian Teo;,http://doi.acm.org/10.1145/1128817.1128845
+ccs/ccs2006,2006,Software security,Software integrity protection using timed executable agents.,Juan A. Garay;Lorenz Huelsbergen;,http://doi.acm.org/10.1145/1128817.1128847
+ccs/ccs2006,2006,Software security,Application security support in the operating system kernel.,Manigandan Radhakrishnan;Jon A. Solworth;,http://doi.acm.org/10.1145/1128817.1128848
+ccs/ccs2006,2006,Access control and authorization,Supporting location-based conditions in access control policies.,Claudio Agostino Ardagna;Marco Cremonini;Ernesto Damiani;Sabrina De Capitani di Vimercati;Pierangela Samarati;,http://doi.acm.org/10.1145/1128817.1128850
+ccs/ccs2006,2006,Access control and authorization,A secure system for data access based on anonymous authentication and time-dependent hierarchical keys.,Wen-Guey Tzeng;,http://doi.acm.org/10.1145/1128817.1128851
+ccs/ccs2006,2006,Access control and authorization,Approvability.,Jon A. Solworth;,http://doi.acm.org/10.1145/1128817.1128852
+ccs/ccs2006,2006,Access control and authorization,Safety analysis of usage control authorization models.,Xinwen Zhang;Ravi S. Sandhu;Francesco Parisi-Presicce;,http://doi.acm.org/10.1145/1128817.1128853
+ccs/ccs2006,2006,Authentication and biometrics,Fortifying password authentication in integrated healthcare delivery systems.,Yanjiang Yang;Robert H. Deng;Feng Bao;,http://doi.acm.org/10.1145/1128817.1128855
+ccs/ccs2006,2006,Authentication and biometrics,Collusion secure convolutional fingerprinting information codes.,Yan Zhu;Wei Zou;Xinshan Zhu;,http://doi.acm.org/10.1145/1128817.1128856
+ccs/ccs2006,2006,Cryptosystem and analysis,"Periodicity, complementarity and complexity of 2-adic FCSR combiner generators.",S. Anand;Gurumurthi V. Ramanan;,http://doi.acm.org/10.1145/1128817.1128858
+ccs/ccs2006,2006,Cryptosystem and analysis,"Cryptanalysis of the ""Grain"" family of stream ciphers.",Alexander Maximov;,http://doi.acm.org/10.1145/1128817.1128859
+ccs/ccs2006,2006,Cryptosystem and analysis,Addressing the shortcomings of one-way chains.,Roberto Di Pietro;Luigi V. Mancini;Antonio Durante;Vishwas Patil;,http://doi.acm.org/10.1145/1128817.1128860
+ccs/ccs2006,2006,Cryptosystem and analysis,Ring signatures without random oracles.,Sherman S. M. Chow;Victor K.-W. Wei;Joseph K. Liu;Tsz Hon Yuen;,http://doi.acm.org/10.1145/1128817.1128861
+ccs/ccs2006,2006,Wireless sensor networks,An efficient key establishment scheme for secure aggregating sensor networks.,Erik-Oliver Blaß;Martina Zitterbart;,http://doi.acm.org/10.1145/1128817.1128863
+ccs/ccs2006,2006,Wireless sensor networks,An efficient broadcast authentication scheme in wireless sensor networks.,Shang-Ming Chang;Shiuhpyng Shieh;Warren W. Lin;Chih-Ming Hsieh;,http://doi.acm.org/10.1145/1128817.1128864
+ccs/ccs2006,2006,Secure routing and firewall,Identity-based registry for secure interdomain routing.,E-yong Kim;Klara Nahrstedt;Li Xiao;Kunsoo Park;,http://doi.acm.org/10.1145/1128817.1128866
+ccs/ccs2006,2006,Secure routing and firewall,Dynamic rule-ordering optimization for high-speed firewall filtering.,Hazem H. Hamed;Ehab Al-Shaer;,http://doi.acm.org/10.1145/1128817.1128867
+ccs/ccs2006,2006,Secure routing and firewall,Digitally signed document sanitizing scheme based on bilinear maps.,Kunihiko Miyazaki;Goichiro Hanaoka;Hideki Imai;,http://doi.acm.org/10.1145/1128817.1128868
+ccs/ccs2006,2006,Fast abstract session:multimedia security,Digital invisible ink: revealing true secrets via attacking.,Chun-Hsiang Huang;Yu-Feng Kuo;Ja-Ling Wu;,http://doi.acm.org/10.1145/1128817.1128870
+ccs/ccs2006,2006,Fast abstract session:multimedia security,Quadtree based perceptual watermarking scheme.,Shan Ming Tsu;W. S. Hsieh;,http://doi.acm.org/10.1145/1128817.1128871
+ccs/ccs2006,2006,Fast abstract session:multimedia security,Continuous fingerprints classification by symmetrical filters.,Jun Li;Wei-Yun Yau;Han Wang;,http://doi.acm.org/10.1145/1128817.1128872
+ccs/ccs2006,2006,Fast abstract session:network security,A general design towards secure ad-hoc collaboration.,Masayuki Nakae;Xinwen Zhang;Ravi S. Sandhu;,http://doi.acm.org/10.1145/1128817.1128874
+ccs/ccs2006,2006,Fast abstract session:network security,A distributed key assignment protocol for secure multicast based on proxy cryptography.,Chun-Ying Huang;Yun-Peng Chiu;Kuan-Ta Chen;Chin-Laung Lei;,http://doi.acm.org/10.1145/1128817.1128875
+ccs/ccs2006,2006,Fast abstract session:network security,An efficient secure communication between set-top box and smart card in DTV broadcasting.,Jiun-Tze Lai;Ting-Wei Hou;,http://doi.acm.org/10.1145/1128817.1128876
+ccs/ccs2006,2006,Fast abstract session:network security,Forgery attack on the RPC incremental unforgeable encryption scheme.,Chuan Chi Wang;Min-Chih Kao;Yi-Shiung Yeh;,http://doi.acm.org/10.1145/1128817.1128877
+ccs/ccs2006,2006,Fast abstract session:network security,A control flow obfuscation method to discourage malicious tampering of software codes.,Yu-Lun Huang;F. S. Ho;Hsin-Yi Tsai;H. M. Kao;,http://doi.acm.org/10.1145/1128817.1128878
+ccs/ccs2006,2006,Fast abstract session:network security,Problems on the MR micropayment schemes.,Masahiro Mambo;Moises Rosales Salinas;Kazuo Ohta;Noboru Kunihiro;,http://doi.acm.org/10.1145/1128817.1128879
+ccs/ccs2006,2006,Fast abstract session:network security,Design and implementation of a reconfigurable hardware for secure embedded systems.,Kuen-Cheng Chiang;Zhi-Wei Chen;Jean Jyh-Jiun Shann;,http://doi.acm.org/10.1145/1128817.1128880
+ccs/ccs2006,2006,Fast abstract session:digital signature,Democratic group signatures: on an example of joint ventures.,Mark Manulis;,http://doi.acm.org/10.1145/1128817.1128882
+ccs/ccs2006,2006,Fast abstract session:digital signature,Analysis of traceability attack on Camenisch et al.'s blind signature schemes.,Lin-Chuan Wu;,http://doi.acm.org/10.1145/1128817.1128883
+ccs/ccs2006,2006,Fast abstract session:digital signature,Restricted message signing.,Toshihiko Matsuo;,http://doi.acm.org/10.1145/1128817.1128884
+ccs/ccs2006,2006,Fast abstract session:cryptosystem,Policy-based encryption schemes from bilinear pairings.,Walid Bagga;Refik Molva;Stefano Crosta;,http://doi.acm.org/10.1145/1128817.1128886
+ccs/ccs2006,2006,Fast abstract session:cryptosystem,A refined look at Bernstein's AES side-channel analysis.,Michael Neve;Jean-Pierre Seifert;Zhenghong Wang;,http://doi.acm.org/10.1145/1128817.1128887

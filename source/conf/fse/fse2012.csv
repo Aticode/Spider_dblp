@@ -1,0 +1,25 @@
+fse/fse2012,2012,Invited Talk,"""Provable"" Security against Differential and Linear Cryptanalysis.",Kaisa Nyberg;,https://doi.org/10.1007/978-3-642-34047-5_1
+fse/fse2012,2012,Block Ciphers,Improved Attacks on Full GOST.,Itai Dinur;Orr Dunkelman;Adi Shamir;,https://doi.org/10.1007/978-3-642-34047-5_2
+fse/fse2012,2012,Block Ciphers,Zero Correlation Linear Cryptanalysis with Reduced Data Complexity.,Andrey Bogdanov;Meiqin Wang;,https://doi.org/10.1007/978-3-642-34047-5_3
+fse/fse2012,2012,Differential Cryptanalysis,"A Model for Structure Attacks, with Applications to PRESENT and Serpent.",Meiqin Wang;Yue Sun;Elmar Tischhauser;Bart Preneel;,https://doi.org/10.1007/978-3-642-34047-5_4
+fse/fse2012,2012,Differential Cryptanalysis,A Methodology for Differential-Linear Cryptanalysis and Its Applications - (Extended Abstract).,Jiqiang Lu;,https://doi.org/10.1007/978-3-642-34047-5_5
+fse/fse2012,2012,Differential Cryptanalysis,New Observations on Impossible Differential Cryptanalysis of Reduced-Round Camellia.,Ya Liu;Leibo Li;Dawu Gu;Xiaoyun Wang;Zhiqiang Liu;Jiazhe Chen;Wei Li;,https://doi.org/10.1007/978-3-642-34047-5_6
+fse/fse2012,2012,Hash Functions,Improved Rebound Attack on the Finalist Grøstl.,Jérémy Jean;María Naya-Plasencia;Thomas Peyrin;,https://doi.org/10.1007/978-3-642-34047-5_7
+fse/fse2012,2012,Hash Functions,(Pseudo) Preimage Attack on Round-Reduced Grøstl Hash Function and Others.,Shuang Wu;Dengguo Feng;Wenling Wu;Jian Guo;Le Dong;Jian Zou;,https://doi.org/10.1007/978-3-642-34047-5_8
+fse/fse2012,2012,Hash Functions,Practical Cryptanalysis of ARMADILLO2.,María Naya-Plasencia;Thomas Peyrin;,https://doi.org/10.1007/978-3-642-34047-5_9
+fse/fse2012,2012,Hash Functions,On the (In)Security of IDEA in Various Hashing Modes.,Lei Wei;Thomas Peyrin;Przemyslaw Sokolowski;San Ling;Josef Pieprzyk;Huaxiong Wang;,https://doi.org/10.1007/978-3-642-34047-5_10
+fse/fse2012,2012,Modes of Operation,The Security of Ciphertext Stealing.,Phillip Rogaway;Mark Wooding;Haibin Zhang;,https://doi.org/10.1007/978-3-642-34047-5_11
+fse/fse2012,2012,Modes of Operation,McOE: A Family of Almost Foolproof On-Line Authenticated Encryption Schemes.,Ewan Fleischmann;Christian Forler;Stefan Lucks;,https://doi.org/10.1007/978-3-642-34047-5_12
+fse/fse2012,2012,Modes of Operation,"Cycling Attacks on GCM, GHASH and Other Polynomial MACs and Hashes.",Markku-Juhani Olavi Saarinen;,https://doi.org/10.1007/978-3-642-34047-5_13
+fse/fse2012,2012,Hash Functions,Collision Attacks on the Reduced Dual-Stream Hash Function RIPEMD-128.,Florian Mendel;Tomislav Nad;Martin Schläffer;,https://doi.org/10.1007/978-3-642-34047-5_14
+fse/fse2012,2012,Hash Functions,Bicliques for Preimages: Attacks on Skein-512 and the SHA-2 Family.,Dmitry Khovratovich;Christian Rechberger;Alexandra Savelieva;,https://doi.org/10.1007/978-3-642-34047-5_15
+fse/fse2012,2012,Hash Functions,Converting Meet-In-The-Middle Preimage Attack into Pseudo Collision Attack: Application to SHA-2.,Ji Li;Takanori Isobe;Kyoji Shibutani;,https://doi.org/10.1007/978-3-642-34047-5_16
+fse/fse2012,2012,New Tools for Cryptanalysis,UNAF: A Special Set of Additive Differences with Application to the Differential Analysis of ARX.,Vesselin Velichkov;Nicky Mouha;Christophe De Cannière;Bart Preneel;,https://doi.org/10.1007/978-3-642-34047-5_17
+fse/fse2012,2012,New Tools for Cryptanalysis,ElimLin Algorithm Revisited.,Nicolas T. Courtois;Pouyan Sepehrdad;Petr Susil;Serge Vaudenay;,https://doi.org/10.1007/978-3-642-34047-5_18
+fse/fse2012,2012,New Designs,Short-Output Universal Hash Functions and Their Use in Fast and Secure Data Authentication.,Long Hoang Nguyen;A. W. Roscoe;,https://doi.org/10.1007/978-3-642-34047-5_19
+fse/fse2012,2012,New Designs,Lapin: An Efficient Authentication Protocol Based on Ring-LPN.,Stefan Heyse;Eike Kiltz;Vadim Lyubashevsky;Christof Paar;Krzysztof Pietrzak;,https://doi.org/10.1007/978-3-642-34047-5_20
+fse/fse2012,2012,New Designs,Higher-Order Masking Schemes for S-Boxes.,Claude Carlet;Louis Goubin;Emmanuel Prouff;Michaël Quisquater;Matthieu Rivain;,https://doi.org/10.1007/978-3-642-34047-5_21
+fse/fse2012,2012,New Designs,Recursive Diffusion Layers for Block Ciphers and Hash Functions.,Mahdi Sajadieh;Mohammad Dakhilalian;Hamid Mala;Pouyan Sepehrdad;,https://doi.org/10.1007/978-3-642-34047-5_22
+fse/fse2012,2012,Keccak,Unaligned Rebound Attack: Application to Keccak.,Alexandre Duc;Jian Guo;Thomas Peyrin;Lei Wei;,https://doi.org/10.1007/978-3-642-34047-5_23
+fse/fse2012,2012,Keccak,Differential Propagation Analysis of Keccak.,Joan Daemen;Gilles Van Assche;,https://doi.org/10.1007/978-3-642-34047-5_24
+fse/fse2012,2012,Keccak,New Attacks on Keccak-224 and Keccak-256.,Itai Dinur;Orr Dunkelman;Adi Shamir;,https://doi.org/10.1007/978-3-642-34047-5_25

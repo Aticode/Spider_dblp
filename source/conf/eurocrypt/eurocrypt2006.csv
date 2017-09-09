@@ -1,0 +1,35 @@
+eurocrypt/eurocrypt2006,2006,Cryptanalysis,Security Analysis of the Strong Diffie-Hellman Problem.,Jung Hee Cheon;,https://doi.org/10.1007/11761679_1
+eurocrypt/eurocrypt2006,2006,Cryptanalysis,Cryptography in Theory and Practice: The Case of Encryption in IPsec.,Kenneth G. Paterson;Arnold K. L. Yau;,https://doi.org/10.1007/11761679_2
+eurocrypt/eurocrypt2006,2006,Cryptanalysis,Polynomial Equivalence Problems: Algorithmic and Theoretical Aspects.,Jean-Charles Faugère;Ludovic Perret;,https://doi.org/10.1007/11761679_3
+eurocrypt/eurocrypt2006,2006,Invited Talk,"Alien vs. Quine, the Vanishing Circuit and Other Tales from the Industry's Crypt.",Vanessa Gratzer;David Naccache;,https://doi.org/10.1007/11761679_4
+eurocrypt/eurocrypt2006,2006,Cryptography Meets Humans,Hiding Secret Points Amidst Chaff.,Ee-Chien Chang;Qiming Li;,https://doi.org/10.1007/11761679_5
+eurocrypt/eurocrypt2006,2006,Cryptography Meets Humans,Parallel and Concurrent Security of the HB and HB+ Protocols.,Jonathan Katz;Ji Sun Shin;,https://doi.org/10.1007/11761679_6
+eurocrypt/eurocrypt2006,2006,Cryptography Meets Humans,Polling with Physical Envelopes: A Rigorous Analysis of a Human-Centric Protocol.,Tal Moran;Moni Naor;,https://doi.org/10.1007/11761679_7
+eurocrypt/eurocrypt2006,2006,Stream Ciphers,QUAD: A Practical Stream Cipher with Provable Security.,Côme Berbain;Henri Gilbert;Jacques Patarin;,https://doi.org/10.1007/11761679_8
+eurocrypt/eurocrypt2006,2006,Stream Ciphers,How to Strengthen Pseudo-random Generators by Using Compression.,Aline Gouget;Hervé Sibert;,https://doi.org/10.1007/11761679_9
+eurocrypt/eurocrypt2006,2006,Stream Ciphers,Efficient Computation of Algebraic Immunity for Algebraic and Fast Algebraic Attacks.,Frederik Armknecht;Claude Carlet;Philippe Gaborit;Simon Künzli;Willi Meier;Olivier Ruatta;,https://doi.org/10.1007/11761679_10
+eurocrypt/eurocrypt2006,2006,Hash Functions,"VSH, an Efficient and Provable Collision-Resistant Hash Function.",Scott Contini;Arjen K. Lenstra;Ron Steinfeld;,https://doi.org/10.1007/11761679_11
+eurocrypt/eurocrypt2006,2006,Hash Functions,Herding Hash Functions and the Nostradamus Attack.,John Kelsey;Tadayoshi Kohno;,https://doi.org/10.1007/11761679_12
+eurocrypt/eurocrypt2006,2006,Oblivious Transfer,Optimal Reductions Between Oblivious Transfers Using Interactive Hashing.,Claude Crépeau;George Savvides;,https://doi.org/10.1007/11761679_13
+eurocrypt/eurocrypt2006,2006,Oblivious Transfer,Oblivious Transfer Is Symmetric.,Stefan Wolf;Jürg Wullschleger;,https://doi.org/10.1007/11761679_14
+eurocrypt/eurocrypt2006,2006,Numbers and Lattices,Symplectic Lattice Reduction and NTRU.,Nicolas Gama;Nick Howgrave-Graham;Phong Q. Nguyen;,https://doi.org/10.1007/11761679_15
+eurocrypt/eurocrypt2006,2006,Numbers and Lattices,The Function Field Sieve in the Medium Prime Case.,Antoine Joux;Reynald Lercier;,https://doi.org/10.1007/11761679_16
+eurocrypt/eurocrypt2006,2006,Numbers and Lattices,Learning a Parallelepiped: Cryptanalysis of GGH and NTRU Signatures.,Phong Q. Nguyen;Oded Regev;,https://doi.org/10.1007/11761679_17
+eurocrypt/eurocrypt2006,2006,Foundations,The Cramer-Shoup Encryption Scheme Is Plaintext Aware in the Standard Model.,Alexander W. Dent;,https://doi.org/10.1007/11761679_18
+eurocrypt/eurocrypt2006,2006,Foundations,Private Circuits II: Keeping Secrets in Tamperable Circuits.,Yuval Ishai;Manoj Prabhakaran;Amit Sahai;David A. Wagner;,https://doi.org/10.1007/11761679_19
+eurocrypt/eurocrypt2006,2006,Foundations,Composition Implies Adaptive Security in Minicrypt.,Krzysztof Pietrzak;,https://doi.org/10.1007/11761679_20
+eurocrypt/eurocrypt2006,2006,Foundations,Perfect Non-interactive Zero Knowledge for NP.,Jens Groth;Rafail Ostrovsky;Amit Sahai;,https://doi.org/10.1007/11761679_21
+eurocrypt/eurocrypt2006,2006,Invited Talk,Language Modeling and Encryption on Packet Switched Networks.,Kevin S. McCurley;,https://doi.org/10.1007/11761679_22
+eurocrypt/eurocrypt2006,2006,Block Ciphers,A Provable-Security Treatment of the Key-Wrap Problem.,Phillip Rogaway;Thomas Shrimpton;,https://doi.org/10.1007/11761679_23
+eurocrypt/eurocrypt2006,2006,Block Ciphers,Luby-Rackoff Ciphers from Weak Round Functions?,Ueli M. Maurer;Yvonne Anne Oswald;Krzysztof Pietrzak;Johan Sjödin;,https://doi.org/10.1007/11761679_24
+eurocrypt/eurocrypt2006,2006,Block Ciphers,The Security of Triple Encryption and a Framework for Code-Based Game-Playing Proofs.,Mihir Bellare;Phillip Rogaway;,https://doi.org/10.1007/11761679_25
+eurocrypt/eurocrypt2006,2006,Cryptography Without Random Oracles,Compact Group Signatures Without Random Oracles.,Xavier Boyen;Brent Waters;,https://doi.org/10.1007/11761679_26
+eurocrypt/eurocrypt2006,2006,Cryptography Without Random Oracles,Practical Identity-Based Encryption Without Random Oracles.,Craig Gentry;,https://doi.org/10.1007/11761679_27
+eurocrypt/eurocrypt2006,2006,Cryptography Without Random Oracles,Sequential Aggregate Signatures and Multisignatures Without Random Oracles.,Steve Lu;Rafail Ostrovsky;Amit Sahai;Hovav Shacham;Brent Waters;,https://doi.org/10.1007/11761679_28
+eurocrypt/eurocrypt2006,2006,Multiparty Computation,"Our Data, Ourselves: Privacy Via Distributed Noise Generation.",Cynthia Dwork;Krishnaram Kenthapadi;Frank McSherry;Ilya Mironov;Moni Naor;,https://doi.org/10.1007/11761679_29
+eurocrypt/eurocrypt2006,2006,Multiparty Computation,On the (Im-)Possibility of Extending Coin Toss.,Dennis Hofheinz;Jörn Müller-Quade;Dominique Unruh;,https://doi.org/10.1007/11761679_30
+eurocrypt/eurocrypt2006,2006,Multiparty Computation,Efficient Binary Conversion for Paillier Encrypted Values.,Berry Schoenmakers;Pim Tuyls;,https://doi.org/10.1007/11761679_31
+eurocrypt/eurocrypt2006,2006,Multiparty Computation,Information-Theoretic Conditions for Two-Party Secure Function Evaluation.,Claude Crépeau;George Savvides;Christian Schaffner;Jürg Wullschleger;,https://doi.org/10.1007/11761679_32
+eurocrypt/eurocrypt2006,2006,Cryptography for Groups,Unclonable Group Identification.,Ivan Damgård;Kasper Dupont;Michael Østergaard Pedersen;,https://doi.org/10.1007/11761679_33
+eurocrypt/eurocrypt2006,2006,Cryptography for Groups,Fully Collusion Resistant Traitor Tracing with Short Ciphertexts and Private Keys.,Dan Boneh;Amit Sahai;Brent Waters;,https://doi.org/10.1007/11761679_34
+eurocrypt/eurocrypt2006,2006,Cryptography for Groups,Simplified Threshold RSA with Adaptive and Proactive Security.,Jesús F. Almansa;Ivan Damgård;Jesper Buus Nielsen;,https://doi.org/10.1007/11761679_35

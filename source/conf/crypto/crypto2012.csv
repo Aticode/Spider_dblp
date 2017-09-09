@@ -1,0 +1,50 @@
+crypto/crypto2012,2012,None,An Enciphering Scheme Based on a Card Shuffle.,Viet Tung Hoang;Ben Morris;Phillip Rogaway;,https://doi.org/10.1007/978-3-642-32009-5_1
+crypto/crypto2012,2012,None,Tweakable Blockciphers with Beyond Birthday-Bound Security.,Will Landecker;Thomas Shrimpton;R. Seth Terashima;,https://doi.org/10.1007/978-3-642-32009-5_2
+crypto/crypto2012,2012,None,Breaking and Repairing GCM Security Proofs.,Tetsu Iwata;Keisuke Ohashi;Kazuhiko Minematsu;,https://doi.org/10.1007/978-3-642-32009-5_3
+crypto/crypto2012,2012,None,On the Distribution of Linear Biases: Three Instructive Examples.,Mohamed Ahmed Abdelraheem;Martin Ågren;Peter Beelen;Gregor Leander;,https://doi.org/10.1007/978-3-642-32009-5_4
+crypto/crypto2012,2012,None,"Substitution-Permutation Networks, Pseudorandom Functions, and Natural Proofs.",Eric Miles;Emanuele Viola;,https://doi.org/10.1007/978-3-642-32009-5_5
+crypto/crypto2012,2012,None,The End of Crypto.,Jonathan Zittrain;,https://doi.org/10.1007/978-3-642-32009-5_6
+crypto/crypto2012,2012,None,Must You Know the Code of f to Securely Compute f?,Mike Rosulek;,https://doi.org/10.1007/978-3-642-32009-5_7
+crypto/crypto2012,2012,None,Adaptively Secure Multi-Party Computation with Dishonest Majority.,Sanjam Garg;Amit Sahai;,https://doi.org/10.1007/978-3-642-32009-5_8
+crypto/crypto2012,2012,None,Collusion-Preserving Computation.,Joël Alwen;Jonathan Katz;Ueli Maurer;Vassilis Zikas;,https://doi.org/10.1007/978-3-642-32009-5_9
+crypto/crypto2012,2012,None,Secret Sharing Schemes for Very Dense Graphs.,Amos Beimel;Oriol Farràs;Yuval Mintz;,https://doi.org/10.1007/978-3-642-32009-5_10
+crypto/crypto2012,2012,None,Functional Encryption with Bounded Collusions via Multi-party Computation.,Sergey Gorbunov;Vinod Vaikuntanathan;Hoeteck Wee;,https://doi.org/10.1007/978-3-642-32009-5_11
+crypto/crypto2012,2012,None,New Proof Methods for Attribute-Based Encryption: Achieving Full Security through Selective Techniques.,Allison B. Lewko;Brent Waters;,https://doi.org/10.1007/978-3-642-32009-5_12
+crypto/crypto2012,2012,None,Dynamic Credentials and Ciphertext Delegation for Attribute-Based Encryption.,Amit Sahai;Hakan Seyalioglu;Brent Waters;,https://doi.org/10.1007/978-3-642-32009-5_13
+crypto/crypto2012,2012,None,Functional Encryption for Regular Languages.,Brent Waters;,https://doi.org/10.1007/978-3-642-32009-5_14
+crypto/crypto2012,2012,None,Secure Database Commitments and Universal Arguments of Quasi Knowledge.,Melissa Chase;Ivan Visconti;,https://doi.org/10.1007/978-3-642-32009-5_15
+crypto/crypto2012,2012,None,Succinct Arguments from Multi-prover Interactive Proofs and Their Efficiency Benefits.,Nir Bitansky;Alessandro Chiesa;,https://doi.org/10.1007/978-3-642-32009-5_16
+crypto/crypto2012,2012,None,On the Security of TLS-DHE in the Standard Model.,Tibor Jager;Florian Kohlar;Sven Schäge;Jörg Schwenk;,https://doi.org/10.1007/978-3-642-32009-5_17
+crypto/crypto2012,2012,None,Semantic Security for the Wiretap Channel.,Mihir Bellare;Stefano Tessaro;Alexander Vardy;,https://doi.org/10.1007/978-3-642-32009-5_18
+crypto/crypto2012,2012,None,Multi-instance Security and Its Application to Password-Based Cryptography.,Mihir Bellare;Thomas Ristenpart;Stefano Tessaro;,https://doi.org/10.1007/978-3-642-32009-5_19
+crypto/crypto2012,2012,None,Hash Functions Based on Three Permutations: A Generic Security Analysis.,Bart Mennink;Bart Preneel;,https://doi.org/10.1007/978-3-642-32009-5_20
+crypto/crypto2012,2012,None,To Hash or Not to Hash Again? (In)Differentiability Results for H 2 and HMAC.,Yevgeniy Dodis;Thomas Ristenpart;John P. Steinberger;Stefano Tessaro;,https://doi.org/10.1007/978-3-642-32009-5_21
+crypto/crypto2012,2012,None,New Preimage Attacks against Reduced SHA-1.,Simon Knellwolf;Dmitry Khovratovich;,https://doi.org/10.1007/978-3-642-32009-5_22
+crypto/crypto2012,2012,None,Stam's Conjecture and Threshold Phenomena in Collision Resistance.,John P. Steinberger;Xiaoming Sun;Zhe Yang;,https://doi.org/10.1007/978-3-642-32009-5_23
+crypto/crypto2012,2012,None,Universal Composability from Essentially Any Trusted Setup.,Mike Rosulek;,https://doi.org/10.1007/978-3-642-32009-5_24
+crypto/crypto2012,2012,None,Impossibility Results for Static Input Secure Computation.,Sanjam Garg;Abishek Kumarasubramanian;Rafail Ostrovsky;Ivan Visconti;,https://doi.org/10.1007/978-3-642-32009-5_25
+crypto/crypto2012,2012,None,New Impossibility Results for Concurrent Composition and a Non-interactive Completeness Theorem for Secure Computation.,Shweta Agrawal;Vipul Goyal;Abhishek Jain;Manoj Prabhakaran;Amit Sahai;,https://doi.org/10.1007/978-3-642-32009-5_26
+crypto/crypto2012,2012,None,Black-Box Constructions of Composable Protocols without Set-Up.,Huijia Lin;Rafael Pass;,https://doi.org/10.1007/978-3-642-32009-5_27
+crypto/crypto2012,2012,None,Crowd-Blending Privacy.,Johannes Gehrke;Michael Hay;Edward Lui;Rafael Pass;,https://doi.org/10.1007/978-3-642-32009-5_28
+crypto/crypto2012,2012,None,Differential Privacy with Imperfect Randomness.,Yevgeniy Dodis;Adriana López-Alt;Ilya Mironov;Salil P. Vadhan;,https://doi.org/10.1007/978-3-642-32009-5_29
+crypto/crypto2012,2012,None,Tamper and Leakage Resilience in the Split-State Model.,Feng-Hao Liu;Anna Lysyanskaya;,https://doi.org/10.1007/978-3-642-32009-5_30
+crypto/crypto2012,2012,None,Securing Circuits against Constant-Rate Tampering.,Dana Dachman-Soled;Yael Tauman Kalai;,https://doi.org/10.1007/978-3-642-32009-5_31
+crypto/crypto2012,2012,None,How to Compute under ${\cal{AC}}^{\sf0}$ Leakage without Secure Hardware.,Guy N. Rothblum;,https://doi.org/10.1007/978-3-642-32009-5_32
+crypto/crypto2012,2012,None,Recent Advances and Existing Research Questions in Platform Security.,Ernie Brickell;,https://doi.org/10.1007/978-3-642-32009-5_33
+crypto/crypto2012,2012,None,Group Signatures with Almost-for-Free Revocation.,Benoît Libert;Thomas Peters;Moti Yung;,https://doi.org/10.1007/978-3-642-32009-5_34
+crypto/crypto2012,2012,None,Tightly Secure Signatures and Public-Key Encryption.,Dennis Hofheinz;Tibor Jager;,https://doi.org/10.1007/978-3-642-32009-5_35
+crypto/crypto2012,2012,None,Efficient Padding Oracle Attacks on Cryptographic Hardware.,Romain Bardou;Riccardo Focardi;Yusuke Kawamoto;Lorenzo Simionato;Graham Steel;Joe-Kai Tsay;,https://doi.org/10.1007/978-3-642-32009-5_36
+crypto/crypto2012,2012,None,Public Keys.,Arjen K. Lenstra;James P. Hughes;Maxime Augier;Joppe W. Bos;Thorsten Kleinjung;Christophe Wachter;,https://doi.org/10.1007/978-3-642-32009-5_37
+crypto/crypto2012,2012,None,Multiparty Computation from Somewhat Homomorphic Encryption.,Ivan Damgård;Valerio Pastro;Nigel P. Smart;Sarah Zakarias;,https://doi.org/10.1007/978-3-642-32009-5_38
+crypto/crypto2012,2012,None,Near-Linear Unconditionally-Secure Multiparty Computation with a Dishonest Minority.,Eli Ben-Sasson;Serge Fehr;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-642-32009-5_39
+crypto/crypto2012,2012,None,A New Approach to Practical Active-Secure Two-Party Computation.,Jesper Buus Nielsen;Peter Sebastian Nordholt;Claudio Orlandi;Sai Sheshank Burra;,https://doi.org/10.1007/978-3-642-32009-5_40
+crypto/crypto2012,2012,None,The Curious Case of Non-Interactive Commitments - On the Power of Black-Box vs. Non-Black-Box Use of Primitives.,Mohammad Mahmoody;Rafael Pass;,https://doi.org/10.1007/978-3-642-32009-5_41
+crypto/crypto2012,2012,None,"Efficient Dissection of Composite Problems, with Applications to Cryptanalysis, Knapsacks, and Combinatorial Search Problems.",Itai Dinur;Orr Dunkelman;Nathan Keller;Adi Shamir;,https://doi.org/10.1007/978-3-642-32009-5_42
+crypto/crypto2012,2012,None,"Resistance against Iterated Attacks by Decorrelation Revisited, .",Asli Bay;Atefeh Mashatan;Serge Vaudenay;,https://doi.org/10.1007/978-3-642-32009-5_43
+crypto/crypto2012,2012,None,Secure Identity-Based Encryption in the Quantum Random Oracle Model.,Mark Zhandry;,https://doi.org/10.1007/978-3-642-32009-5_44
+crypto/crypto2012,2012,None,Quantum to Classical Randomness Extractors.,Mario Berta;Omar Fawzi;Stephanie Wehner;,https://doi.org/10.1007/978-3-642-32009-5_45
+crypto/crypto2012,2012,None,Actively Secure Two-Party Evaluation of Any Quantum Operation.,Frédéric Dupuis;Jesper Buus Nielsen;Louis Salvail;,https://doi.org/10.1007/978-3-642-32009-5_46
+crypto/crypto2012,2012,None,On the Impossibility of Constructing Efficient Key Encapsulation and Programmable Hash Functions in Prime Order Groups.,Goichiro Hanaoka;Takahiro Matsuda;Jacob C. N. Schuldt;,https://doi.org/10.1007/978-3-642-32009-5_47
+crypto/crypto2012,2012,None,Hardness of Computing Individual Bits for One-Way Functions on Elliptic Curves.,Alexandre Duc;Dimitar Jetchev;,https://doi.org/10.1007/978-3-642-32009-5_48
+crypto/crypto2012,2012,None,Homomorphic Evaluation of the AES Circuit.,Craig Gentry;Shai Halevi;Nigel P. Smart;,https://doi.org/10.1007/978-3-642-32009-5_49
+crypto/crypto2012,2012,None,Fully Homomorphic Encryption without Modulus Switching from Classical GapSVP.,Zvika Brakerski;,https://doi.org/10.1007/978-3-642-32009-5_50

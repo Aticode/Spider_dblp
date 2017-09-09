@@ -1,0 +1,18 @@
+ndss/ndss2001,2001,Packet Flows,An Algebraic Approach to IP Traceback.,Drew Dean;Matthew K. Franklin;Adam Stubblefield;,http://www.isoc.org/isoc/conferences/ndss/01/2001/papers/dean01.pdf
+ndss/ndss2001,2001,Packet Flows,Authenticating Streamed Data in the Presence of Random Packet Loss.,Philippe Golle;Nagendra Modadugu;,http://www.isoc.org/isoc/conferences/ndss/01/2001/papers/golle.pdf
+ndss/ndss2001,2001,Packet Flows,Practical Experiences with ATM Encryption.,Gregory T. Byrd;Nathan Hillery;Jim Symon;,http://www.isoc.org/isoc/conferences/ndss/01/2001/papers/byrd.pdf
+ndss/ndss2001,2001,Security Protocols,Efficient and Secure Source Authentication for Multicast.,Adrian Perrig;Ran Canetti;Dawn Xiaodong Song;J. D. Tygar;,http://www.isoc.org/isoc/conferences/ndss/01/2001/papers/perrig.pdf
+ndss/ndss2001,2001,Security Protocols,TRICERT: A Distributed Certified E-Mail Scheme.,Giuseppe Ateniese;Breno de Medeiros;Michael T. Goodrich;,http://www.isoc.org/isoc/conferences/ndss/01/2001/papers/ateniese.pdf
+ndss/ndss2001,2001,Invited Talk,Wireless Security - Is It Real?,Alfred Menezes;,None
+ndss/ndss2001,2001,Miscellaneous,"An Architecture for Flexible, High Assurance, Multi-Security Domain Networks.",Tim Gibson;,http://www.isoc.org/isoc/conferences/ndss/01/2001/papers/gibson.pdf
+ndss/ndss2001,2001,Miscellaneous,Authentication and Key Agreement Via Memorable Passwords.,Taekyoung Kwon;,http://www.isoc.org/isoc/conferences/ndss/01/2001/papers/kwon.pdf
+ndss/ndss2001,2001,Policy,SPL: An Access Control Language for Security Policies and Complex Constraints.,Carlos Ribeiro;Andre Zuquete;Paulo Ferreira;Paulo Guedes;,http://www.isoc.org/isoc/conferences/ndss/01/2001/papers/ribeiro.pdf
+ndss/ndss2001,2001,Policy,Limiting the Disclosure of Access Control Policies during Automated Trust Negotiation.,Kent E. Seamons;Marianne Winslett;Ting Yu;,http://www.isoc.org/isoc/conferences/ndss/01/2001/papers/seamons.pdf
+ndss/ndss2001,2001,Policy,Principles of Policy in Secure Groups.,Hugh Harney;Andrea Colgrove;Patrick D. McDaniel;,http://www.isoc.org/isoc/conferences/ndss/01/2001/papers/mcdaniel.pdf
+ndss/ndss2001,2001,Trust Managment,Trust Management for IPsec.,Matt Blaze;John Ioannidis;Angelos D. Keromytis;,http://www.isoc.org/isoc/conferences/ndss/01/2001/papers/keroymyt1.pdf
+ndss/ndss2001,2001,Trust Managment,Building Certifications Paths: Forward vs. Reverse.,Yassir Elley;Anne H. Anderson;Steve Hanna;Sean Mullan;Radia J. Perlman;Seth Proctor;,http://www.isoc.org/isoc/conferences/ndss/01/2001/papers/elley.pdf
+ndss/ndss2001,2001,Trust Managment,Decentralized Jini Security.,Pasi Eronen;Pekka Nikander;,http://www.isoc.org/isoc/conferences/ndss/01/2001/papers/eronen.pdf
+ndss/ndss2001,2001,Implementation Issues,Termination in Language-based Systems.,Algis Rudys;John Clements;Dan S. Wallach;,http://www.isoc.org/isoc/conferences/ndss/01/2001/papers/rudys.pdf
+ndss/ndss2001,2001,Implementation Issues,Cryptology As a Network Service.,Tom Berson;Drew Dean;Matthew K. Franklin;Diana K. Smetters;Mike Spreitzer;,http://www.isoc.org/isoc/conferences/ndss/01/2001/papers/dean02.pdf
+ndss/ndss2001,2001,Implementation Issues,Implementation of Crossrealm Referral Handling in the MIT Kerberos Client.,Jonathan T. Trostle;Irina Kosinovsky;Michael M. Swift;,http://www.isoc.org/isoc/conferences/ndss/01/2001/papers/trostle.pdf
+ndss/ndss2001,2001,Invited Talk,Security Risks Of Peer-To-Peer Networking.,Steven M. Bellovin;,None

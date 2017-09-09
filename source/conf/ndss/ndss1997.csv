@@ -1,0 +1,14 @@
+ndss/ndss1997,1997,Session 1:Things That Go Bump In The Net,Experimental Results of Covert Channel Limitation in One-Way Communication Systems.,Nick Ogurtsov;Hilarie K. Orman;Richard Schroeppel;Sean W. O'Malley;Oliver Spatscheck;,https://doi.org/10.1109/NDSS.1997.579214
+ndss/ndss1997,1997,Session 1:Things That Go Bump In The Net,Blocking Java Applets at the Firewall.,David M. Martin Jr.;Sivaramakrishnan Rajagopalan;Aviel D. Rubin;,https://doi.org/10.1109/NDSS.1997.579215
+ndss/ndss1997,1997,Session 1:Things That Go Bump In The Net,Continuous Assessment of a Unix Configuration: Integrating Intrusion Detection and Configuration Analysis.,Abdelaziz Mounji;Baudouin Le Charlier;,https://doi.org/10.1109/NDSS.1997.579216
+ndss/ndss1997,1997,Session 3:Protocol Implementation And Analysis,An Interface Specification Language for Automatically Analyzing Cryptographic Protocols.,Stephen H. Brackin;,https://doi.org/10.1109/NDSS.1997.579219
+ndss/ndss1997,1997,Session 3:Protocol Implementation And Analysis,Probable Plaintext Cryptanalysis of the IP Security Protocols.,Steven M. Bellovin;,https://doi.org/10.1109/NDSS.1997.579220
+ndss/ndss1997,1997,Session 3:Protocol Implementation And Analysis,Misplaced Trust: Kerberos 4 Session Keys.,Bryn Dole;Steven W. Lodin;Eugene H. Spafford;,https://doi.org/10.1109/NDSS.1997.579221
+ndss/ndss1997,1997,Session 5:Routing Security,Securing the Nimrod Routing Architecture.,Karen E. Sirois;Stephen T. Kent;,https://doi.org/10.1109/NDSS.1997.579223
+ndss/ndss1997,1997,Session 5:Routing Security,Securing Distance-Vector Routing Protocols.,Bradley R. Smith;Shree Murthy;J. J. Garcia-Luna-Aceves;,https://doi.org/10.1109/NDSS.1997.579225
+ndss/ndss1997,1997,Session 5:Routing Security,Reducing the Cost of Security in Link-State Routing.,Ralf C. Hauser;Tony Przygienda;Gene Tsudik;,https://doi.org/10.1109/NDSS.1997.579226
+ndss/ndss1997,1997,Session 6:Security For The World Wide Web,Securing Web Access with DCE.,Brian C. Schimpf;,https://doi.org/10.1109/NDSS.1997.579227
+ndss/ndss1997,1997,Session 6:Security For The World Wide Web,Panel - Security and the World Wide Web.,G. Winfield Treese;,None
+ndss/ndss1997,1997,Session 7:Public Key Management,Hierarchical Organization of Certification Authorities for Secure Environments.,Lourdes López-Santidrián;Justo Carracedo Gallardo;,https://doi.org/10.1109/NDSS.1997.579229
+ndss/ndss1997,1997,Session 7:Public Key Management,Trust Models in ICE-TEL.,Andrew J. Young;Nada Kapidzic Cicovic;David W. Chadwick;,https://doi.org/10.1109/NDSS.1997.579230
+ndss/ndss1997,1997,Session 7:Public Key Management,Distributed Authentication in Kerberos Using Public Key Cryptography.,Marvin A. Sirbu;John C.-I. Chuang;,https://doi.org/10.1109/NDSS.1997.579231

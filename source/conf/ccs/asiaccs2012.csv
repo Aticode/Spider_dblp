@@ -1,0 +1,47 @@
+ccs/asiaccs2012,2012,Web security,"Protection, usability and improvements in reflected XSS filters.",Riccardo Pelizzi;R. Sekar;,http://doi.acm.org/10.1145/2414456.2414458
+ccs/asiaccs2012,2012,Web security,An independent validation of vulnerability discovery models.,Viet Hung Nguyen;Fabio Massacci;,http://doi.acm.org/10.1145/2414456.2414459
+ccs/asiaccs2012,2012,Web security,Virtual browser: a virtualized browser to sandbox third-party JavaScripts with enhanced security.,Yinzhi Cao;Zhichun Li;Vaibhav Rastogi;Yan Chen;Xitao Wen;,http://doi.acm.org/10.1145/2414456.2414460
+ccs/asiaccs2012,2012,Web security,Memoirs of a browser: a cross-browser detection model for privacy-breaching extensions.,Cristiano Giuffrida;Stefano Ortolani;Bruno Crispo;,http://doi.acm.org/10.1145/2414456.2414461
+ccs/asiaccs2012,2012,Web security,FlashOver: automated discovery of cross-site scripting vulnerabilities in rich internet applications.,Steven Van Acker;Nick Nikiforakis;Lieven Desmet;Wouter Joosen;Frank Piessens;,http://doi.acm.org/10.1145/2414456.2414462
+ccs/asiaccs2012,2012,Crypto,Ciphertext policy attribute-based encryption from lattices.,Jiang Zhang;Zhenfeng Zhang;Aijun Ge;,http://doi.acm.org/10.1145/2414456.2414464
+ccs/asiaccs2012,2012,Crypto,Expressive CP-ABE with partially hidden access structures.,Junzuo Lai;Robert H. Deng;Yingjiu Li;,http://doi.acm.org/10.1145/2414456.2414465
+ccs/asiaccs2012,2012,Crypto,New time-memory-data trade-off attack on the estream finalists and modes of operation of block ciphers.,Khoongming Khoo;Chik How Tan;,http://doi.acm.org/10.1145/2414456.2414466
+ccs/asiaccs2012,2012,Crypto,An efficient broadcast attack against NTRU.,Jianwei Li;Yanbin Pan;Mingjie Liu;Guizhen Zhu;,http://doi.acm.org/10.1145/2414456.2414467
+ccs/asiaccs2012,2012,Authentication,Forgery-resilience for digital signature schemes.,Atefeh Mashatan;Khaled Ouafi;,http://doi.acm.org/10.1145/2414456.2414469
+ccs/asiaccs2012,2012,Authentication,Verifier-local revocation group signatures with time-bound keys.,Cheng-Kang Chu;Joseph K. Liu;Xinyi Huang;Jianying Zhou;,http://doi.acm.org/10.1145/2414456.2414470
+ccs/asiaccs2012,2012,Authentication,An identity authentication protocol in online social networks.,Lingjun Li;Xinxin Zhao;Guoliang Xue;,http://doi.acm.org/10.1145/2414456.2414471
+ccs/asiaccs2012,2012,Privacy,Adding query privacy to robust DHTs.,Michael Backes;Ian Goldberg;Aniket Kate;Tomas Toft;,http://doi.acm.org/10.1145/2414456.2414473
+ccs/asiaccs2012,2012,Privacy,"On sampling, anonymization, and differential privacy or, k-anonymization meets differential privacy.",Ninghui Li;Wahbeh H. Qardaji;Dong Su;,http://doi.acm.org/10.1145/2414456.2414474
+ccs/asiaccs2012,2012,Privacy,Privacy-preserving alibi systems.,Benjamin Davis;Hao Chen;Matthew K. Franklin;,http://doi.acm.org/10.1145/2414456.2414475
+ccs/asiaccs2012,2012,Privacy,On the mixing time of directed social graphs and security implications.,Abedelaziz Mohaisen;Huy Tran;Nicholas Hopper;Yongdae Kim;,http://doi.acm.org/10.1145/2414456.2414476
+ccs/asiaccs2012,2012,Privacy,Recursive partitioning and summarization: a practical framework for differentially private data publishing.,Wahbeh H. Qardaji;Ninghui Li;,http://doi.acm.org/10.1145/2414456.2414477
+ccs/asiaccs2012,2012,Protocol,Private and oblivious set and multiset operations.,Marina Blanton;Everaldo Aguiar;,http://doi.acm.org/10.1145/2414456.2414479
+ccs/asiaccs2012,2012,Protocol,Practical client puzzles in the standard model.,Lakshmi Kuppusamy;Jothi Rangasamy;Douglas Stebila;Colin Boyd;Juan Manuel González Nieto;,http://doi.acm.org/10.1145/2414456.2414480
+ccs/asiaccs2012,2012,Protocol,"Towards the attacker's view of protocol narrations (or, how to compile security protocols).",Zhiwei Li;Weichao Wang;,http://doi.acm.org/10.1145/2414456.2414481
+ccs/asiaccs2012,2012,Protocol,Verifiable private equality test: enabling unbiased 2-party reconciliation on ordered sets in the malicious model.,Daniel A. Mayer;Susanne Wetzel;,http://doi.acm.org/10.1145/2414456.2414482
+ccs/asiaccs2012,2012,Short 1,CARMA: a hardware tamper-resistant isolated execution environment on commodity x86 platforms.,Amit Vasudevan;Jonathan M. McCune;James Newsome;Adrian Perrig;Leendert van Doorn;,http://doi.acm.org/10.1145/2414456.2414484
+ccs/asiaccs2012,2012,Short 1,CloudER: a framework for automatic software vulnerability location and patching in the cloud.,Ping Chen;Dongyan Xu;Bing Mao;,http://doi.acm.org/10.1145/2414456.2414485
+ccs/asiaccs2012,2012,Short 1,Monetizing spambot activity and understanding its relation with spambot traffic features.,Syed Fida Gillani;Ehab Al-Shaer;Sardar Ali;Syed Ali Khayam;,http://doi.acm.org/10.1145/2414456.2414486
+ccs/asiaccs2012,2012,Short 1,Carving secure wi-fi zones with defensive jamming.,Yu Seung Kim;Patrick Tague;Heejo Lee;Hyogon Kim;,http://doi.acm.org/10.1145/2414456.2414487
+ccs/asiaccs2012,2012,Short 1,Keeping identity secret in online social networks.,Xinxin Zhao;Lingjun Li;Guoliang Xue;,http://doi.acm.org/10.1145/2414456.2414488
+ccs/asiaccs2012,2012,Short 1,Key-insulated symmetric key cryptography and mitigating attacks against cryptographic cloud software.,Yevgeniy Dodis;Weiliang Luo;Shouhuai Xu;Moti Yung;,http://doi.acm.org/10.1145/2414456.2414489
+ccs/asiaccs2012,2012,Short 1,Security implications in Kerberos by the introduction of smart cards.,Nikos Mavrogiannopoulos;Andreas Pashalidis;Bart Preneel;,http://doi.acm.org/10.1145/2414456.2414490
+ccs/asiaccs2012,2012,Short 1,KoNKS: konsensus-style network koordinate system.,Eric Chan-Tin;Nicholas Hopper;,http://doi.acm.org/10.1145/2414456.2414491
+ccs/asiaccs2012,2012,System,User-level secure deletion on log-structured file systems.,Joel Reardon;Claudio Marforio;Srdjan Capkun;David A. Basin;,http://doi.acm.org/10.1145/2414456.2414493
+ccs/asiaccs2012,2012,System,ClusterFA: a memory-efficient DFA structure for network intrusion detection.,Lei Jiang;Jianlong Tan;Yanbing Liu;,http://doi.acm.org/10.1145/2414456.2414494
+ccs/asiaccs2012,2012,System,Discovering records of private VoIP calls without wiretapping.,Chang-Han Jong;Virgil D. Gligor;,http://doi.acm.org/10.1145/2414456.2414495
+ccs/asiaccs2012,2012,System,Adaptive semi-private email aliases.,Beng Heng Ng;Alexander Crowell;Atul Prakash;,http://doi.acm.org/10.1145/2414456.2414496
+ccs/asiaccs2012,2012,Access control,AdDroid: privilege separation for applications and advertisers in Android.,Paul Pearce;Adrienne Porter Felt;Gabriel Nunez;David A. Wagner;,http://doi.acm.org/10.1145/2414456.2414498
+ccs/asiaccs2012,2012,Access control,Constraint-enhanced role engineering via answer set programming.,Jinwei Hu;Khaled M. Khan;Yun Bai;Yan Zhang;,http://doi.acm.org/10.1145/2414456.2414499
+ccs/asiaccs2012,2012,Access control,Integrity walls: finding attack surfaces from mandatory access control policies.,Hayawardh Vijayakumar;Guruprasad Jakka;Sandra Julieta Rueda;Joshua Schiffman;Trent Jaeger;,http://doi.acm.org/10.1145/2414456.2414500
+ccs/asiaccs2012,2012,Access control,The specification and compilation of obligation policies for program monitoring.,Cheng Xu;Philip W. L. Fong;,http://doi.acm.org/10.1145/2414456.2414501
+ccs/asiaccs2012,2012,Cloud security,Towards efficient proofs of retrievability.,Jia Xu;Ee-Chien Chang;,http://doi.acm.org/10.1145/2414456.2414503
+ccs/asiaccs2012,2012,Cloud security,Boosting efficiency and security in proof of ownership for deduplication.,Roberto Di Pietro;Alessandro Sorniotti;,http://doi.acm.org/10.1145/2414456.2414504
+ccs/asiaccs2012,2012,Cloud security,Secure cloud maintenance: protecting workloads against insider attacks.,Sören Bleikertz;Anil Kurmus;Zoltán A. Nagy;Matthias Schunter;,http://doi.acm.org/10.1145/2414456.2414505
+ccs/asiaccs2012,2012,Cloud security,Outsourced private set intersection using homomorphic encryption.,Florian Kerschbaum;,http://doi.acm.org/10.1145/2414456.2414506
+ccs/asiaccs2012,2012,Cloud security,CL-PRE: a certificateless proxy re-encryption scheme for secure data sharing with public cloud.,Lei Xu;Xiaoxin Wu;Xinwen Zhang;,http://doi.acm.org/10.1145/2414456.2414507
+ccs/asiaccs2012,2012,Short 2,"A closer look at keyboard acoustic emanations: random passwords, typing styles and decoding techniques.",Tzipora Halevi;Nitesh Saxena;,http://doi.acm.org/10.1145/2414456.2414509
+ccs/asiaccs2012,2012,Short 2,Letting applications operate through attacks launched from compromised drivers.,Shengzhi Zhang;Peng Liu;,http://doi.acm.org/10.1145/2414456.2414510
+ccs/asiaccs2012,2012,Short 2,Software decoys for insider threat.,Young Hee Park;Salvatore J. Stolfo;,http://doi.acm.org/10.1145/2414456.2414511
+ccs/asiaccs2012,2012,Short 2,Coercion resistance in authentication responsibility shifting.,Payas Gupta;Xuhua Ding;Debin Gao;,http://doi.acm.org/10.1145/2414456.2414512
+ccs/asiaccs2012,2012,Short 2,PassMap: a map based graphical-password authentication system.,Hung-Min Sun;Yao-Hsin Chen;Chiung-Cheng Fang;Shih-Ying Chang;,http://doi.acm.org/10.1145/2414456.2414513

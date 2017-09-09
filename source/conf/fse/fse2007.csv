@@ -1,0 +1,28 @@
+fse/fse2007,2007,Hash Function Cryptanalysis and Design (I),"Producing Collisions for Panama, Instantaneously.",Joan Daemen;Gilles Van Assche;,https://doi.org/10.1007/978-3-540-74619-5_1
+fse/fse2007,2007,Hash Function Cryptanalysis and Design (I),Cryptanalysis of FORK-256.,Krystian Matusiewicz;Thomas Peyrin;Olivier Billet;Scott Contini;Josef Pieprzyk;,https://doi.org/10.1007/978-3-540-74619-5_2
+fse/fse2007,2007,Hash Function Cryptanalysis and Design (I),The Grindahl Hash Functions.,Lars R. Knudsen;Christian Rechberger;Søren S. Thomsen;,https://doi.org/10.1007/978-3-540-74619-5_3
+fse/fse2007,2007,Stream Ciphers Cryptanalysis (I),Overtaking VEST.,Antoine Joux;Jean-René Reinhard;,https://doi.org/10.1007/978-3-540-74619-5_4
+fse/fse2007,2007,Stream Ciphers Cryptanalysis (I),Cryptanalysis of Achterbahn-128/80.,María Naya-Plasencia;,https://doi.org/10.1007/978-3-540-74619-5_5
+fse/fse2007,2007,Stream Ciphers Cryptanalysis (I),Differential-Linear Attacks Against the Stream Cipher Phelix.,Hongjun Wu;Bart Preneel;,https://doi.org/10.1007/978-3-540-74619-5_6
+fse/fse2007,2007,Theory,How to Enrich the Message Space of a Cipher.,Thomas Ristenpart;Phillip Rogaway;,https://doi.org/10.1007/978-3-540-74619-5_7
+fse/fse2007,2007,Theory,Security Analysis of Constructions Combining FIL Random Oracles.,Yannick Seurin;Thomas Peyrin;,https://doi.org/10.1007/978-3-540-74619-5_8
+fse/fse2007,2007,Theory,Bad and Good Ways of Post-processing Biased Physical Random Numbers.,Markus Dichtl;,https://doi.org/10.1007/978-3-540-74619-5_9
+fse/fse2007,2007,Fast Talks:Block Cipher Cryptanalysis,Improved Slide Attacks.,Eli Biham;Orr Dunkelman;Nathan Keller;,https://doi.org/10.1007/978-3-540-74619-5_10
+fse/fse2007,2007,Fast Talks:Block Cipher Cryptanalysis,A New Class of Weak Keys for Blowfish.,Orhun Kara;Cevat Manap;,https://doi.org/10.1007/978-3-540-74619-5_11
+fse/fse2007,2007,Fast Talks:Block Cipher Design,The 128-Bit Blockcipher CLEFIA (Extended Abstract).,Taizo Shirai;Kyoji Shibutani;Toru Akishita;Shiho Moriai;Tetsu Iwata;,https://doi.org/10.1007/978-3-540-74619-5_12
+fse/fse2007,2007,Fast Talks:Block Cipher Design,New Lightweight DES Variants.,Gregor Leander;Christof Paar;Axel Poschmann;Kai Schramm;,https://doi.org/10.1007/978-3-540-74619-5_13
+fse/fse2007,2007,Block Cipher Cryptanalysis,A New Attack on 6-Round IDEA.,Eli Biham;Orr Dunkelman;Nathan Keller;,https://doi.org/10.1007/978-3-540-74619-5_14
+fse/fse2007,2007,Block Cipher Cryptanalysis,Related-Key Rectangle Attacks on Reduced AES-192 and AES-256.,Jongsung Kim;Seokhie Hong;Bart Preneel;,https://doi.org/10.1007/978-3-540-74619-5_15
+fse/fse2007,2007,Block Cipher Cryptanalysis,An Analysis of XSL Applied to BES.,Chu-Wee Lim;Khoongming Khoo;,https://doi.org/10.1007/978-3-540-74619-5_16
+fse/fse2007,2007,Stream Cipher Cryptanalysis (II),On the Security of IV Dependent Stream Ciphers.,Côme Berbain;Henri Gilbert;,https://doi.org/10.1007/978-3-540-74619-5_17
+fse/fse2007,2007,Stream Cipher Cryptanalysis (II),Two General Attacks on Pomaranch-Like Keystream Generators.,Håkan Englund;Martin Hell;Thomas Johansson;,https://doi.org/10.1007/978-3-540-74619-5_18
+fse/fse2007,2007,Stream Cipher Cryptanalysis (II),Analysis of QUAD.,Bo-Yin Yang;Chia-Hsin Owen Chen;Daniel J. Bernstein;Jiun-Ming Chen;,https://doi.org/10.1007/978-3-540-74619-5_19
+fse/fse2007,2007,Cryptanalysis of Hash Functions (II),Message Freedom in MD4 and MD5 Collisions: Application to APOP.,Gaëtan Leurent;,https://doi.org/10.1007/978-3-540-74619-5_20
+fse/fse2007,2007,Cryptanalysis of Hash Functions (II),New Message Difference for MD4.,Yu Sasaki;Lei Wang;Kazuo Ohta;Noboru Kunihiro;,https://doi.org/10.1007/978-3-540-74619-5_21
+fse/fse2007,2007,Cryptanalysis of Hash Functions (II),Algebraic Cryptanalysis of 58-Round SHA-1.,Makoto Sugita;Mitsuru Kawazoe;Ludovic Perret;Hideki Imai;,https://doi.org/10.1007/978-3-540-74619-5_22
+fse/fse2007,2007,Theory of Stream Ciphers,Algebraic Immunity of S-Boxes and Augmented Functions.,Simon Fischer;Willi Meier;,https://doi.org/10.1007/978-3-540-74619-5_23
+fse/fse2007,2007,Theory of Stream Ciphers,Generalized Correlation Analysis of Vectorial Boolean Functions.,Claude Carlet;Khoongming Khoo;Chu-Wee Lim;Chuan-Wen Loe;,https://doi.org/10.1007/978-3-540-74619-5_24
+fse/fse2007,2007,Side Channel Attacks,An Analytical Model for Time-Driven Cache Attacks.,Kris Tiri;Onur Aciiçmez;Michael Neve;Flemming Andersen;,https://doi.org/10.1007/978-3-540-74619-5_25
+fse/fse2007,2007,MACs and Small Block Ciphers,Improving the Security of MACs Via Randomized Message Preprocessing.,Yevgeniy Dodis;Krzysztof Pietrzak;,https://doi.org/10.1007/978-3-540-74619-5_26
+fse/fse2007,2007,MACs and Small Block Ciphers,"New Bounds for PMAC, TMAC, and XCBC.",Kazuhiko Minematsu;Toshiyasu Matsushima;,https://doi.org/10.1007/978-3-540-74619-5_27
+fse/fse2007,2007,MACs and Small Block Ciphers,Perfect Block Ciphers with Small Blocks.,Louis Granboulan;Thomas Pornin;,https://doi.org/10.1007/978-3-540-74619-5_28

@@ -1,0 +1,44 @@
+eurocrypt/eurocrypt98,1998,Distributed Cryptography and Applications,Securing Threshold Cryptosystems against Chosen Ciphertext Attack.,Victor Shoup;Rosario Gennaro;,https://doi.org/10.1007/BFb0054113
+eurocrypt/eurocrypt98,1998,Distributed Cryptography and Applications,Auto-Recoverable Auto-Certifiable Cryptosystems.,Adam L. Young;Moti Yung;,https://doi.org/10.1007/BFb0054114
+eurocrypt/eurocrypt98,1998,Distributed Cryptography and Applications,A Practical and Provably Secure Scheme for Publicly Verifiable Secret Sharing and Its Applications.,Eiichiro Fujisaki;Tatsuaki Okamoto;,https://doi.org/10.1007/BFb0054115
+eurocrypt/eurocrypt98,1998,Complexity Theory:Reductions and Lower Bounds,Equivalence of Counting the Number of Points on Elliptic Curve over the Ring Zn and Factoring n.,Noboru Kunihiro;Kenji Koyama;,https://doi.org/10.1007/BFb0054116
+eurocrypt/eurocrypt98,1998,Complexity Theory:Reductions and Lower Bounds,Breaking RSA May Not Be Equivalent to Factoring.,Dan Boneh;Ramarathnam Venkatesan;,https://doi.org/10.1007/BFb0054117
+eurocrypt/eurocrypt98,1998,Complexity Theory:Reductions and Lower Bounds,Lower Bounds on Generic Algorithms in Groups.,Ueli M. Maurer;Stefan Wolf;,https://doi.org/10.1007/BFb0054118
+eurocrypt/eurocrypt98,1998,Cryptanalysis of Block Ciphers,Improved Cryptanalysis of RC5.,Alex Biryukov;Eyal Kushilevitz;,https://doi.org/10.1007/BFb0054119
+eurocrypt/eurocrypt98,1998,Cryptanalysis of Block Ciphers,Cryptanalysis of the ANSI X9.52 CBCM Mode.,Eli Biham;Lars R. Knudsen;,https://doi.org/10.1007/BFb0054120
+eurocrypt/eurocrypt98,1998,Cryptanalysis of Block Ciphers,Differential-Linear Weak Key Classes of IDEA.,Philip Hawkes;,https://doi.org/10.1007/BFb0054121
+eurocrypt/eurocrypt98,1998,Distributed Cryptography and Applications,Divertible Protocols and Atomic Proxy Cryptography.,Matt Blaze;Gerrit Bleumer;Martin Strauss;,https://doi.org/10.1007/BFb0054122
+eurocrypt/eurocrypt98,1998,Distributed Cryptography and Applications,Optimum Traitor Tracing and Asymmetric Schemes.,Kaoru Kurosawa;Yvo Desmedt;,https://doi.org/10.1007/BFb0054123
+eurocrypt/eurocrypt98,1998,Computational Algorithms,On Finding Small Solutions of Modular Multivariate Polynomial Equations.,Charanjit S. Jutla;,https://doi.org/10.1007/BFb0054124
+eurocrypt/eurocrypt98,1998,Computational Algorithms,Computing Discrete Logarithms with Quadratic Number Rings.,Damian Weber;,https://doi.org/10.1007/BFb0054125
+eurocrypt/eurocrypt98,1998,Computational Algorithms,Improved Algorithms for Isomorphisms of Polynomials.,Jacques Patarin;Louis Goubin;Nicolas Courtois;,https://doi.org/10.1007/BFb0054126
+eurocrypt/eurocrypt98,1998,Improving Computational Efficiency,Visual Cryptanalysis.,Adi Shamir;,https://doi.org/10.1007/BFb0054127
+eurocrypt/eurocrypt98,1998,Improving Computational Efficiency,How to Improve an Exponentiation Black-Box.,Gérard D. Cohen;Antoine Lobstein;David Naccache;Gilles Zémor;,https://doi.org/10.1007/BFb0054128
+eurocrypt/eurocrypt98,1998,Improving Computational Efficiency,Speeding up Discrete Log and Factoring Based Schemes via Precomputations.,Victor Boyko;Marcus Peinado;Ramarathnam Venkatesan;,https://doi.org/10.1007/BFb0054129
+eurocrypt/eurocrypt98,1998,Improving Computational Efficiency,Fast Batch Verification for Modular Exponentiation and Digital Signatures.,Mihir Bellare;Juan A. Garay;Tal Rabin;,https://doi.org/10.1007/BFb0054130
+eurocrypt/eurocrypt98,1998,Paradigms for Symmetric Systems,A Formal Treatment of Remotely Keyed Encryption.,Matt Blaze;Joan Feigenbaum;Moni Naor;,https://doi.org/10.1007/BFb0054131
+eurocrypt/eurocrypt98,1998,Paradigms for Symmetric Systems,Luby-Rackoff Backwards: Increasing Security by Making Block Ciphers Non-invertible.,Mihir Bellare;Ted Krovetz;Phillip Rogaway;,https://doi.org/10.1007/BFb0054132
+eurocrypt/eurocrypt98,1998,Paradigms for Symmetric Systems,The Chain & Sum Primitive and Its Applications to MACs and Stream Ciphers.,Mariusz H. Jakubowski;Ramarathnam Venkatesan;,https://doi.org/10.1007/BFb0054133
+eurocrypt/eurocrypt98,1998,Public Key Cryptosystems,A Cryptosystem Based on Non-maximal Imaginary Quadratic Orders with Fast Decryption.,Detlef Hühnlein;Michael J. Jacobson Jr.;Sachar Paulus;Tsuyoshi Takagi;,https://doi.org/10.1007/BFb0054134
+eurocrypt/eurocrypt98,1998,Public Key Cryptosystems,A New Public-Key Cryptosystem as Secure as Factoring.,Tatsuaki Okamoto;Shigenori Uchiyama;,https://doi.org/10.1007/BFb0054135
+eurocrypt/eurocrypt98,1998,Complexity Theory:One-Way Functions,Towards a Better Understanding of One-Wayness: Facing Linear Permutations.,Alain P. Hiltgen;,https://doi.org/10.1007/BFb0054136
+eurocrypt/eurocrypt98,1998,Complexity Theory:One-Way Functions,Finding Collisions on a One-Way Street: Can Secure Hash Functions Be Based on General Assumptions?,Daniel R. Simon;,https://doi.org/10.1007/BFb0054137
+eurocrypt/eurocrypt98,1998,Multi-Party Computation,Secure Communications in Minimal Connectivity Models.,Matthew K. Franklin;Rebecca N. Wright;,https://doi.org/10.1007/BFb0054138
+eurocrypt/eurocrypt98,1998,Multi-Party Computation,On the Foundations of Oblivious Transfer.,Christian Cachin;,https://doi.org/10.1007/BFb0054139
+eurocrypt/eurocrypt98,1998,Multi-Party Computation,Quorum-Based Secure Multi-party Computation.,Donald Beaver;Avishai Wool;,https://doi.org/10.1007/BFb0054140
+eurocrypt/eurocrypt98,1998,Digital Signatures,Strengthened Security for Blind Signatures.,David Pointcheval;,https://doi.org/10.1007/BFb0054141
+eurocrypt/eurocrypt98,1998,Digital Signatures,Generic Constructions for Secure and Efficient Confirmer Signature Schemes.,Markus Michels;Markus Stadler;,https://doi.org/10.1007/BFb0054142
+eurocrypt/eurocrypt98,1998,Digital Signatures,"Security Analysis of a Practical ""on the fly"" Authentication and Signature Generation.",Guillaume Poupard;Jacques Stern;,https://doi.org/10.1007/BFb0054143
+eurocrypt/eurocrypt98,1998,Untraceability in Multi-party Schemes,Universally Verifiable Mix-net with Verification Work Indendent of the Number of Mix-servers.,Masayuki Abe;,https://doi.org/10.1007/BFb0054144
+eurocrypt/eurocrypt98,1998,Untraceability in Multi-party Schemes,A Practical Mix.,Markus Jakobsson;,https://doi.org/10.1007/BFb0054145
+eurocrypt/eurocrypt98,1998,Boolean Functions,On the Propagation Criterion of Degree l and Order k.,Claude Carlet;,https://doi.org/10.1007/BFb0054146
+eurocrypt/eurocrypt98,1998,Boolean Functions,Highly Nonlinear Balanced Boolean Functions with a Good Correlation-Immunity.,Eric Filiol;Caroline Fontaine;,https://doi.org/10.1007/BFb0054147
+eurocrypt/eurocrypt98,1998,Boolean Functions,Heuristic Design of Cryptographically Strong Balanced Boolean Functions.,William Millan;Andrew J. Clark;Ed Dawson;,https://doi.org/10.1007/BFb0054148
+eurocrypt/eurocrypt98,1998,Combinatorial Design and Analysis of Distributed Schemes,Secret Sharing Schemes with Bipartite Access Structure.,Carles Padró;Germán Sáez;,https://doi.org/10.1007/BFb0054149
+eurocrypt/eurocrypt98,1998,Combinatorial Design and Analysis of Distributed Schemes,Combinatorial Bounds for Broadcast Encryption.,Michael Luby;Jessica Staddon;,https://doi.org/10.1007/BFb0054150
+eurocrypt/eurocrypt98,1998,Combinatorial Design and Analysis of Distributed Schemes,New Results on Multi-Receiver Authentication Codes.,Reihaneh Safavi-Naini;Huaxiong Wang;,https://doi.org/10.1007/BFb0054151
+eurocrypt/eurocrypt98,1998,Cryptanalysis of Elliptic Curve Systems,Specialized Integer Factorization.,Don Coppersmith;,https://doi.org/10.1007/BFb0054152
+eurocrypt/eurocrypt98,1998,Cryptanalysis of Elliptic Curve Systems,Security of an Identity-Based Cryptosystem and the Related Reductions.,Tatsuaki Okamoto;Shigenori Uchiyama;,https://doi.org/10.1007/BFb0054153
+eurocrypt/eurocrypt98,1998,Electronic Commerce and Payment,Easy Come - Easy Go Divisible Cash.,Agnes Hui Chan;Yair Frankel;Yiannis Tsiounis;,https://doi.org/10.1007/BFb0054154
+eurocrypt/eurocrypt98,1998,Electronic Commerce and Payment,Secure and Efficient Metering.,Moni Naor;Benny Pinkas;,https://doi.org/10.1007/BFb0054155
+eurocrypt/eurocrypt98,1998,Electronic Commerce and Payment,Optimistic Fair Exchange of Digital Signatures (Extended Abstract).,N. Asokan;Victor Shoup;Michael Waidner;,https://doi.org/10.1007/BFb0054156

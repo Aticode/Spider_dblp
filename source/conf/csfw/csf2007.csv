@@ -1,0 +1,26 @@
+csfw/csf2007,2007,Authorization,Design and Semantics of a Decentralized Authorization Language.,Moritz Y. Becker;Cédric Fournet;Andrew D. Gordon;,https://doi.org/10.1109/CSF.2007.18
+csfw/csf2007,2007,Authorization,Do As I SaY! Programmatic Access Control with Explicit Identities.,Andrew Cirillo;Radha Jagadeesan;Corin Pitcher;James Riely;,https://doi.org/10.1109/CSF.2007.19
+csfw/csf2007,2007,Authorization,A Type Discipline for Authorization in Distributed Systems.,Cédric Fournet;Andy Gordon;Sergio Maffeis;,https://doi.org/10.1109/CSF.2007.7
+csfw/csf2007,2007,Multi-layer protocols and key conjuring,Security Analysis of Voice-over-IP Protocols.,Prateek Gupta;Vitaly Shmatikov;,https://doi.org/10.1109/CSF.2007.31
+csfw/csf2007,2007,Multi-layer protocols and key conjuring,Reasoning about Concurrency for Security Tunnels.,Alwyn Goodloe;Carl A. Gunter;,https://doi.org/10.1109/CSF.2007.28
+csfw/csf2007,2007,Multi-layer protocols and key conjuring,A Formal Theory of Key Conjuring.,Véronique Cortier;Stéphanie Delaune;Graham Steel;,https://doi.org/10.1109/CSF.2007.5
+csfw/csf2007,2007,Protocols and cryptographic foundations,Computationally Sound Mechanized Proofs of Correspondence Assertions.,Bruno Blanchet;,https://doi.org/10.1109/CSF.2007.16
+csfw/csf2007,2007,Protocols and cryptographic foundations,Key-dependent Message Security under Active Attacks - BRSIM/UC-Soundness of Symbolic Encryption with Key Cycles.,Michael Backes;Birgit Pfitzmann;Andre Scedrov;,https://doi.org/10.1109/CSF.2007.23
+csfw/csf2007,2007,Protocols and cryptographic foundations,Compositional Security for Task-PIOAs.,Ran Canetti;Ling Cheung;Dilsun Kirli Kaynar;Nancy A. Lynch;Olivier Pereira;,https://doi.org/10.1109/CSF.2007.15
+csfw/csf2007,2007,Protocols and cryptographic foundations,Approximated Computationally Bounded Simulation Relations for Probabilistic Automata.,Roberto Segala;Andrea Turrini;,https://doi.org/10.1109/CSF.2007.8
+csfw/csf2007,2007,Secure implementation,Implementing STV securely in Pret a Voter.,James Heather;,https://doi.org/10.1109/CSF.2007.22
+csfw/csf2007,2007,Secure implementation,Secure Implementations for Typed Session Abstractions.,Ricardo Corin;Pierre-Malo Deniélou;Cédric Fournet;Karthikeyan Bhargavan;James J. Leifer;,https://doi.org/10.1109/CSF.2007.29
+csfw/csf2007,2007,Secure implementation,A Library for Secure Multi-threaded Information Flow in Haskell.,Ta-Chung Tsai;Alejandro Russo;John Hughes;,https://doi.org/10.1109/CSF.2007.6
+csfw/csf2007,2007,Information flow,Dynamic Dependency Monitoring to Secure Information Flow.,Paritosh Shroff;Scott F. Smith;Mark Thober;,https://doi.org/10.1109/CSF.2007.20
+csfw/csf2007,2007,Information flow,Automaton-based Confidentiality Monitoring of Concurrent Programs.,Gurvan Le Guernic;,https://doi.org/10.1109/CSF.2007.10
+csfw/csf2007,2007,Information flow,Secure information flow and program logics.,Lennart Beringer;Martin Hofmann;,https://doi.org/10.1109/CSF.2007.30
+csfw/csf2007,2007,Privacy,A flow-sensitive analysis of privacy properties.,Hanne Riis Nielson;Flemming Nielson;,https://doi.org/10.1109/CSF.2007.4
+csfw/csf2007,2007,Privacy,Collaborative Planning With Privacy.,Max I. Kanovich;Paul D. Rowe;Andre Scedrov;,https://doi.org/10.1109/CSF.2007.12
+csfw/csf2007,2007,Privacy,Privacy and Utility in Business Processes.,Adam Barth;John C. Mitchell;Anupam Datta;Sharada Sundaram;,https://doi.org/10.1109/CSF.2007.26
+csfw/csf2007,2007,20 years anniversary session,Electing the Doge of Venice: Analysis of a 13th Century Protocol.,Miranda Mowbray;Dieter Gollmann;,https://doi.org/10.1109/CSF.2007.21
+csfw/csf2007,2007,Vulnerability analysis and information-theoretic security,Creating Vulnerability Signatures Using Weakest Preconditions.,David Brumley;Hao Wang;Somesh Jha;Dawn Xiaodong Song;,https://doi.org/10.1109/CSF.2007.17
+csfw/csf2007,2007,Vulnerability analysis and information-theoretic security,Comparing Countermeasures against Interrupt-Related Covert Channels in an Information-Theoretic Framework.,Heiko Mantel;Henning Sudbrock;,https://doi.org/10.1109/CSF.2007.14
+csfw/csf2007,2007,Vulnerability analysis and information-theoretic security,Probability of Error in Information-Hiding Protocols.,Konstantinos Chatzikokolakis;Catuscia Palamidessi;Prakash Panangaden;,https://doi.org/10.1109/CSF.2007.27
+csfw/csf2007,2007,Security protocol analysis,Causality-based Abstraction of Multiplicity in Security Protocols.,Michael Backes;Agostino Cortesi;Matteo Maffei;,https://doi.org/10.1109/CSF.2007.11
+csfw/csf2007,2007,Security protocol analysis,The Insecurity Problem: Tackling Unbounded Data.,Sibylle B. Fröschle;,https://doi.org/10.1109/CSF.2007.32
+csfw/csf2007,2007,Security protocol analysis,LTL Model Checking for Security Protocols.,Alessandro Armando;Roberto Carbone;Luca Compagna;,https://doi.org/10.1109/CSF.2007.24

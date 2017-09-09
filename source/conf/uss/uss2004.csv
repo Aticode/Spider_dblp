@@ -1,0 +1,32 @@
+uss/uss2004,2004,"Opening Remarks, Awards, and Keynote",Keynote Address: Back to the Future.,William Earl Boebert;,None
+uss/uss2004,2004,Attack Containment,A Virtual Honeypot Framework.,Niels Provos;,http://www.usenix.org/publications/library/proceedings/sec04/tech/provos.html
+uss/uss2004,2004,Attack Containment,Collapsar: A VM-Based Architecture for Network Attack Detention Center.,Xuxian Jiang;Dongyan Xu;,http://www.usenix.org/publications/library/proceedings/sec04/tech/jiang.html
+uss/uss2004,2004,Attack Containment,Very Fast Containment of Scanning Worms.,Nicholas Weaver;Stuart Staniford;Vern Paxson;,http://www.usenix.org/publications/library/proceedings/sec04/tech/weaver.html
+uss/uss2004,2004,Protecting Software,"TIED, LibsafePlus: Tools for Runtime Buffer Overflow Protection.",Kumar Avijit;Prateek Gupta;Deepak Gupta;,http://www.usenix.org/publications/library/proceedings/sec04/tech/avijit.html
+uss/uss2004,2004,Protecting Software,Privtrans: Automatically Partitioning Programs for Privilege Separation.,David Brumley;Dawn Xiaodong Song;,http://www.usenix.org/publications/library/proceedings/sec04/tech/brumley.html
+uss/uss2004,2004,Protecting Software,Avfs: An On-Access Anti-Virus File System.,Yevgeniy Miretskiy;Abhijith Das;Charles P. Wright;Erez Zadok;,http://www.usenix.org/publications/library/proceedings/sec04/tech/miretskiy.html
+uss/uss2004,2004,Protecting Software,Side Effects Are Not Sufficient to Authenticate Software.,Umesh Shankar;Monica Chew;J. D. Tygar;,http://www.usenix.org/publications/library/proceedings/sec04/tech/shankar.html
+uss/uss2004,2004,Protecting Software,On Gray-Box Program Tracking for Anomaly Detection.,Debin Gao;Michael K. Reiter;Dawn Xiaodong Song;,http://www.usenix.org/publications/library/proceedings/sec04/tech/gao.html
+uss/uss2004,2004,Protecting Software,Finding User/Kernel Pointer Bugs with Type Inference.,Robert Johnson;David A. Wagner;,http://www.usenix.org/publications/library/proceedings/sec04/tech/johnson.html
+uss/uss2004,2004,The Human Interface,Graphical Dictionaries and the Memorable Space of Graphical Passwords.,Julie Thorpe;Paul C. van Oorschot;,http://www.usenix.org/publications/library/proceedings/sec04/tech/thorpe.html
+uss/uss2004,2004,The Human Interface,On User Choice in Graphical Password Schemes.,Darren Davis;Fabian Monrose;Michael K. Reiter;,http://www.usenix.org/publications/library/proceedings/sec04/tech/davis.html
+uss/uss2004,2004,The Human Interface,Design of the EROS Trusted Window System.,Jonathan S. Shapiro;John Vanderburgh;Eric Northup;David Chizmadia;,http://www.usenix.org/publications/library/proceedings/sec04/tech/shapiro.html
+uss/uss2004,2004,Security Engineering,Copilot - a Coprocessor-based Kernel Runtime Integrity Monitor.,Nick L. Petroni Jr.;Timothy Fraser;Jesus Molina;William A. Arbaugh;,http://www.usenix.org/publications/library/proceedings/sec04/tech/petroni.html
+uss/uss2004,2004,Security Engineering,Fixing Races for Fun and Profit: How to Use access(2).,Drew Dean;Alan J. Hu;,http://www.usenix.org/publications/library/proceedings/sec04/tech/dean.html
+uss/uss2004,2004,Security Engineering,Network-in-a-Box: How to Set Up a Secure Wireless Network in Under a Minute.,Dirk Balfanz;Glenn Durfee;Rebecca E. Grinter;Diana K. Smetters;Paul Stewart;,http://www.usenix.org/publications/library/proceedings/sec04/tech/balfanz.html
+uss/uss2004,2004,Security Engineering,Design and Implementation of a TCG-based Integrity Measurement Architecture.,Reiner Sailer;Xiaolan Zhang;Trent Jaeger;Leendert van Doorn;,http://www.usenix.org/publications/library/proceedings/sec04/tech/sailer.html
+uss/uss2004,2004,Forensics and Response,Privacy-Preserving Sharing and Correlation of Security Alerts.,Patrick Lincoln;Phillip A. Porras;Vitaly Shmatikov;,http://www.usenix.org/publications/library/proceedings/sec04/tech/lincoln.html
+uss/uss2004,2004,Forensics and Response,Static Disassembly of Obfuscated Binaries.,Christopher Krügel;William K. Robertson;Fredrik Valeur;Giovanni Vigna;,http://www.usenix.org/publications/library/proceedings/sec04/tech/kruegel.html
+uss/uss2004,2004,Forensics and Response,"Autograph: Toward Automated, Distributed Worm Signature Detection.",Hyang-Ah Kim;Brad Karp;,http://www.usenix.org/publications/library/proceedings/sec04/tech/kim.html
+uss/uss2004,2004,Data Privacy,Fairplay - Secure Two-Party Computation System.,Dahlia Malkhi;Noam Nisan;Benny Pinkas;Yaron Sella;,http://www.usenix.org/publications/library/proceedings/sec04/tech/malkhi.html
+uss/uss2004,2004,Data Privacy,Tor: The Second-Generation Onion Router.,Roger Dingledine;Nick Mathewson;Paul F. Syverson;,http://www.usenix.org/publications/library/proceedings/sec04/tech/dingledine.html
+uss/uss2004,2004,Data Privacy,Understanding Data Lifetime via Whole System Simulation (Awarded Best Paper!).,Jim Chow;Ben Pfaff;Tal Garfinkel;Kevin Christopher;Mendel Rosenblum;,http://www.usenix.org/publications/library/proceedings/sec04/tech/chow.html
+uss/uss2004,2004,Invited Talks,RFID: Security and Privacy for Five-Cent Computers.,Ari Juels;,http://www.usenix.org/publications/library/proceedings/sec04/tech/slides/juels.htm
+uss/uss2004,2004,Invited Talks,Fighting Computer Virus Attacks.,Peter Szor;,http://www.usenix.org/publications/library/proceedings/sec04/tech/slides/szor.zip
+uss/uss2004,2004,Invited Talks,I Voted? How the Law Increasingly Restricts Independent Security Research.,Cindy Cohn;,http://www.usenix.org/publications/library/proceedings/sec04/tech/slides/cohn.htm
+uss/uss2004,2004,Invited Talks,"Metrics, Economics, and Shared Risk at the National Scale.",Daniel E. Geer Jr.;,http://www.usenix.org/publications/library/proceedings/sec04/tech/slides/geer.pdf
+uss/uss2004,2004,Invited Talks,Exploiting Software.,Gary McGraw;,http://www.usenix.org/publications/library/proceedings/sec04/tech/slides/mcgraw.pdf
+uss/uss2004,2004,Invited Talks,Military Strategy in CyberSpace.,Stuart Staniford;,http://www.usenix.org/publications/library/proceedings/sec04/tech/slides/staniford.htm
+uss/uss2004,2004,Invited Talks,What Biology Can (and Can't) Teach Us About Security.,David Evans;,http://www.cs.virginia.edu/~evans/usenix04/
+uss/uss2004,2004,Invited Talks,"Nuclear Weapons, Permissive Action Links, and the History of Public Key Cryptography.",Steven M. Bellovin;,http://www.research.att.com/~smb/talks/pal.pdf
+uss/uss2004,2004,Invited Talks,"My Dad's Computer, Microsoft, and the Future of Internet Security.",Bill Cheswick;,http://www.usenix.org/publications/library/proceedings/sec04/tech/slides/cheswick.htm

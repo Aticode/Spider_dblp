@@ -1,0 +1,32 @@
+tcc/tcc2005,2005,Hardness Amplification and Error Correction,Optimal Error Correction Against Computationally Bounded Noise.,Silvio Micali;Chris Peikert;Madhu Sudan;David A. Wilson;,https://doi.org/10.1007/978-3-540-30576-7_1
+tcc/tcc2005,2005,Hardness Amplification and Error Correction,Hardness Amplification of Weakly Verifiable Puzzles.,Ran Canetti;Shai Halevi;Michael Steiner;,https://doi.org/10.1007/978-3-540-30576-7_2
+tcc/tcc2005,2005,Hardness Amplification and Error Correction,On Hardness Amplification of One-Way Functions.,Henry C. Lin;Luca Trevisan;Hoeteck Wee;,https://doi.org/10.1007/978-3-540-30576-7_3
+tcc/tcc2005,2005,Graphs and Groups,Cryptography in Subgroups of Zn.,Jens Groth;,https://doi.org/10.1007/978-3-540-30576-7_4
+tcc/tcc2005,2005,Graphs and Groups,Efficiently Constructible Huge Graphs That Preserve First Order Properties of Random Graphs.,Moni Naor;Asaf Nussboim;Eran Tromer;,https://doi.org/10.1007/978-3-540-30576-7_5
+tcc/tcc2005,2005,Simulation and Secure Computation,Comparing Two Notions of Simulatability.,Dennis Hofheinz;Dominique Unruh;,https://doi.org/10.1007/978-3-540-30576-7_6
+tcc/tcc2005,2005,Simulation and Secure Computation,Relaxing Environmental Security: Monitored Functionalities and Client-Server Computation.,Manoj Prabhakaran;Amit Sahai;,https://doi.org/10.1007/978-3-540-30576-7_7
+tcc/tcc2005,2005,Simulation and Secure Computation,Handling Expected Polynomial-Time Strategies in Simulation-Based Security Proofs.,Jonathan Katz;Yehuda Lindell;,https://doi.org/10.1007/978-3-540-30576-7_8
+tcc/tcc2005,2005,Security of Encryption,"Adaptively-Secure, Non-interactive Public-Key Encryption.",Ran Canetti;Shai Halevi;Jonathan Katz;,https://doi.org/10.1007/978-3-540-30576-7_9
+tcc/tcc2005,2005,Security of Encryption,Adaptive Security of Symbolic Encryption.,Daniele Micciancio;Saurabh Panjwani;,https://doi.org/10.1007/978-3-540-30576-7_10
+tcc/tcc2005,2005,Security of Encryption,Chosen-Ciphertext Security of Multiple Encryption.,Yevgeniy Dodis;Jonathan Katz;,https://doi.org/10.1007/978-3-540-30576-7_11
+tcc/tcc2005,2005,Steganography and Zero Knowledge,Public-Key Steganography with Active Attacks.,Michael Backes;Christian Cachin;,https://doi.org/10.1007/978-3-540-30576-7_12
+tcc/tcc2005,2005,Steganography and Zero Knowledge,Upper and Lower Bounds on Black-Box Steganography.,Nenad Dedic;Gene Itkis;Leonid Reyzin;Scott Russell;,https://doi.org/10.1007/978-3-540-30576-7_13
+tcc/tcc2005,2005,Steganography and Zero Knowledge,Fair-Zero Knowledge.,Matt Lepinski;Silvio Micali;Abhi Shelat;,https://doi.org/10.1007/978-3-540-30576-7_14
+tcc/tcc2005,2005,Secure Computation,How to Securely Outsource Cryptographic Computations.,Susan Hohenberger;Anna Lysyanskaya;,https://doi.org/10.1007/978-3-540-30576-7_15
+tcc/tcc2005,2005,Secure Computation,Secure Computation of the Mean and Related Statistics.,Eike Kiltz;Gregor Leander;John Malone-Lee;,https://doi.org/10.1007/978-3-540-30576-7_16
+tcc/tcc2005,2005,Secure Computation,Keyword Search and Oblivious Pseudorandom Functions.,Michael J. Freedman;Yuval Ishai;Benny Pinkas;Omer Reingold;,https://doi.org/10.1007/978-3-540-30576-7_17
+tcc/tcc2005,2005,Secure Computation,Evaluating 2-DNF Formulas on Ciphertexts.,Dan Boneh;Eu-Jin Goh;Kobbi Nissim;,https://doi.org/10.1007/978-3-540-30576-7_18
+tcc/tcc2005,2005,Secure Computation,"Share Conversion, Pseudorandom Secret-Sharing and Applications to Secure Computation.",Ronald Cramer;Ivan Damgård;Yuval Ishai;,https://doi.org/10.1007/978-3-540-30576-7_19
+tcc/tcc2005,2005,Secure Computation,Toward Privacy in Public Databases.,Shuchi Chawla;Cynthia Dwork;Frank McSherry;Adam D. Smith;Hoeteck Wee;,https://doi.org/10.1007/978-3-540-30576-7_20
+tcc/tcc2005,2005,Quantum Cryptography and Universal Composability,The Universal Composable Security of Quantum Key Distribution.,Michael Ben-Or;Michal Horodecki;Debbie W. Leung;Dominic Mayers;Jonathan Oppenheim;,https://doi.org/10.1007/978-3-540-30576-7_21
+tcc/tcc2005,2005,Quantum Cryptography and Universal Composability,Universally Composable Privacy Amplification Against Quantum Adversaries.,Renato Renner;Robert König;,https://doi.org/10.1007/978-3-540-30576-7_22
+tcc/tcc2005,2005,Quantum Cryptography and Universal Composability,A Universally Composable Secure Channel Based on the KEM-DEM Framework.,Waka Nagao;Yoshifumi Manabe;Tatsuaki Okamoto;,https://doi.org/10.1007/978-3-540-30576-7_23
+tcc/tcc2005,2005,Cryptographic Primitives and Security,Sufficient Conditions for Collision-Resistant Hashing.,Yuval Ishai;Eyal Kushilevitz;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-540-30576-7_24
+tcc/tcc2005,2005,Cryptographic Primitives and Security,The Relationship Between Password-Authenticated Key Exchange and Other Cryptographic Primitives.,Minh-Huyen Nguyen;,https://doi.org/10.1007/978-3-540-30576-7_25
+tcc/tcc2005,2005,Cryptographic Primitives and Security,On the Relationships Between Notions of Simulation-Based Security.,Anupam Datta;Ralf Küsters;John C. Mitchell;Ajith Ramanathan;,https://doi.org/10.1007/978-3-540-30576-7_26
+tcc/tcc2005,2005,Encryption and Signatures,A New Cramer-Shoup Like Methodology for Group Based Provably Secure Encryption Schemes.,Maria Isabel Gonzalez Vasco;Consuelo Martínez;Rainer Steinwandt;Jorge Luis Villar;,https://doi.org/10.1007/978-3-540-30576-7_27
+tcc/tcc2005,2005,Encryption and Signatures,Further Simplifications in Proactive RSA Signatures.,Stanislaw Jarecki;Nitesh Saxena;,https://doi.org/10.1007/978-3-540-30576-7_28
+tcc/tcc2005,2005,Encryption and Signatures,Proof of Plaintext Knowledge for the Ajtai-Dwork Cryptosystem.,Shafi Goldwasser;Dmitriy Kharchenko;,https://doi.org/10.1007/978-3-540-30576-7_29
+tcc/tcc2005,2005,Information Theoretic Cryptography,Entropic Security and the Encryption of High Entropy Messages.,Yevgeniy Dodis;Adam D. Smith;,https://doi.org/10.1007/978-3-540-30576-7_30
+tcc/tcc2005,2005,Information Theoretic Cryptography,Error Correction in the Bounded Storage Model.,Yan Zong Ding;,https://doi.org/10.1007/978-3-540-30576-7_31
+tcc/tcc2005,2005,Information Theoretic Cryptography,Characterizing Ideal Weighted Threshold Secret Sharing.,Amos Beimel;Tamir Tassa;Enav Weinreb;,https://doi.org/10.1007/978-3-540-30576-7_32

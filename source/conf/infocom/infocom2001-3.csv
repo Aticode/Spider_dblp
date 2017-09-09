@@ -1,0 +1,64 @@
+infocom/infocom2001-3,2001,Web Caching,A Viability Analysis of Cooperative Proxy Caching.,Sandra G. Dykes;Kay A. Robbins;,https://doi.org/10.1109/INFCOM.2001.916614
+infocom/infocom2001-3,2001,Web Caching,Class-based Cache Management for Dynamic Web Content.,Huican Zhu;Tao Yang;,https://doi.org/10.1109/INFCOM.2001.916615
+infocom/infocom2001-3,2001,Web Caching,On the Sensitivity of Web Proxy Cache Performance to Workload Characteristics.,Mudashiru Busari;Carey L. Williamson;,https://doi.org/10.1109/INFCOM.2001.916617
+infocom/infocom2001-3,2001,Web Caching,"A Secure, Publisher-Centric Web Caching Infrastructure.",Andy Myers;John Chuang;Urs Hengartner;Yinglian Xie;Weiqiang Zhuang;Hui Zhang;,https://doi.org/10.1109/INFCOM.2001.916618
+infocom/infocom2001-3,2001,Traffic Modeling,A Study of Networks Simulation Efficiency: Fluid Simulation vs. Packet-level Simulation.,Benyuan Liu;Daniel R. Figueiredo;Yang Guo;James F. Kurose;Donald F. Towsley;,https://doi.org/10.1109/INFCOM.2001.916619
+infocom/infocom2001-3,2001,Traffic Modeling,On the Limitations of the Variance-time Test for Inference of Long-range Dependence.,Marwan Krunz;,https://doi.org/10.1109/INFCOM.2001.916620
+infocom/infocom2001-3,2001,Traffic Modeling,Algorithmic Solution to Second-order Fluid Flow.,Mircea Agapie;Khosrow Sohraby;,https://doi.org/10.1109/INFCOM.2001.916621
+infocom/infocom2001-3,2001,Traffic Modeling,Congestion Control via Online Sampling.,Gang Wu;Edwin K. P. Chong;Robert Givan;,https://doi.org/10.1109/INFCOM.2001.916622
+infocom/infocom2001-3,2001,Quality of Service,Measuring Service in Multi-Class Networks.,Aleksandar Kuzmanovic;Edward W. Knightly;,https://doi.org/10.1109/INFCOM.2001.916623
+infocom/infocom2001-3,2001,Quality of Service,Implementation and Evaluation of the KOM RSVP Engine.,Martin Karsten;Jens B. Schmitt;Ralf Steinmetz;,https://doi.org/10.1109/INFCOM.2001.916624
+infocom/infocom2001-3,2001,Quality of Service,MATE: MPLS Adaptive Traffic Engineering.,Anwar Elwalid;Cheng Jin;Steven H. Low;Indra Widjaja;,https://doi.org/10.1109/INFCOM.2001.916625
+infocom/infocom2001-3,2001,Quality of Service,On Retransmission Schemes for Real-time Streaming in the Internet.,Dmitri Loguinov;Hayder Radha;,https://doi.org/10.1109/INFCOM.2001.916626
+infocom/infocom2001-3,2001,Congestion Control,Window-Based Congestion Control with Heterogeneous Users.,Richard J. La;Venkat Anantharam;,https://doi.org/10.1109/INFCOM.2001.916627
+infocom/infocom2001-3,2001,Congestion Control,A Time Scale Decomposition Approach to Adaptive ECN Marking.,Srisankar S. Kunniyur;Rayadurgam Srikant;,https://doi.org/10.1109/INFCOM.2001.916628
+infocom/infocom2001-3,2001,Congestion Control,Aggregate Flow Control: Improving Assurances for Differentiated Services Network.,Biswajit Nandy;Jeremy Ethridge;Abderrahmane Lakas;Alan Chapman;,https://doi.org/10.1109/INFCOM.2001.916629
+infocom/infocom2001-3,2001,Congestion Control,State-dependent M/G/1 Type Queueing Analysis for Congestion Control in Data Networks.,Eitan Altman;Konstantin Avrachenkov;Chadi Barakat;R. Núñez Queija;,https://doi.org/10.1109/INFCOM.2001.916630
+infocom/infocom2001-3,2001,Ad Hoc Networks Control,Mobility Increases the Capacity of Ad-hoc Wireless Networks.,Matthias Grossglauser;David N. C. Tse;,https://doi.org/10.1109/INFCOM.2001.916631
+infocom/infocom2001-3,2001,Ad Hoc Networks Control,A Self-Coordinating Approach to Distributed Fair Queueing in Ad Hoc Wireless Networks.,Haiyun Luo;Paul Medvedev;Jerry Cheng;Songwu Lu;,https://doi.org/10.1109/INFCOM.2001.916632
+infocom/infocom2001-3,2001,Ad Hoc Networks Control,Coverage Problems in Wireless Ad-hoc Sensor Networks.,Seapahn Meguerdichian;Farinaz Koushanfar;Miodrag Potkonjak;Mani B. Srivastava;,https://doi.org/10.1109/INFCOM.2001.916633
+infocom/infocom2001-3,2001,Ad Hoc Networks Control,Distributed Topology Control for Wireless Multihop Ad-hoc Networks.,Roger Wattenhofer;Erran L. Li;Paramvir Bahl;Yi-Min Wang;,https://doi.org/10.1109/INFCOM.2001.916634
+infocom/infocom2001-3,2001,Web Caching,Refreshment Policies for Web Content Caches.,Edith Cohen;Haim Kaplan;,https://doi.org/10.1109/INFCOM.2001.916635
+infocom/infocom2001-3,2001,Web Caching,A Randomized Web-Cache Replacement Scheme.,Konstantinos Psounis;Balaji Prabhakar;,https://doi.org/10.1109/INFCOM.2001.916636
+infocom/infocom2001-3,2001,Web Caching,Analysis and Design of Hierarchical Web Caching Systems.,Hao Che;Zhijun Wang;Ye Tung;,https://doi.org/10.1109/INFCOM.2001.916637
+infocom/infocom2001-3,2001,Web Caching,Pseudo-Address Generation Algorithm of Packet Destinations for Internet Performance Simulation.,Masaki Aida;Tetsuya Abe;,https://doi.org/10.1109/INFCOM.2001.916638
+infocom/infocom2001-3,2001,Route Lookup and Classification,Fast Packet Classification for Two-Dimensional Conflict-Free Filters.,Priyank Ramesh Warkhede;Subhash Suri;George Varghese;,https://doi.org/10.1109/INFCOM.2001.916639
+infocom/infocom2001-3,2001,Route Lookup and Classification,A Dynamic Lookup Scheme for Bursty Access Patterns.,Funda Ergün;Suvo Mittra;Süleyman Cenk Sahinalp;Jonathan Sharp;Rakesh K. Sinha;,https://doi.org/10.1109/INFCOM.2001.916640
+infocom/infocom2001-3,2001,Route Lookup and Classification,Using Multiple Hash Functions to Improve IP Lookups.,Andrei Z. Broder;Michael Mitzenmacher;,https://doi.org/10.1109/INFCOM.2001.916641
+infocom/infocom2001-3,2001,Route Lookup and Classification,A Packet Classification and Filter Management System.,Venkatachary Srinivasan;,https://doi.org/10.1109/INFCOM.2001.916642
+infocom/infocom2001-3,2001,Scheduling,Network Calculus Applied to Optimal Smoothing.,Patrick Thiran;Jean-Yves Le Boudec;Frederic Worm;,https://doi.org/10.1109/INFCOM.2001.916643
+infocom/infocom2001-3,2001,Scheduling,Core-Stateless Guaranteed Rate Scheduling Algorithms.,Jasleen Kaur;Harrick M. Vin;,https://doi.org/10.1109/INFCOM.2001.916644
+infocom/infocom2001-3,2001,Scheduling,Achieving End-to-end Delay Bounds by EDF Scheduling without Traffic Shaping.,Kai Zhu;Yan Zhuang;Yannis Viniotis;,https://doi.org/10.1109/INFCOM.2001.916645
+infocom/infocom2001-3,2001,Scheduling,Delay Jitter Bounds and Packet Scale Rate Guarantee for Expedited Forwarding.,Jon C. R. Bennett;Kent Benson;Anna Charny;William F. Courtney;Jean-Yves Le Boudec;,https://doi.org/10.1109/INFCOM.2001.916646
+infocom/infocom2001-3,2001,Buffer Management,A Control Theoretic Analysis of RED.,C. V. Hollot;Vishal Misra;Donald F. Towsley;Weibo Gong;,https://doi.org/10.1109/INFCOM.2001.916647
+infocom/infocom2001-3,2001,Buffer Management,Stochastic Fair Blue: A Queue Management Algorithm for Enforcing Fairness.,Wu-chang Feng;Dilip D. Kandlur;Debanjan Saha;Kang G. Shin;,https://doi.org/10.1109/INFCOM.2001.916648
+infocom/infocom2001-3,2001,Buffer Management,Pipelined Sections: A New Buffer Management Discipline for Scalable QoS Provision.,Shun Yan Cheung;Corneliu S. Pencea;,https://doi.org/10.1109/INFCOM.2001.916649
+infocom/infocom2001-3,2001,Buffer Management,A Fuzzy Buffer Management Scheme For ATM and IP Networks.,Giuseppe Ascia;Vincenzo Catania;Giuseppe Ficili;Daniela Panno;,https://doi.org/10.1109/INFCOM.2001.916650
+infocom/infocom2001-3,2001,Ad Hoc Networks,Investigating the Energy Consumption of a Wireless Network Interface in an Ad Hoc Networking Environment.,Laura Marie Feeney;Martin Nilsson;,https://doi.org/10.1109/INFCOM.2001.916651
+infocom/infocom2001-3,2001,Ad Hoc Networks,DBASE : A Distributed Bandwidth Allocation/Sharing/Extension Protocol for Multimedia over IEEE 802.11 Ad Hoc Wireless LAN.,Shiann-Tsong Sheu;Tzu-Fang Sheu;,https://doi.org/10.1109/INFCOM.2001.916652
+infocom/infocom2001-3,2001,Ad Hoc Networks,Effective Replica Allocation in Ad Hoc Networks for Improving Data Accessibility.,Takahiro Hara;,https://doi.org/10.1109/INFCOM.2001.916653
+infocom/infocom2001-3,2001,Ad Hoc Networks,Distributed Topology Construction of Bluetooth Personal Area Networks.,Theodoros Salonidis;Pravin Bhagwat;Leandros Tassiulas;Richard O. LaMaire;,https://doi.org/10.1109/INFCOM.2001.916654
+infocom/infocom2001-3,2001,Web Performance,On the Placement of Web Server Replicas.,Lili Qiu;Venkata N. Padmanabhan;Geoffrey M. Voelker;,https://doi.org/10.1109/INFCOM.2001.916655
+infocom/infocom2001-3,2001,Web Performance,DHTTP: An Efficient and Cache-Friendly Transfer Protocol for Web Traffic.,Michael Rabinovich;Hua Wang;,https://doi.org/10.1109/INFCOM.2001.916656
+infocom/infocom2001-3,2001,Web Performance,Reducing Web Latency Using Reference Point Caching.,Girish P. Chandranmenon;George Varghese;,https://doi.org/10.1109/INFCOM.2001.916657
+infocom/infocom2001-3,2001,Web Performance,"Heavy Tails, Generalized Coding, and Optimal Web Layout.",Xiaoyun Zhu;Jie Yu;John Doyle;,https://doi.org/10.1109/INFCOM.2001.916658
+infocom/infocom2001-3,2001,Topology Discovery,Resource and Topology Discovery for IP Multicast Using a Fan-out Decrement Mechanism.,Jangwon Lee;Gustavo de Veciana;,https://doi.org/10.1109/INFCOM.2001.916659
+infocom/infocom2001-3,2001,Topology Discovery,Adaptive Multicast Topology Inference.,Nick G. Duffield;Joseph Horowitz;Francesco Lo Presti;,https://doi.org/10.1109/INFCOM.2001.916660
+infocom/infocom2001-3,2001,Topology Discovery,Computing the Unmeasured: An Algebraic Approach to Internet Mapping.,Yuval Shavitt;Xiaodong Sun;Avishai Wool;Bülent Yener;,https://doi.org/10.1109/INFCOM.2001.916661
+infocom/infocom2001-3,2001,Topology Discovery,Convex Optimization Methods for Sensor Node Position Estimation.,Lance Doherty;Kristofer S. J. Pister;Laurent El Ghaoui;,https://doi.org/10.1109/INFCOM.2001.916662
+infocom/infocom2001-3,2001,Switching,On the Throughput of Input-Queued Cell-Based Switches with Multicast Traffic.,Marco Ajmone Marsan;Andrea Bianco;Paolo Giaccone;Emilio Leonardi;Fabio Neri;,https://doi.org/10.1109/INFCOM.2001.916663
+infocom/infocom2001-3,2001,Switching,Achieving Stability in Networks of Input-Queued Switches.,Matthew Andrews;Lisa Zhang;,https://doi.org/10.1109/INFCOM.2001.916664
+infocom/infocom2001-3,2001,Switching,Making Parallel Packet Switches Practical.,Sundar Iyer;Nick McKeown;,https://doi.org/10.1109/INFCOM.2001.916665
+infocom/infocom2001-3,2001,Switching,On the Performance of a Dual Round-Robin Switch.,Yihan Li;Shivendra S. Panwar;H. Jonathan Chao;,https://doi.org/10.1109/INFCOM.2001.916666
+infocom/infocom2001-3,2001,TCP Modeling and Analysis,Behavior of TCP-like Elastic Traffic at a Buffered Bottleneck Router.,Hans-Peter Schwefel;,https://doi.org/10.1109/INFCOM.2001.916667
+infocom/infocom2001-3,2001,TCP Modeling and Analysis,A Detailed and Accurate Closed Queueing Network Model of Many Interacting TCP Flows.,Michele Garetto;Renato Lo Cigno;Michela Meo;Marco Ajmone Marsan;,https://doi.org/10.1109/INFCOM.2001.916668
+infocom/infocom2001-3,2001,TCP Modeling and Analysis,Transient Behaviors of TCP-friendly Congestion Control Protocols.,Yang Richard Yang;Min Sik Kim;Simon S. Lam;,https://doi.org/10.1109/INFCOM.2001.916669
+infocom/infocom2001-3,2001,TCP Modeling and Analysis,On Designing Improved Controllers for AQM Routers Supporting TCP Flows.,C. V. Hollot;Vishal Misra;Donald F. Towsley;Weibo Gong;,https://doi.org/10.1109/INFCOM.2001.916670
+infocom/infocom2001-3,2001,Mobile Networks,An On-demand QoS Routing Protocol for Mobile Ad Hoc Networks.,Chunhung Richard Lin;,https://doi.org/10.1109/INFCOM.2001.916671
+infocom/infocom2001-3,2001,Mobile Networks,A Prediction-based Link Availability Estimation for Mobile Ad Hoc Networks.,Shengming Jiang;Dajiang He;Jianqiang Rao;,https://doi.org/10.1109/INFCOM.2001.916672
+infocom/infocom2001-3,2001,Mobile Networks,"An Adaptive Distance Vector Routing Algorithm for Mobile, Ad Hoc Networks.",Rajendra V. Boppana;Satyadeva P. Konduru;,https://doi.org/10.1109/INFCOM.2001.916673
+infocom/infocom2001-3,2001,Mobile Networks,Enhancing Ad Hoc Routing with Dynamic Virtual Infrastructures.,Prasun Sinha;Raghupathy Sivakumar;Vaduvur Bharghavan;,https://doi.org/10.1109/INFCOM.2001.916674
+infocom/infocom2001-3,2001,Web Services,Optimal Allocation of Electronic Content.,Israel Cidon;Shay Kutten;Ran Soffer;,https://doi.org/10.1109/INFCOM.2001.916675
+infocom/infocom2001-3,2001,Web Services,Constructing Zero-loss Web Services.,Mon-Yen Luo;Chu-Sing Yang;,https://doi.org/10.1109/INFCOM.2001.916676
+infocom/infocom2001-3,2001,Web Services,Distributing Layered Encoded Video through Caches.,Jussi Kangasharju;Felix Hartanto;Martin Reisslein;Keith W. Ross;,https://doi.org/10.1109/INFCOM.2001.916677
+infocom/infocom2001-3,2001,Web Services,On the Effectiveness of DNS-based Server Selection.,Anees Shaikh;Renu Tewari;Mukesh Agrawal;,https://doi.org/10.1109/INFCOM.2001.916678

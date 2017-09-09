@@ -1,0 +1,33 @@
+ches/ches2001,2001,Invited Talk,Protecting Embedded Systems - The Next Ten Years.,Ross J. Anderson;,https://doi.org/10.1007/3-540-44709-1_1
+ches/ches2001,2001,Side Channel Attacks,A Sound Method for Switching between Boolean and Arithmetic Masking.,Louis Goubin;,https://doi.org/10.1007/3-540-44709-1_2
+ches/ches2001,2001,Side Channel Attacks,Fast Primitives for Internal Data Scrambling in Tamper Resistant Hardware.,Eric Brier;Helena Handschuh;Christophe Tymen;,https://doi.org/10.1007/3-540-44709-1_3
+ches/ches2001,2001,Side Channel Attacks,Random Register Renaming to Foil DPA.,David May;Henk L. Muller;Nigel P. Smart;,https://doi.org/10.1007/3-540-44709-1_4
+ches/ches2001,2001,Side Channel Attacks,Randomized Addition-Subtraction Chains as a Countermeasure against Power Attacks.,Elisabeth Oswald;Manfred Josef Aigner;,https://doi.org/10.1007/3-540-44709-1_5
+ches/ches2001,2001,Rijndael Hardware Implementation,Architectural Optimization for a 1.82Gbits/sec VLSI Implementation of the AES Rijndael Algorithm.,Henry Kuo;Ingrid Verbauwhede;,https://doi.org/10.1007/3-540-44709-1_6
+ches/ches2001,2001,Rijndael Hardware Implementation,High Performance Single-Chip FPGA Rijndael Algorithm Implementations.,Máire McLoone;John V. McCanny;,https://doi.org/10.1007/3-540-44709-1_7
+ches/ches2001,2001,Rijndael Hardware Implementation,Two Methods of Rijndael Implementation in Reconfigurable Hardware.,Viktor Fischer;Milos Drutarovský;,https://doi.org/10.1007/3-540-44709-1_8
+ches/ches2001,2001,Random Number Generators,Pseudo-random Number Generation on the IBM 4758 Secure Crypto Coprocessor.,Nick Howgrave-Graham;Joan G. Dyer;Rosario Gennaro;,https://doi.org/10.1007/3-540-44709-1_9
+ches/ches2001,2001,Random Number Generators,Efficient Online Tests for True Random Number Generators.,Werner Schindler;,https://doi.org/10.1007/3-540-44709-1_10
+ches/ches2001,2001,Elliptic Curve Algorithms,The Hessian Form of an Elliptic Curve.,Nigel P. Smart;,https://doi.org/10.1007/3-540-44709-1_11
+ches/ches2001,2001,Elliptic Curve Algorithms,Efficient Elliptic Curve Cryptosystems from a Scalar Multiplication Algorithm with Recovery of the y-Coordinate on a Montgomery-Form Elliptic Curve.,Katsuyuki Okeya;Kouichi Sakurai;,https://doi.org/10.1007/3-540-44709-1_12
+ches/ches2001,2001,Elliptic Curve Algorithms,Generating Elliptic Curves of Prime Order.,Erkay Savas;Thomas A. Schmidt;Çetin Kaya Koç;,https://doi.org/10.1007/3-540-44709-1_13
+ches/ches2001,2001,Invited Talk,New Directions in Croptography.,Adi Shamir;,https://doi.org/10.1007/3-540-44709-1_14
+ches/ches2001,2001,Arithmetic Architectures,A New Low Complexity Parallel Multiplier for a Class of Finite Fields.,Manuel Leone;,https://doi.org/10.1007/3-540-44709-1_15
+ches/ches2001,2001,Arithmetic Architectures,Efficient Rijndael Encryption Implementation with Composite Field Arithmetic.,Atri Rudra;Pradeep K. Dubey;Charanjit S. Jutla;Vijay Kumar;Josyula R. Rao;Pankaj Rohatgi;,https://doi.org/10.1007/3-540-44709-1_16
+ches/ches2001,2001,Arithmetic Architectures,High-Radix Design of a Scalable Modular Multiplier.,Alexandre F. Tenca;Georgi Todorov;Çetin Kaya Koç;,https://doi.org/10.1007/3-540-44709-1_17
+ches/ches2001,2001,Arithmetic Architectures,A Bit-Serial Unified Multiplier Architecture for Finite Fields GF(p) and GF(2m).,Johann Großschädl;,https://doi.org/10.1007/3-540-44709-1_18
+ches/ches2001,2001,Cryptanalysis,Attacks on Cryptoprocessor Transaction Sets.,Mike Bond;,https://doi.org/10.1007/3-540-44709-1_19
+ches/ches2001,2001,Cryptanalysis,Bandwidth-Optimal Kleptographic Attacks.,Adam L. Young;Moti Yung;,https://doi.org/10.1007/3-540-44709-1_20
+ches/ches2001,2001,Cryptanalysis,Electromagnetic Analysis: Concrete Results.,Karine Gandolfi;Christophe Mourtel;Francis Olivier;,https://doi.org/10.1007/3-540-44709-1_21
+ches/ches2001,2001,Embedded Implementations and New Ciphers,NTRU in Constrained Devices.,Daniel V. Bailey;Daniel Coffin;Adam J. Elbirt;Joseph H. Silverman;Adam D. Woodbury;,https://doi.org/10.1007/3-540-44709-1_22
+ches/ches2001,2001,Embedded Implementations and New Ciphers,Transparent Harddisk Encryption.,Thomas Pornin;,https://doi.org/10.1007/3-540-44709-1_23
+ches/ches2001,2001,Side Channel Attacks,Sliding Windows Succumbs to Big Mac Attack.,Colin D. Walter;,https://doi.org/10.1007/3-540-44709-1_24
+ches/ches2001,2001,Side Channel Attacks,Universal Exponentiation Algorithm.,Christophe Clavier;Marc Joye;,https://doi.org/10.1007/3-540-44709-1_25
+ches/ches2001,2001,Side Channel Attacks,"An Implementation of DES and AES, Secure against Some Attacks.",Mehdi-Laurent Akkar;Christophe Giraud;,https://doi.org/10.1007/3-540-44709-1_26
+ches/ches2001,2001,Hardware Implementation of Ciphers,"Efficient Implementation of ""Large"" Stream Cipher Systems.",Palash Sarkar;Subhamoy Maitra;,https://doi.org/10.1007/3-540-44709-1_27
+ches/ches2001,2001,Hardware Implementation of Ciphers,Tradeoffs in Parallel and Serial Implementations of the International Data Encryption Algorithm IDEA.,Ocean Y. H. Cheung;Kuen Hung Tsoi;Philip Heng Wai Leong;Monk-Ping Leong;,https://doi.org/10.1007/3-540-44709-1_28
+ches/ches2001,2001,Hardware Implementation of Ciphers,A Scalable GF(p) Elliptic Curve Processor Architecture for Programmable Hardware.,Gerardo Orlando;Christof Paar;,https://doi.org/10.1007/3-540-44709-1_29
+ches/ches2001,2001,Hardware Implementation of Ciphers,Implementation of RSA Algorithm Based on RNS Montgomery Multiplication.,Hanae Nozaki;Masahiko Motoyama;Atsushi Shimbo;Shin-ichi Kawamura;,https://doi.org/10.1007/3-540-44709-1_30
+ches/ches2001,2001,Side Channel Attacks on Elliptic Curve Cryptanalysis,Protections against Differential Analysis for Elliptic Curve Cryptography.,Marc Joye;Christophe Tymen;,https://doi.org/10.1007/3-540-44709-1_31
+ches/ches2001,2001,Side Channel Attacks on Elliptic Curve Cryptanalysis,Preventing SPA/DPA in ECC Systems Using the Jacobi Form.,Pierre-Yvan Liardet;Nigel P. Smart;,https://doi.org/10.1007/3-540-44709-1_32
+ches/ches2001,2001,Side Channel Attacks on Elliptic Curve Cryptanalysis,Hessian Elliptic Curves and Side-Channel Attacks.,Marc Joye;Jean-Jacques Quisquater;,https://doi.org/10.1007/3-540-44709-1_33

@@ -1,0 +1,39 @@
+crypto/crypto2009,2009,Key Leakage,Reconstructing RSA Private Keys from Random Key Bits.,Nadia Heninger;Hovav Shacham;,https://doi.org/10.1007/978-3-642-03356-8_1
+crypto/crypto2009,2009,Key Leakage,Public-Key Cryptosystems Resilient to Key Leakage.,Moni Naor;Gil Segev;,https://doi.org/10.1007/978-3-642-03356-8_2
+crypto/crypto2009,2009,Key Leakage,Leakage-Resilient Public-Key Cryptography in the Bounded-Retrieval Model.,Joël Alwen;Yevgeniy Dodis;Daniel Wichs;,https://doi.org/10.1007/978-3-642-03356-8_3
+crypto/crypto2009,2009,Hash-Function Cryptanalysis,Short Chosen-Prefix Collisions for MD5 and the Creation of a Rogue CA Certificate.,Marc Stevens;Alexander Sotirov;Jacob Appelbaum;Arjen K. Lenstra;David Molnar;Dag Arne Osvik;Benne de Weger;,https://doi.org/10.1007/978-3-642-03356-8_4
+crypto/crypto2009,2009,Hash-Function Cryptanalysis,Meet-in-the-Middle Preimage Attacks Against Reduced SHA-0 and SHA-1.,Kazumaro Aoki;Yu Sasaki;,https://doi.org/10.1007/978-3-642-03356-8_5
+crypto/crypto2009,2009,Privacy and Anonymity,Private Mutual Authentication and Conditional Oblivious Transfer.,Stanislaw Jarecki;Xiaomin Liu;,https://doi.org/10.1007/978-3-642-03356-8_6
+crypto/crypto2009,2009,Privacy and Anonymity,Randomizable Proofs and Delegatable Anonymous Credentials.,Mira Belenkiy;Jan Camenisch;Melissa Chase;Markulf Kohlweiss;Anna Lysyanskaya;Hovav Shacham;,https://doi.org/10.1007/978-3-642-03356-8_7
+crypto/crypto2009,2009,Privacy and Anonymity,Computational Differential Privacy.,Ilya Mironov;Omkant Pandey;Omer Reingold;Salil P. Vadhan;,https://doi.org/10.1007/978-3-642-03356-8_8
+crypto/crypto2009,2009,Interactive Proofs and Zero-Knowledge,Probabilistically Checkable Arguments.,Yael Tauman Kalai;Ran Raz;,https://doi.org/10.1007/978-3-642-03356-8_9
+crypto/crypto2009,2009,Interactive Proofs and Zero-Knowledge,On the Composition of Public-Coin Zero-Knowledge Protocols.,Rafael Pass;Wei-Lung Dustin Tseng;Douglas Wikström;,https://doi.org/10.1007/978-3-642-03356-8_10
+crypto/crypto2009,2009,Interactive Proofs and Zero-Knowledge,On the Amortized Complexity of Zero-Knowledge Protocols.,Ronald Cramer;Ivan Damgård;,https://doi.org/10.1007/978-3-642-03356-8_11
+crypto/crypto2009,2009,Interactive Proofs and Zero-Knowledge,Linear Algebra with Sub-linear Zero-Knowledge Arguments.,Jens Groth;,https://doi.org/10.1007/978-3-642-03356-8_12
+crypto/crypto2009,2009,Block-Cipher Cryptanalysis,New Birthday Attacks on Some MACs Based on Block Ciphers.,Zheng Yuan;Wei Wang;Keting Jia;Guangwu Xu;Xiaoyun Wang;,https://doi.org/10.1007/978-3-642-03356-8_13
+crypto/crypto2009,2009,Block-Cipher Cryptanalysis,Distinguisher and Related-Key Attack on the Full AES-256.,Alex Biryukov;Dmitry Khovratovich;Ivica Nikolic;,https://doi.org/10.1007/978-3-642-03356-8_14
+crypto/crypto2009,2009,Block-Cipher Cryptanalysis,Cryptanalysis of C2.,Julia Borghoff;Lars R. Knudsen;Gregor Leander;Krystian Matusiewicz;,https://doi.org/10.1007/978-3-642-03356-8_15
+crypto/crypto2009,2009,Modes of Operation,Message Authentication Codes from Unpredictable Block Ciphers.,Yevgeniy Dodis;John P. Steinberger;,https://doi.org/10.1007/978-3-642-03356-8_16
+crypto/crypto2009,2009,Modes of Operation,How to Encipher Messages on a Small Domain.,Ben Morris;Phillip Rogaway;Till Stegers;,https://doi.org/10.1007/978-3-642-03356-8_17
+crypto/crypto2009,2009,Elliptic Curves,How to Hash into Elliptic Curves.,Thomas Icart;,https://doi.org/10.1007/978-3-642-03356-8_18
+crypto/crypto2009,2009,Elliptic Curves,Batch Binary Edwards.,Daniel J. Bernstein;,https://doi.org/10.1007/978-3-642-03356-8_19
+crypto/crypto2009,2009,Cryptographic Hardness,Solving Hidden Number Problem with One Bit Oracle and Advice.,Adi Akavia;,https://doi.org/10.1007/978-3-642-03356-8_20
+crypto/crypto2009,2009,Cryptographic Hardness,Computational Indistinguishability Amplification: Tight Product Theorems for System Composition.,Ueli M. Maurer;Stefano Tessaro;,https://doi.org/10.1007/978-3-642-03356-8_21
+crypto/crypto2009,2009,Merkle Puzzles,Merkle Puzzles Are Optimal - An O(n2)-Query Attack on Any Key Exchange from a Random Oracle.,Boaz Barak;Mohammad Mahmoody-Ghidary;,https://doi.org/10.1007/978-3-642-03356-8_22
+crypto/crypto2009,2009,Cryptography in the Physical World,Position Based Cryptography.,Nishanth Chandran;Vipul Goyal;Ryan Moriarty;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-642-03356-8_23
+crypto/crypto2009,2009,Cryptography in the Physical World,Improving the Security of Quantum Protocols via Commit-and-Open.,Ivan Damgård;Serge Fehr;Carolin Lunemann;Louis Salvail;Christian Schaffner;,https://doi.org/10.1007/978-3-642-03356-8_24
+crypto/crypto2009,2009,Attacks on Signature Schemes,Practical Cryptanalysis of iso/iec 9796-2 and emv Signatures.,Jean-Sébastien Coron;David Naccache;Mehdi Tibouchi;Ralf-Philipp Weinmann;,https://doi.org/10.1007/978-3-642-03356-8_25
+crypto/crypto2009,2009,Attacks on Signature Schemes,How Risky Is the Random-Oracle Model?,Gaëtan Leurent;Phong Q. Nguyen;,https://doi.org/10.1007/978-3-642-03356-8_26
+crypto/crypto2009,2009,Invited Talk,Abstraction in Cryptography.,Ueli M. Maurer;,https://doi.org/10.1007/978-3-642-03356-8_27
+crypto/crypto2009,2009,Secret Sharing and Secure Computation,Asymptotically Good Ideal Linear Secret Sharing with Strong Multiplication over Any Fixed Finite Field.,Ignacio Cascudo Pueyo;Hao Chen;Ronald Cramer;Chaoping Xing;,https://doi.org/10.1007/978-3-642-03356-8_28
+crypto/crypto2009,2009,Secret Sharing and Secure Computation,The Round Complexity of Verifiable Secret Sharing Revisited.,Arpita Patra;Ashish Choudhary;Tal Rabin;C. Pandu Rangan;,https://doi.org/10.1007/978-3-642-03356-8_29
+crypto/crypto2009,2009,Secret Sharing and Secure Computation,Somewhat Non-committing Encryption and Efficient Adaptively Secure Oblivious Transfer.,Juan A. Garay;Daniel Wichs;Hong-Sheng Zhou;,https://doi.org/10.1007/978-3-642-03356-8_30
+crypto/crypto2009,2009,Cryptography and Game-Theory,Collusion-Free Multiparty Computation in the Mediated Model.,Joël Alwen;Jonathan Katz;Yehuda Lindell;Giuseppe Persiano;Abhi Shelat;Ivan Visconti;,https://doi.org/10.1007/978-3-642-03356-8_31
+crypto/crypto2009,2009,Cryptography and Game-Theory,Privacy-Enhancing Auctions Using Rational Cryptography.,Peter Bro Miltersen;Jesper Buus Nielsen;Nikos Triandopoulos;,https://doi.org/10.1007/978-3-642-03356-8_32
+crypto/crypto2009,2009,Cryptography and Game-Theory,Utility Dependence in Correct and Fair Rational Secret Sharing.,Gilad Asharov;Yehuda Lindell;,https://doi.org/10.1007/978-3-642-03356-8_33
+crypto/crypto2009,2009,Cryptography and Lattices,"On Bounded Distance Decoding, Unique Shortest Vectors, and the Minimum Distance Problem.",Vadim Lyubashevsky;Daniele Micciancio;,https://doi.org/10.1007/978-3-642-03356-8_34
+crypto/crypto2009,2009,Cryptography and Lattices,Fast Cryptographic Primitives and Circular-Secure Encryption Based on Hard Learning Problems.,Benny Applebaum;David Cash;Chris Peikert;Amit Sahai;,https://doi.org/10.1007/978-3-642-03356-8_35
+crypto/crypto2009,2009,Identity-Based Encryption,Dual System Encryption: Realizing Fully Secure IBE and HIBE under Simple Assumptions.,Brent Waters;,https://doi.org/10.1007/978-3-642-03356-8_36
+crypto/crypto2009,2009,Cryptographers' Toolbox,The Group of Signed Quadratic Residues and Applications.,Dennis Hofheinz;Eike Kiltz;,https://doi.org/10.1007/978-3-642-03356-8_37
+crypto/crypto2009,2009,Cryptographers' Toolbox,Short and Stateless Signatures from the RSA Assumption.,Susan Hohenberger;Brent Waters;,https://doi.org/10.1007/978-3-642-03356-8_38
+crypto/crypto2009,2009,Cryptographers' Toolbox,Smooth Projective Hashing for Conditionally Extractable Commitments.,Michel Abdalla;Céline Chevalier;David Pointcheval;,https://doi.org/10.1007/978-3-642-03356-8_39

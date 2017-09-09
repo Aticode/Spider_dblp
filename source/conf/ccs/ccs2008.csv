@@ -1,0 +1,52 @@
+ccs/ccs2008,2008,Keynote address,"The good, the bad, and the provable.",Martín Abadi;,http://doi.acm.org/10.1145/1455770.1455772
+ccs/ccs2008,2008,Attacks 1,Spamalytics: an empirical analysis of spam marketing conversion.,Chris Kanich;Christian Kreibich;Kirill Levchenko;Brandon Enright;Geoffrey M. Voelker;Vern Paxson;Stefan Savage;,http://doi.acm.org/10.1145/1455770.1455774
+ccs/ccs2008,2008,Attacks 1,Code injection attacks on harvard-architecture devices.,Aurélien Francillon;Claude Castelluccia;,http://doi.acm.org/10.1145/1455770.1455775
+ccs/ccs2008,2008,Attacks 1,When good instructions go bad: generalizing return-oriented programming to RISC.,Erik Buchanan;Ryan Roemer;Hovav Shacham;Stefan Savage;,http://doi.acm.org/10.1145/1455770.1455776
+ccs/ccs2008,2008,Software security 1,Efficient and extensible security enforcement using dynamic data flow analysis.,Walter Chang;Brandon Streiff;Calvin Lin;,http://doi.acm.org/10.1145/1455770.1455778
+ccs/ccs2008,2008,Software security 1,Ether: malware analysis via hardware virtualization extensions.,Artem Dinaburg;Paul Royal;Monirul I. Sharif;Wenke Lee;,http://doi.acm.org/10.1145/1455770.1455779
+ccs/ccs2008,2008,Software security 1,Extending logical attack graphs for efficient vulnerability analysis.,Diptikalyan Saha;,http://doi.acm.org/10.1145/1455770.1455780
+ccs/ccs2008,2008,Browser security,Robust defenses for cross-site request forgery.,Adam Barth;Collin Jackson;John C. Mitchell;,http://doi.acm.org/10.1145/1455770.1455782
+ccs/ccs2008,2008,Browser security,SOMA: mutual approval for included content in web pages.,Terri Oda;Glenn Wurster;Paul C. van Oorschot;Anil Somayaji;,http://doi.acm.org/10.1145/1455770.1455783
+ccs/ccs2008,2008,Browser security,OMash: enabling secure web mashups via object abstractions.,Steven Crites;Francis Hsu;Hao Chen;,http://doi.acm.org/10.1145/1455770.1455784
+ccs/ccs2008,2008,Formal methods 1,Computational soundness of observational equivalence.,Hubert Comon-Lundh;Véronique Cortier;,http://doi.acm.org/10.1145/1455770.1455786
+ccs/ccs2008,2008,Formal methods 1,"Unbounded verification, falsification, and characterization of security protocols by pattern refinement.",Cas J. F. Cremers;,http://doi.acm.org/10.1145/1455770.1455787
+ccs/ccs2008,2008,Formal methods 1,Reducing protocol analysis with XOR to the XOR-free case in the horn theory based approach.,Ralf Küsters;Tomasz Truderung;,http://doi.acm.org/10.1145/1455770.1455788
+ccs/ccs2008,2008,Privacy 1,Building castles out of mud: practical access pattern privacy and correctness on untrusted storage.,Peter Williams;Radu Sion;Bogdan Carbunar;,http://doi.acm.org/10.1145/1455770.1455790
+ccs/ccs2008,2008,Privacy 1,Location privacy of distance bounding protocols.,Kasper Bonne Rasmussen;Srdjan Capkun;,http://doi.acm.org/10.1145/1455770.1455791
+ccs/ccs2008,2008,Software security 2,Verifiable functional purity in java.,Matthew Finifter;Adrian Mettler;Naveen Sastry;David A. Wagner;,http://doi.acm.org/10.1145/1455770.1455793
+ccs/ccs2008,2008,Software security 2,Trust management for secure information flows.,Mudhakar Srivatsa;Shane Balfe;Kenneth G. Paterson;Pankaj Rohatgi;,http://doi.acm.org/10.1145/1455770.1455794
+ccs/ccs2008,2008,Network security,Mitigating DNS DoS attacks.,Hitesh Ballani;Paul Francis;,http://doi.acm.org/10.1145/1455770.1455796
+ccs/ccs2008,2008,Network security,Revocation games in ephemeral networks.,Maxim Raya;Mohammad Hossein Manshaei;Márk Félegyházi;Jean-Pierre Hubaux;,http://doi.acm.org/10.1145/1455770.1455797
+ccs/ccs2008,2008,Network security,Increased DNS forgery resistance through 0x20-bit encoding: security via leet queries.,David Dagon;Manos Antonakakis;Paul Vixie;Tatuya Jinmei;Wenke Lee;,http://doi.acm.org/10.1145/1455770.1455798
+ccs/ccs2008,2008,System security 1,Enforcing authorization policies using transactional memory introspection.,Arnar Birgisson;Mohan Dhawan;Úlfar Erlingsson;Vinod Ganapathy;Liviu Iftode;,http://doi.acm.org/10.1145/1455770.1455800
+ccs/ccs2008,2008,System security 1,Towards practical biometric key generation with randomized biometric templates.,Lucas Ballard;Seny Kamara;Fabian Monrose;Michael K. Reiter;,http://doi.acm.org/10.1145/1455770.1455801
+ccs/ccs2008,2008,System security 1,Towards automatic reverse engineering of software security configurations.,Rui Wang;XiaoFeng Wang;Kehuan Zhang;Zhuowei Li;,http://doi.acm.org/10.1145/1455770.1455802
+ccs/ccs2008,2008,Privacy 2,FairplayMP: a system for secure multi-party computation.,Assaf Ben-David;Noam Nisan;Benny Pinkas;,http://doi.acm.org/10.1145/1455770.1455804
+ccs/ccs2008,2008,Privacy 2,Information leaks in structured peer-to-peer anonymous communication systems.,Prateek Mittal;Nikita Borisov;,http://doi.acm.org/10.1145/1455770.1455805
+ccs/ccs2008,2008,Privacy 2,Privacy oracle: a system for finding application leaks with black box differential testing.,Jaeyeon Jung;Anmol Sheth;Ben Greenstein;David Wetherall;Gabriel Maganis;Tadayoshi Kohno;,http://doi.acm.org/10.1145/1455770.1455806
+ccs/ccs2008,2008,Access control,A formal framework for reflective database access control policies.,Lars E. Olson;Carl A. Gunter;P. Madhusudan;,http://doi.acm.org/10.1145/1455770.1455808
+ccs/ccs2008,2008,Access control,A class of probabilistic models for role engineering.,Mario Frank;David A. Basin;Joachim M. Buhmann;,http://doi.acm.org/10.1145/1455770.1455809
+ccs/ccs2008,2008,Access control,Assessing query privileges via safe and efficient permission composition.,Sabrina De Capitani di Vimercati;Sara Foresti;Sushil Jajodia;Stefano Paraboschi;Pierangela Samarati;,http://doi.acm.org/10.1145/1455770.1455810
+ccs/ccs2008,2008,Anonymity,Dependent link padding algorithms for low latency anonymity systems.,Wei Wang;Mehul Motani;Vikram Srinivasan;,http://doi.acm.org/10.1145/1455770.1455812
+ccs/ccs2008,2008,Anonymity,PEREA: towards practical TTP-free revocation in anonymous authentication.,Patrick P. Tsang;Man Ho Au;Apu Kapadia;Sean W. Smith;,http://doi.acm.org/10.1145/1455770.1455813
+ccs/ccs2008,2008,Anonymity,Efficient attributes for anonymous credentials.,Jan Camenisch;Thomas Groß;,http://doi.acm.org/10.1145/1455770.1455814
+ccs/ccs2008,2008,Formal methods 2,Type-checking zero-knowledge.,Michael Backes;Catalin Hritcu;Matteo Maffei;,http://doi.acm.org/10.1145/1455770.1455816
+ccs/ccs2008,2008,Formal methods 2,Towards automated proofs for asymmetric encryption schemes in the random oracle model.,Judicaël Courant;Marion Daubignard;Cristian Ene;Pascal Lafourcade;Yassine Lakhnech;,http://doi.acm.org/10.1145/1455770.1455817
+ccs/ccs2008,2008,Formal methods 2,EON: modeling and analyzing dynamic access control systems with logic programs.,Avik Chaudhuri;Prasad Naldurg;Sriram K. Rajamani;G. Ramalingam;Lakshmisubrahmanyam Velaga;,http://doi.acm.org/10.1145/1455770.1455818
+ccs/ccs2008,2008,System security 2,Tupni: automatic reverse engineering of input formats.,Weidong Cui;Marcus Peinado;Karl Chen;Helen J. Wang;Luis Irún-Briz;,http://doi.acm.org/10.1145/1455770.1455820
+ccs/ccs2008,2008,System security 2,Rootkit-resistant disks.,Kevin R. B. Butler;Stephen E. McLaughlin;Patrick D. McDaniel;,http://doi.acm.org/10.1145/1455770.1455821
+ccs/ccs2008,2008,Identity-based encryption,Identity-based encryption with efficient revocation.,Alexandra Boldyreva;Vipul Goyal;Virendra Kumar;,http://doi.acm.org/10.1145/1455770.1455823
+ccs/ccs2008,2008,Identity-based encryption,Black-box accountable authority identity-based encryption.,Vipul Goyal;Steve Lu;Amit Sahai;Brent Waters;,http://doi.acm.org/10.1145/1455770.1455824
+ccs/ccs2008,2008,Applied cryptography 1,Authenticated hash tables.,Charalampos Papamanthou;Roberto Tamassia;Nikos Triandopoulos;,http://doi.acm.org/10.1145/1455770.1455826
+ccs/ccs2008,2008,Applied cryptography 1,Multisignatures secure under the discrete logarithm assumption and a generalized forking lemma.,Ali Bagherzandi;Jung Hee Cheon;Stanislaw Jarecki;,http://doi.acm.org/10.1145/1455770.1455827
+ccs/ccs2008,2008,Applied cryptography 1,Cryptographically verified implementations for TLS.,Karthikeyan Bhargavan;Cédric Fournet;Ricardo Corin;Eugen Zalinescu;,http://doi.acm.org/10.1145/1455770.1455828
+ccs/ccs2008,2008,Device security,Reconsidering physical key secrecy: teleduplication via optical decoding.,Benjamin Laxton;Kai Wang;Stefan Savage;,http://doi.acm.org/10.1145/1455770.1455830
+ccs/ccs2008,2008,Device security,RFIDs and secret handshakes: defending against ghost-and-leech attacks and unauthorized reads with context-aware communications.,Alexei Czeskis;Karl Koscher;Joshua R. Smith;Tadayoshi Kohno;,http://doi.acm.org/10.1145/1455770.1455831
+ccs/ccs2008,2008,Device security,Constructions of truly practical secure protocols using standardsmartcards.,Carmit Hazay;Yehuda Lindell;,http://doi.acm.org/10.1145/1455770.1455832
+ccs/ccs2008,2008,Applied cryptography 2,Traitor tracing with constant size ciphertext.,Dan Boneh;Moni Naor;,http://doi.acm.org/10.1145/1455770.1455834
+ccs/ccs2008,2008,Applied cryptography 2,Multi-use unidirectional proxy re-signatures.,Benoît Libert;Damien Vergnaud;,http://doi.acm.org/10.1145/1455770.1455835
+ccs/ccs2008,2008,Applied cryptography 2,Efficient security primitives derived from a secure aggregation algorithm.,Haowen Chan;Adrian Perrig;,http://doi.acm.org/10.1145/1455770.1455836
+ccs/ccs2008,2008,Attacks 2,Machine learning attacks against the Asirra CAPTCHA.,Philippe Golle;,http://doi.acm.org/10.1145/1455770.1455838
+ccs/ccs2008,2008,Attacks 2,A low-cost attack on a Microsoft captcha.,Jeff Yan;Ahmad Salah El Ahmad;,http://doi.acm.org/10.1145/1455770.1455839
+ccs/ccs2008,2008,Attacks 2,BootJacker: compromising computers using forced restarts.,Ellick Chan;Jeffrey C. Carlyle;Francis M. David;Reza Farivar;Roy H. Campbell;,http://doi.acm.org/10.1145/1455770.1455840
+ccs/ccs2008,2008,Attacks 2,A look in the mirror: attacks on package managers.,Justin Cappos;Justin Samuel;Scott M. Baker;John H. Hartman;,http://doi.acm.org/10.1145/1455770.1455841

@@ -1,0 +1,24 @@
+srds/srds95,1995,Opening Keynote Address,"Omniscience, Consensus, Autonomy: Three Tempting Roads to Responsiveness.",Miroslaw Malek;,http://doi.ieeecomputersociety.org/10.1109/SRDS.1995.10001
+srds/srds95,1995,Experimental Reliability Evaluation,A Longitudinal Survey of Internet Host Reliability.,Darrell D. E. Long;Andrew Muir;Richard A. Golding;,https://doi.org/10.1109/RELDIS.1995.518718
+srds/srds95,1995,Experimental Reliability Evaluation,Experimental Evaluation of the Impact of Processor Faults on Parallel Applications.,Diamantino Costa;Francisco Moreira;Henrique Madeira;Mário Zenha Rela;João Gabriel Silva;,https://doi.org/10.1109/RELDIS.1995.518719
+srds/srds95,1995,Advanced Transaction Models,A Correctness Criterion for Advanced Transcation Models.,Andry Rakotonirainy;,https://doi.org/10.1109/RELDIS.1995.518720
+srds/srds95,1995,Advanced Transaction Models,Supporting Semantics-Based Transaction Processing in Mobile Database Applications.,Gary D. Walborn;Panos K. Chrysanthis;,https://doi.org/10.1109/RELDIS.1995.518721
+srds/srds95,1995,Advanced Transaction Models,Non-Blocking Atomic Commitment with an Unreliable Failure Detector.,Rachid Guerraoui;Mikel Larrea;André Schiper;,https://doi.org/10.1109/RELDIS.1995.518722
+srds/srds95,1995,Distributed Cooperation,On the Design of Systems of Cooperating Functional Processes.,Claus Aßmann;Werner E. Kluge;,https://doi.org/10.1109/RELDIS.1995.518723
+srds/srds95,1995,Distributed Cooperation,System Support for Robust Collaborative Applications.,Muthusamy Chelliah;Mustaque Ahamad;,https://doi.org/10.1109/RELDIS.1995.526214
+srds/srds95,1995,Distributed Cooperation,A Method for the Construction and Interpretation of High-Level Models for Distributed Fault-Tolerant Systems.,Károly Tilly;I. Kiss;G. Román;T. Dobrowiecki;Annamária R. Várkonyi-Kóczy;,https://doi.org/10.1109/RELDIS.1995.526215
+srds/srds95,1995,Checkpointing and Communications,Maximum and Minimum Consistent Global Checkpoints and their Applications.,Yi-Min Wang;,https://doi.org/10.1109/RELDIS.1995.526216
+srds/srds95,1995,Checkpointing and Communications,The Performance of Consistent Checkpointing in Distributed Shared Memory Systems.,Gilbert Cabillic;Gilles Muller;Isabelle Puaut;,https://doi.org/10.1109/RELDIS.1995.526217
+srds/srds95,1995,Checkpointing and Communications,A Hierarchy of Totally Ordered Multicasts.,Uwe G. Wilhelm;André Schiper;,https://doi.org/10.1109/RELDIS.1995.526218
+srds/srds95,1995,Dependable Distributed Systems,Configurable Highly Availbale Distributed Services.,Christos T. Karamanolis;Jeff Magee;,https://doi.org/10.1109/RELDIS.1995.526219
+srds/srds95,1995,Dependable Distributed Systems,An Integer Programming Approach for Assigning Votes in a Distributed System.,D. Venkaiah;Pankaj Jalote;,https://doi.org/10.1109/RELDIS.1995.526220
+srds/srds95,1995,Dependable Distributed Systems,A Paradigm for User-Defined Security Policies.,Winfried E. Kühnhauser;,https://doi.org/10.1109/RELDIS.1995.526221
+srds/srds95,1995,Distributed Real-Time Systems,A New Deadlock Detection Algorithm for Distributed Real-Time Database Systems.,Chim-fu Yeung;Sheung-lun Hung;,https://doi.org/10.1109/RELDIS.1995.526222
+srds/srds95,1995,Distributed Real-Time Systems,A Synchronization Strategy for a Time-Triggered Multicluster Real-Time System.,Hermann Kopetz;Andreas Krüger;Dietmar Millinger;Anton V. Schedl;,https://doi.org/10.1109/RELDIS.1995.526223
+srds/srds95,1995,Distributed Real-Time Systems,MUSE: A Message Passing Concurrent Computer for On-Board Space Systems.,F. Gaume;François Simon;Jean-Yves Le Gall;,https://doi.org/10.1109/RELDIS.1995.526224
+srds/srds95,1995,Voting and Fault Masking,Designing Masking Fault Tolerance via Nonmasking Fault Tolerance.,Anish Arora;Sandeep S. Kulkarni;,https://doi.org/10.1109/RELDIS.1995.526225
+srds/srds95,1995,Voting and Fault Masking,TMR Processing without Explicit Clock Synchronization.,Francisco V. Brasileiro;Paul D. Ezhilchelvan;Neil A. Speirs;,https://doi.org/10.1109/RELDIS.1995.526226
+srds/srds95,1995,Voting and Fault Masking,Performance Analysis of a Regeneration-Based Dynamic Voting Algorithm.,Robert J. Hilderman;Howard J. Hamilton;,https://doi.org/10.1109/RELDIS.1995.526227
+srds/srds95,1995,Error Detection and Diagnosis,Membership and System Diagnosis.,Matti A. Hiltunen;,https://doi.org/10.1109/RELDIS.1995.526228
+srds/srds95,1995,Error Detection and Diagnosis,Self Diagnosis of Processor Arrays Using a Comparison Model.,Piero Maestrini;Paolo Santi;,https://doi.org/10.1109/RELDIS.1995.526229
+srds/srds95,1995,Error Detection and Diagnosis,Failure Detection Algorithms for a Reliable Execution of Parallel Programs.,Sophie Chabridon;Erol Gelenbe;,https://doi.org/10.1109/RELDIS.1995.526230

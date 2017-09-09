@@ -1,0 +1,17 @@
+pkc/pkc2016-1,2016,CCA Security,Trading Plaintext-Awareness for Simulatability to Achieve Chosen Ciphertext Security.,Takahiro Matsuda;Goichiro Hanaoka;,https://doi.org/10.1007/978-3-662-49384-7_1
+pkc/pkc2016-1,2016,CCA Security,Chosen-Ciphertext Security from Subset Sum.,Sebastian Faust;Daniel Masny;Daniele Venturi;,https://doi.org/10.1007/978-3-662-49384-7_2
+pkc/pkc2016-1,2016,CCA Security,On the Hardness of Proving CCA-Security of Signed ElGamal.,David Bernhard;Marc Fischlin;Bogdan Warinschi;,https://doi.org/10.1007/978-3-662-49384-7_3
+pkc/pkc2016-1,2016,CCA Security,CCA-Secure Keyed-Fully Homomorphic Encryption.,Junzuo Lai;Robert H. Deng;Changshe Ma;Kouichi Sakurai;Jian Weng;,https://doi.org/10.1007/978-3-662-49384-7_4
+pkc/pkc2016-1,2016,CCA Security,On the Key Dependent Message Security of the Fujisaki-Okamoto Constructions.,Fuyuki Kitagawa;Takahiro Matsuda;Goichiro Hanaoka;Keisuke Tanaka;,https://doi.org/10.1007/978-3-662-49384-7_5
+pkc/pkc2016-1,2016,Functional Encryption,"Extended Nested Dual System Groups, Revisited.",Junqing Gong;Jie Chen;Xiaolei Dong;Zhenfu Cao;Shaohua Tang;,https://doi.org/10.1007/978-3-662-49384-7_6
+pkc/pkc2016-1,2016,Functional Encryption,Functional Encryption for Inner Product with Full Function Privacy.,Pratish Datta;Ratna Dutta;Sourav Mukhopadhyay;,https://doi.org/10.1007/978-3-662-49384-7_7
+pkc/pkc2016-1,2016,Functional Encryption,Deniable Functional Encryption.,Angelo De Caro;Vincenzo Iovino;Adam O'Neill;,https://doi.org/10.1007/978-3-662-49384-7_8
+pkc/pkc2016-1,2016,Identity-Based Encryption,Identity-Based Cryptosystems and Quadratic Residuosity.,Marc Joye;,https://doi.org/10.1007/978-3-662-49384-7_9
+pkc/pkc2016-1,2016,Identity-Based Encryption,Identity-Based Hierarchical Key-Insulated Encryption Without Random Oracles.,Yohei Watanabe;Junji Shikata;,https://doi.org/10.1007/978-3-662-49384-7_10
+pkc/pkc2016-1,2016,Signatures,Attribute-Based Signatures for Circuits from Bilinear Map.,Yusuke Sakai;Nuttapong Attrapadung;Goichiro Hanaoka;,https://doi.org/10.1007/978-3-662-49384-7_11
+pkc/pkc2016-1,2016,Signatures,Efficient Unlinkable Sanitizable Signatures from Signatures with Re-randomizable Keys.,Nils Fleischhacker;Johannes Krupp;Giulio Malavolta;Jonas Schneider;Dominique Schröder;Mark Simkin;,https://doi.org/10.1007/978-3-662-49384-7_12
+pkc/pkc2016-1,2016,Signatures,Fault-Tolerant Aggregate Signatures.,Gunnar Hartung;Björn Kaidel;Alexander Koch;Jessica Koch;Andy Rupp;,https://doi.org/10.1007/978-3-662-49384-7_13
+pkc/pkc2016-1,2016,Signatures,Delegatable Functional Signatures.,Michael Backes;Sebastian Meiser;Dominique Schröder;,https://doi.org/10.1007/978-3-662-49384-7_14
+pkc/pkc2016-1,2016,Signatures,Mitigating Multi-target Attacks in Hash-Based Signatures.,Andreas Hülsing;Joost Rijneveld;Fang Song;,https://doi.org/10.1007/978-3-662-49384-7_15
+pkc/pkc2016-1,2016,Signatures,Nearly Optimal Verifiable Data Streaming.,Johannes Krupp;Dominique Schröder;Mark Simkin;Dario Fiore;Giuseppe Ateniese;Stefan Nürnberger;,https://doi.org/10.1007/978-3-662-49384-7_16
+pkc/pkc2016-1,2016,Signatures,ARMed SPHINCS - Computing a 41 KB Signature in 16 KB of RAM.,Andreas Hülsing;Joost Rijneveld;Peter Schwabe;,https://doi.org/10.1007/978-3-662-49384-7_17

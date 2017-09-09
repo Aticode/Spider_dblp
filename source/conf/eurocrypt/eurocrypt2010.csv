@@ -1,0 +1,34 @@
+eurocrypt/eurocrypt2010,2010,Cryptosystems,On Ideal Lattices and Learning with Errors over Rings.,Vadim Lyubashevsky;Chris Peikert;Oded Regev;,https://doi.org/10.1007/978-3-642-13190-5_1
+eurocrypt/eurocrypt2010,2010,Cryptosystems,Fully Homomorphic Encryption over the Integers.,Marten van Dijk;Craig Gentry;Shai Halevi;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-642-13190-5_2
+eurocrypt/eurocrypt2010,2010,Cryptosystems,Converting Pairing-Based Cryptosystems from Composite-Order Groups to Prime-Order Groups.,David Mandell Freeman;,https://doi.org/10.1007/978-3-642-13190-5_3
+eurocrypt/eurocrypt2010,2010,Cryptosystems,Fully Secure Functional Encryption: Attribute-Based Encryption and (Hierarchical) Inner Product Encryption.,Allison B. Lewko;Tatsuaki Okamoto;Amit Sahai;Katsuyuki Takashima;Brent Waters;,https://doi.org/10.1007/978-3-642-13190-5_4
+eurocrypt/eurocrypt2010,2010,Obfuscation and Side Channel Security,Secure Obfuscation for Encrypted Signatures.,Satoshi Hada;,https://doi.org/10.1007/978-3-642-13190-5_5
+eurocrypt/eurocrypt2010,2010,Obfuscation and Side Channel Security,Public-Key Encryption in the Bounded-Retrieval Model.,Joël Alwen;Yevgeniy Dodis;Moni Naor;Gil Segev;Shabsi Walfish;Daniel Wichs;,https://doi.org/10.1007/978-3-642-13190-5_6
+eurocrypt/eurocrypt2010,2010,Obfuscation and Side Channel Security,Protecting Circuits from Leakage: the Computationally-Bounded and Noisy Cases.,Sebastian Faust;Tal Rabin;Leonid Reyzin;Eran Tromer;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-642-13190-5_7
+eurocrypt/eurocrypt2010,2010,2-Party Protocols,Partial Fairness in Secure Two-Party Computation.,S. Dov Gordon;Jonathan Katz;,https://doi.org/10.1007/978-3-642-13190-5_8
+eurocrypt/eurocrypt2010,2010,2-Party Protocols,Secure Message Transmission with Small Public Discussion.,Juan A. Garay;Clint Givens;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-642-13190-5_9
+eurocrypt/eurocrypt2010,2010,2-Party Protocols,On the Impossibility of Three-Move Blind Signature Schemes.,Marc Fischlin;Dominique Schröder;,https://doi.org/10.1007/978-3-642-13190-5_10
+eurocrypt/eurocrypt2010,2010,2-Party Protocols,Efficient Device-Independent Quantum Key Distribution.,Esther Hänggi;Renato Renner;Stefan Wolf;,https://doi.org/10.1007/978-3-642-13190-5_11
+eurocrypt/eurocrypt2010,2010,Cryptanalysis,New Generic Algorithms for Hard Knapsacks.,Nick Howgrave-Graham;Antoine Joux;,https://doi.org/10.1007/978-3-642-13190-5_12
+eurocrypt/eurocrypt2010,2010,Cryptanalysis,Lattice Enumeration Using Extreme Pruning.,Nicolas Gama;Phong Q. Nguyen;Oded Regev;,https://doi.org/10.1007/978-3-642-13190-5_13
+eurocrypt/eurocrypt2010,2010,Cryptanalysis,Algebraic Cryptanalysis of McEliece Variants with Compact Keys.,Jean-Charles Faugère;Ayoub Otmani;Ludovic Perret;Jean-Pierre Tillich;,https://doi.org/10.1007/978-3-642-13190-5_14
+eurocrypt/eurocrypt2010,2010,Cryptanalysis,Key Recovery Attacks of Practical Complexity on AES-256 Variants with up to 10 Rounds.,Alex Biryukov;Orr Dunkelman;Nathan Keller;Dmitry Khovratovich;Adi Shamir;,https://doi.org/10.1007/978-3-642-13190-5_15
+eurocrypt/eurocrypt2010,2010,2010 IACR Distinguished Lecture,Cryptography between Wonderland and Underland.,Moti Yung;,https://doi.org/10.1007/978-3-642-13190-5_16
+eurocrypt/eurocrypt2010,2010,Automated Tools and Formal Methods,"Automatic Search for Related-Key Differential Characteristics in Byte-Oriented Block Ciphers: Application to AES, Camellia, Khazad and Others.",Alex Biryukov;Ivica Nikolic;,https://doi.org/10.1007/978-3-642-13190-5_17
+eurocrypt/eurocrypt2010,2010,Automated Tools and Formal Methods,Plaintext-Dependent Decryption: A Formal Security Treatment of SSH-CTR.,Kenneth G. Paterson;Gaven J. Watson;,https://doi.org/10.1007/978-3-642-13190-5_18
+eurocrypt/eurocrypt2010,2010,Automated Tools and Formal Methods,"Computational Soundness, Co-induction, and Encryption Cycles.",Daniele Micciancio;,https://doi.org/10.1007/978-3-642-13190-5_19
+eurocrypt/eurocrypt2010,2010,Models and Proofs,Encryption Schemes Secure against Chosen-Ciphertext Selective Opening Attacks.,Serge Fehr;Dennis Hofheinz;Eike Kiltz;Hoeteck Wee;,https://doi.org/10.1007/978-3-642-13190-5_20
+eurocrypt/eurocrypt2010,2010,Models and Proofs,Cryptographic Agility and Its Relation to Circular Encryption.,Tolga Acar;Mira Belenkiy;Mihir Bellare;David Cash;,https://doi.org/10.1007/978-3-642-13190-5_21
+eurocrypt/eurocrypt2010,2010,Models and Proofs,Bounded Key-Dependent Message Security.,Boaz Barak;Iftach Haitner;Dennis Hofheinz;Yuval Ishai;,https://doi.org/10.1007/978-3-642-13190-5_22
+eurocrypt/eurocrypt2010,2010,Multiparty Protocols,Perfectly Secure Multiparty Computation and the Computational Overhead of Cryptography.,Ivan Damgård;Yuval Ishai;Mikkel Krøigaard;,https://doi.org/10.1007/978-3-642-13190-5_23
+eurocrypt/eurocrypt2010,2010,Multiparty Protocols,Adaptively Secure Broadcast.,Martin Hirt;Vassilis Zikas;,https://doi.org/10.1007/978-3-642-13190-5_24
+eurocrypt/eurocrypt2010,2010,Multiparty Protocols,Universally Composable Quantum Multi-party Computation.,Dominique Unruh;,https://doi.org/10.1007/978-3-642-13190-5_25
+eurocrypt/eurocrypt2010,2010,Cryptosystems,A Simple BGN-Type Cryptosystem from LWE.,Craig Gentry;Shai Halevi;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-642-13190-5_26
+eurocrypt/eurocrypt2010,2010,Cryptosystems,"Bonsai Trees, or How to Delegate a Lattice Basis.",David Cash;Dennis Hofheinz;Eike Kiltz;Chris Peikert;,https://doi.org/10.1007/978-3-642-13190-5_27
+eurocrypt/eurocrypt2010,2010,Cryptosystems,Efficient Lattice (H)IBE in the Standard Model.,Shweta Agrawal;Dan Boneh;Xavier Boyen;,https://doi.org/10.1007/978-3-642-13190-5_28
+eurocrypt/eurocrypt2010,2010,Hash and MAC,Multi-property-preserving Domain Extension Using Polynomial-Based Modes of Operation.,Jooyoung Lee;John P. Steinberger;,https://doi.org/10.1007/978-3-642-13190-5_29
+eurocrypt/eurocrypt2010,2010,Hash and MAC,Stam's Collision Resistance Conjecture.,John P. Steinberger;,https://doi.org/10.1007/978-3-642-13190-5_30
+eurocrypt/eurocrypt2010,2010,Hash and MAC,Universal One-Way Hash Functions via Inaccessible Entropy.,Iftach Haitner;Thomas Holenstein;Omer Reingold;Salil P. Vadhan;Hoeteck Wee;,https://doi.org/10.1007/978-3-642-13190-5_31
+eurocrypt/eurocrypt2010,2010,Foundational Primitives,Constant-Round Non-malleable Commitments from Sub-exponential One-Way Functions.,Rafael Pass;Hoeteck Wee;,https://doi.org/10.1007/978-3-642-13190-5_32
+eurocrypt/eurocrypt2010,2010,Foundational Primitives,Constructing Verifiable Random Functions with Large Input Spaces.,Susan Hohenberger;Brent Waters;,https://doi.org/10.1007/978-3-642-13190-5_33
+eurocrypt/eurocrypt2010,2010,Foundational Primitives,Adaptive Trapdoor Functions and Chosen-Ciphertext Security.,Eike Kiltz;Payman Mohassel;Adam O'Neill;,https://doi.org/10.1007/978-3-642-13190-5_34

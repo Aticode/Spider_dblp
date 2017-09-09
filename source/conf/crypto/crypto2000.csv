@@ -1,0 +1,33 @@
+crypto/crypto2000,2000,XTR and NTRU,The XTR Public Key System.,Arjen K. Lenstra;Eric R. Verheul;,https://doi.org/10.1007/3-540-44598-6_1
+crypto/crypto2000,2000,XTR and NTRU,A Chosen-Ciphertext Attack against NTRU.,Éliane Jaulmes;Antoine Joux;,https://doi.org/10.1007/3-540-44598-6_2
+crypto/crypto2000,2000,Privacy for Databases,Privacy Preserving Data Mining.,Yehuda Lindell;Benny Pinkas;,https://doi.org/10.1007/3-540-44598-6_3
+crypto/crypto2000,2000,Privacy for Databases,Reducing the Servers Computation in Private Information Retrieval: PIR with Preprocessing.,Amos Beimel;Yuval Ishai;Tal Malkin;,https://doi.org/10.1007/3-540-44598-6_4
+crypto/crypto2000,2000,Secure Distributed Computation and Applications,Parallel Reducibility for Information-Theoretically Secure Computation.,Yevgeniy Dodis;Silvio Micali;,https://doi.org/10.1007/3-540-44598-6_5
+crypto/crypto2000,2000,Secure Distributed Computation and Applications,Optimistic Fair Secure Computation.,Christian Cachin;Jan Camenisch;,https://doi.org/10.1007/3-540-44598-6_6
+crypto/crypto2000,2000,Secure Distributed Computation and Applications,A Cryptographic Solution to a Game Theoretic Problem.,Yevgeniy Dodis;Shai Halevi;Tal Rabin;,https://doi.org/10.1007/3-540-44598-6_7
+crypto/crypto2000,2000,Algebraic Cryptosystems,Differential Fault Attacks on Elliptic Curve Cryptosystems.,Ingrid Biehl;Bernd Meyer;Volker Müller;,https://doi.org/10.1007/3-540-44598-6_8
+crypto/crypto2000,2000,Algebraic Cryptosystems,Quantum Public-Key Cryptosystems.,Tatsuaki Okamoto;Keisuke Tanaka;Shigenori Uchiyama;,https://doi.org/10.1007/3-540-44598-6_9
+crypto/crypto2000,2000,Algebraic Cryptosystems,New Public-Key Cryptosystem Using Braid Groups.,Ki Hyoung Ko;Sangjin Lee;Jung Hee Cheon;Jae Woo Han;Ju-Sung Kang;Choonsik Park;,https://doi.org/10.1007/3-540-44598-6_10
+crypto/crypto2000,2000,Message Authentication,Key Recovery and Forgery Attacks on the MacDES MAC Algorithm.,Don Coppersmith;Lars R. Knudsen;Chris J. Mitchell;,https://doi.org/10.1007/3-540-44598-6_11
+crypto/crypto2000,2000,Message Authentication,CBC MACs for Arbitrary-Length Messages: The Three-Key Constructions.,John Black;Phillip Rogaway;,https://doi.org/10.1007/3-540-44598-6_12
+crypto/crypto2000,2000,Message Authentication,L-collision Attacks against Randomized MACs.,Michael Semanko;,https://doi.org/10.1007/3-540-44598-6_13
+crypto/crypto2000,2000,Digital Signatures,On the Exact Security of Full Domain Hash.,Jean-Sébastien Coron;,https://doi.org/10.1007/3-540-44598-6_14
+crypto/crypto2000,2000,Digital Signatures,Timed Commitments.,Dan Boneh;Moni Naor;,https://doi.org/10.1007/3-540-44598-6_15
+crypto/crypto2000,2000,Digital Signatures,A Practical and Provably Secure Coalition-Resistant Group Signature Scheme.,Giuseppe Ateniese;Jan Camenisch;Marc Joye;Gene Tsudik;,https://doi.org/10.1007/3-540-44598-6_16
+crypto/crypto2000,2000,Digital Signatures,Provably Secure Partially Blind Signatures.,Masayuki Abe;Tatsuaki Okamoto;,https://doi.org/10.1007/3-540-44598-6_17
+crypto/crypto2000,2000,Cryptanalysis,Weaknesses in the SL2(IFs2) Hashing Scheme.,Rainer Steinwandt;Markus Grassl;Willi Geiselmann;Thomas Beth;,https://doi.org/10.1007/3-540-44598-6_18
+crypto/crypto2000,2000,Cryptanalysis,Fast Correlation Attacks through Reconstruction of Linear Polynomials.,Thomas Johansson;Fredrik Jönsson;,https://doi.org/10.1007/3-540-44598-6_19
+crypto/crypto2000,2000,Traitor Tracing and Broadcast Encryption,Sequential Traitor Tracing.,Reihaneh Safavi-Naini;Yejing Wang;,https://doi.org/10.1007/3-540-44598-6_20
+crypto/crypto2000,2000,Traitor Tracing and Broadcast Encryption,Long-Lived Broadcast Encryption.,Juan A. Garay;Jessica Staddon;Avishai Wool;,https://doi.org/10.1007/3-540-44598-6_21
+crypto/crypto2000,2000,Invited Talk,Taming the Adversary.,Martín Abadi;,https://doi.org/10.1007/3-540-44598-6_22
+crypto/crypto2000,2000,Symmetric Encryption,The Security of All-or-Nothing Encryption: Protecting against Exhaustive Key Search.,Anand Desai;,https://doi.org/10.1007/3-540-44598-6_23
+crypto/crypto2000,2000,Symmetric Encryption,On the Round Security of Symmetric-Key Cryptographic Primitives.,Zulfikar Ramzan;Leonid Reyzin;,https://doi.org/10.1007/3-540-44598-6_24
+crypto/crypto2000,2000,Symmetric Encryption,New Paradigms for Constructing Symmetric Encryption Schemes Secure against Chosen-Ciphertext Attack.,Anand Desai;,https://doi.org/10.1007/3-540-44598-6_25
+crypto/crypto2000,2000,To Commit or Not to Commit,Efficient Non-malleable Commitment Schemes.,Marc Fischlin;Roger Fischlin;,https://doi.org/10.1007/3-540-44598-6_26
+crypto/crypto2000,2000,To Commit or Not to Commit,Improved Non-committing Encryption Schemes Based on a General Complexity Assumption.,Ivan Damgård;Jesper Buus Nielsen;,https://doi.org/10.1007/3-540-44598-6_27
+crypto/crypto2000,2000,Protocols,A Note on the Round-Complexity of Concurrent Zero-Knowledge.,Alon Rosen;,https://doi.org/10.1007/3-540-44598-6_28
+crypto/crypto2000,2000,Protocols,An Improved Pseudo-random Generator Based on Discrete Log.,Rosario Gennaro;,https://doi.org/10.1007/3-540-44598-6_29
+crypto/crypto2000,2000,Protocols,"Linking Classical and Quantum Key Agreement: Is There ""Bound Information""?",Nicolas Gisin;Stefan Wolf;,https://doi.org/10.1007/3-540-44598-6_30
+crypto/crypto2000,2000,Stream Ciphers and Boolean Functions,Maximum Correlation Analysis of Nonlinear S-boxes in Stream Ciphers.,Muxiang Zhang;Agnes Hui Chan;,https://doi.org/10.1007/3-540-44598-6_31
+crypto/crypto2000,2000,Stream Ciphers and Boolean Functions,Nonlinearity Bounds and Constructions of Resilient Boolean Functions.,Palash Sarkar;Subhamoy Maitra;,https://doi.org/10.1007/3-540-44598-6_32
+crypto/crypto2000,2000,Stream Ciphers and Boolean Functions,Almost Independent and Weakly Biased Arrays: Efficient Constructions and Cryptologic Applications.,Jürgen Bierbrauer;Holger Schellwat;,https://doi.org/10.1007/3-540-44598-6_33

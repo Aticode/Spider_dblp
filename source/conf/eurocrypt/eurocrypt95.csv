@@ -1,0 +1,34 @@
+eurocrypt/eurocrypt95,1995,Cryptanalysis,Attacking the Chor-Rivest Cryptosystem by Improved Lattice Reduction.,Claus-Peter Schnorr;Horst Helmut Hörner;,https://doi.org/10.1007/3-540-49264-X_1
+eurocrypt/eurocrypt95,1995,Cryptanalysis,Convergence in Differential Distributions.,Luke O'Connor;,https://doi.org/10.1007/3-540-49264-X_2
+eurocrypt/eurocrypt95,1995,Cryptanalysis,A Generalization of Linear Cryptanalysis and the Applicability of Matsui's Piling-Up Lemma.,Carlo Harpes;Gerhard G. Kramer;James L. Massey;,https://doi.org/10.1007/3-540-49264-X_3
+eurocrypt/eurocrypt95,1995,Signatures,On the Efficiency of Group Signatures Providing Information-Theoretic Anonymity.,Lidong Chen;Torben P. Pedersen;,https://doi.org/10.1007/3-540-49264-X_4
+eurocrypt/eurocrypt95,1995,Signatures,Verifiable Signature Sharing.,Matthew K. Franklin;Michael K. Reiter;,https://doi.org/10.1007/3-540-49264-X_5
+eurocrypt/eurocrypt95,1995,Signatures,Server (Prover/Signer)-Aided Verification of Identity Proofs and Signatures.,Chae Hoon Lim;Pil Joong Lee;,https://doi.org/10.1007/3-540-49264-X_6
+eurocrypt/eurocrypt95,1995,Number Theory,Counting the Number of Points on Elliptic Curves over Finite Fields: Strategies and Performance.,Reynald Lercier;François Morain;,https://doi.org/10.1007/3-540-49264-X_7
+eurocrypt/eurocrypt95,1995,Number Theory,An Implementation of the General Number Field Sieve to Compute Discrete Logarithms mod p.,Damian Weber;,https://doi.org/10.1007/3-540-49264-X_8
+eurocrypt/eurocrypt95,1995,Number Theory,A Block Lanczos Algorithm for Finding Dependencies Over GF(2).,Peter L. Montgomery;,https://doi.org/10.1007/3-540-49264-X_9
+eurocrypt/eurocrypt95,1995,Protocol Aspects,How to Break Another Provably Secure Payment System.,Birgit Pfitzmann;Matthias Schunter;Michael Waidner;,https://doi.org/10.1007/3-540-49264-X_10
+eurocrypt/eurocrypt95,1995,Protocol Aspects,Quantum Oblivious Mutual Identification.,Claude Crépeau;Louis Salvail;,https://doi.org/10.1007/3-540-49264-X_11
+eurocrypt/eurocrypt95,1995,Protocol Aspects,Securing Traceability of Ciphertexts - Towards a Secure Software Key Escrow System (Extended Abstract).,Yvo Desmedt;,https://doi.org/10.1007/3-540-49264-X_12
+eurocrypt/eurocrypt95,1995,Protocol Aspects,Secure Multiround Authentication Protocols.,Christian Gehrmann;,https://doi.org/10.1007/3-540-49264-X_13
+eurocrypt/eurocrypt95,1995,Secret Sharing,Verifiable Secret Sharing as Secure Computation.,Rosario Gennaro;Silvio Micali;,https://doi.org/10.1007/3-540-49264-X_14
+eurocrypt/eurocrypt95,1995,Secret Sharing,Efficient Secret Sharing Without a Mutually Trusted Authority (Extended Abstract).,Wen-Ai Jackson;Keith M. Martin;Christine M. O'Keefe;,https://doi.org/10.1007/3-540-49264-X_15
+eurocrypt/eurocrypt95,1995,Secret Sharing,General Short Computational Secret Sharing Schemes.,Philippe Béguin;Antonella Cresti;,https://doi.org/10.1007/3-540-49264-X_16
+eurocrypt/eurocrypt95,1995,Electronic Cash,Fair Blind Signatures.,Markus Stadler;Jean-Marc Piveteau;Jan Camenisch;,https://doi.org/10.1007/3-540-49264-X_17
+eurocrypt/eurocrypt95,1995,Electronic Cash,Ripping Coins For a Fair Exchange.,Markus Jakobsson;,https://doi.org/10.1007/3-540-49264-X_18
+eurocrypt/eurocrypt95,1995,Electronic Cash,Restrictive Blinding of Secret-Key Certificates.,Stefan Brands;,https://doi.org/10.1007/3-540-49264-X_19
+eurocrypt/eurocrypt95,1995,Shift Registers and Boolean Function,Towards Fast Correlation Attacks on Irregularly Clocked Shift Registers.,Jovan Dj. Golic;,https://doi.org/10.1007/3-540-49264-X_20
+eurocrypt/eurocrypt95,1995,Shift Registers and Boolean Function,Large Periods Nearly de Bruijn FCSR Sequences.,Andrew Klapper;Mark Goresky;,https://doi.org/10.1007/3-540-49264-X_21
+eurocrypt/eurocrypt95,1995,Shift Registers and Boolean Function,On Nonlinear Resilient Functions (Extended Abstract).,Xian-Mo Zhang;Yuliang Zheng;,https://doi.org/10.1007/3-540-49264-X_22
+eurocrypt/eurocrypt95,1995,Authentication Codes,Combinatorial Bounds for Authentication Codes with Arbitration.,Kaoru Kurosawa;Satoshi Obana;,https://doi.org/10.1007/3-540-49264-X_23
+eurocrypt/eurocrypt95,1995,Authentication Codes,New Hash Functions For Message Authentication.,Hugo Krawczyk;,https://doi.org/10.1007/3-540-49264-X_24
+eurocrypt/eurocrypt95,1995,Authentication Codes,A2 Codes from Universal Hash Classes.,Jürgen Bierbrauer;,https://doi.org/10.1007/3-540-49264-X_25
+eurocrypt/eurocrypt95,1995,New Schemas,A New Identification Scheme Based on the Perceptrons Problem.,David Pointcheval;,https://doi.org/10.1007/3-540-49264-X_26
+eurocrypt/eurocrypt95,1995,New Schemas,Fast RSA-type Schemes Based on Singular Cubic Curves y2+axy=m³(mod n).,Kenji Koyama;,https://doi.org/10.1007/3-540-49264-X_27
+eurocrypt/eurocrypt95,1995,Complexity Aspects,Relationships Among the Computational Powers of Breaking Discrete Log Cryptosystems.,Kouichi Sakurai;Hiroki Shizuya;,https://doi.org/10.1007/3-540-49264-X_28
+eurocrypt/eurocrypt95,1995,Complexity Aspects,Universal Hash Functions & Hard Core Bits.,Mats Näslund;,https://doi.org/10.1007/3-540-49264-X_29
+eurocrypt/eurocrypt95,1995,Complexity Aspects,Recycling Random Bits in Composed Perfect Zero-Knowledge.,Giovanni Di Crescenzo;,https://doi.org/10.1007/3-540-49264-X_30
+eurocrypt/eurocrypt95,1995,Implementation Aspects,On the Matsumoto and Imai's Human Identification Scheme.,Chih-Hung Wang;Tzonelih Hwang;Jiun-Jang Tsai;,https://doi.org/10.1007/3-540-49264-X_31
+eurocrypt/eurocrypt95,1995,Implementation Aspects,Receipt-Free Mix-Type Voting Scheme - A Practical Solution to the Implementation of a Voting Booth.,Kazue Sako;Joe Kilian;,https://doi.org/10.1007/3-540-49264-X_32
+eurocrypt/eurocrypt95,1995,Implementation Aspects,Are Crypto-Accelerators Really Inevitable? 20Bit Zero-Knowledge in Less than a Second on Simple 8-bit Microcontrollers.,David Naccache;David M'Raïhi;William Wolfowicz;Adina di Porto;,https://doi.org/10.1007/3-540-49264-X_33
+eurocrypt/eurocrypt95,1995,Rump Session,Anonymous NIZK Proofs of Knowledge with Preprocessing.,Stefano D'Amiano;Giovanni Di Crescenzo;,https://doi.org/10.1007/3-540-49264-X_34

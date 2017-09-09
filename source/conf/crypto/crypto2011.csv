@@ -1,0 +1,43 @@
+crypto/crypto2011,2011,None,"Leftover Hash Lemma, Revisited.",Boaz Barak;Yevgeniy Dodis;Hugo Krawczyk;Olivier Pereira;Krzysztof Pietrzak;François-Xavier Standaert;Yu Yu;,https://doi.org/10.1007/978-3-642-22792-9_1
+crypto/crypto2011,2011,None,Random Oracle Reducibility.,Paul Baecher;Marc Fischlin;,https://doi.org/10.1007/978-3-642-22792-9_2
+crypto/crypto2011,2011,None,Time-Lock Puzzles in the Random Oracle Model.,Mohammad Mahmoody;Tal Moran;Salil P. Vadhan;,https://doi.org/10.1007/978-3-642-22792-9_3
+crypto/crypto2011,2011,None,Physically Uncloneable Functions in the Universal Composition Framework.,Christina Brzuska;Marc Fischlin;Heike Schröder;Stefan Katzenbeisser;,https://doi.org/10.1007/978-3-642-22792-9_4
+crypto/crypto2011,2011,None,Computer-Aided Security Proofs for the Working Cryptographer.,Gilles Barthe;Benjamin Grégoire;Sylvain Heraud;Santiago Zanella Béguelin;,https://doi.org/10.1007/978-3-642-22792-9_5
+crypto/crypto2011,2011,None,Optimal Verification of Operations on Dynamic Sets.,Charalampos Papamanthou;Roberto Tamassia;Nikos Triandopoulos;,https://doi.org/10.1007/978-3-642-22792-9_6
+crypto/crypto2011,2011,None,Verifiable Delegation of Computation over Large Datasets.,Siavosh Benabbas;Rosario Gennaro;Yevgeniy Vahlis;,https://doi.org/10.1007/978-3-642-22792-9_7
+crypto/crypto2011,2011,None,Secure Computation on the Web: Computing without Simultaneous Interaction.,Shai Halevi;Yehuda Lindell;Benny Pinkas;,https://doi.org/10.1007/978-3-642-22792-9_8
+crypto/crypto2011,2011,None,Memory Delegation.,Kai-Min Chung;Yael Tauman Kalai;Feng-Hao Liu;Ran Raz;,https://doi.org/10.1007/978-3-642-22792-9_9
+crypto/crypto2011,2011,None,Automatic Search of Attacks on Round-Reduced AES and Applications.,Charles Bouillaguet;Patrick Derbez;Pierre-Alain Fouque;,https://doi.org/10.1007/978-3-642-22792-9_10
+crypto/crypto2011,2011,None,How to Improve Rebound Attacks.,María Naya-Plasencia;,https://doi.org/10.1007/978-3-642-22792-9_11
+crypto/crypto2011,2011,None,A Cryptanalysis of PRINTcipher: The Invariant Subspace Attack.,Gregor Leander;Mohamed Ahmed Abdelraheem;Hoda AlKhzaimi;Erik Zenner;,https://doi.org/10.1007/978-3-642-22792-9_12
+crypto/crypto2011,2011,None,The PHOTON Family of Lightweight Hash Functions.,Jian Guo;Thomas Peyrin;Axel Poschmann;,https://doi.org/10.1007/978-3-642-22792-9_13
+crypto/crypto2011,2011,None,Perfectly-Secure Multiplication for Any t < n/3.,Gilad Asharov;Yehuda Lindell;Tal Rabin;,https://doi.org/10.1007/978-3-642-22792-9_14
+crypto/crypto2011,2011,None,"The IPS Compiler: Optimizations, Variants and Concrete Efficiency.",Yehuda Lindell;Eli Oxman;Benny Pinkas;,https://doi.org/10.1007/978-3-642-22792-9_15
+crypto/crypto2011,2011,None,1/p-Secure Multiparty Computation without Honest Majority and the Best of Both Worlds.,Amos Beimel;Yehuda Lindell;Eran Omri;Ilan Orlov;,https://doi.org/10.1007/978-3-642-22792-9_16
+crypto/crypto2011,2011,None,Leakage-Resilient Zero Knowledge.,Sanjam Garg;Abhishek Jain;Amit Sahai;,https://doi.org/10.1007/978-3-642-22792-9_17
+crypto/crypto2011,2011,None,A Comprehensive Evaluation of Mutual Information Analysis Using a Fair Evaluation Framework.,Carolyn Whitnall;Elisabeth Oswald;,https://doi.org/10.1007/978-3-642-22792-9_18
+crypto/crypto2011,2011,None,Key-Evolution Schemes Resilient to Space-Bounded Leakage.,Stefan Dziembowski;Tomasz Kazana;Daniel Wichs;,https://doi.org/10.1007/978-3-642-22792-9_19
+crypto/crypto2011,2011,None,Generic Side-Channel Distinguishers: Improvements and Limitations.,Nicolas Veyrat-Charvillon;François-Xavier Standaert;,https://doi.org/10.1007/978-3-642-22792-9_20
+crypto/crypto2011,2011,None,Cryptography with Tamperable and Leaky Memory.,Yael Tauman Kalai;Bhavana Kanukurthi;Amit Sahai;,https://doi.org/10.1007/978-3-642-22792-9_21
+crypto/crypto2011,2011,None,Merkle Puzzles in a Quantum World.,Gilles Brassard;Peter Høyer;Kassem Kalach;Marc Kaplan;Sophie Laplante;Louis Salvail;,https://doi.org/10.1007/978-3-642-22792-9_22
+crypto/crypto2011,2011,None,Classical Cryptographic Protocols in a Quantum World.,Sean Hallgren;Adam D. Smith;Fang Song;,https://doi.org/10.1007/978-3-642-22792-9_23
+crypto/crypto2011,2011,None,Position-Based Quantum Cryptography: Impossibility and Constructions.,Harry Buhrman;Nishanth Chandran;Serge Fehr;Ran Gelles;Vipul Goyal;Rafail Ostrovsky;Christian Schaffner;,https://doi.org/10.1007/978-3-642-22792-9_24
+crypto/crypto2011,2011,None,Analyzing Blockwise Lattice Algorithms Using Dynamical Systems.,Guillaume Hanrot;Xavier Pujol;Damien Stehlé;,https://doi.org/10.1007/978-3-642-22792-9_25
+crypto/crypto2011,2011,None,Pseudorandom Knapsacks and the Sample Complexity of LWE Search-to-Decision Reductions.,Daniele Micciancio;Petros Mol;,https://doi.org/10.1007/978-3-642-22792-9_26
+crypto/crypto2011,2011,None,Tor and Circumvention: Lessons Learned - (Abstract to Go with Invited Talk).,Roger Dingledine;,https://doi.org/10.1007/978-3-642-22792-9_27
+crypto/crypto2011,2011,None,Fully Homomorphic Encryption over the Integers with Shorter Public Keys.,Jean-Sébastien Coron;Avradip Mandal;David Naccache;Mehdi Tibouchi;,https://doi.org/10.1007/978-3-642-22792-9_28
+crypto/crypto2011,2011,None,Fully Homomorphic Encryption from Ring-LWE and Security for Key Dependent Messages.,Zvika Brakerski;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-642-22792-9_29
+crypto/crypto2011,2011,None,Bi-Deniable Public-Key Encryption.,Adam O'Neill;Chris Peikert;Brent Waters;,https://doi.org/10.1007/978-3-642-22792-9_30
+crypto/crypto2011,2011,None,Better Security for Deterministic Public-Key Encryption: The Auxiliary-Input Setting.,Zvika Brakerski;Gil Segev;,https://doi.org/10.1007/978-3-642-22792-9_31
+crypto/crypto2011,2011,None,The Collision Security of Tandem-DM in the Ideal Cipher Model.,Jooyoung Lee;Martijn Stam;John P. Steinberger;,https://doi.org/10.1007/978-3-642-22792-9_32
+crypto/crypto2011,2011,None,Order-Preserving Encryption Revisited: Improved Security Analysis and Alternative Solutions.,Alexandra Boldyreva;Nathan Chenette;Adam O'Neill;,https://doi.org/10.1007/978-3-642-22792-9_33
+crypto/crypto2011,2011,None,A New Variant of PMAC: Beyond the Birthday Bound.,Kan Yasuda;,https://doi.org/10.1007/978-3-642-22792-9_34
+crypto/crypto2011,2011,None,Authenticated and Misuse-Resistant Encryption of Key-Dependent Data.,Mihir Bellare;Sriram Keelveedhi;,https://doi.org/10.1007/978-3-642-22792-9_35
+crypto/crypto2011,2011,None,Round Optimal Blind Signatures.,Sanjam Garg;Vanishree Rao;Amit Sahai;Dominique Schröder;Dominique Unruh;,https://doi.org/10.1007/978-3-642-22792-9_36
+crypto/crypto2011,2011,None,Optimal Structure-Preserving Signatures in Asymmetric Bilinear Groups.,Masayuki Abe;Jens Groth;Kristiyan Haralambiev;Miyako Ohkubo;,https://doi.org/10.1007/978-3-642-22792-9_37
+crypto/crypto2011,2011,None,Constant-Rate Oblivious Transfer from Noisy Channels.,Yuval Ishai;Eyal Kushilevitz;Rafail Ostrovsky;Manoj Prabhakaran;Amit Sahai;Jürg Wullschleger;,https://doi.org/10.1007/978-3-642-22792-9_38
+crypto/crypto2011,2011,None,The Torsion-Limit for Algebraic Function Fields and Its Application to Arithmetic Secret Sharing.,Ignacio Cascudo Pueyo;Ronald Cramer;Chaoping Xing;,https://doi.org/10.1007/978-3-642-22792-9_39
+crypto/crypto2011,2011,None,Public-Key Identification Schemes Based on Multivariate Quadratic Polynomials.,Koichi Sakumoto;Taizo Shirai;Harunaga Hiwatari;,https://doi.org/10.1007/978-3-642-22792-9_40
+crypto/crypto2011,2011,None,Inverting HFE Systems Is Quasi-Polynomial for All Fields.,Jintai Ding;Timothy J. Hodges;,https://doi.org/10.1007/978-3-642-22792-9_41
+crypto/crypto2011,2011,None,Smaller Decoding Exponents: Ball-Collision Decoding.,Daniel J. Bernstein;Tanja Lange;Christiane Peters;,https://doi.org/10.1007/978-3-642-22792-9_42
+crypto/crypto2011,2011,None,McEliece and Niederreiter Cryptosystems That Resist Quantum Fourier Sampling Attacks.,Hang Dinh;Cristopher Moore;Alexander Russell;,https://doi.org/10.1007/978-3-642-22792-9_43

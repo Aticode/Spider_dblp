@@ -1,0 +1,36 @@
+crypto/crypto2006,2006,None,Rigorous Bounds on Cryptanalytic Time/Memory Tradeoffs.,Elad Barkan;Eli Biham;Adi Shamir;,https://doi.org/10.1007/11818175_1
+crypto/crypto2006,2006,None,On the Power of the Randomized Iterate.,Iftach Haitner;Danny Harnik;Omer Reingold;,https://doi.org/10.1007/11818175_2
+crypto/crypto2006,2006,None,Strengthening Digital Signatures Via Randomized Hashing.,Shai Halevi;Hugo Krawczyk;,https://doi.org/10.1007/11818175_3
+crypto/crypto2006,2006,None,Round-Optimal Composable Blind Signatures in the Common Reference String Model.,Marc Fischlin;,https://doi.org/10.1007/11818175_4
+crypto/crypto2006,2006,None,On Signatures of Knowledge.,Melissa Chase;Anna Lysyanskaya;,https://doi.org/10.1007/11818175_5
+crypto/crypto2006,2006,None,Non-interactive Zaps and New Techniques for NIZK.,Jens Groth;Rafail Ostrovsky;Amit Sahai;,https://doi.org/10.1007/11818175_6
+crypto/crypto2006,2006,None,Rankin's Constant and Blockwise Lattice Reduction.,Nicolas Gama;Nick Howgrave-Graham;Henrik Koy;Phong Q. Nguyen;,https://doi.org/10.1007/11818175_7
+crypto/crypto2006,2006,None,Lattice-Based Cryptography.,Oded Regev;,https://doi.org/10.1007/11818175_8
+crypto/crypto2006,2006,None,A Method for Making Password-Based Key Exchange Resilient to Server Compromise.,Craig Gentry;Philip D. MacKenzie;Zulfikar Ramzan;,https://doi.org/10.1007/11818175_9
+crypto/crypto2006,2006,None,Mitigating Dictionary Attacks on Password-Protected Local Storage.,Ran Canetti;Shai Halevi;Michael Steiner;,https://doi.org/10.1007/11818175_10
+crypto/crypto2006,2006,None,Rationality and Adversarial Behavior in Multi-party Computation.,Anna Lysyanskaya;Nikos Triandopoulos;,https://doi.org/10.1007/11818175_11
+crypto/crypto2006,2006,None,When Random Sampling Preserves Privacy.,Kamalika Chaudhuri;Nina Mishra;,https://doi.org/10.1007/11818175_12
+crypto/crypto2006,2006,None,Tight Bounds for Unconditional Authentication Protocols in the Manual Channel and Shared Key Models.,Moni Naor;Gil Segev;Adam D. Smith;,https://doi.org/10.1007/11818175_13
+crypto/crypto2006,2006,None,Robust Fuzzy Extractors and Authenticated Key Agreement from Close Secrets.,Yevgeniy Dodis;Jonathan Katz;Leonid Reyzin;Adam D. Smith;,https://doi.org/10.1007/11818175_14
+crypto/crypto2006,2006,None,On Forward-Secure Storage.,Stefan Dziembowski;,https://doi.org/10.1007/11818175_15
+crypto/crypto2006,2006,None,Construction of a Non-malleable Encryption Scheme from Any Semantically Secure One.,Rafael Pass;Abhi Shelat;Vinod Vaikuntanathan;,https://doi.org/10.1007/11818175_16
+crypto/crypto2006,2006,None,Anonymous Hierarchical Identity-Based Encryption (Without Random Oracles).,Xavier Boyen;Brent Waters;,https://doi.org/10.1007/11818175_17
+crypto/crypto2006,2006,None,Fast Algorithms for the Free Riders Problem in Broadcast Encryption.,Zulfikar Ramzan;David P. Woodruff;,https://doi.org/10.1007/11818175_18
+crypto/crypto2006,2006,None,The Number Field Sieve in the Medium Prime Case.,Antoine Joux;Reynald Lercier;Nigel P. Smart;Frederik Vercauteren;,https://doi.org/10.1007/11818175_19
+crypto/crypto2006,2006,None,Inverting HFE Is Quasipolynomial.,Louis Granboulan;Antoine Joux;Jacques Stern;,https://doi.org/10.1007/11818175_20
+crypto/crypto2006,2006,None,Cryptanalysis of 2R- Schemes.,Jean-Charles Faugère;Ludovic Perret;,https://doi.org/10.1007/11818175_21
+crypto/crypto2006,2006,None,Receipt-Free Universally-Verifiable Voting with Everlasting Privacy.,Tal Moran;Moni Naor;,https://doi.org/10.1007/11818175_22
+crypto/crypto2006,2006,None,Cryptographic Protocols for Electronic Voting.,David A. Wagner;,https://doi.org/10.1007/11818175_23
+crypto/crypto2006,2006,None,Asymptotically Optimal Two-Round Perfectly Secure Message Transmission.,Saurabh Agarwal;Ronald Cramer;Robbert de Haan;,https://doi.org/10.1007/11818175_24
+crypto/crypto2006,2006,None,Random Selection with an Adversarial Majority.,Ronen Gradwohl;Salil P. Vadhan;David Zuckerman;,https://doi.org/10.1007/11818175_25
+crypto/crypto2006,2006,None,Oblivious Transfer and Linear Functions.,Ivan Damgård;Serge Fehr;Louis Salvail;Christian Schaffner;,https://doi.org/10.1007/11818175_26
+crypto/crypto2006,2006,None,On Expected Constant-Round Protocols for Byzantine Agreement.,Jonathan Katz;Chiu-Yuen Koo;,https://doi.org/10.1007/11818175_27
+crypto/crypto2006,2006,None,Robust Multiparty Computation with Linear Communication Complexity.,Martin Hirt;Jesper Buus Nielsen;,https://doi.org/10.1007/11818175_28
+crypto/crypto2006,2006,None,On Combining Privacy with Guaranteed Output Delivery in Secure Multiparty Computation.,Yuval Ishai;Eyal Kushilevitz;Yehuda Lindell;Erez Petrank;,https://doi.org/10.1007/11818175_29
+crypto/crypto2006,2006,None,Scalable Secure Multiparty Computation.,Ivan Damgård;Yuval Ishai;,https://doi.org/10.1007/11818175_30
+crypto/crypto2006,2006,None,Algebraic Geometric Secret Sharing Schemes and Secure Multi-Party Computations over Small Fields.,Hao Chen;Ronald Cramer;,https://doi.org/10.1007/11818175_31
+crypto/crypto2006,2006,None,Automated Security Proofs with Sequences of Games.,Bruno Blanchet;David Pointcheval;,https://doi.org/10.1007/11818175_32
+crypto/crypto2006,2006,None,On Robust Combiners for Private Information Retrieval and Other Primitives.,Remo Meier;Bartosz Przydatek;,https://doi.org/10.1007/11818175_33
+crypto/crypto2006,2006,None,On the Impossibility of Efficiently Combining Collision Resistant Hash Functions.,Dan Boneh;Xavier Boyen;,https://doi.org/10.1007/11818175_34
+crypto/crypto2006,2006,None,On the Higher Order Nonlinearities of Algebraic Immune Functions.,Claude Carlet;,https://doi.org/10.1007/11818175_35
+crypto/crypto2006,2006,None,New Proofs for NMAC and HMAC: Security without collision-resistance.,Mihir Bellare;,https://doi.org/10.1007/11818175_36

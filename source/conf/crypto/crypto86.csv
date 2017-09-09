@@ -1,0 +1,36 @@
+crypto/crypto86,1986,Data Encryption Standard,Structure in the S-boxes of the DES.,Ernest F. Brickell;Judy H. Moore;M. R. Purtill;,https://doi.org/10.1007/3-540-47721-7_1
+crypto/crypto86,1986,Data Encryption Standard,Cycle Structures of the DES with Weak and Semi-Weak Keys.,Judy H. Moore;Gustavus J. Simmons;,https://doi.org/10.1007/3-540-47721-7_2
+crypto/crypto86,1986,Public-Key Cryptography,Private-Key Algebraic-Coded Cryptosystems.,T. R. N. Rao;Kil-Hyun Nam;,https://doi.org/10.1007/3-540-47721-7_3
+crypto/crypto86,1986,Public-Key Cryptography,Some Variations on RSA Signatures and Their Security.,Wiebren de Jonge;David Chaum;,https://doi.org/10.1007/3-540-47721-7_4
+crypto/crypto86,1986,Public-Key Cryptography,Breaking the Cade Cipher.,N. S. James;Rudolf Lidl;Harald Niederreiter;,https://doi.org/10.1007/3-540-47721-7_5
+crypto/crypto86,1986,Public-Key Cryptography,A Modification of a Broken Public-Key Cipher.,John J. Cade;,https://doi.org/10.1007/3-540-47721-7_6
+crypto/crypto86,1986,Public-Key Cryptography,A Pseudo-Random Bit Generator Based on Elliptic Logarithms.,Burton S. Kaliski Jr.;,https://doi.org/10.1007/3-540-47721-7_7
+crypto/crypto86,1986,Public-Key Cryptography,Two Remarks Concerning the Goldwasser-Micali-Rivest Signature Scheme.,Oded Goldreich;,https://doi.org/10.1007/3-540-47721-7_8
+crypto/crypto86,1986,Public-Key Cryptography,Public-Key Systems Based on the Difficulty of Tampering (Is There a Difference Between DES and RSA?).,Yvo Desmedt;Jean-Jacques Quisquater;,https://doi.org/10.1007/3-540-47721-7_9
+crypto/crypto86,1986,Public-Key Cryptography,A Secure and Privacy-protecting Protocol for Transmitting Personal Information Between Organizations.,David Chaum;Jan-Hendrik Evertse;,https://doi.org/10.1007/3-540-47721-7_10
+crypto/crypto86,1986,Cryptographic Protocols and Zero-Knowledge Proofs,"How to Prove all NP-Statements in Zero-Knowledge, and a Methodology of Cryptographic Protocol Design.",Oded Goldreich;Silvio Micali;Avi Wigderson;,https://doi.org/10.1007/3-540-47721-7_11
+crypto/crypto86,1986,Cryptographic Protocols and Zero-Knowledge Proofs,How to Prove Yourself: Practical Solutions to Identification and Signature Problems.,Amos Fiat;Adi Shamir;,https://doi.org/10.1007/3-540-47721-7_12
+crypto/crypto86,1986,Cryptographic Protocols and Zero-Knowledge Proofs,Demonstrating That a Public Predicate Can Be Satisfied Without Revealing Any Information About How.,David Chaum;,https://doi.org/10.1007/3-540-47721-7_13
+crypto/crypto86,1986,Cryptographic Protocols and Zero-Knowledge Proofs,Demonstrating Possession of a Discrete Logarithm Without Revealing It.,David Chaum;Jan-Hendrik Evertse;Jeroen van de Graaf;René Peralta;,https://doi.org/10.1007/3-540-47721-7_14
+crypto/crypto86,1986,Cryptographic Protocols and Zero-Knowledge Proofs,Cryptographic Capsules: A Disjunctive Primative for Interactive Protocols.,Josh Cohen Benaloh;,https://doi.org/10.1007/3-540-47721-7_15
+crypto/crypto86,1986,Cryptographic Protocols and Zero-Knowledge Proofs,Zero-Knowledge Simulation of Boolean Circuits.,Gilles Brassard;Claude Crépeau;,https://doi.org/10.1007/3-540-47721-7_16
+crypto/crypto86,1986,Cryptographic Protocols and Zero-Knowledge Proofs,All-or-Nothing Disclosure of Secrets.,Gilles Brassard;Claude Crépeau;Jean-Marc Robert;,https://doi.org/10.1007/3-540-47721-7_17
+crypto/crypto86,1986,Cryptographic Protocols and Zero-Knowledge Proofs,A Zero-Knowledge Poker Protocol That Achieves Confidentiality of the Players' Strategy or How to Achieve an Electronic Poker Face.,Claude Crépeau;,https://doi.org/10.1007/3-540-47721-7_18
+crypto/crypto86,1986,Secret-Sharing Methods,Secret Sharing Homomorphisms: Keeping Shares of A Secret Sharing.,Josh Cohen Benaloh;,https://doi.org/10.1007/3-540-47721-7_19
+crypto/crypto86,1986,Secret-Sharing Methods,How to Share a Secret with Cheaters.,Martin Tompa;Heather Woll;,https://doi.org/10.1007/3-540-47721-7_20
+crypto/crypto86,1986,Secret-Sharing Methods,Smallest Possible Message Expansion in Threshold Schemes.,G. R. Blakley;R. D. Dixon;,https://doi.org/10.1007/3-540-47721-7_21
+crypto/crypto86,1986,Hardware Systems,VLSI Implementation of Public-Key Encryption Algorithms.,Glenn A. Orton;M. P. Roy;P. Andrew Scott;Lloyd E. Peppard;Stafford E. Tavares;,https://doi.org/10.1007/3-540-47721-7_22
+crypto/crypto86,1986,Hardware Systems,Architectures for Exponentiation in GF(2n).,Thomas Beth;B. M. Cook;Dieter Gollmann;,https://doi.org/10.1007/3-540-47721-7_23
+crypto/crypto86,1986,Hardware Systems,Implementing the Rivest Shamir and Adleman Public Key Encryption Algorithm on a Standard Digital Signal Processor.,Paul Barrett;,https://doi.org/10.1007/3-540-47721-7_24
+crypto/crypto86,1986,Software Systems,A High Speed Manipulation Detection Code.,Robert R. Jueneman;,https://doi.org/10.1007/3-540-47721-7_25
+crypto/crypto86,1986,Software Systems,Electronic Funds Transfer Point of Sale in Australia.,Ralph Gyoery;Jennifer Seberry;,https://doi.org/10.1007/3-540-47721-7_26
+crypto/crypto86,1986,"Software Protection, Probabilistic Methods, and Other Topics",The Notion of Security for Probabilistic Cryptosystems.,Silvio Micali;Charles Rackoff;Bob Sloan;,https://doi.org/10.1007/3-540-47721-7_27
+crypto/crypto86,1986,"Software Protection, Probabilistic Methods, and Other Topics",Large-Scale Randomization Techniques.,Neal R. Wagner;Paul Putter;Marianne R. Cain;,https://doi.org/10.1007/3-540-47721-7_28
+crypto/crypto86,1986,"Software Protection, Probabilistic Methods, and Other Topics",On the Linear Span of binary Sequences Obtained from Finite Geometries.,Agnes Hui Chan;Richard A. Games;,https://doi.org/10.1007/3-540-47721-7_29
+crypto/crypto86,1986,"Software Protection, Probabilistic Methods, and Other Topics",Some Constructions and Bounds for authentication Codes.,Douglas R. Stinson;,https://doi.org/10.1007/3-540-47721-7_30
+crypto/crypto86,1986,"Software Protection, Probabilistic Methods, and Other Topics",Towards a Theory of Software Protection.,Oded Goldreich;,https://doi.org/10.1007/3-540-47721-7_31
+crypto/crypto86,1986,Informal Contributions,Two Observations on Probabilistic Primality Testing.,Pierre Beauchemin;Gilles Brassard;Claude Crépeau;,https://doi.org/10.1007/3-540-47721-7_32
+crypto/crypto86,1986,Informal Contributions,Public-Key Registration.,Stephen M. Matyas;,https://doi.org/10.1007/3-540-47721-7_33
+crypto/crypto86,1986,Informal Contributions,Is There an ultimate Use of Cryptography?,Yvo Desmedt;,https://doi.org/10.1007/3-540-47721-7_34
+crypto/crypto86,1986,Informal Contributions,"Smart Card, a Highly Reliable and Portable Security Device.",Louis C. Guillou;Michel Ugon;,https://doi.org/10.1007/3-540-47721-7_35
+crypto/crypto86,1986,Informal Contributions,THOMAS - A Complete Single Chip RSA Device.,Gordon Rankine;,https://doi.org/10.1007/3-540-47721-7_36

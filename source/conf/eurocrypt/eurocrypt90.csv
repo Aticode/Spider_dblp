@@ -1,0 +1,48 @@
+eurocrypt/eurocrypt90,1990,Protocols,Yvo Desmedt: All Languages in NP Have Divertible Zero-Knowledge Proofs and Arguments Under Cryptographic Assumptions.,Mike Burmester;,https://doi.org/10.1007/3-540-46877-3_1
+eurocrypt/eurocrypt90,1990,Protocols,On the Importance of Memory Resources in the Security of Key Exchange Protocols.,George I. Davida;Yvo Desmedt;René Peralta;,https://doi.org/10.1007/3-540-46877-3_2
+eurocrypt/eurocrypt90,1990,Protocols,Provably Secure Key-Updating Schemes in Identity-Based Systems.,Shinji Shinozaki;Toshiya Itoh;Atsushi Fujioka;Shigeo Tsujii;,https://doi.org/10.1007/3-540-46877-3_3
+eurocrypt/eurocrypt90,1990,Protocols,Oblivous Transfer Protecting Secrecy.,Bert den Boer;,https://doi.org/10.1007/3-540-46877-3_4
+eurocrypt/eurocrypt90,1990,Protocols,Public-Randomness in Public Key Cryptography.,Alfredo De Santis;Giuseppe Persiano;,https://doi.org/10.1007/3-540-46877-3_5
+eurocrypt/eurocrypt90,1990,Protocols,An Interactive Identification Scheme Based on Discrete Logarithms and Factoring.,Ernest F. Brickell;Kevin S. McCurley;,https://doi.org/10.1007/3-540-46877-3_6
+eurocrypt/eurocrypt90,1990,Number-Theoretic Algorithms,Factoring With Two Large Primes.,Arjen K. Lenstra;Mark S. Manasse;,https://doi.org/10.1007/3-540-46877-3_7
+eurocrypt/eurocrypt90,1990,Number-Theoretic Algorithms,Which New RSA Signatures Can Be Computed From Some Given RSA Signatures?,Jan-Hendrik Evertse;Eugène van Heyst;,https://doi.org/10.1007/3-540-46877-3_8
+eurocrypt/eurocrypt90,1990,Number-Theoretic Algorithms,Implementation of a Key Exchange Protocol Using Some Real Quadratic Fields.,Renate Scheidler;Johannes A. Buchmann;Hugh C. Williams;,https://doi.org/10.1007/3-540-46877-3_9
+eurocrypt/eurocrypt90,1990,Number-Theoretic Algorithms,Distributed Primality Proving and the Primality of (23539+1)/3.,François Morain;,https://doi.org/10.1007/3-540-46877-3_10
+eurocrypt/eurocrypt90,1990,Boolean Functions,Properties of Binary Functions.,Sheelagh Lloyd;,https://doi.org/10.1007/3-540-46877-3_11
+eurocrypt/eurocrypt90,1990,Boolean Functions,How to Construct Pseudorandom Permutations from Single Pseudorandom Functions.,Josef Pieprzyk;,https://doi.org/10.1007/3-540-46877-3_12
+eurocrypt/eurocrypt90,1990,Boolean Functions,Constructions of Bent Functions and Difference Sets.,Kaisa Nyberg;,https://doi.org/10.1007/3-540-46877-3_13
+eurocrypt/eurocrypt90,1990,Boolean Functions,Propagation Characteristics of Boolean Functions.,Bart Preneel;Werner Van Leekwijck;Luc Van Linden;René Govaerts;Joos Vandewalle;,https://doi.org/10.1007/3-540-46877-3_14
+eurocrypt/eurocrypt90,1990,Binary Sequences,The Linear Complexity Profile and the Jump Complexity of Keystream Sequences.,Harald Niederreiter;,https://doi.org/10.1007/3-540-46877-3_15
+eurocrypt/eurocrypt90,1990,Binary Sequences,Lower Bounds for the Linear Complexity of Sequences over Residue Rings.,Zong-Duo Dai;Thomas Beth;Dieter Gollmann;,https://doi.org/10.1007/3-540-46877-3_16
+eurocrypt/eurocrypt90,1990,Binary Sequences,On the Construction of Run Permuted Sequences.,Cees J. A. Jansen;,https://doi.org/10.1007/3-540-46877-3_17
+eurocrypt/eurocrypt90,1990,Binary Sequences,Correlation Properties of Combiners with Memory in Stream Ciphers.,Willi Meier;Othmar Staffelbach;,https://doi.org/10.1007/3-540-46877-3_18
+eurocrypt/eurocrypt90,1990,Binary Sequences,Correlation Functions of Geometric Sequences.,Agnes Hui Chan;Mark Goresky;Andrew Klapper;,https://doi.org/10.1007/3-540-46877-3_19
+eurocrypt/eurocrypt90,1990,Implementations,Exponentiating Faster with Addition Chains.,Yacov Yacobi;,https://doi.org/10.1007/3-540-46877-3_20
+eurocrypt/eurocrypt90,1990,Implementations,A Cryptographic Library for the Motorola DSP56000.,Stephen R. Dussé;Burton S. Kaliski Jr.;,https://doi.org/10.1007/3-540-46877-3_21
+eurocrypt/eurocrypt90,1990,Implementations,VICTOR an Efficient RSA Hardware Implementation.,Holger Orup;Erik Svendsen;Erik Andreasen;,https://doi.org/10.1007/3-540-46877-3_22
+eurocrypt/eurocrypt90,1990,Implementations,Experimental Quantum Cryptography.,Charles H. Bennett;François Bessette;Gilles Brassard;Louis Salvail;John A. Smolin;,https://doi.org/10.1007/3-540-46877-3_23
+eurocrypt/eurocrypt90,1990,Combinatorial Schemes,A Protocol to Set Up Shared Secret Schemes Without the Assistance of a Mutualy Trusted Party.,Ingemar Ingemarsson;Gustavus J. Simmons;,https://doi.org/10.1007/3-540-46877-3_24
+eurocrypt/eurocrypt90,1990,Combinatorial Schemes,Lower Bounds for Authentication Codes With Splitting.,Andrea Sgarro;,https://doi.org/10.1007/3-540-46877-3_25
+eurocrypt/eurocrypt90,1990,Combinatorial Schemes,Essentially l-Fold Secure Authentication Systems.,Albrecht Beutelspacher;Ute Rosenbaum;,https://doi.org/10.1007/3-540-46877-3_26
+eurocrypt/eurocrypt90,1990,Combinatorial Schemes,On the Construction of Authentication Codes With Secrecy and Codes Withstanding Spoofing Attacks of Order L >= 2.,Ben J. M. Smeets;Peter Vanroose;Zhe-xian Wan;,https://doi.org/10.1007/3-540-46877-3_27
+eurocrypt/eurocrypt90,1990,Cryptanalysis,Cryptanalysis of a Public-Key Cryptosystem Based on Approximations by Rational Numbers.,Jacques Stern;Philippe Toffin;,https://doi.org/10.1007/3-540-46877-3_28
+eurocrypt/eurocrypt90,1990,Cryptanalysis,A Known Plaintext Attack on Two-Key Triple Encryption.,Paul C. van Oorschot;Michael J. Wiener;,https://doi.org/10.1007/3-540-46877-3_29
+eurocrypt/eurocrypt90,1990,Cryptanalysis,Confirmation that Some Hash Functions Are Not Collision Free.,Shoji Miyaguchi;Kazuo Ohta;Masahiko Iwata;,https://doi.org/10.1007/3-540-46877-3_30
+eurocrypt/eurocrypt90,1990,Cryptanalysis,Inverting the Pseudo Exponentiation.,Fritz Bauspieß;Hans-Joachim Knobloch;Peer Wichmann;,https://doi.org/10.1007/3-540-46877-3_31
+eurocrypt/eurocrypt90,1990,New Cryptosystems,Cryptosystem for Group Oriented Cryptography.,Tzonelih Hwang;,https://doi.org/10.1007/3-540-46877-3_32
+eurocrypt/eurocrypt90,1990,New Cryptosystems,A Provably-Secure Strongly-Randomized Cipher.,Ueli M. Maurer;,https://doi.org/10.1007/3-540-46877-3_33
+eurocrypt/eurocrypt90,1990,New Cryptosystems,General Public Key Residue Cryptosystems and Mental Poker Protocols.,Kaoru Kurosawa;Yutaka Katayama;Wakaha Ogata;Shigeo Tsujii;,https://doi.org/10.1007/3-540-46877-3_34
+eurocrypt/eurocrypt90,1990,New Cryptosystems,A Proposal for a New Block Encryption Standard.,Xuejia Lai;James L. Massey;,https://doi.org/10.1007/3-540-46877-3_35
+eurocrypt/eurocrypt90,1990,New Cryptosystems,A New Trapdoor in Knapsacks.,Valtteri Niemi;,https://doi.org/10.1007/3-540-46877-3_36
+eurocrypt/eurocrypt90,1990,Signatures and Authentication,On the Design of Provably Secure Cryptographic Hash Functions.,Alfredo De Santis;Moti Yung;,https://doi.org/10.1007/3-540-46877-3_37
+eurocrypt/eurocrypt90,1990,Signatures and Authentication,Fast Signature Generation With a Fiat Shamir-Like Scheme.,H. Ong;Claus-Peter Schnorr;,https://doi.org/10.1007/3-540-46877-3_38
+eurocrypt/eurocrypt90,1990,Signatures and Authentication,A Remark on a Signature Scheme Where Forgery Can Be Proved.,Gerrit Bleumer;Birgit Pfitzmann;Michael Waidner;,https://doi.org/10.1007/3-540-46877-3_39
+eurocrypt/eurocrypt90,1990,Signatures and Authentication,Membership Authentication for Hierarchical Multigroups Using the Extended Fiat-Shamir Scheme.,Kazuo Ohta;Tatsuaki Okamoto;Kenji Koyama;,https://doi.org/10.1007/3-540-46877-3_40
+eurocrypt/eurocrypt90,1990,Signatures and Authentication,Zero-Knowledge Undeniable Signatures.,David Chaum;,https://doi.org/10.1007/3-540-46877-3_41
+eurocrypt/eurocrypt90,1990,Signatures and Authentication,"Precautions Taken Against Various Potential Attacks in ISO/IEC DIS 9796 ""Digital Signature Scheme Giving Message Recovery"".",Louis C. Guillou;Jean-Jacques Quisquater;Michael Walker;Peter Landrock;Caroline Shafer;,https://doi.org/10.1007/3-540-46877-3_42
+eurocrypt/eurocrypt90,1990,Rump Session:Impromptu Talks,Software Run-Time Protection: A Cryptographic Issue.,Josep Domingo-Ferrer;,https://doi.org/10.1007/3-540-46877-3_43
+eurocrypt/eurocrypt90,1990,Rump Session:Impromptu Talks,An Identity-based Identification Scheme Based on Discrete Logarithms Modulo a Composite Number.,Marc Girault;,https://doi.org/10.1007/3-540-46877-3_44
+eurocrypt/eurocrypt90,1990,Rump Session:Impromptu Talks,A Noisy Clock-Controlled Shift Register Cryptanalysis Concept Based on Sequence Comparion Approach.,Jovan Dj. Golic;Miodrag J. Mihaljevic;,https://doi.org/10.1007/3-540-46877-3_45
+eurocrypt/eurocrypt90,1990,Rump Session:Impromptu Talks,The MD4 Message Digest Algorithm (Abstract).,Burton S. Kaliski Jr.;,https://doi.org/10.1007/3-540-46877-3_46
+eurocrypt/eurocrypt90,1990,Rump Session:Impromptu Talks,A Remark on the Efficiency of Identification Schemes.,Mike Burmester;,https://doi.org/10.1007/3-540-46877-3_47
+eurocrypt/eurocrypt90,1990,Rump Session:Impromptu Talks,On an Implementation of the Mohan-Adiga Algorithm.,Gisela Meister;,https://doi.org/10.1007/3-540-46877-3_48

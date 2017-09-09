@@ -1,0 +1,18 @@
+pkc/pkc2017-2,2017,Encryption with Access Control,Dual System Framework in Multilinear Settings and Applications to Fully Secure (Compact) ABE for Unbounded-Size Circuits.,Nuttapong Attrapadung;,https://doi.org/10.1007/978-3-662-54388-7_1
+pkc/pkc2017-2,2017,Encryption with Access Control,CCA-Secure Inner-Product Functional Encryption from Projective Hash Functions.,Fabrice Benhamouda;Florian Bourse;Helger Lipmaa;,https://doi.org/10.1007/978-3-662-54388-7_2
+pkc/pkc2017-2,2017,Encryption with Access Control,Bounded-Collusion Attribute-Based Encryption from Minimal Assumptions.,Gene Itkis;Emily Shen;Mayank Varia;David Wilson;Arkady Yerukhimovich;,https://doi.org/10.1007/978-3-662-54388-7_3
+pkc/pkc2017-2,2017,Encryption with Access Control,"Access Control Encryption for Equality, Comparison, and More.",Georg Fuchsbauer;Romain Gay;Lucas Kowalczyk;Claudio Orlandi;,https://doi.org/10.1007/978-3-662-54388-7_4
+pkc/pkc2017-2,2017,Special Signatures,Deterring Certificate Subversion: Efficient Double-Authentication-Preventing Signatures.,Mihir Bellare;Bertram Poettering;Douglas Stebila;,https://doi.org/10.1007/978-3-662-54388-7_5
+pkc/pkc2017-2,2017,Special Signatures,Chameleon-Hashes with Ephemeral Trapdoors - And Applications to Invisible Sanitizable Signatures.,Jan Camenisch;David Derler;Stephan Krenn;Henrich C. Pöhls;Kai Samelin;Daniel Slamanig;,https://doi.org/10.1007/978-3-662-54388-7_6
+pkc/pkc2017-2,2017,Special Signatures,Improved Structure Preserving Signatures Under Standard Bilinear Assumptions.,Charanjit S. Jutla;Arnab Roy;,https://doi.org/10.1007/978-3-662-54388-7_7
+pkc/pkc2017-2,2017,Fully Homomorphic Encryption,Chosen-Ciphertext Secure Fully Homomorphic Encryption.,Ran Canetti;Srinivasan Raghuraman;Silas Richelson;Vinod Vaikuntanathan;,https://doi.org/10.1007/978-3-662-54388-7_8
+pkc/pkc2017-2,2017,Fully Homomorphic Encryption,Circuit-Private Multi-key FHE.,Wutichai Chongchitmate;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-662-54388-7_9
+pkc/pkc2017-2,2017,Fully Homomorphic Encryption,FHE over the Integers: Decomposed and Batched in the Post-Quantum Regime.,Daniel Benarroch;Zvika Brakerski;Tancrède Lepoint;,https://doi.org/10.1007/978-3-662-54388-7_10
+pkc/pkc2017-2,2017,Real-World Schemes,Ceremonies for End-to-End Verifiable Elections.,Aggelos Kiayias;Thomas Zacharias;Bingsheng Zhang;,https://doi.org/10.1007/978-3-662-54388-7_11
+pkc/pkc2017-2,2017,Real-World Schemes,A Modular Security Analysis of EAP and IEEE 802.11.,Chris Brzuska;Håkon Jacobsen;,https://doi.org/10.1007/978-3-662-54388-7_12
+pkc/pkc2017-2,2017,Multiparty Computation,On the Computational Overhead of MPC with Dishonest Majority.,Jesper Buus Nielsen;Samuel Ranellucci;,https://doi.org/10.1007/978-3-662-54388-7_13
+pkc/pkc2017-2,2017,Multiparty Computation,Better Two-Round Adaptive Multi-party Computation.,Ran Canetti;Oxana Poburinnaya;Muthuramakrishnan Venkitasubramaniam;,https://doi.org/10.1007/978-3-662-54388-7_14
+pkc/pkc2017-2,2017,Multiparty Computation,Constant Round Adaptively Secure Protocols in the Tamper-Proof Hardware Model.,Carmit Hazay;Antigoni Polychroniadou;Muthuramakrishnan Venkitasubramaniam;,https://doi.org/10.1007/978-3-662-54388-7_15
+pkc/pkc2017-2,2017,Primitives,Constrained Pseudorandom Functions for Unconstrained Inputs Revisited: Achieving Verifiability and Key Delegation.,Pratish Datta;Ratna Dutta;Sourav Mukhopadhyay;,https://doi.org/10.1007/978-3-662-54388-7_16
+pkc/pkc2017-2,2017,Primitives,Constraining Pseudorandom Functions Privately.,Dan Boneh;Kevin Lewi;David J. Wu;,https://doi.org/10.1007/978-3-662-54388-7_17
+pkc/pkc2017-2,2017,Primitives,Universal Samplers with Fast Verification.,Venkata Koppula;Andrew Poelstra;Brent Waters;,https://doi.org/10.1007/978-3-662-54388-7_18

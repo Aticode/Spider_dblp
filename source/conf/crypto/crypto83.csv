@@ -1,0 +1,29 @@
+crypto/crypto83,1983,None,Knapsack Public Key Cryptosystems and Diophantine Approximation.,J. C. Lagarias;,None
+crypto/crypto83,1983,None,Solving Low Density Knapsacks.,Ernest F. Brickell;,None
+crypto/crypto83,1983,None,Evaluation of the Adleman Attack on Multiply Iterated Knapsack Cryptosystems.,Ernest F. Brickell;J. C. Lagarias;Andrew M. Odlyzko;,None
+crypto/crypto83,1983,None,On the Power of Cascade Ciphers.,Shimon Even;Oded Goldreich;,None
+crypto/crypto83,1983,None,The Prisoners' Problem and the Subliminal Channel.,Gustavus J. Simmons;,None
+crypto/crypto83,1983,None,An Overview of Factoring.,Hugh C. Williams;,None
+crypto/crypto83,1983,None,New Ideas for Factoring Large Integers.,Carl Pomerance;Jeffrey W. Smith;Samuel S. Wagstaff Jr.;,None
+crypto/crypto83,1983,None,Factoring Numbers on the Massively Parallel Computer.,Marvin C. Wunderlich;,None
+crypto/crypto83,1983,None,Factorization Using the Quadratic Sieve Algorithm.,James A. Davis;Diane B. Holdridge;,None
+crypto/crypto83,1983,None,Signatures through Approximate Representation by Quadratic Forms.,H. Ong;Claus-Peter Schnorr;,None
+crypto/crypto83,1983,None,A Simple Protocol for Signing Contracts.,Oded Goldreich;,None
+crypto/crypto83,1983,None,Reducibility Among Protocols.,Manuel Blum;Umesh V. Vazirani;Vijay V. Vazirani;,None
+crypto/crypto83,1983,None,How to Exchange Half a Bit.,Tom Tedrick;,None
+crypto/crypto83,1983,None,Blind Signature System.,David Chaum;,None
+crypto/crypto83,1983,None,A Layered Broadcast Cryptographic System.,M. E. Spencerr;S. E. Travares;,None
+crypto/crypto83,1983,None,Analytical Characteristics of the DES.,Marc Davio;Yvo Desmedt;Marc Fosseprez;René Govaerts;Jan Hulsbosch;Patrik Neutjens;Philippe Piret;Jean-Jacques Quisquater;Joos Vandewalle;Pascal Wouters;,None
+crypto/crypto83,1983,None,Producing a One-Way Hash Function from DES.,Robert S. Winternitz;,None
+crypto/crypto83,1983,None,On the Security of Compressed Encodings.,Selim G. Akl;,None
+crypto/crypto83,1983,None,Field Encryption and Authentication.,Dorothy E. Denning;,None
+crypto/crypto83,1983,None,Shift-Register Synthesis (Modula m).,James A. Reeds;N. J. A. Sloane;,None
+crypto/crypto83,1983,None,Probabilistic Analysis and Performance Modelling of the 'Swedish' Algorithm and Modifications.,Joel E. Sachs;Shimshon Berkovits;,None
+crypto/crypto83,1983,None,A Subexponential-Time Algorithm for Computing Discrete Logarithms over GF(p²).,Taher El Gamal;,None
+crypto/crypto83,1983,None,Permutation Polynomials in RSA-Cryptosystems.,Rudolf Lidl;Winfried B. Müller;,None
+crypto/crypto83,1983,None,Some Results on the Information Theoretic Analysis of Cryptosystems.,Helmut Jürgensen;D. E. Matthew;,None
+crypto/crypto83,1983,None,Improving the Security of Exponential Key Exchange.,Bahaa W. Fam;,None
+crypto/crypto83,1983,None,RSA Bits are 732+epsilon Secure.,Umesh V. Vazirani;Vijay V. Vazirani;,None
+crypto/crypto83,1983,None,Use of the 'Signature Token' to Create a Negotiable Document.,Donald W. Davies;,None
+crypto/crypto83,1983,None,Electronic Wallet.,Shimon Even;Oded Goldreich;,None
+crypto/crypto83,1983,None,Design Concepts for Tamper Responding Systems.,David Chaum;,None

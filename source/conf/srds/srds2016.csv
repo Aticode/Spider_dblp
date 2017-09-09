@@ -1,0 +1,40 @@
+srds/srds2016,2016,Security,The Rowhammer Attack Injection Methodology.,Keun Soo Yim;,https://doi.org/10.1109/SRDS.2016.012
+srds/srds2016,2016,Security,ShareIff: A Sticky Policy Middleware for Self-Destructing Messages in Android Applications.,Antonio Goulao;Nuno O. Duarte;Nuno Santos;,https://doi.org/10.1109/SRDS.2016.013
+srds/srds2016,2016,Security,Lateral Movement Detection Using Distributed Data Fusion.,Ahmed M. Fawaz;Atul Bohara;Carmen Cheh;William H. Sanders;,https://doi.org/10.1109/SRDS.2016.014
+srds/srds2016,2016,Security,Multi-round Master-Worker Computing: A Repeated Game Approach.,Antonio Fernández Anta;Chryssis Georgiou;Miguel A. Mosteiro;Daniel Pareja;,https://doi.org/10.1109/SRDS.2016.015
+srds/srds2016,2016,Failure Prediction and Detection,Sirius: Neural Network Based Probabilistic Assertions for Detecting Silent Data Corruption in Parallel Programs.,Tara E. Thomas;Anmol J. Bhattad;Subrata Mitra;Saurabh Bagchi;,https://doi.org/10.1109/SRDS.2016.016
+srds/srds2016,2016,Failure Prediction and Detection,CRUDE: Combining Resource Usage Data and Error Logs for Accurate Error Detection in Large-Scale Distributed Systems.,Nentawe Gurumdimma;Arshad Jhumka;Maria Liakata;Edward Chuah;James C. Browne;,https://doi.org/10.1109/SRDS.2016.017
+srds/srds2016,2016,Failure Prediction and Detection,Achieving High Reliability via Expediting the Repair of Critical Blocks in Replicated Storage Systems.,Juntao Fang;Shenggang Wan;Ping Huang;Xubin He;Changsheng Xie;,https://doi.org/10.1109/SRDS.2016.018
+srds/srds2016,2016,Failure Prediction and Detection,Being Accurate Is Not Enough: New Metrics for Disk Failure Prediction.,Jing Li;Rebecca J. Stones;Gang Wang;Zhongwei Li;Xiaoguang Liu;Kang Xiao;,https://doi.org/10.1109/SRDS.2016.019
+srds/srds2016,2016,Cloud Computing,Norton Zone: Symantec's Secure Cloud Storage System.,Walter Bogorad;Scott Schneider;Haibin Zhang;,https://doi.org/10.1109/SRDS.2016.020
+srds/srds2016,2016,Cloud Computing,Tale of Tails: Anomaly Avoidance in Data Centers.,Ji Xue;Robert Birke;Lydia Y. Chen;Evgenia Smirni;,https://doi.org/10.1109/SRDS.2016.021
+srds/srds2016,2016,Cloud Computing,vMocity: Traveling VMs Across Heterogeneous Clouds.,Cheng Cheng;Zhui Deng;Zhongshu Gu;Dongyan Xu;,https://doi.org/10.1109/SRDS.2016.022
+srds/srds2016,2016,Cloud Computing,Storekeeper: A Security-Enhanced Cloud Storage Aggregation Service.,Sancha Pereira;André Alves;Nuno Santos;Ricardo Chaves;,https://doi.org/10.1109/SRDS.2016.023
+srds/srds2016,2016,Cloud Computing,VMBeam: Zero-Copy Migration of Virtual Machines for Virtual IaaS Clouds.,Kenichi Kourai;Hiroki Ooba;,https://doi.org/10.1109/SRDS.2016.024
+srds/srds2016,2016,Geo-replicated Storage,Inside-Out: Reliable Performance Prediction for Distributed Storage Systems in the Cloud.,Chin-Jung Hsu;Rajesh K. Panta;Moo-Ryong Ra;Vincent W. Freeh;,https://doi.org/10.1109/SRDS.2016.025
+srds/srds2016,2016,Geo-replicated Storage,DTC: A Dynamic Transaction Chopping Technique for Geo-replicated Storage Systems.,Ning Huang;Lihui Wu;Weigang Wu;,https://doi.org/10.1109/SRDS.2016.026
+srds/srds2016,2016,Geo-replicated Storage,GlobalFS: A Strongly Consistent Multi-site File System.,Leandro Pacheco;Raluca Halalai;Valerio Schiavoni;Fernando Pedone;Etienne Riviere;Pascal Felber;,https://doi.org/10.1109/SRDS.2016.027
+srds/srds2016,2016,Geo-replicated Storage,On the Cost of Safe Storage for Public Clouds: An Experimental Evaluation.,Dorian Burihabwa;Rogerio Pontes;Pascal Felber;Francisco Maia;Hugues Mercier;Rui Oliveira;João Paulo;Valerio Schiavoni;,https://doi.org/10.1109/SRDS.2016.028
+srds/srds2016,2016,Algorithms,Who's On Board?: Probabilistic Membership for Real-Time Distributed Control Systems.,Rachid Guerraoui;David Kozhaya;Manuel Oriol;Yvonne Anne Pignolet;,https://doi.org/10.1109/SRDS.2016.029
+srds/srds2016,2016,Algorithms,UDS: A Novel and Flexible Scheduling Algorithm for Deterministic Multithreading.,Franz J. Hauck;Gerhard Habiger;Jörg Domaschka;,https://doi.org/10.1109/SRDS.2016.030
+srds/srds2016,2016,Algorithms,Practical State Machine Replication with Confidentiality.,Sisi Duan;Haibin Zhang;,https://doi.org/10.1109/SRDS.2016.031
+srds/srds2016,2016,Algorithms,"Speed for the Elite, Consistency for the Masses: Differentiating Eventual Consistency in Large-Scale Distributed Systems.",Davide Frey;Achour Mostéfaoui;Matthieu Perrin;Pierre-Louis Roman;François Taïani;,https://doi.org/10.1109/SRDS.2016.032
+srds/srds2016,2016,PhD Forum,Continuous Authentication and Non-repudiation for the Security of Critical Systems.,Enrico Schiavone;Andrea Ceccarelli;Andrea Bondavalli;,https://doi.org/10.1109/SRDS.2016.033
+srds/srds2016,2016,PhD Forum,Including Security Monitoring in Cloud Service Level Agreements.,Amir Teshome;Louis Rilling;Christine Morin;,https://doi.org/10.1109/SRDS.2016.034
+srds/srds2016,2016,PhD Forum,Visualizing and Controlling VMI-Based Malware Analysis in IaaS Cloud.,Noëlle Rakotondravony;Hans P. Reiser;,https://doi.org/10.1109/SRDS.2016.035
+srds/srds2016,2016,PhD Forum,Challenging Anomaly Detection in Complex Dynamic Systems.,Tommaso Zoppi;Andrea Ceccarelli;Andrea Bondavalli;,https://doi.org/10.1109/SRDS.2016.036
+srds/srds2016,2016,PhD Forum,PlayCloud: A Platform to Experiment with Coding Techniques for Storage in the Cloud.,Dorian Burihabwa;,https://doi.org/10.1109/SRDS.2016.037
+srds/srds2016,2016,PhD Forum,Reliable Event Dissemination in Dynamic Distributed Systems.,Ugaitz Amozarrain;Mikel Larrea;,https://doi.org/10.1109/SRDS.2016.038
+srds/srds2016,2016,Erasure-Coded Storage,ProCode: A Proactive Erasure Coding Scheme for Cloud Storage Systems.,Peng Li;Jing Li;Rebecca J. Stones;Gang Wang;Zhongwei Li;Xiaoguang Liu;,https://doi.org/10.1109/SRDS.2016.039
+srds/srds2016,2016,Erasure-Coded Storage,SwiftER: Elastic Erasure Coded Storage System.,Anwitaman Datta;Wan-Hee Cho;,https://doi.org/10.1109/SRDS.2016.040
+srds/srds2016,2016,Erasure-Coded Storage,Encoding-Aware Data Placement for Efficient Degraded Reads in XOR-Coded Storage Systems.,Zhirong Shen;Patrick P. C. Lee;Jiwu Shu;Wenzhong Guo;,https://doi.org/10.1109/SRDS.2016.041
+srds/srds2016,2016,Erasure-Coded Storage,Network Aware Reliability Analysis for Distributed Storage Systems.,Amir Epstein;Elliot K. Kolodner;Dmitry Sotnikov;,https://doi.org/10.1109/SRDS.2016.042
+srds/srds2016,2016,Algorithms,Collaborative Stabilization.,Mohammad Roohitavaf;Sandeep S. Kulkarni;,https://doi.org/10.1109/SRDS.2016.043
+srds/srds2016,2016,Algorithms,Adaptive Location Privacy with ALP.,Vincent Primault;Antoine Boutet;Sonia Ben Mokhtar;Lionel Brunie;,https://doi.org/10.1109/SRDS.2016.044
+srds/srds2016,2016,Algorithms,On Privacy-Preserving Cloud Auction.,Zhili Chen;Lin Chen;Liusheng Huang;Hong Zhong;,https://doi.org/10.1109/SRDS.2016.045
+srds/srds2016,2016,Algorithms,Experiments with Self-Stabilizing Distributed Data Fusion.,Bertrand Ducourthial;Véronique Cherfaoui;,https://doi.org/10.1109/SRDS.2016.046
+srds/srds2016,2016,Networking and Systems,TANGO: Toward a More Reliable Mobile Streaming through Cooperation between Cellular Network and Mobile Devices.,Nawanol Theera-Ampornpunt;Tarun Mangla;Saurabh Bagchi;Rajesh Krishna Panta;Kaustubh R. Joshi;Mostafa H. Ammar;Ellen W. Zegura;,https://doi.org/10.1109/SRDS.2016.047
+srds/srds2016,2016,Networking and Systems,Model-Checking Assisted Protocol Design for Ultra-reliable Low-Latency Wireless Networks.,Christian Dombrowski;Sebastian Junges;Joost-Pieter Katoen;James Gross;,https://doi.org/10.1109/SRDS.2016.048
+srds/srds2016,2016,Networking and Systems,Self-Stabilization - A Mechanism to Make Networked Embedded Systems More Reliable?,Stefan Lohs;Jörg Nolte;Gerry Siegemund;Volker Turau;,https://doi.org/10.1109/SRDS.2016.049
+srds/srds2016,2016,Networking and Systems,RDE: Replay DEbugging for Diagnosing Production Site Failures.,Peipei Wang;Hiep Nguyen;Xiaohui Gu;Shan Lu;,https://doi.org/10.1109/SRDS.2016.050
+srds/srds2016,2016,Networking and Systems,A Component-Based Middleware for a Reliable Distributed and Reconfigurable Spacecraft Onboard Computer.,Ting Peng;Kilian Hoflinger;Benjamin Weps;Olaf Maibaum;Kurt Schwenk;Daniel Lüdtke;Andreas Gerndt;,https://doi.org/10.1109/SRDS.2016.051

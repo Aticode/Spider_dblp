@@ -1,0 +1,24 @@
+crypto/crypto2017-2,2017,OT and ORAM,Secure Computation Based on Leaky Correlations: High Resilience Setting.,Alexander R. Block;Hemanta K. Maji;Hai H. Nguyen;,https://doi.org/10.1007/978-3-319-63715-0_1
+crypto/crypto2017-2,2017,OT and ORAM,Laconic Oblivious Transfer and Its Applications.,Chongwon Cho;Nico Döttling;Sanjam Garg;Divya Gupta;Peihan Miao;Antigoni Polychroniadou;,https://doi.org/10.1007/978-3-319-63715-0_2
+crypto/crypto2017-2,2017,OT and ORAM,Black-Box Parallel Garbled RAM.,Steve Lu;Rafail Ostrovsky;,https://doi.org/10.1007/978-3-319-63715-0_3
+crypto/crypto2017-2,2017,Foundations,Non-Malleable Codes for Space-Bounded Tampering.,Sebastian Faust;Kristina Hostáková;Pratyay Mukherjee;Daniele Venturi;,https://doi.org/10.1007/978-3-319-63715-0_4
+crypto/crypto2017-2,2017,Foundations,Four-Round Concurrent Non-Malleable Commitments from One-Way Functions.,Michele Ciampi;Rafail Ostrovsky;Luisa Siniscalchi;Ivan Visconti;,https://doi.org/10.1007/978-3-319-63715-0_5
+crypto/crypto2017-2,2017,Foundations,Distinguisher-Dependent Simulation in Two Rounds and its Applications.,Abhishek Jain;Yael Tauman Kalai;Dakshita Khurana;Ron Rothblum;,https://doi.org/10.1007/978-3-319-63715-0_6
+crypto/crypto2017-2,2017,Obfuscation,Incremental Program Obfuscation.,Sanjam Garg;Omkant Pandey;,https://doi.org/10.1007/978-3-319-63715-0_7
+crypto/crypto2017-2,2017,Obfuscation,From Obfuscation to the Security of Fiat-Shamir for Proofs.,Yael Tauman Kalai;Guy N. Rothblum;Ron D. Rothblum;,https://doi.org/10.1007/978-3-319-63715-0_8
+crypto/crypto2017-2,2017,Obfuscation,Indistinguishability Obfuscation for Turing Machines: Constant Overhead and Amortization.,Prabhanjan Ananth;Abhishek Jain;Amit Sahai;,https://doi.org/10.1007/978-3-319-63715-0_9
+crypto/crypto2017-2,2017,Quantum,Quantum Security of NMAC and Related Constructions - PRF Domain Extension Against Quantum attacks.,Fang Song;Aaram Yun;,https://doi.org/10.1007/978-3-319-63715-0_10
+crypto/crypto2017-2,2017,Quantum,Quantum Non-malleability and Authentication.,Gorjan Alagic;Christian Majenz;,https://doi.org/10.1007/978-3-319-63715-0_11
+crypto/crypto2017-2,2017,Quantum,New Security Notions and Feasibility Results for Authentication of Quantum Data.,Sumegha Garg;Henry Yuen;Mark Zhandry;,https://doi.org/10.1007/978-3-319-63715-0_12
+crypto/crypto2017-2,2017,Hash Functions,Time-Memory Tradeoff Attacks on the MTP Proof-of-Work Scheme.,Itai Dinur;Niv Nadler;,https://doi.org/10.1007/978-3-319-63715-0_13
+crypto/crypto2017-2,2017,Hash Functions,Functional Graph Revisited: Updates on (Second) Preimage Attacks on Hash Combiners.,Zhenzhen Bao;Lei Wang;Jian Guo;Dawu Gu;,https://doi.org/10.1007/978-3-319-63715-0_14
+crypto/crypto2017-2,2017,Hash Functions,Non-full Sbox Linearization: Applications to Collision Attacks on Round-Reduced Keccak.,Ling Song;Guohong Liao;Jian Guo;,https://doi.org/10.1007/978-3-319-63715-0_15
+crypto/crypto2017-2,2017,Lattices,"Gaussian Sampling over the Integers: Efficient, Generic, Constant-Time.",Daniele Micciancio;Michael Walter;,https://doi.org/10.1007/978-3-319-63715-0_16
+crypto/crypto2017-2,2017,Lattices,LPN Decoded.,Andre Esser;Robert Kübler;Alexander May;,https://doi.org/10.1007/978-3-319-63715-0_17
+crypto/crypto2017-2,2017,Signatures,Optimal Security Reductions for Unique Signatures: Bypassing Impossibilities with a Counterexample.,Fuchun Guo;Rongmao Chen;Willy Susilo;Jianchang Lai;Guomin Yang;Yi Mu;,https://doi.org/10.1007/978-3-319-63715-0_18
+crypto/crypto2017-2,2017,Signatures,Compact Structure-Preserving Signatures with Almost Tight Security.,Masayuki Abe;Dennis Hofheinz;Ryo Nishimaki;Miyako Ohkubo;Jiaxin Pan;,https://doi.org/10.1007/978-3-319-63715-0_19
+crypto/crypto2017-2,2017,Signatures,Snarky Signatures: Minimal Signatures of Knowledge from Simulation-Extractable SNARKs.,Jens Groth;Mary Maller;,https://doi.org/10.1007/978-3-319-63715-0_20
+crypto/crypto2017-2,2017,Signatures,Fast Secure Two-Party ECDSA Signing.,Yehuda Lindell;,https://doi.org/10.1007/978-3-319-63715-0_21
+crypto/crypto2017-2,2017,Block Ciphers,Proving Resistance Against Invariant Attacks: How to Choose the Round Constants.,Christof Beierle;Anne Canteaut;Gregor Leander;Yann Rotella;,https://doi.org/10.1007/978-3-319-63715-0_22
+crypto/crypto2017-2,2017,Block Ciphers,Breaking the FF3 Format-Preserving Encryption Standard over Small Domains.,F. Betül Durak;Serge Vaudenay;,https://doi.org/10.1007/978-3-319-63715-0_23
+crypto/crypto2017-2,2017,Block Ciphers,Insuperability of the Standard Versus Ideal Model Gap for Tweakable Blockcipher Security.,Bart Mennink;,https://doi.org/10.1007/978-3-319-63715-0_24

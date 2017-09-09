@@ -1,0 +1,17 @@
+tissec/tissec16,June 2013,Number 1,CPM: Masking Code Pointers to Prevent Code Injection Attacks.,Pieter Philippaerts;Yves Younan;Stijn Muylle;Frank Piessens;Sven Lachmund;Thomas Walter;,http://doi.acm.org/10.1145/2487222.2487223
+tissec/tissec16,June 2013,Number 1,Leakage Mapping: A Systematic Methodology for Assessing the Side-Channel Information Leakage of Cryptographic Implementations.,William E. Cobb;Rusty O. Baldwin;Eric D. Laspe;,http://doi.acm.org/10.1145/2487222.2487224
+tissec/tissec16,June 2013,Number 1,Enforceable Security Policies Revisited.,David A. Basin;Vincent Jugé;Felix Klaedtke;Eugen Zalinescu;,http://doi.acm.org/10.1145/2487222.2487225
+tissec/tissec16,June 2013,Number 1,On the Parameterized Complexity and Kernelization of the Workflow Satisfiability Problem.,Jason Crampton;Gregory Gutin;Anders Yeo;,http://doi.acm.org/10.1145/2487222.2487226
+tissec/tissec16,September 2013,Number 2,Modelling Access Propagation in Dynamic Systems.,Thomas Leonard;Martin Hall-May;Mike Surridge;,http://doi.acm.org/10.1145/2516951.2516952
+tissec/tissec16,September 2013,Number 2,DriverGuard: Virtualization-Based Fine-Grained Protection on I/O Flows.,Yueqiang Cheng;Xuhua Ding;Robert H. Deng;,http://doi.acm.org/10.1145/2505123
+tissec/tissec16,September 2013,Number 2,Bridging the Semantic Gap in Virtual Machine Introspection via Online Kernel Data Redirection.,Yangchun Fu;Zhiqiang Lin;,http://doi.acm.org/10.1145/2505124
+tissec/tissec16,September 2013,Number 2,Examining a Large Keystroke Biometrics Dataset for Statistical-Attack Openings.,Abdul Serwadda;Vir V. Phoha;,http://doi.acm.org/10.1145/2516960
+tissec/tissec16,November 2013,Number 3,Bringing java's wild native world under control.,Mengtao Sun;Gang Tan;Joseph Siefers;Bin Zeng;Greg Morrisett;,http://doi.acm.org/10.1145/2535505
+tissec/tissec16,November 2013,Number 3,An experimental security analysis of two satphone standards.,Benedikt Driessen;Ralf Hund;Carsten Willems;Christof Paar;Thorsten Holz;,http://doi.acm.org/10.1145/2535522
+tissec/tissec16,November 2013,Number 3,Secure and verifiable outsourcing of large-scale biometric computations.,Marina Blanton;Yihua Zhang;Keith B. Frikken;,http://doi.acm.org/10.1145/2535523
+tissec/tissec16,November 2013,Number 3,Access privacy and correctness on untrusted storage.,Peter Williams;Radu Sion;,http://doi.acm.org/10.1145/2535524
+tissec/tissec16,April 2014,Number 4,Off-Path TCP Injection Attacks.,Yossi Gilad;Amir Herzberg;,http://doi.acm.org/10.1145/2597173
+tissec/tissec16,April 2014,Number 4,Exposure: A Passive DNS Analysis Service to Detect and Report Malicious Domains.,Leyla Bilge;Sevil Sen;Davide Balzarotti;Engin Kirda;Christopher Kruegel;,http://doi.acm.org/10.1145/2584679
+tissec/tissec16,April 2014,Number 4,Cross-Domain Password-Based Authenticated Key Exchange Revisited.,Liqun Chen;Hoon Wei Lim;Guomin Yang;,http://doi.acm.org/10.1145/2584681
+tissec/tissec16,April 2014,Number 4,An Anti-Phishing System Employing Diffused Information.,Teh-Chung Chen;Torin Stepan;Scott Dick;James Miller;,http://doi.acm.org/10.1145/2584680
+tissec/tissec16,April 2014,Number 4,Sophisticated Access Control via SMT and Logical Frameworks.,Konstantine Arkoudas;Ritu Chadha;C. Jason Chiang;,http://doi.acm.org/10.1145/2595222

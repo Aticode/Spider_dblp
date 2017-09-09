@@ -1,0 +1,34 @@
+asiacrypt/asiacrypt2001,2001,Lattice Based Cryptography,Cryptanalysis of the NTRU Signature Scheme (NSS) from Eurocrypt 2001.,Craig Gentry;Jakob Jonsson;Jacques Stern;Michael Szydlo;,https://doi.org/10.1007/3-540-45682-1_1
+asiacrypt/asiacrypt2001,2001,Lattice Based Cryptography,On the Insecurity of a Server-Aided RSA Protocol.,Phong Q. Nguyen;Igor E. Shparlinski;,https://doi.org/10.1007/3-540-45682-1_2
+asiacrypt/asiacrypt2001,2001,Lattice Based Cryptography,The Modular Inversion Hidden Number Problem.,Dan Boneh;Shai Halevi;Nick Howgrave-Graham;,https://doi.org/10.1007/3-540-45682-1_3
+asiacrypt/asiacrypt2001,2001,Human Identification,Secure Human Identification Protocols.,Nicholas J. Hopper;Manuel Blum;,https://doi.org/10.1007/3-540-45682-1_4
+asiacrypt/asiacrypt2001,2001,Invited Talk,Unbelievable Security. Matching AES Security Using Public Key Systems.,Arjen K. Lenstra;,https://doi.org/10.1007/3-540-45682-1_5
+asiacrypt/asiacrypt2001,2001,Practical Public Key Cryptography,A Probable Prime Test with Very High Confidence for n equiv 1 mod 4.,Siguna Müller;,https://doi.org/10.1007/3-540-45682-1_6
+asiacrypt/asiacrypt2001,2001,Practical Public Key Cryptography,Computation of Discrete Logarithms in F2607.,Emmanuel Thomé;,https://doi.org/10.1007/3-540-45682-1_7
+asiacrypt/asiacrypt2001,2001,Practical Public Key Cryptography,Speeding Up XTR.,Martijn Stam;Arjen K. Lenstra;,https://doi.org/10.1007/3-540-45682-1_8
+asiacrypt/asiacrypt2001,2001,Practical Public Key Cryptography,An Efficient Implementation of Braid Groups.,Jae Choon Cha;Ki Hyoung Ko;Sangjin Lee;Jae Woo Han;Jung Hee Cheon;,https://doi.org/10.1007/3-540-45682-1_9
+asiacrypt/asiacrypt2001,2001,Cryptography Based on Coding Theory,How to Achieve a McEliece-Based Digital Signature Scheme.,Nicolas Courtois;Matthieu Finiasz;Nicolas Sendrier;,https://doi.org/10.1007/3-540-45682-1_10
+asiacrypt/asiacrypt2001,2001,Cryptography Based on Coding Theory,Efficient Traitor Tracing Algorithms Using List Decoding.,Alice Silverberg;Jessica Staddon;Judy L. Walker;,https://doi.org/10.1007/3-540-45682-1_11
+asiacrypt/asiacrypt2001,2001,Block Ciphers,Security of Reduced Version of the Block Cipher Camellia against Truncated and Impossible Differential Cryptanalysis.,Makoto Sugita;Kazukuni Kobara;Hideki Imai;,https://doi.org/10.1007/3-540-45682-1_12
+asiacrypt/asiacrypt2001,2001,Block Ciphers,Known-IV Attacks on Triple Modes of Operation of Block Ciphers.,Deukjo Hong;Jaechul Sung;Seokhie Hong;Wonil Lee;Sangjin Lee;Jongin Lim;Okyeon Yi;,https://doi.org/10.1007/3-540-45682-1_13
+asiacrypt/asiacrypt2001,2001,Block Ciphers,Generic Attacks on Feistel Schemes.,Jacques Patarin;,https://doi.org/10.1007/3-540-45682-1_14
+asiacrypt/asiacrypt2001,2001,Block Ciphers,A Compact Rijndael Hardware Architecture with S-Box Optimization.,Akashi Satoh;Sumio Morioka;Kohji Takano;Seiji Munetoh;,https://doi.org/10.1007/3-540-45682-1_15
+asiacrypt/asiacrypt2001,2001,Provable Security,Provable Security of KASUMI and 3GPP Encryption Mode f8.,Ju-Sung Kang;Sang-Uk Shin;Dowon Hong;Okyeon Yi;,https://doi.org/10.1007/3-540-45682-1_16
+asiacrypt/asiacrypt2001,2001,Provable Security,Efficient and Mutually Authenticated Key Exchange for Low Power Computing Devices.,Duncan S. Wong;Agnes Hui Chan;,https://doi.org/10.1007/3-540-45682-1_17
+asiacrypt/asiacrypt2001,2001,Provable Security,Provably Authenticated Group Diffie-Hellman Key Exchange - The Dynamic Case.,Emmanuel Bresson;Olivier Chevassut;David Pointcheval;,https://doi.org/10.1007/3-540-45682-1_18
+asiacrypt/asiacrypt2001,2001,Threshold Cryptography,Fully Distributed Threshold RSA under Standard Assumptions.,Pierre-Alain Fouque;Jacques Stern;,https://doi.org/10.1007/3-540-45682-1_19
+asiacrypt/asiacrypt2001,2001,Threshold Cryptography,Adaptive Security in the Threshold Setting: From Cryptosystems to Signature Schemes.,Anna Lysyanskaya;Chris Peikert;,https://doi.org/10.1007/3-540-45682-1_20
+asiacrypt/asiacrypt2001,2001,Threshold Cryptography,Threshold Cryptosystems Secure against Chosen-Ciphertext Attacks.,Pierre-Alain Fouque;David Pointcheval;,https://doi.org/10.1007/3-540-45682-1_21
+asiacrypt/asiacrypt2001,2001,Two-Party Protocols,Oblivious Polynomial Evaluation and Oblivious Neural Learning.,Yan-Cheng Chang;Chi-Jen Lu;,https://doi.org/10.1007/3-540-45682-1_22
+asiacrypt/asiacrypt2001,2001,Two-Party Protocols,Mutually Independent Commitments.,Moses Liskov;Anna Lysyanskaya;Silvio Micali;Leonid Reyzin;Adam D. Smith;,https://doi.org/10.1007/3-540-45682-1_23
+asiacrypt/asiacrypt2001,2001,Zero Knowledge,Efficient Zero-Knowledge Authentication Based on a Linear Algebra Problem MinRank.,Nicolas Courtois;,https://doi.org/10.1007/3-540-45682-1_24
+asiacrypt/asiacrypt2001,2001,Zero Knowledge,Responsive Round Complexity and Concurrent Zero-Knowledge.,Tzafrir Cohen;Joe Kilian;Erez Petrank;,https://doi.org/10.1007/3-540-45682-1_25
+asiacrypt/asiacrypt2001,2001,Cryptographic Building Blocks,Practical Construction and Analysis of Pseudo-Randomness Primitives.,Johan Håstad;Mats Näslund;,https://doi.org/10.1007/3-540-45682-1_26
+asiacrypt/asiacrypt2001,2001,Cryptographic Building Blocks,Autocorrelation Coefficients and Correlation Immunity of Boolean Functions.,Yuriy Tarannikov;Peter Korolev;Anton Botev;,https://doi.org/10.1007/3-540-45682-1_27
+asiacrypt/asiacrypt2001,2001,Elliptic Curve Cryptography,An Extension of Kedlaya's Point-Counting Algorithm to Superelliptic Curves.,Pierrick Gaudry;Nicolas Gürel;,https://doi.org/10.1007/3-540-45682-1_28
+asiacrypt/asiacrypt2001,2001,Elliptic Curve Cryptography,Supersingular Curves in Cryptography.,Steven D. Galbraith;,https://doi.org/10.1007/3-540-45682-1_29
+asiacrypt/asiacrypt2001,2001,Elliptic Curve Cryptography,Short Signatures from the Weil Pairing.,Dan Boneh;Ben Lynn;Hovav Shacham;,https://doi.org/10.1007/3-540-45682-1_30
+asiacrypt/asiacrypt2001,2001,Elliptic Curve Cryptography,Self-Blindable Credential Certificates from the Weil Pairing.,Eric R. Verheul;,https://doi.org/10.1007/3-540-45682-1_31
+asiacrypt/asiacrypt2001,2001,Anonymity,How to Leak a Secret.,Ronald L. Rivest;Adi Shamir;Yael Tauman;,https://doi.org/10.1007/3-540-45682-1_32
+asiacrypt/asiacrypt2001,2001,Anonymity,Key-Privacy in Public-Key Encryption.,Mihir Bellare;Alexandra Boldyreva;Anand Desai;David Pointcheval;,https://doi.org/10.1007/3-540-45682-1_33
+asiacrypt/asiacrypt2001,2001,Anonymity,Provably Secure Fair Blind Signatures with Tight Revocation.,Masayuki Abe;Miyako Ohkubo;,https://doi.org/10.1007/3-540-45682-1_34

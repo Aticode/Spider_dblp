@@ -1,0 +1,27 @@
+ccs/ccs2001,2001,Password Management and Digital Signatures,Error-tolerant password recovery.,Niklas Frykholm;Ari Juels;,http://doi.acm.org/10.1145/501983.501985
+ccs/ccs2001,2001,Password Management and Digital Signatures,Delegation of cryptographic servers for capture-resilient devices.,Philip D. MacKenzie;Michael K. Reiter;,http://doi.acm.org/10.1145/501983.501986
+ccs/ccs2001,2001,Password Management and Digital Signatures,Twin signatures: an alternative to the hash-and-sign paradigm.,David Naccache;David Pointcheval;Jacques Stern;,http://doi.acm.org/10.1145/501983.501987
+ccs/ccs2001,2001,Password Management and Digital Signatures,The BiBa one-time signature and broadcast authentication protocol.,Adrian Perrig;,http://doi.acm.org/10.1145/501983.501988
+ccs/ccs2001,2001,Access Control,Policy algebras for access control: the propositional case.,Duminda Wijesekera;Sushil Jajodia;,http://doi.acm.org/10.1145/501983.501990
+ccs/ccs2001,2001,Access Control,A Chinese wall security model for decentralized workflow systems.,Vijayalakshmi Atluri;Soon Ae Chun;Pietro Mazzoleni;,http://doi.acm.org/10.1145/501983.501991
+ccs/ccs2001,2001,Access Control,Design and implementation of a flexible RBAC-service in an object-oriented scripting language.,Gustaf Neumann;Mark Strembeck;,http://doi.acm.org/10.1145/501983.501992
+ccs/ccs2001,2001,Mobile Code and Distributed Systems,An efficient security verification method for programs with stack inspection.,Naoya Nitta;Yoshiaki Takata;Hiroyuki Seki;,http://doi.acm.org/10.1145/501983.501994
+ccs/ccs2001,2001,Mobile Code and Distributed Systems,The performance of public key-enabled kerberos authentication in mobile computing applications.,Alan Harbitter;Daniel A. Menascé;,http://doi.acm.org/10.1145/501983.501995
+ccs/ccs2001,2001,Mobile Code and Distributed Systems,A new approach to DNS security (DNSSEC).,Giuseppe Ateniese;Stefan Mangard;,http://doi.acm.org/10.1145/501983.501996
+ccs/ccs2001,2001,Protocols,Events in security protocols.,Federico Crazzolara;Glynn Winskel;,http://doi.acm.org/10.1145/501983.501998
+ccs/ccs2001,2001,Protocols,On the relationship between strand spaces and multi-agent systems.,Joseph Y. Halpern;Riccardo Pucella;,http://doi.acm.org/10.1145/501983.501999
+ccs/ccs2001,2001,Protocols,A verifiable secret shuffle and its application to e-voting.,C. Andrew Neff;,http://doi.acm.org/10.1145/501983.502000
+ccs/ccs2001,2001,Secure Data Publishing and Certificate Management,Tangler: a censorship-resistant publishing system based on document entanglements.,Marc Waldman;David Mazières;,http://doi.acm.org/10.1145/501983.502002
+ccs/ccs2001,2001,Secure Data Publishing and Certificate Management,Flexible authentication of XML documents.,Premkumar T. Devanbu;Michael Gertz;April Kwong;Charles U. Martel;Glen Nuckolls;Stuart G. Stubblebine;,http://doi.acm.org/10.1145/501983.502003
+ccs/ccs2001,2001,Secure Data Publishing and Certificate Management,Interoperable strategies in automated trust negotiation.,Ting Yu;Marianne Winslett;Kent E. Seamons;,http://doi.acm.org/10.1145/501983.502004
+ccs/ccs2001,2001,Secure Data Publishing and Certificate Management,Distributed credential chain discovery in trust management: extended abstract.,Ninghui Li;William H. Winsborough;John C. Mitchell;,http://doi.acm.org/10.1145/501983.502005
+ccs/ccs2001,2001,Protocol Analysis,Constraint solving for bounded-process cryptographic protocol analysis.,Jonathan K. Millen;Vitaly Shmatikov;,http://doi.acm.org/10.1145/501983.502007
+ccs/ccs2001,2001,Protocol Analysis,Inductive methods and contract-signing protocols.,Rohit Chadha;Max I. Kanovich;Andre Scedrov;,http://doi.acm.org/10.1145/501983.502008
+ccs/ccs2001,2001,Protocol Analysis,The faithfulness of abstract protocol analysis: message authentication.,Joshua D. Guttman;F. Javier Thayer;Lenore D. Zuck;,http://doi.acm.org/10.1145/501983.502009
+ccs/ccs2001,2001,Cryptosystems,OCB: a block-cipher mode of operation for efficient authenticated encryption.,Phillip Rogaway;Mihir Bellare;John Black;Ted Krovetz;,http://doi.acm.org/10.1145/501983.502011
+ccs/ccs2001,2001,Cryptosystems,Paillier's cryptosystem revisited.,Dario Catalano;Rosario Gennaro;Nick Howgrave-Graham;Phong Q. Nguyen;,http://doi.acm.org/10.1145/501983.502012
+ccs/ccs2001,2001,Cryptosystems,Securely combining public-key cryptosystems.,Stuart Haber;Benny Pinkas;,http://doi.acm.org/10.1145/501983.502013
+ccs/ccs2001,2001,Group Key Management and Signatures,Practical forward secure group signature schemes.,Dawn Xiaodong Song;,http://doi.acm.org/10.1145/501983.502015
+ccs/ccs2001,2001,Group Key Management and Signatures,Formalizing GDOI group key management requirements in NPATRL.,Catherine A. Meadows;Paul F. Syverson;,http://doi.acm.org/10.1145/501983.502016
+ccs/ccs2001,2001,Group Key Management and Signatures,Accountable-subgroup multisignatures: extended abstract.,Silvio Micali;Kazuo Ohta;Leonid Reyzin;,http://doi.acm.org/10.1145/501983.502017
+ccs/ccs2001,2001,Group Key Management and Signatures,Provably authenticated group Diffie-Hellman key exchange.,Emmanuel Bresson;Olivier Chevassut;David Pointcheval;Jean-Jacques Quisquater;,http://doi.acm.org/10.1145/501983.502018

@@ -1,0 +1,19 @@
+srds/srds89,1989,Session 1:Recovery,Using Checkpoints to Localize the Effects of Faults in Distributed Systems.,Mustaque Ahamad;Luke Lin;,https://doi.org/10.1109/RELDIS.1989.72743
+srds/srds89,1989,Session 1:Recovery,A Low Overhead Checkpointing and Rollback Recovery Scheme for Distributed Systems.,Zhijun Tong;Richard Y. Kain;Wei-Tek Tsai;,https://doi.org/10.1109/RELDIS.1989.72744
+srds/srds89,1989,Session 1:Recovery,Recovery-Management in the RelaX Distributed Transaction layer.,Ralf Schumann;Reinhold Kröger;Michael Mock;Edgar Nett;,https://doi.org/10.1109/RELDIS.1989.72745
+srds/srds89,1989,Session 2:Replication,Consistent Replicated Transactions: A Highly Reliable Program Execution Environment.,Shepherd S. B. Shi;Geneva G. Belford;,https://doi.org/10.1109/RELDIS.1989.72746
+srds/srds89,1989,Session 2:Replication,Implementing Fault-Tolerant Replicated Ojects Using Psync.,Shivakant Mishra;Larry L. Peterson;Richard D. Schlichting;,https://doi.org/10.1109/RELDIS.1989.72747
+srds/srds89,1989,Session 2:Replication,Recovering from Process Failures in the Time Warp Mechanism.,Jonathan R. Agre;Divyakant Agrawal;,https://doi.org/10.1109/RELDIS.1989.72748
+srds/srds89,1989,Session 3:Network Architecture,Ring Network Reliability - The Probablility That All Operative Nodes Can Communicate.,Nanchang Lin;Charles B. Silio Jr.;,https://doi.org/10.1109/RELDIS.1989.72749
+srds/srds89,1989,Session 3:Network Architecture,Decentralized Loopback Reconfiguration of a Bidirectional Ring Lan.,Jernej Polajnar;Duro Mastilovic;Blagoja Pardulski;,https://doi.org/10.1109/RELDIS.1989.72750
+srds/srds89,1989,Session 4:Reliable Communication,Self-Stabilization of the Alternating-Bit Protocol.,Yehuda Afek;Geoffrey M. Brown;,https://doi.org/10.1109/RELDIS.1989.72751
+srds/srds89,1989,Session 4:Reliable Communication,"A Token-Based Protocol for Reliable, Ordered Multicast Communications.",B. Rajagopalan;Philip K. McKinley;,https://doi.org/10.1109/RELDIS.1989.72752
+srds/srds89,1989,Session 4:Reliable Communication,An Efficient Kernel-level Dependable Multicast Protocol for Distributed Systems.,M. Stella Atkins;Garnik Haftevani;Wo-Shun Luk;,https://doi.org/10.1109/RELDIS.1989.72753
+srds/srds89,1989,Session 5:Performance Analysis,Workload Analysis for Performance Study of Distributed Deadlock Detection Algorithms.,Kyung O. Min;Geneva G. Belford;,https://doi.org/10.1109/RELDIS.1989.72754
+srds/srds89,1989,Session 5:Performance Analysis,Performance Comparision of Concurrency Control Protocols for Transaction Processing Systems with Regional Locality.,Bruno Ciciani;Daniel M. Dias;Philip S. Yu;,https://doi.org/10.1109/RELDIS.1989.72755
+srds/srds89,1989,Session 5:Performance Analysis,Implementing Atomic Rendevous within a Transactional Framework.,Jean-Pierre Banâtre;Michel Banâtre;Christine Morin;,https://doi.org/10.1109/RELDIS.1989.72756
+srds/srds89,1989,Session 6:Evaluation and Modeling,Availability Analysis of the Primary Site Approach for Fault Tolerance.,Yennun Huang;Pankaj Jalote;,https://doi.org/10.1109/RELDIS.1989.72757
+srds/srds89,1989,Session 6:Evaluation and Modeling,Bounded Approximate Reliability Models for Distributed Systems.,Joanne Bechta Dugan;Malathi Veeraraghavan;Mark Boyd;Nitin Mittal;,https://doi.org/10.1109/RELDIS.1989.72758
+srds/srds89,1989,Session 6:Evaluation and Modeling,Limits on Scalability in Gracefully Degradable Large-Scale Systems.,Walid A. Najjar;Jean-Luc Gaudiot;,https://doi.org/10.1109/RELDIS.1989.72759
+srds/srds89,1989,Session 7:Simulation and Testing,Testing Reliable Distributed Applications Through Simulated Events.,Travis L. Winfrey;Gail E. Kaiser;,https://doi.org/10.1109/RELDIS.1989.72760
+srds/srds89,1989,Session 7:Simulation and Testing,Distributed Processing Test Simulator (DPTS).,Kenneth R. Leeper;David W. Lyness;,https://doi.org/10.1109/RELDIS.1989.72761

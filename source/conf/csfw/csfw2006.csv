@@ -1,0 +1,25 @@
+csfw/csfw2006,2006,Information Flow,A Temporal Logic Characterisation of Observational Determinism.,Marieke Huisman;Pratik Worah;Kim Sunesen;,https://doi.org/10.1109/CSFW.2006.6
+csfw/csfw2006,2006,Information Flow,Encoding Information Flow in Haskell.,Peng Li;Steve Zdancewic;,https://doi.org/10.1109/CSFW.2006.13
+csfw/csfw2006,2006,Information Flow,Coercion-Resistance and Receipt-Freeness in Electronic Voting.,Stéphanie Delaune;Steve Kremer;Mark Ryan;,https://doi.org/10.1109/CSFW.2006.8
+csfw/csfw2006,2006,"Games, Plans, and Transformations",On the Completeness of Attack Mutation Algorithms.,Shai Rubin;Somesh Jha;Barton P. Miller;,https://doi.org/10.1109/CSFW.2006.21
+csfw/csfw2006,2006,"Games, Plans, and Transformations",Types and Effects for Secure Service Orchestration.,Massimo Bartoletti;Pierpaolo Degano;Gian Luigi Ferrari;,https://doi.org/10.1109/CSFW.2006.31
+csfw/csfw2006,2006,"Games, Plans, and Transformations",Games for Controls.,Krishnendu Chatterjee;Radha Jagadeesan;Corin Pitcher;,https://doi.org/10.1109/CSFW.2006.14
+csfw/csfw2006,2006,Access Control,Privacy APIs: Access Control Techniques to Analyze and Verify Legal Privacy Policies.,Michael J. May;Carl A. Gunter;Insup Lee;,https://doi.org/10.1109/CSFW.2006.24
+csfw/csfw2006,2006,Access Control,On Key Assignment for Hierarchical Access Control.,Jason Crampton;Keith M. Martin;Peter R. Wild;,https://doi.org/10.1109/CSFW.2006.20
+csfw/csfw2006,2006,Access Control,Secrecy by Typing and File-Access Control.,Avik Chaudhuri;Martín Abadi;,https://doi.org/10.1109/CSFW.2006.28
+csfw/csfw2006,2006,Access Control,Policy Analysis for Administrative Role Based Access Control.,Amit Sasturkar;Ping Yang;Scott D. Stoller;C. R. Ramakrishnan;,https://doi.org/10.1109/CSFW.2006.22
+csfw/csfw2006,2006,Security Protocol Analysis,Verified Interoperable Implementations of Security Protocols.,Karthikeyan Bhargavan;Cédric Fournet;Andrew D. Gordon;Stephen Tse;,https://doi.org/10.1109/CSFW.2006.32
+csfw/csfw2006,2006,Security Protocol Analysis,Cryptographically Sound Theorem Proving.,Christoph Sprenger;Michael Backes;David A. Basin;Birgit Pfitzmann;Michael Waidner;,https://doi.org/10.1109/CSFW.2006.10
+csfw/csfw2006,2006,Security Protocol Analysis,Resolve-Impossibility for a Contract-Signing Protocol.,Aybek Mukhamedov;Mark Dermot Ryan;,https://doi.org/10.1109/CSFW.2006.27
+csfw/csfw2006,2006,"Language, Interaction, and Change",Securing Interaction between Threads and the Scheduler.,Alejandro Russo;Andrei Sabelfeld;,https://doi.org/10.1109/CSFW.2006.29
+csfw/csfw2006,2006,"Language, Interaction, and Change",Information-Flow Security for Interactive Programs.,Kevin R. O'Neill;Michael R. Clarkson;Stephen Chong;,https://doi.org/10.1109/CSFW.2006.16
+csfw/csfw2006,2006,"Language, Interaction, and Change",Managing Policy Updates in Security-Typed Languages.,Nikhil Swamy;Michael Hicks;Stephen Tse;Steve Zdancewic;,https://doi.org/10.1109/CSFW.2006.17
+csfw/csfw2006,2006,"Language, Obfuscation, and Robustness",Noninterference in the Presence of Non-Opaque Pointers.,Daniel Hedin;David Sands;,https://doi.org/10.1109/CSFW.2006.19
+csfw/csfw2006,2006,"Language, Obfuscation, and Robustness",Independence From Obfuscation: A Semantic Framework for Dive.,Riccardo Pucella;Fred B. Schneider;,https://doi.org/10.1109/CSFW.2006.15
+csfw/csfw2006,2006,"Language, Obfuscation, and Robustness",Decentralized Robustness.,Stephen Chong;Andrew C. Myers;,https://doi.org/10.1109/CSFW.2006.11
+csfw/csfw2006,2006,Authorization and Trust,Distributed Authorization Using Delegation with Acyclic Paths.,Antonio Lain;Miranda Mowbray;,https://doi.org/10.1109/CSFW.2006.12
+csfw/csfw2006,2006,Authorization and Trust,A Framework for Establishing Decentralized Secure Coalitions.,Hongbin Zhou;Simon N. Foley;,https://doi.org/10.1109/CSFW.2006.5
+csfw/csfw2006,2006,Authorization and Trust,Non-Interference in Constructive Authorization Logic.,Deepak Garg;Frank Pfenning;,https://doi.org/10.1109/CSFW.2006.18
+csfw/csfw2006,2006,Protocols and Cryptographic Foundations,Refuting Security Proofs for Tripartite Key Exchange with Model Checker in Planning Problem Setting.,Kim-Kwang Raymond Choo;,https://doi.org/10.1109/CSFW.2006.26
+csfw/csfw2006,2006,Protocols and Cryptographic Foundations,Simulation-Based Security with Inexhaustible Interactive Turing Machines.,Ralf Küsters;,https://doi.org/10.1109/CSFW.2006.30
+csfw/csfw2006,2006,Protocols and Cryptographic Foundations,Computationally Sound Compositional Logic for Key Exchange Protocols.,Anupam Datta;Ante Derek;John C. Mitchell;Bogdan Warinschi;,https://doi.org/10.1109/CSFW.2006.9

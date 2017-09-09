@@ -1,0 +1,32 @@
+raid/raid1999,1999,Session 1,Misuse Detection in Database Systems Through User Profiling.,Christina Yip Chung;Michael Gertz;Karl N. Levitt;,http://www.raid-symposium.org/raid99/PAPERS/Chung.pdf
+raid/raid1999,1999,Session 1,Audit logs: to keep or not to keep?,Christopher Wee;,http://www.raid-symposium.org/raid99/PAPERS/Wee.pdf
+raid/raid1999,1999,Session 2:Agent-based Detection Systems,Micael: An Autonomous Mobile Agent System to Protect New Generation Networked Applications.,Jose Duarte de Queiroz;Luiz F. Rust da Costa Carmo;Luci Pirmez;,http://www.raid-symposium.org/raid99/PAPERS/Queiroz.pdf
+raid/raid1999,1999,Session 2:Agent-based Detection Systems,Mobile Agent Attack Resistant Distributed Hierarchical Intrusion Detection Systems.,Peter Mell;Mark McLarnon;,http://www.raid-symposium.org/raid99/PAPERS/Mell.pdf
+raid/raid1999,1999,Session 2:Agent-based Detection Systems,New directions for the AAFID architecture.,Eugene H. Spafford;Diego Zamboni;,http://www.raid-symposium.org/raid99/PAPERS/Zamboni.pdf
+raid/raid1999,1999,Session 3:Knowledge Engineering and IDS,Combining Knowledge Discovery and Knowledge Engineering to Build IDSs.,Wenke Lee;Salvatore J. Stolfo;,http://www.raid-symposium.org/raid99/PAPERS/Lee_Stolfo.pdf
+raid/raid1999,1999,Session 3:Knowledge Engineering and IDS,A Data Mining Analysis of RTID Alarms.,Stefanos Manganaris;Marvin Christensen;Dan Zerkle;Keith Hermiz;,http://www.raid-symposium.org/raid99/PAPERS/Manganaris.pdf
+raid/raid1999,1999,Session 3:Knowledge Engineering and IDS,Intrusion Detection Inter-component Adaptive Negotiation.,Richard J. Feiertag;Stuart Staniford-Chen;Karl N. Levitt;Mark R. Heckman;Dave Peticolas;Rick Crawford;Lee Benzinger;Sue Rho;Stephen Wu;,http://www.raid-symposium.org/raid99/PAPERS/Feiertag.pdf
+raid/raid1999,1999,Session 3:Knowledge Engineering and IDS,Building an Intrusion-Detection System to Detect Suspicious Process Behavior.,Andreas Wespi;Hervé Debar;,http://www.raid-symposium.org/raid99/PAPERS/Wespi.pdf
+raid/raid1999,1999,Session 4:IDS and Law,Towards trapping wily intruders in the large.,Glenn Mansfield;,http://www.raid-symposium.org/raid99/PAPERS/Mansfield.pdf
+raid/raid1999,1999,"Session 5:Standards, Assessment, and Lessons Learned",Defending against network IDS evasion.,Vern Paxson;,http://www.raid-symposium.org/raid99/PAPERS/Paxson.pdf
+raid/raid1999,1999,"Session 5:Standards, Assessment, and Lessons Learned",IDS Standards: Lessons Learned to Date.,Stuart Staniford-Chen;,http://www.raid-symposium.org/raid99/PAPERS/StanifordChen.pdf
+raid/raid1999,1999,"Session 5:Standards, Assessment, and Lessons Learned",Results of the DARPA 1998 Offline Intrusion Detection Evaluation.,Richard Lippmann;Robert K. Cunningham;David J. Fried;Isaac Graf;Kris R. Kendall;Seth E. Webster;Marc A. Zissman;,http://www.raid-symposium.org/raid99/PAPERS/Lippmann_DARPA.pdf
+raid/raid1999,1999,"Session 5:Standards, Assessment, and Lessons Learned",Lessons Learned in Commercial IDS Development.,Tim Farley;,http://www.raid-symposium.org/raid99/PAPERS/Farley.pdf
+raid/raid1999,1999,"Session 5:Standards, Assessment, and Lessons Learned",Air Force Intrusion Detection System Evaluation Environment.,Terrence Champion;Robert Durst;,http://www.raid-symposium.org/raid99/PAPERS/Champion.pdf
+raid/raid1999,1999,Session 6:Vulnerability Definitions,Nidsbench - a Network Intrusion Detection Test Suite.,Dug Song;G. Shaffer;M. Undy;,http://www.raid-symposium.org/raid99/PAPERS/Song.pdf
+raid/raid1999,1999,Session 6:Vulnerability Definitions,Vulnerability Analysis: An Extended Abstract.,Matt Bishop;,http://www.raid-symposium.org/raid99/PAPERS/Bishop.pdf
+raid/raid1999,1999,Session 6:Vulnerability Definitions,The Development of a Common Vulnerability Enumeration.,David W. Baker;Steven M. Christey;William H. Hill;David E. Mann;,http://www.raid-symposium.org/raid99/PAPERS/Hill.pdf
+raid/raid1999,1999,Session 7:Overarching Concerns,Privacy vs. Intrusion Detection Analysis.,Emilie Lundin;Erland Jonsson;,http://www.raid-symposium.org/raid99/PAPERS/Lundin.pdf
+raid/raid1999,1999,Session 7:Overarching Concerns,On a Difficulty of Intrusion Detection.,Stefan Axelsson;,http://www.raid-symposium.org/raid99/PAPERS/Axelsson.pdf
+raid/raid1999,1999,Session 7:Overarching Concerns,"Intrusion Detection, Internet Law Enforcement and Insurance Coverage to Accelerate the Proliferation of Internet Business Singapore.",Christopher Ting;Tiang Hwee Ong;Yong Tai Tan;Pek Yong Ng;,http://www.raid-symposium.org/raid99/PAPERS/Ting.pdf
+raid/raid1999,1999,Session 7:Overarching Concerns,Intrusion Detection for Telephony Signalling.,David Gorman;Mary Ruhl;,http://www.raid-symposium.org/raid99/PAPERS/Gorman.pdf
+raid/raid1999,1999,Session 7:Overarching Concerns,Minimizing Bandwidth for Remote Access to Cryptographically Protected Audit Logs.,John Kelsey;Bruce Schneier;,http://www.raid-symposium.org/raid99/PAPERS/Kelsey.pdf
+raid/raid1999,1999,Session 8,Anomaly Intrusion Detection Systems: Handling Temporal Relations Between Events.,Alexandr Seleznyov;Seppo Puuronen;,http://www.raid-symposium.org/raid99/PAPERS/Seleznyov.pdf
+raid/raid1999,1999,Session 8,Improving Intrusion Detection Performance using Keyword Selection and Neural Networks.,Richard Lippmann;Robert K. Cunningham;,http://www.raid-symposium.org/raid99/PAPERS/Lippmann1.pdf
+raid/raid1999,1999,Session 8,Intrusion Detection Mechanism to Detect Reachability Attacks in PNNI Networks.,Yves Cosendai;Marc Dacier;Paolo Scotton;,http://www.raid-symposium.org/raid99/PAPERS/Cosendai.pdf
+raid/raid1999,1999,Session 8,Session State Transition Based Large Network IDS.,Qianli Zhang;Xing Li;,http://www.raid-symposium.org/raid99/PAPERS/Qianli.pdf
+raid/raid1999,1999,Session 8,Defending against a Denial-of-Service Attack on TCP.,Pars Mutaf;,http://www.raid-symposium.org/raid99/PAPERS/ParsMutaf.pdf
+raid/raid1999,1999,Session 9,Intrusion Detection for an On-Going Attack.,Jim Yuill;Shyhtsun Felix Wu;Fengmin Gong;Ming-Yuh Huang;,http://www.raid-symposium.org/raid99/PAPERS/Yuill.pdf
+raid/raid1999,1999,Session 9,Intrusion Detection and Isolation Protocol: Automated Response to Attacks.,Jeff Rowe;,http://www.raid-symposium.org/raid99/PAPERS/Rowe.pdf
+raid/raid1999,1999,Session 9,A Study in the Feasibility of Performing Host-Based Anomaly Detection on Windows NT.,Aaron Schwartzbard;Anup K. Ghosh;,None
+raid/raid1999,1999,Session 10,SNMS - Shadow Network Management System.,Tiang Hwee Ong;Chung Pheng Tan;Yong Tai Tan;Christopher Ting;,http://www.raid-symposium.org/raid99/PAPERS/ChungPheng.pdf

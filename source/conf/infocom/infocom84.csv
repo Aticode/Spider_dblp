@@ -1,0 +1,48 @@
+infocom/infocom84,1984,Design of LAN Medium Access Units,Transceiver Design and Implementation Experience in an Ethernet-Compatible Fiber Optic Local Area Network.,R. P. Kelley;J. R. Jones;V. J. Bhatt;P. W. Pate;,None
+infocom/infocom84,1984,Design of LAN Medium Access Units,Tradeoffs in the Design of Physical Layer Hardware for 1Ø MB/S CSMA/CD Networks Operating on CATV-Type Broadband Media.,Abraham Menachem;David A. Roos;,None
+infocom/infocom84,1984,Design of LAN Medium Access Units,A Heterogeneous Network Interface Using a Low-Cost LAN Controller.,Dick C. A. Bulterman;Jeffrey A. Wong;,None
+infocom/infocom84,1984,Computer Network Reliability,Analysis and Simulation of a Class of double Loop Network Architectures.,John A. Silvester;C. S. Raghavendra;,None
+infocom/infocom84,1984,Computer Network Reliability,A Fast Algorithm for Computing Availability in Networks with Dependent Failures.,John D. Spragins;,None
+infocom/infocom84,1984,Computer Network Reliability,The Application of the Random Graph Model for the Reliability Analysis of Dynamic Computer Networks.,Y.-W. Ma;C. M. Chen;,None
+infocom/infocom84,1984,Computer Network Reliability,Autonomous Adaptive Local Area Networking: Ring Communications via Point-To-Point Implementation.,Kenneth Brayer;,None
+infocom/infocom84,1984,Flow and Congestion Control,End-To-End Performance in Local-Area Networks of Interconnected Token Rings.,Werner Bux;Davide Grillo;,None
+infocom/infocom84,1984,Flow and Congestion Control,Performance Analysis of Window Flow Control for Multiple Virtual Routes.,Alexander Thomasian;Paul F. Bay;,None
+infocom/infocom84,1984,Flow and Congestion Control,A Two-Level Input Buffer Limit Congestion Control by Not Too Restrictive on Local Input Messages.,Jin-Fu Chang;Chia-Liang Liu;,None
+infocom/infocom84,1984,Flow and Congestion Control,New Flow Control Power is Decentralizable and Fair.,Josep M. Selga;,None
+infocom/infocom84,1984,Multiaccess Protocols,Unified Window Protocols for Contention Resolution in Local Multi-Access Networks.,Jie-Yong Juang;Benjamin W. Wah;,None
+infocom/infocom84,1984,Multiaccess Protocols,Tree Network with Collision Avoidance Switches.,Tatsuya Suda;Yechiam Yemini;Mischa Schwartz;,None
+infocom/infocom84,1984,Multiaccess Protocols,Blocking and Delay in Fixed TDMA with Finite Buffer Capacity.,Bijan Jabbari;Frederick S. Hillier;,None
+infocom/infocom84,1984,Distributed Control Algorithms,Dynamic Address Assignment Protocols.,Inder S. Gopal;Adrian Segall;,None
+infocom/infocom84,1984,Distributed Control Algorithms,A Distributed Network Protocol with Limited Span.,Zvi Goldberg;Nachum Shacham;,None
+infocom/infocom84,1984,Distributed Control Algorithms,Deriving Optimal Semi-Join Programs for Distributed Query Processing.,Arbee L. P. Chen;Victor O. K. Li;,None
+infocom/infocom84,1984,High Performance LAN Architectures,An Architecture and Protocol for a high Speed Local Area Network Supporting Integrated Traffic.,John O. Limb;Dwight D. Hill;Jon W. Mark;D. K. Sharma;H. A. Wilder;,None
+infocom/infocom84,1984,High Performance LAN Architectures,An Architecture for high Performance Protocol Implementation.,Valerie Lasker;Monte Lien;Eric Benhamou;,None
+infocom/infocom84,1984,High Performance LAN Architectures,A High Throughput Local Network: Escalibur.,Jean-Alain Hernandez;Eric Horlait;René Joly;Guy Pujolle;,None
+infocom/infocom84,1984,LAN Performance Evaluation,Short-Packet Transfer Performance in Local Area Rings.,Wayne M. Loucks;V. Carl Hamacher;Bruno R. Preiss;Luke Wong;,None
+infocom/infocom84,1984,LAN Performance Evaluation,A Virtual Time CSMA Protocol for Integrated Voice-Data.,James S. Meditch;Chin-Tau A. Lea;,None
+infocom/infocom84,1984,LAN Performance Evaluation,Contention-Based Access Protocols with Reservations for Local Networks with Non-Homogeneous Traffic Demands.,William R. Franta;A. R. K. Sastry;,None
+infocom/infocom84,1984,Distributed Database Performance,Simulation of Concurrency Control and Recovery Protocols for Distributed Database Systems.,Nancy D. Griffeth;Magdi M. A. Morsi;,None
+infocom/infocom84,1984,Distributed Database Performance,Performance Evaluation of Update Synchronization Algorithms on Local Network Database Environments.,Gus A. Galatianos;Wang-Chuan Tsai;,None
+infocom/infocom84,1984,Distributed Database Performance,Replicated Data and Stable Storage in Distributed Database Systems.,Bernd Walter;,None
+infocom/infocom84,1984,Performance of Integrated Services Networks,Circuit Access Control Strategies in Integrated Digital Networks.,Belka Kraimeche;Mischa Schwartz;,None
+infocom/infocom84,1984,Performance of Integrated Services Networks,Transmission Facility Sharing for Integrated Services.,John N. Daigle;Steven D. Whitehead;,None
+infocom/infocom84,1984,Performance of Integrated Services Networks,Performance of Integrated Services on a Single TDM System.,San-qi Li;Jon W. Mark;,None
+infocom/infocom84,1984,Performance of Integrated Services Networks,Approximations For Packetized Voice Traffic in Statistical Multiplexer.,Yih-Chyun Jenq;,None
+infocom/infocom84,1984,CCITT Study Group VII Activities,Involvement of Users and Manufacturers in the Development of CCITT Packet Switching Recommendations.,M. E. Levilion;,None
+infocom/infocom84,1984,CCITT Study Group VII Activities,Enhancements to Recommendation X.75 and International Interconnection of Packet Switched Public Data Networks.,Kenichi Kawaguchi;,None
+infocom/infocom84,1984,CCITT Study Group VII Activities,Accessing the Packet Switched Public Data Network - The Pad.,Edmond J. Blausten;,None
+infocom/infocom84,1984,Routing in Packet-Switched Networks,An Optimal Local Policy for Two-Level Adaptive Routing in Computer Networks.,Basil S. Maglaris;,None
+infocom/infocom84,1984,Routing in Packet-Switched Networks,Asymptotic Qualitative Analysis of a Packet-Switched Virtual Circuit Network.,Michael Epelman;Alexander Gersht;,None
+infocom/infocom84,1984,Routing in Packet-Switched Networks,Adaptive Routing and Flow Control in Large Communication Networks: A Hierarchical Scheme for Multiobjective Optimization.,K. H. Muralidhar;Malur K. Sundareshan;,None
+infocom/infocom84,1984,Formal Methods for Communication Protocols,Formal Description Techniques for OSI: an Example.,Gregor von Bochmann;,None
+infocom/infocom84,1984,Formal Methods for Communication Protocols,UNISPEX - A Unified Model for Protocol Specification and Verification.,Son T. Vuong;Donald D. Cowan;,None
+infocom/infocom84,1984,Packet Radio Networks,Evaluation of Throughput in Multihop Packet Radio Networks with Complex Topologies.,Aaron Kershenbaum;Robert Boorstyn;,None
+infocom/infocom84,1984,Packet Radio Networks,A Single-Hop Multi-Station Packet-Radio Network.,Israel Cidon;Moshe Sidi;,None
+infocom/infocom84,1984,Packet Radio Networks,Analysis of Multihop Packet Radio Network - Carrier Sense Multiple Access with Busy-Tone and Collision Detection.,Radhika R. Roy;Tarek N. Saadawi;,None
+infocom/infocom84,1984,Design of Computer Communication Systems,Engineering Large Scale Packet Networks.,Kamran Amir-Ebrahimi;,None
+infocom/infocom84,1984,Design of Computer Communication Systems,Performance Factors in Videotex Systems.,J. A. Field;H. C. Ratz;Mike Sablatash;,None
+infocom/infocom84,1984,Design of Computer Communication Systems,Buffer Sharing in Dynamic Load Environment.,Ashok K. Thareja;Satish K. Tripathi;,None
+infocom/infocom84,1984,Distributed Database Systems,A Robust Adaptive Concurrency Control for Distributed Databases.,Dushan Z. Badal;W. McElyea;,None
+infocom/infocom84,1984,Distributed Database Systems,Approximate Replication of Data Objects in Computer Networks.,Gerald Leitner;,None
+infocom/infocom84,1984,Distributed Database Systems,Archive Management in Distributed Systems.,Sevki S. Erdogan;,None
+infocom/infocom84,1984,Late Paper,Progress on X.25.,Bernard Jamet;,None

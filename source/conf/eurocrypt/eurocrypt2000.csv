@@ -1,0 +1,41 @@
+eurocrypt/eurocrypt2000,2000,Factoring and Discrete Logarithm,Factorization of a 512-Bit RSA Modulus.,Stefania Cavallar;Bruce Dodson;Arjen K. Lenstra;Walter M. Lioen;Peter L. Montgomery;Brian Murphy;Herman J. J. te Riele;Karen Aardal;Jeff Gilchrist;Gérard Guillerm;Paul C. Leyland;Joël Marchand;François Morain;Alec Muffett;Chris Putnam;Craig Putnam;Paul Zimmermann;,https://doi.org/10.1007/3-540-45539-6_1
+eurocrypt/eurocrypt2000,2000,Factoring and Discrete Logarithm,An Algorithm for Solving the Discrete Log Problem on Hyperelliptic Curves.,Pierrick Gaudry;,https://doi.org/10.1007/3-540-45539-6_2
+eurocrypt/eurocrypt2000,2000,Factoring and Discrete Logarithm,Analysis and Optimization of the TWINKLE Factoring Device.,Arjen K. Lenstra;Adi Shamir;,https://doi.org/10.1007/3-540-45539-6_3
+eurocrypt/eurocrypt2000,2000,Cryptanalysis I:Digital Signatures,Noisy Polynomial Interpolation and Noisy Chinese Remaindering.,Daniel Bleichenbacher;Phong Q. Nguyen;,https://doi.org/10.1007/3-540-45539-6_4
+eurocrypt/eurocrypt2000,2000,Cryptanalysis I:Digital Signatures,A Chosen Messages Attack on the ISO/IEC 9796-1 Signature Scheme.,François Grieu;,https://doi.org/10.1007/3-540-45539-6_5
+eurocrypt/eurocrypt2000,2000,Cryptanalysis I:Digital Signatures,Cryptanalysis of Countermeasures Proposed for Repairing ISO 9796-1.,Marc Girault;Jean-François Misarsky;,https://doi.org/10.1007/3-540-45539-6_6
+eurocrypt/eurocrypt2000,2000,Cryptanalysis I:Digital Signatures,Security Analysis of the Gennaro-Halevi-Rabin Signature Scheme.,Jean-Sébastien Coron;David Naccache;,https://doi.org/10.1007/3-540-45539-6_7
+eurocrypt/eurocrypt2000,2000,Invited Talk,On the Security of 3GPP Networks.,Michael Walker;,https://doi.org/10.1007/3-540-45539-6_8
+eurocrypt/eurocrypt2000,2000,Private Information Retrieval,One-Way Trapdoor Permutations Are Sufficient for Non-trivial Single-Server Private Information Retrieval.,Eyal Kushilevitz;Rafail Ostrovsky;,https://doi.org/10.1007/3-540-45539-6_9
+eurocrypt/eurocrypt2000,2000,Private Information Retrieval,Single Database Private Information Retrieval Implies Oblivious Transfer.,Giovanni Di Crescenzo;Tal Malkin;Rafail Ostrovsky;,https://doi.org/10.1007/3-540-45539-6_10
+eurocrypt/eurocrypt2000,2000,Key Management Protocols,Authenticated Key Exchange Secure against Dictionary Attacks.,Mihir Bellare;David Pointcheval;Phillip Rogaway;,https://doi.org/10.1007/3-540-45539-6_11
+eurocrypt/eurocrypt2000,2000,Key Management Protocols,Provably Secure Password-Authenticated Key Exchange Using Diffie-Hellman.,Victor Boyko;Philip D. MacKenzie;Sarvar Patel;,https://doi.org/10.1007/3-540-45539-6_12
+eurocrypt/eurocrypt2000,2000,Key Management Protocols,Fair Encryption of RSA Keys.,Guillaume Poupard;Jacques Stern;,https://doi.org/10.1007/3-540-45539-6_13
+eurocrypt/eurocrypt2000,2000,Threshold Cryptography and Digital Signatures,Computing Inverses over a Shared Secret Modulus.,Dario Catalano;Rosario Gennaro;Shai Halevi;,https://doi.org/10.1007/3-540-45539-6_14
+eurocrypt/eurocrypt2000,2000,Threshold Cryptography and Digital Signatures,Practical Threshold Signatures.,Victor Shoup;,https://doi.org/10.1007/3-540-45539-6_15
+eurocrypt/eurocrypt2000,2000,Threshold Cryptography and Digital Signatures,"Adaptively Secure Threshold Cryptography: Introducing Concurrency, Removing Erasures.",Stanislaw Jarecki;Anna Lysyanskaya;,https://doi.org/10.1007/3-540-45539-6_16
+eurocrypt/eurocrypt2000,2000,Threshold Cryptography and Digital Signatures,Confirmer Signature Schemes Secure against Adaptive Adversaries.,Jan Camenisch;Markus Michels;,https://doi.org/10.1007/3-540-45539-6_17
+eurocrypt/eurocrypt2000,2000,Public-Key Encryption,Public-Key Encryption in a Multi-user Setting: Security Proofs and Improvements.,Mihir Bellare;Alexandra Boldyreva;Silvio Micali;,https://doi.org/10.1007/3-540-45539-6_18
+eurocrypt/eurocrypt2000,2000,Public-Key Encryption,Using Hash Functions as a Hedge against Chosen Ciphertext Attack.,Victor Shoup;,https://doi.org/10.1007/3-540-45539-6_19
+eurocrypt/eurocrypt2000,2000,Quantum Cryptography,Security Aspects of Practical Quantum Cryptography.,Gilles Brassard;Norbert Lütkenhaus;Tal Mor;Barry C. Sanders;,https://doi.org/10.1007/3-540-45539-6_20
+eurocrypt/eurocrypt2000,2000,Quantum Cryptography,Perfectly Concealing Quantum Bit Commitment from any Quantum One-Way Permutation.,Paul Dumais;Dominic Mayers;Louis Salvail;,https://doi.org/10.1007/3-540-45539-6_21
+eurocrypt/eurocrypt2000,2000,Multi-party Computation and Information Theory,General Secure Multi-party Computation from any Linear Secret-Sharing Scheme.,Ronald Cramer;Ivan Damgård;Ueli M. Maurer;,https://doi.org/10.1007/3-540-45539-6_22
+eurocrypt/eurocrypt2000,2000,Multi-party Computation and Information Theory,Minimal-Latency Secure Function Evaluation.,Donald Beaver;,https://doi.org/10.1007/3-540-45539-6_23
+eurocrypt/eurocrypt2000,2000,Multi-party Computation and Information Theory,Information-Theoretic Key Agreement: From Weak to Strong Secrecy for Free.,Ueli M. Maurer;Stefan Wolf;,https://doi.org/10.1007/3-540-45539-6_24
+eurocrypt/eurocrypt2000,2000,Cryptanalysis II:Public-Key Encryption,New Attacks on PKCS#1 v1.5 Encryption.,Jean-Sébastien Coron;Marc Joye;David Naccache;Pascal Paillier;,https://doi.org/10.1007/3-540-45539-6_25
+eurocrypt/eurocrypt2000,2000,Cryptanalysis II:Public-Key Encryption,A NICE Cryptanalysis.,Éliane Jaulmes;Antoine Joux;,https://doi.org/10.1007/3-540-45539-6_26
+eurocrypt/eurocrypt2000,2000,Cryptanalysis II:Public-Key Encryption,Efficient Algorithms for Solving Overdefined Systems of Multivariate Polynomial Equations.,Nicolas Courtois;Alexander Klimov;Jacques Patarin;Adi Shamir;,https://doi.org/10.1007/3-540-45539-6_27
+eurocrypt/eurocrypt2000,2000,Cryptanalysis II:Public-Key Encryption,Cryptanalysis of Patarin's 2-Round Public Key System with S Boxes (2R).,Eli Biham;,https://doi.org/10.1007/3-540-45539-6_28
+eurocrypt/eurocrypt2000,2000,Invited Talk,Colossus and the German Lorenz Cipher - Code Breaking in WW II.,Anthony E. Sale;,https://doi.org/10.1007/3-540-45539-6_29
+eurocrypt/eurocrypt2000,2000,Zero-Knowledge,Efficient Concurrent Zero-Knowledge in the Auxiliary String Model.,Ivan Damgård;,https://doi.org/10.1007/3-540-45539-6_30
+eurocrypt/eurocrypt2000,2000,Zero-Knowledge,Efficient Proofs that a Committed Number Lies in an Interval.,Fabrice Boudot;,https://doi.org/10.1007/3-540-45539-6_31
+eurocrypt/eurocrypt2000,2000,Symmetric Cryptography,A Composition Theorem for Universal One-Way Hash Functions.,Victor Shoup;,https://doi.org/10.1007/3-540-45539-6_32
+eurocrypt/eurocrypt2000,2000,Symmetric Cryptography,Exposure-Resilient Functions and All-or-Nothing Transforms.,Ran Canetti;Yevgeniy Dodis;Shai Halevi;Eyal Kushilevitz;Amit Sahai;,https://doi.org/10.1007/3-540-45539-6_33
+eurocrypt/eurocrypt2000,2000,Symmetric Cryptography,The Sum of PRPs Is a Secure PRF.,Stefan Lucks;,https://doi.org/10.1007/3-540-45539-6_34
+eurocrypt/eurocrypt2000,2000,Boolean Functions and Hardware,Construction of Nonlinear Boolean Functions with Important Cryptographic Properties.,Palash Sarkar;Subhamoy Maitra;,https://doi.org/10.1007/3-540-45539-6_35
+eurocrypt/eurocrypt2000,2000,Boolean Functions and Hardware,Propagation Characteristics and Correlation-Immunity of Highly Nonlinear Boolean Functions.,Anne Canteaut;Claude Carlet;Pascale Charpin;Caroline Fontaine;,https://doi.org/10.1007/3-540-45539-6_36
+eurocrypt/eurocrypt2000,2000,Boolean Functions and Hardware,Cox-Rower Architecture for Fast Parallel Montgomery Multiplication.,Shin-ichi Kawamura;Masanobu Koike;Fumihiko Sano;Atsushi Shimbo;,https://doi.org/10.1007/3-540-45539-6_37
+eurocrypt/eurocrypt2000,2000,Voting Schemes,Efficient Receipt-Free Voting Based on Homomorphic Encryption.,Martin Hirt;Kazue Sako;,https://doi.org/10.1007/3-540-45539-6_38
+eurocrypt/eurocrypt2000,2000,Voting Schemes,How to Break a Practical MIX and Design a New One.,Yvo Desmedt;Kaoru Kurosawa;,https://doi.org/10.1007/3-540-45539-6_39
+eurocrypt/eurocrypt2000,2000,Cryptanalysis III:Stream Ciphers and Block Ciphers,Improved Fast Correlation Attacks Using Parity-Check Equations of Weight 4 and 5.,Anne Canteaut;Michaël Trabbia;,https://doi.org/10.1007/3-540-45539-6_40
+eurocrypt/eurocrypt2000,2000,Cryptanalysis III:Stream Ciphers and Block Ciphers,Advanced Slide Attacks.,Alex Biryukov;David A. Wagner;,https://doi.org/10.1007/3-540-45539-6_41

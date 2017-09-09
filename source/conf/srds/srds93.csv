@@ -1,0 +1,15 @@
+srds/srds93,1993,Prototype Systems,"Processor Group Membership Protocols: Specification, Design, and Implementation.",Farnam Jahanian;Sameh A. Fakhouri;Ragunathan Rajkumar;,https://doi.org/10.1109/RELDIS.1993.393478
+srds/srds93,1993,Prototype Systems,APRICOTS - A Prototype Implementation of a ConTract System: Management of the Control Flow and the Communication System.,Friedemann Schwenkreis;,https://doi.org/10.1109/RELDIS.1993.393477
+srds/srds93,1993,Mathematical Techniques,An Approach for Combinatorial Performance and Availability Analysis.,Malathi Veeraraghavan;Kishor S. Trivedi;,https://doi.org/10.1109/RELDIS.1993.393476
+srds/srds93,1993,Mathematical Techniques,A Compositinal Proof Theory for Fault Tolerant Real-Time Distributed Systems.,Henk Schepers;Rob Gerth;,https://doi.org/10.1109/RELDIS.1993.393475
+srds/srds93,1993,Mathematical Techniques,Bayesian Analysis for Fault Location in Homogeneous Distributed Systems.,Yu Lo Cyrus Chang;Leslie C. Lander;Horng-Shing Lu;Martin T. Wells;,https://doi.org/10.1109/RELDIS.1993.393474
+srds/srds93,1993,Checkpointing,Using Logging and Asynchronous Checkpointing to Implement Recoverable Distributed Shared Memory.,Golden G. Richard III;Mukesh Singhal;,https://doi.org/10.1109/RELDIS.1993.393473
+srds/srds93,1993,Checkpointing,Rollback Based on Vector Time.,S. L. Peterson;Phil Kearns;,https://doi.org/10.1109/RELDIS.1993.393472
+srds/srds93,1993,Checkpointing,Lazy Checkpointing Coordination for Bounding Rollback Propagation.,Yi-Min Wang;W. Kent Fuchs;,https://doi.org/10.1109/RELDIS.1993.393471
+srds/srds93,1993,Checkpointing,Efficient Transparent Optimistic Rollback Recovery for Distributed Application Programs.,David B. Johnson;,https://doi.org/10.1109/RELDIS.1993.393470
+srds/srds93,1993,Agreement Protocols,An O(1) Quorum Consensus Protocol Tailored for the Client/Server Architecture.,Khaled S. Soufi;Geneva G. Belford;,https://doi.org/10.1109/RELDIS.1993.393469
+srds/srds93,1993,Agreement Protocols,An Approach to Constructing Modular Fault-Tolerant Protocols.,Matti A. Hiltunen;Richard D. Schlichting;,https://doi.org/10.1109/RELDIS.1993.393468
+srds/srds93,1993,Agreement Protocols,Using Atomic Broadcast to Implement a posteriori Agreement for Clock Synchronization.,Paulo Veríssimo;Antonio Casimiro;Luís E. T. Rodrigues;,https://doi.org/10.1109/RELDIS.1993.393467
+srds/srds93,1993,Security,A Secure Two Phase Locking Protocol.,Rasikan David;Sang Hyuk Son;,https://doi.org/10.1109/RELDIS.1993.393466
+srds/srds93,1993,Security,Some Remarks on Protecting Weak Keys and Poorly-Chosen Secrets from Guessing Attacks.,Gene Tsudik;Els Van Herreweghen;,https://doi.org/10.1109/RELDIS.1993.393465
+srds/srds93,1993,Security,Constructing Secure Distributed Systems Using Components.,Qi Shi;John A. McDermid;,https://doi.org/10.1109/RELDIS.1993.393464

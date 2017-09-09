@@ -1,0 +1,39 @@
+ccs/ccs2006usa,2006,None,System and network trustworthiness in perspective.,Peter G. Neumann;,http://doi.acm.org/10.1145/1180405.1180406
+ccs/ccs2006usa,2006,Anonymity,Providing witness anonymity in peer-to-peer systems.,Bo Zhu;Sanjeev Setia;Sushil Jajodia;,http://doi.acm.org/10.1145/1180405.1180408
+ccs/ccs2006usa,2006,Anonymity,Salsa: a structured approach to large-scale anonymity.,Arjun Nambiar;Matthew K. Wright;,http://doi.acm.org/10.1145/1180405.1180409
+ccs/ccs2006usa,2006,Anonymity,Hot or not: revealing hidden services by their clock skew.,Steven J. Murdoch;,http://doi.acm.org/10.1145/1180405.1180410
+ccs/ccs2006usa,2006,Intrusion detection,Packet vaccine: black-box exploit detection and signature generation.,XiaoFeng Wang;Zhuowei Li;Jun Xu;Michael K. Reiter;Chongkyung Kil;Jong Youl Choi;,http://doi.acm.org/10.1145/1180405.1180412
+ccs/ccs2006usa,2006,Intrusion detection,Protomatching network traffic for high throughputnetwork intrusion detection.,Shai Rubin;Somesh Jha;Barton P. Miller;,http://doi.acm.org/10.1145/1180405.1180413
+ccs/ccs2006usa,2006,Intrusion detection,Evading network anomaly detection systems: formal reasoning and practical techniques.,Prahlad Fogla;Wenke Lee;,http://doi.acm.org/10.1145/1180405.1180414
+ccs/ccs2006usa,2006,Data protection,Data collection with self-enforcing privacy.,Philippe Golle;Frank McSherry;Ilya Mironov;,http://doi.acm.org/10.1145/1180405.1180416
+ccs/ccs2006usa,2006,Data protection,Searchable symmetric encryption: improved definitions and efficient constructions.,Reza Curtmola;Juan A. Garay;Seny Kamara;Rafail Ostrovsky;,http://doi.acm.org/10.1145/1180405.1180417
+ccs/ccs2006usa,2006,Data protection,Attribute-based encryption for fine-grained access control of encrypted data.,Vipul Goyal;Omkant Pandey;Amit Sahai;Brent Waters;,http://doi.acm.org/10.1145/1180405.1180418
+ccs/ccs2006usa,2006,Data protection,Secure attribute-based systems.,Matthew Pirretti;Patrick Traynor;Patrick D. McDaniel;Brent Waters;,http://doi.acm.org/10.1145/1180405.1180419
+ccs/ccs2006usa,2006,Access control,Resiliency policies in access control.,Ninghui Li;Mahesh V. Tripunitara;Qihua Wang;,http://doi.acm.org/10.1145/1180405.1180421
+ccs/ccs2006usa,2006,Access control,Safety and consistency in policy-based authorization systems.,Adam J. Lee;Marianne Winslett;,http://doi.acm.org/10.1145/1180405.1180422
+ccs/ccs2006usa,2006,Access control,On the modeling and analysis of obligations.,Keith Irwin;Ting Yu;William H. Winsborough;,http://doi.acm.org/10.1145/1180405.1180423
+ccs/ccs2006usa,2006,Access control,RoleMiner: mining roles using subset enumeration.,Jaideep Vaidya;Vijayalakshmi Atluri;Janice Warner;,http://doi.acm.org/10.1145/1180405.1180424
+ccs/ccs2006usa,2006,Privacy and authentication,Doppelganger: Better browser privacy without the bother.,Umesh Shankar;Chris Karlof;,http://doi.acm.org/10.1145/1180405.1180426
+ccs/ccs2006usa,2006,Privacy and authentication,Fourth-factor authentication: somebody you know.,John G. Brainard;Ari Juels;Ronald L. Rivest;Michael Szydlo;Moti Yung;,http://doi.acm.org/10.1145/1180405.1180427
+ccs/ccs2006usa,2006,Privacy and authentication,An effective defense against email spam laundering.,Mengjun Xie;Heng Yin;Haining Wang;,http://doi.acm.org/10.1145/1180405.1180428
+ccs/ccs2006usa,2006,Applied cryptography,Forward-secure signatures with untrusted update.,Xavier Boyen;Hovav Shacham;Emily Shen;Brent Waters;,http://doi.acm.org/10.1145/1180405.1180430
+ccs/ccs2006usa,2006,Applied cryptography,How to win the clonewars: efficient periodic n-times anonymous authentication.,Jan Camenisch;Susan Hohenberger;Markulf Kohlweiss;Anna Lysyanskaya;Mira Meyerovich;,http://doi.acm.org/10.1145/1180405.1180431
+ccs/ccs2006usa,2006,Applied cryptography,"A fully collusion resistant broadcast, trace, and revoke system.",Dan Boneh;Brent Waters;,http://doi.acm.org/10.1145/1180405.1180432
+ccs/ccs2006usa,2006,Attacks and cryptanalysis,Puppetnets: misusing web browsers as a distributed attack infrastructure.,Vinh The Lam;Spyros Antonatos;Periklis Akritidis;Kostas G. Anagnostakis;,http://doi.acm.org/10.1145/1180405.1180434
+ccs/ccs2006usa,2006,Attacks and cryptanalysis,A natural language approach to automated cryptanalysis of two-time pads.,Joshua Mason;Kathryn Watkins;Jason Eisner;Adam Stubblefield;,http://doi.acm.org/10.1145/1180405.1180435
+ccs/ccs2006usa,2006,Attacks and cryptanalysis,Dictionary attacks using keyboard acoustic emanations.,Yigael Berger;Avishai Wool;Arie Yeredor;,http://doi.acm.org/10.1145/1180405.1180436
+ccs/ccs2006usa,2006,Attacks and cryptanalysis,Inferring the source of encrypted HTTP connections.,Marc Liberatore;Brian Neil Levine;,http://doi.acm.org/10.1145/1180405.1180437
+ccs/ccs2006usa,2006,Sensors and networking,TinySeRSync: secure and resilient time synchronization in wireless sensor networks.,Kun Sun;Peng Ning;Cliff Wang;,http://doi.acm.org/10.1145/1180405.1180439
+ccs/ccs2006usa,2006,Sensors and networking,Secure hierarchical in-network aggregation in sensor networks.,Haowen Chan;Adrian Perrig;Dawn Xiaodong Song;,http://doi.acm.org/10.1145/1180405.1180440
+ccs/ccs2006usa,2006,Sensors and networking,Provably-secure time-bound hierarchical key assignment schemes.,Giuseppe Ateniese;Alfredo De Santis;Anna Lisa Ferrara;Barbara Masucci;,http://doi.acm.org/10.1145/1180405.1180441
+ccs/ccs2006usa,2006,Sensors and networking,Optimizing BGP security by exploiting path stability.,Kevin R. B. Butler;Patrick D. McDaniel;William Aiello;,http://doi.acm.org/10.1145/1180405.1180442
+ccs/ccs2006usa,2006,Software and network exploits,Replayer: automatic protocol replay by binary analysis.,James Newsome;David Brumley;Jason Franklin;Dawn Xiaodong Song;,http://doi.acm.org/10.1145/1180405.1180444
+ccs/ccs2006usa,2006,Software and network exploits,EXE: automatically generating inputs of death.,Cristian Cadar;Vijay Ganesh;Peter M. Pawlowski;David L. Dill;Dawson R. Engler;,http://doi.acm.org/10.1145/1180405.1180445
+ccs/ccs2006usa,2006,Software and network exploits,A scalable approach to attack graph generation.,Xinming Ou;Wayne F. Boyer;Miles A. McQueen;,http://doi.acm.org/10.1145/1180405.1180446
+ccs/ccs2006usa,2006,Formal methods,Formal specification and verification of data separation in a separation kernel for an embedded system.,Constance L. Heitmeyer;Myla Archer;Elizabeth I. Leonard;John D. McLean;,http://doi.acm.org/10.1145/1180405.1180448
+ccs/ccs2006usa,2006,Formal methods,Beyond separation of duty: an algebra for specifying high-level security policies.,Ninghui Li;Qihua Wang;,http://doi.acm.org/10.1145/1180405.1180449
+ccs/ccs2006usa,2006,Formal methods,Computationally sound secrecy proofs by mechanized flow analysis.,Michael Backes;Peeter Laud;,http://doi.acm.org/10.1145/1180405.1180450
+ccs/ccs2006usa,2006,Applied cryptography,Stateful public-key cryptosystems: how to encrypt with one 160-bit exponentiation.,Mihir Bellare;Tadayoshi Kohno;Victor Shoup;,http://doi.acm.org/10.1145/1180405.1180452
+ccs/ccs2006usa,2006,Applied cryptography,Multi-signatures in the plain public-Key model and a general forking lemma.,Mihir Bellare;Gregory Neven;,http://doi.acm.org/10.1145/1180405.1180453
+ccs/ccs2006usa,2006,Applied cryptography,Deniable authentication and key exchange.,Mario Di Raimondo;Rosario Gennaro;Hugo Krawczyk;,http://doi.acm.org/10.1145/1180405.1180454
+ccs/ccs2006usa,2006,Applied cryptography,Secure function evaluation with ordered binary decision diagrams.,Louis Kruger;Somesh Jha;Eu-Jin Goh;Dan Boneh;,http://doi.acm.org/10.1145/1180405.1180455

@@ -1,0 +1,35 @@
+sp/sp2006,2006,Introduction,Message from the Program Chairs.,,https://doi.org/10.1109/SP.2006.25
+sp/sp2006,2006,Introduction,Program Committee.,,https://doi.org/10.1109/SP.2006.33
+sp/sp2006,2006,Introduction,External Reviewers.,,https://doi.org/10.1109/SP.2006.15
+sp/sp2006,2006,Session:Signature Generation,Towards Automatic Generation of Vulnerability-Based Signatures.,David Brumley;James Newsome;Dawn Xiaodong Song;Hao Wang;Somesh Jha;,https://doi.org/10.1109/SP.2006.41
+sp/sp2006,2006,Session:Signature Generation,MisleadingWorm Signature Generators Using Deliberate Noise Injection.,Roberto Perdisci;David Dagon;Wenke Lee;Prahlad Fogla;Monirul I. Sharif;,https://doi.org/10.1109/SP.2006.26
+sp/sp2006,2006,Session:Signature Generation,Hamsa: Fast Signature Generation for Zero-day PolymorphicWorms with Provable Attack Resilience.,Zhichun Li;Manan Sanghi;Yan Chen;Ming-Yang Kao;Brian Chavez;,https://doi.org/10.1109/SP.2006.18
+sp/sp2006,2006,Session:Detection,Dataflow Anomaly Detection.,Sandeep Bhatkar;Abhishek Chaturvedi;R. Sekar;,https://doi.org/10.1109/SP.2006.12
+sp/sp2006,2006,Session:Detection,A Framework for the Evaluation of Intrusion Detection Systems.,Alvaro A. Cárdenas;John S. Baras;Karl Seamon;,https://doi.org/10.1109/SP.2006.2
+sp/sp2006,2006,Session:Detection,Siren: Catching Evasive Malware (Short Paper).,Kevin Borders;Xin Zhao;Atul Prakash;,https://doi.org/10.1109/SP.2006.37
+sp/sp2006,2006,Session:Privacy,Fundamental Limits on the Anonymity Provided by the MIX Technique.,Dogan Kesdogan;Dakshi Agrawal;Dang Vinh Pham;Dieter Rautenbach;,https://doi.org/10.1109/SP.2006.17
+sp/sp2006,2006,Session:Privacy,Locating Hidden Servers.,Lasse Øverlier;Paul F. Syverson;,https://doi.org/10.1109/SP.2006.24
+sp/sp2006,2006,Session:Privacy,Practical Inference Control for Data Cubes (Extended Abstract).,Yingjiu Li;Haibing Lu;Robert H. Deng;,https://doi.org/10.1109/SP.2006.31
+sp/sp2006,2006,Session:Privacy,Deterring Voluntary Trace Disclosure in Re-encryption Mix Networks.,Philippe Golle;XiaoFeng Wang;Markus Jakobsson;Alex Tsow;,https://doi.org/10.1109/SP.2006.14
+sp/sp2006,2006,Session:Privacy,New Constructions and Practical Applications for Private Stream Searching (Extended Abstract).,John Bethencourt;Dawn Xiaodong Song;Brent Waters;,https://doi.org/10.1109/SP.2006.27
+sp/sp2006,2006,Session:Formal Methods,A Computationally Sound Mechanized Prover for Security Protocols.,Bruno Blanchet;,https://doi.org/10.1109/SP.2006.1
+sp/sp2006,2006,Session:Formal Methods,A Logic for Constraint-based Security Protocol Analysis.,Ricardo Corin;Sandro Etalle;Ari Saptawijaya;,https://doi.org/10.1109/SP.2006.3
+sp/sp2006,2006,Session:Formal Methods,Simulatable Security and Polynomially Bounded Concurrent Composability.,Dennis Hofheinz;Dominique Unruh;,https://doi.org/10.1109/SP.2006.36
+sp/sp2006,2006,Session:Analyzing and Enforcing Policy,Privacy and Contextual Integrity: Framework and Applications.,Adam Barth;Anupam Datta;John C. Mitchell;Helen Nissenbaum;,https://doi.org/10.1109/SP.2006.32
+sp/sp2006,2006,Session:Analyzing and Enforcing Policy,FIREMAN: A Toolkit for FIREwall Modeling and ANalysis.,Lihua Yuan;Jianning Mai;Zhendong Su;Hao Chen;Chen-Nee Chuah;Prasant Mohapatra;,https://doi.org/10.1109/SP.2006.16
+sp/sp2006,2006,Session:Analyzing and Enforcing Policy,Retrofitting Legacy Code for Authorization Policy Enforcement.,Vinod Ganapathy;Trent Jaeger;Somesh Jha;,https://doi.org/10.1109/SP.2006.34
+sp/sp2006,2006,Session:Analyzing Code,Deriving an Information Flow Checker and Certifying Compiler for Java.,Gilles Barthe;Tamara Rezk;David A. Naumann;,https://doi.org/10.1109/SP.2006.13
+sp/sp2006,2006,Session:Analyzing Code,Automatically Generating Malicious Disks using Symbolic Execution.,Junfeng Yang;Can Sar;Paul Twohey;Cristian Cadar;Dawson R. Engler;,https://doi.org/10.1109/SP.2006.7
+sp/sp2006,2006,Session:Analyzing Code,Pixy: A Static Analysis Tool for Detecting Web Application Vulnerabilities (Short Paper).,Nenad Jovanovic;Christopher Krügel;Engin Kirda;,https://doi.org/10.1109/SP.2006.29
+sp/sp2006,2006,Session:Analyzing Code,Cobra: Fine-grained Malware Analysis using Stealth Localized-executions.,Amit Vasudevan;Ramesh Yerraballi;,https://doi.org/10.1109/SP.2006.9
+sp/sp2006,2006,Session:Authentication,Integrity (I) Codes: Message Integrity Protection and Authentication Over Insecure Channels.,Mario Cagalj;Jean-Pierre Hubaux;Srdjan Capkun;Ram Kumar Rengaswamy;Ilias Tsigkogiannis;Mani B. Srivastava;,https://doi.org/10.1109/SP.2006.23
+sp/sp2006,2006,Session:Authentication,Cognitive Authentication Schemes Safe Against Spyware (Short Paper).,Daphna Weinshall;,https://doi.org/10.1109/SP.2006.10
+sp/sp2006,2006,Session:Authentication,Cache Cookies for Browser Authentication (Extended Abstract).,Ari Juels;Markus Jakobsson;Tom N. Jagatic;,https://doi.org/10.1109/SP.2006.8
+sp/sp2006,2006,Session:Authentication,Secure Device Pairing based on a Visual Channel (Short Paper).,Nitesh Saxena;Jan-Erik Ekberg;Kari Kostiainen;N. Asokan;,https://doi.org/10.1109/SP.2006.35
+sp/sp2006,2006,Session:Attacks,SubVirt: Implementing malware with virtual machines.,Samuel T. King;Peter M. Chen;Yi-Min Wang;Chad Verbowski;Helen J. Wang;Jacob R. Lorch;,https://doi.org/10.1109/SP.2006.38
+sp/sp2006,2006,Session:Attacks,Practical Attacks on Proximity Identification Systems (Short Paper).,Gerhard P. Hancke;,https://doi.org/10.1109/SP.2006.30
+sp/sp2006,2006,Session:Attacks,On the Secrecy of Timing-Based Active Watermarking Trace-Back Techniques.,Pai Peng;Peng Ning;Douglas S. Reeves;,https://doi.org/10.1109/SP.2006.28
+sp/sp2006,2006,Session:Systems,A Safety-Oriented Platform for Web Applications.,Richard S. Cox;Steven D. Gribble;Henry M. Levy;Jacob Gorm Hansen;,https://doi.org/10.1109/SP.2006.4
+sp/sp2006,2006,Session:Systems,"Tamper-Evident, History-Independent, Subliminal-Free Data Structures on PROM Storage-or-How to Store Ballots on a Voting Machine (Extended Abstract).",David Molnar;Tadayoshi Kohno;Naveen Sastry;David A. Wagner;,https://doi.org/10.1109/SP.2006.39
+sp/sp2006,2006,Session:Systems,Analysis of the Linux Random Number Generator.,Zvi Gutterman;Benny Pinkas;Tzachy Reinman;,https://doi.org/10.1109/SP.2006.5
+sp/sp2006,2006,Session:Systems,The Final Nail in WEP's Coffin.,Andrea Bittau;Mark Handley;Joshua Lackey;,https://doi.org/10.1109/SP.2006.40

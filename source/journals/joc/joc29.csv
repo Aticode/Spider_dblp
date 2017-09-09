@@ -1,0 +1,26 @@
+joc/joc29,January 2016,Number 1,Enhanced Public Key Security for the McEliece Cryptosystem.,Marco Baldi;Marco Bianchi;Franco Chiaraluce;Joachim Rosenthal;Davide Schipani;,https://doi.org/10.1007/s00145-014-9187-8
+joc/joc29,January 2016,Number 1,Fast Cryptography in Genus 2.,Joppe W. Bos;Craig Costello;Hüseyin Hisil;Kristin E. Lauter;,https://doi.org/10.1007/s00145-014-9188-7
+joc/joc29,January 2016,Number 1,How to Build an Ideal Cipher: The Indifferentiability of the Feistel Construction.,Jean-Sébastien Coron;Thomas Holenstein;Robin Künzler;Jacques Patarin;Yannick Seurin;Stefano Tessaro;,https://doi.org/10.1007/s00145-014-9189-6
+joc/joc29,January 2016,Number 1,Efficient Set Intersection with Simulation-Based Security.,Michael J. Freedman;Carmit Hazay;Kobbi Nissim;Benny Pinkas;,https://doi.org/10.1007/s00145-014-9190-0
+joc/joc29,January 2016,Number 1,Concurrent Knowledge Extraction in Public-Key Models.,Andrew Chi-Chih Yao;Moti Yung;Yunlei Zhao;,https://doi.org/10.1007/s00145-014-9191-z
+joc/joc29,January 2016,Number 1,Breaking RSA May Be As Difficult As Factoring.,Daniel R. L. Brown;,https://doi.org/10.1007/s00145-014-9192-y
+joc/joc29,April 2016,Number 2,Automata Evaluation and Text Search Protocols with Simulation-Based Security.,Rosario Gennaro;Carmit Hazay;Jeffrey S. Sorensen;,https://doi.org/10.1007/s00145-014-9193-x
+joc/joc29,April 2016,Number 2,Limits on the Usefulness of Random Oracles.,Iftach Haitner;Eran Omri;Hila Zarosim;,https://doi.org/10.1007/s00145-014-9194-9
+joc/joc29,April 2016,Number 2,Secret-Sharing Schemes for Very Dense Graphs.,Amos Beimel;Oriol Farràs;Yuval Mintz;,https://doi.org/10.1007/s00145-014-9195-8
+joc/joc29,April 2016,Number 2,Structure-Preserving Signatures and Commitments to Group Elements.,Masayuki Abe;Georg Fuchsbauer;Jens Groth;Kristiyan Haralambiev;Miyako Ohkubo;,https://doi.org/10.1007/s00145-014-9196-7
+joc/joc29,April 2016,Number 2,Signature Schemes Secure Against Hard-to-Invert Leakage.,Sebastian Faust;Carmit Hazay;Jesper Buus Nielsen;Peter Sebastian Nordholt;Angela Zottarel;,https://doi.org/10.1007/s00145-015-9197-1
+joc/joc29,April 2016,Number 2,Fast Cut-and-Choose-Based Protocols for Malicious and Covert Adversaries.,Yehuda Lindell;,https://doi.org/10.1007/s00145-015-9198-0
+joc/joc29,July 2016,Number 3,An Optimally Fair Coin Toss.,Tal Moran;Moni Naor;Gil Segev;,https://doi.org/10.1007/s00145-015-9199-z
+joc/joc29,July 2016,Number 3,Leakage-Resilient Cryptography from Minimal Assumptions.,Carmit Hazay;Adriana López-Alt;Hoeteck Wee;Daniel Wichs;,https://doi.org/10.1007/s00145-015-9200-x
+joc/joc29,July 2016,Number 3,"Garbling XOR Gates ""For Free"" in the Standard Model.",Benny Applebaum;,https://doi.org/10.1007/s00145-015-9201-9
+joc/joc29,July 2016,Number 3,A Dichotomy for Local Small-Bias Generators.,Benny Applebaum;Andrej Bogdanov;Alon Rosen;,https://doi.org/10.1007/s00145-015-9202-8
+joc/joc29,July 2016,Number 3,Tightly Secure Signatures From Lossy Identification Schemes.,Michel Abdalla;Pierre-Alain Fouque;Vadim Lyubashevsky;Mehdi Tibouchi;,https://doi.org/10.1007/s00145-015-9203-7
+joc/joc29,July 2016,Number 3,Practical Cryptanalysis of ISO 9796-2 and EMV Signatures.,Jean-Sébastien Coron;David Naccache;Mehdi Tibouchi;Ralf-Philipp Weinmann;,https://doi.org/10.1007/s00145-015-9205-5
+joc/joc29,October 2016,Number 4,New Second-Preimage Attacks on Hash Functions.,Elena Andreeva;Charles Bouillaguet;Orr Dunkelman;Pierre-Alain Fouque;Jonathan J. Hoch;John Kelsey;Adi Shamir;Sébastien Zimmer;,https://doi.org/10.1007/s00145-015-9206-4
+joc/joc29,October 2016,Number 4,Key Recovery Attacks on Iterated Even-Mansour Encryption Schemes.,Itai Dinur;Orr Dunkelman;Nathan Keller;Adi Shamir;,https://doi.org/10.1007/s00145-015-9207-3
+joc/joc29,October 2016,Number 4,Unconditionally Anonymous Ring and Mesh Signatures.,Xavier Boyen;,https://doi.org/10.1007/s00145-015-9208-2
+joc/joc29,October 2016,Number 4,Bug Attacks.,Eli Biham;Yaniv Carmeli;Adi Shamir;,https://doi.org/10.1007/s00145-015-9209-1
+joc/joc29,October 2016,Number 4,The ℚ-curve Construction for Endomorphism-Accelerated Elliptic Curves.,Benjamin Smith;,https://doi.org/10.1007/s00145-015-9210-8
+joc/joc29,October 2016,Number 4,Constant-Size Structure-Preserving Signatures: Generic Constructions and Simple Assumptions.,Masayuki Abe;Melissa Chase;Bernardo David;Markulf Kohlweiss;Ryo Nishimaki;Miyako Ohkubo;,https://doi.org/10.1007/s00145-015-9211-7
+joc/joc29,October 2016,Number 4,Toward a Game Theoretic View of Secure Computation.,Gilad Asharov;Ran Canetti;Carmit Hazay;,https://doi.org/10.1007/s00145-015-9212-6
+joc/joc29,October 2016,Number 4,Cryptanalysis of Full RIPEMD-128.,Franck Landelle;Thomas Peyrin;,https://doi.org/10.1007/s00145-015-9213-5

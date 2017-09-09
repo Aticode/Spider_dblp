@@ -1,0 +1,21 @@
+tcc/tcc2016a2,2016,Zero Knowledge and PCP,Making the Best of a Leaky Situation: Zero-Knowledge PCPs from Leakage-Resilient Circuits.,Yuval Ishai;Mor Weiss;Guang Yang;,https://doi.org/10.1007/978-3-662-49099-0_1
+tcc/tcc2016a2,2016,Zero Knowledge and PCP,Quasi-Linear Size Zero Knowledge from Linear-Algebraic PCPs.,Eli Ben-Sasson;Alessandro Chiesa;Ariel Gabizon;Madars Virza;,https://doi.org/10.1007/978-3-662-49099-0_2
+tcc/tcc2016a2,2016,Zero Knowledge and PCP,From Private Simultaneous Messages to Zero-Information Arthur-Merlin Protocols and Back.,Benny Applebaum;Pavel Raykov;,https://doi.org/10.1007/978-3-662-49099-0_3
+tcc/tcc2016a2,2016,Zero Knowledge and PCP,A Transform for NIZK Almost as Efficient and General as the Fiat-Shamir Transform Without Programmable Random Oracles.,Michele Ciampi;Giuseppe Persiano;Luisa Siniscalchi;Ivan Visconti;,https://doi.org/10.1007/978-3-662-49099-0_4
+tcc/tcc2016a2,2016,Zero Knowledge and PCP,Improved OR-Composition of Sigma-Protocols.,Michele Ciampi;Giuseppe Persiano;Alessandra Scafuro;Luisa Siniscalchi;Ivan Visconti;,https://doi.org/10.1007/978-3-662-49099-0_5
+tcc/tcc2016a2,2016,Oblivious RAM,Onion ORAM: A Constant Bandwidth Blowup Oblivious RAM.,Srinivas Devadas;Marten van Dijk;Christopher W. Fletcher;Ling Ren;Elaine Shi;Daniel Wichs;,https://doi.org/10.1007/978-3-662-49099-0_6
+tcc/tcc2016a2,2016,Oblivious RAM,Oblivious Parallel RAM and Applications.,Elette Boyle;Kai-Min Chung;Rafael Pass;,https://doi.org/10.1007/978-3-662-49099-0_7
+tcc/tcc2016a2,2016,Oblivious RAM,Oblivious Parallel RAM: Improved Efficiency and Generic Constructions.,Binyi Chen;Huijia Lin;Stefano Tessaro;,https://doi.org/10.1007/978-3-662-49099-0_8
+tcc/tcc2016a2,2016,ABE and IBE,Déjà Q: Encore! Un Petit IBE.,Hoeteck Wee;,https://doi.org/10.1007/978-3-662-49099-0_9
+tcc/tcc2016a2,2016,ABE and IBE,A Study of Pair Encodings: Predicate Encryption in Prime Order Groups.,Shashank Agrawal;Melissa Chase;,https://doi.org/10.1007/978-3-662-49099-0_10
+tcc/tcc2016a2,2016,Codes and Interactive Proofs,Optimal Amplification of Noisy Leakages.,Stefan Dziembowski;Sebastian Faust;Maciej Skórski;,https://doi.org/10.1007/978-3-662-49099-0_11
+tcc/tcc2016a2,2016,Codes and Interactive Proofs,Rational Sumchecks.,Siyao Guo;Pavel Hubácek;Alon Rosen;Margarita Vald;,https://doi.org/10.1007/978-3-662-49099-0_12
+tcc/tcc2016a2,2016,Codes and Interactive Proofs,Interactive Coding for Interactive Proofs.,Allison Bishop;Yevgeniy Dodis;,https://doi.org/10.1007/978-3-662-49099-0_13
+tcc/tcc2016a2,2016,Codes and Interactive Proofs,Information-Theoretic Local Non-malleable Codes and Their Applications.,Nishanth Chandran;Bhavana Kanukurthi;Srinivasan Raghuraman;,https://doi.org/10.1007/978-3-662-49099-0_14
+tcc/tcc2016a2,2016,Codes and Interactive Proofs,Optimal Computational Split-state Non-malleable Codes.,Divesh Aggarwal;Shashank Agrawal;Divya Gupta;Hemanta K. Maji;Omkant Pandey;Manoj Prabhakaran;,https://doi.org/10.1007/978-3-662-49099-0_15
+tcc/tcc2016a2,2016,Limitations of Obfuscation and Obfuscation-Avoiding Constructions,How to Avoid Obfuscation Using Witness PRFs.,Mark Zhandry;,https://doi.org/10.1007/978-3-662-49099-0_16
+tcc/tcc2016a2,2016,Limitations of Obfuscation and Obfuscation-Avoiding Constructions,Cutting-Edge Cryptography Through the Lens of Secret Sharing.,Ilan Komargodski;Mark Zhandry;,https://doi.org/10.1007/978-3-662-49099-0_17
+tcc/tcc2016a2,2016,Limitations of Obfuscation and Obfuscation-Avoiding Constructions,Functional Encryption Without Obfuscation.,Sanjam Garg;Craig Gentry;Shai Halevi;Mark Zhandry;,https://doi.org/10.1007/978-3-662-49099-0_18
+tcc/tcc2016a2,2016,Limitations of Obfuscation and Obfuscation-Avoiding Constructions,On Constructing One-Way Permutations from Indistinguishability Obfuscation.,Gilad Asharov;Gil Segev;,https://doi.org/10.1007/978-3-662-49099-0_19
+tcc/tcc2016a2,2016,Limitations of Obfuscation and Obfuscation-Avoiding Constructions,"Contention in Cryptoland: Obfuscation, Leakage and UCE.",Mihir Bellare;Igors Stepanovs;Stefano Tessaro;,https://doi.org/10.1007/978-3-662-49099-0_20
+tcc/tcc2016a2,2016,Limitations of Obfuscation and Obfuscation-Avoiding Constructions,Point-Function Obfuscation: A Framework and Generic Constructions.,Mihir Bellare;Igors Stepanovs;,https://doi.org/10.1007/978-3-662-49099-0_21
